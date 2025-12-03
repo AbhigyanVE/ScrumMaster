@@ -1,1 +1,44 @@
-# Empty for now
+# ---- Environment ----
+.env
+.env.*
+ 
+# ---- Python ----
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.egg-info/
+*.egg
+build/
+dist/
+ 
+# ---- Virtual environments ----
+venv/
+.env/
+.venv/
+ 
+# ---- FAISS indexes ----
+*.faiss
+*.index
+ 
+# ---- Serialized / binary data ----
+*.pkl
+*.pickle
+*.zip
+*.tar
+*.tar.gz
+*.bz2
+ 
+# ---- Jupyter ----
+.ipynb_checkpoints/
+ 
+# ---- OS files ----
+.DS_Store
+Thumbs.db
+ 
+# ---- Logs ----
+*.log
+ 
+# ---- Cache ----
+.cache/
