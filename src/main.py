@@ -1,19 +1,19 @@
-from jira_client.jira_client import JiraClient
+from taiga_client.taiga_client import TaigaClient
 
 def main():
-    client = JiraClient(base_url="mock", token="mock")
-    
-    boards = client.get_boards()
-    print("Boards:", boards)
+    client = TaigaClient(username="demo", password="demo")  # or token
+    projects = client.get_projects()
+    print("Projects:", projects)
 
-    sprint = client.get_active_sprint(board_id=boards[0]["id"])
-    print("Active Sprint:", sprint)
+    # pick one project (for demo)
+    project = projects[0]
+    sprint = client.get_active_sprint(project_slug_or_id=project.slug or project.id)
+    print("Active Sprint / milestone:", sprint)
 
-    issues = client.get_issues(sprint_id=sprint["id"])
-    print("\nIssues:")
+    issues = client.get_issues(project_slug_or_id=project.slug or project.id, sprint_id=sprint.id if sprint else None)
+    print("Issues / User-Stories:")
     for issue in issues:
         print(issue)
-
 
 if __name__ == "__main__":
     main()
