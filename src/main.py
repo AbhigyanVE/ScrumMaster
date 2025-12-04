@@ -1,17 +1,17 @@
-from taiga_client.taiga_client import TaigaClient
+from clients.taiga_client import TaigaClient
 
 def main():
-    client = TaigaClient(username="demo", password="demo")  # or token
+    client = TaigaClient(use_mock=True)
+
     projects = client.get_projects()
     print("Projects:", projects)
 
-    # pick one project (for demo)
     project = projects[0]
-    sprint = client.get_active_sprint(project_slug_or_id=project.slug or project.id)
-    print("Active Sprint / milestone:", sprint)
+    sprint = client.get_active_sprint(project_slug=project["slug"])
+    print("Active Sprint:", sprint)
 
-    issues = client.get_issues(project_slug_or_id=project.slug or project.id, sprint_id=sprint.id if sprint else None)
-    print("Issues / User-Stories:")
+    issues = client.get_issues(project_slug=project["slug"], sprint_id=sprint["id"])
+    print("\nIssues:")
     for issue in issues:
         print(issue)
 
