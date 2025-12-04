@@ -42,3 +42,7 @@ Thumbs.db
  
 # ---- Cache ----
 .cache/
+
+# ---- GPT Files ----
+ChatGPT_files/
+github.html
