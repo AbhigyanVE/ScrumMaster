@@ -48,5 +48,5 @@ ChatGPT_files/
 github.html
 
 # ---- DB Files ----
-*.db
+# *.db
 *.sqlite3
