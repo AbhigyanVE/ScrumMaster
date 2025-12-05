@@ -1,0 +1,2256 @@
+{
+  "name": "Social Media",
+  "id": "10012",
+  "self_url": "https://idealabprojects.atlassian.net/rest/api/3/project/10012",
+  "issue_count": 0,
+  "issues": [
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "14494",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14494",
+      "key": "SMC-129",
+      "fields": {
+        "summary": "Teck valley Instagram page",
+        "created": "2025-12-04T19:44:13.543+0530",
+        "timespent": 7200,
+        "assignee": null,
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "updated": "2025-12-04T19:47:15.668+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10048",
+          "description": "This work item is being actively worked on at the moment by the assignee.",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "In Progress",
+          "id": "10048",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/4",
+            "id": 4,
+            "key": "indeterminate",
+            "colorName": "yellow",
+            "name": "In Progress"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "13387",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/13387",
+      "key": "SMC-128",
+      "fields": {
+        "summary": "Noida Diwali Mela Main Video",
+        "created": "2025-10-28T12:43:26.642+0530",
+        "timespent": 43200,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ac44ad097-e9a1-497e-b0ea-7b115363695d",
+          "accountId": "712020:c44ad097-e9a1-497e-b0ea-7b115363695d",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+            "24x24": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+            "16x16": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+            "32x32": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png"
+          },
+          "displayName": "Harvesh Anand",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "updated": "2025-10-28T12:52:17.110+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10049",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "Done",
+          "id": "10049",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "13386",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/13386",
+      "key": "SMC-127",
+      "fields": {
+        "summary": "Noida Diwali mela reel",
+        "created": "2025-10-28T12:43:17.180+0530",
+        "timespent": 10800,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ac44ad097-e9a1-497e-b0ea-7b115363695d",
+          "accountId": "712020:c44ad097-e9a1-497e-b0ea-7b115363695d",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+            "24x24": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+            "16x16": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+            "32x32": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png"
+          },
+          "displayName": "Harvesh Anand",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "updated": "2025-10-28T12:53:06.179+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10049",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "Done",
+          "id": "10049",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "13385",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/13385",
+      "key": "SMC-126",
+      "fields": {
+        "summary": "Kolkata Diwali Reel 1",
+        "created": "2025-10-28T12:43:08.969+0530",
+        "timespent": 10800,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ac44ad097-e9a1-497e-b0ea-7b115363695d",
+          "accountId": "712020:c44ad097-e9a1-497e-b0ea-7b115363695d",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+            "24x24": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+            "16x16": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+            "32x32": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png"
+          },
+          "displayName": "Harvesh Anand",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "updated": "2025-10-28T12:54:11.276+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10049",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "Done",
+          "id": "10049",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "13384",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/13384",
+      "key": "SMC-125",
+      "fields": {
+        "summary": "Kolkata Diwali Video  2",
+        "created": "2025-10-28T12:43:01.474+0530",
+        "timespent": 18000,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ac44ad097-e9a1-497e-b0ea-7b115363695d",
+          "accountId": "712020:c44ad097-e9a1-497e-b0ea-7b115363695d",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+            "24x24": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+            "16x16": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+            "32x32": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png"
+          },
+          "displayName": "Harvesh Anand",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "updated": "2025-10-29T13:20:09.274+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10049",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "Done",
+          "id": "10049",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "12686",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/12686",
+      "key": "SMC-124",
+      "fields": {
+        "summary": "VA Podcast Reel",
+        "created": "2025-09-23T18:23:32.024+0530",
+        "timespent": 21600,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ac44ad097-e9a1-497e-b0ea-7b115363695d",
+          "accountId": "712020:c44ad097-e9a1-497e-b0ea-7b115363695d",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+            "24x24": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+            "16x16": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+            "32x32": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png"
+          },
+          "displayName": "Harvesh Anand",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "updated": "2025-09-25T18:49:20.419+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10049",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "Done",
+          "id": "10049",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "12624",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/12624",
+      "key": "SMC-123",
+      "fields": {
+        "summary": "LinkedIn Paid Campaigns Analysis & Optimization (Continuous Task)",
+        "created": "2025-09-18T10:36:28.790+0530",
+        "timespent": null,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A90356e5f-e9a9-471c-8925-6308ea3063d0",
+          "accountId": "712020:90356e5f-e9a9-471c-8925-6308ea3063d0",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/dbb0db564a1c1ddd6979261572f79389?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSK-4.png",
+            "24x24": "https://secure.gravatar.com/avatar/dbb0db564a1c1ddd6979261572f79389?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSK-4.png",
+            "16x16": "https://secure.gravatar.com/avatar/dbb0db564a1c1ddd6979261572f79389?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSK-4.png",
+            "32x32": "https://secure.gravatar.com/avatar/dbb0db564a1c1ddd6979261572f79389?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSK-4.png"
+          },
+          "displayName": "Shoaib Kadri",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "updated": "2025-09-18T10:43:40.632+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10048",
+          "description": "This work item is being actively worked on at the moment by the assignee.",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "In Progress",
+          "id": "10048",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/4",
+            "id": 4,
+            "key": "indeterminate",
+            "colorName": "yellow",
+            "name": "In Progress"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "12621",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/12621",
+      "key": "SMC-122",
+      "fields": {
+        "summary": "Social Media Carousel - Future of Leadership",
+        "created": "2025-09-18T10:25:24.195+0530",
+        "timespent": null,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A90356e5f-e9a9-471c-8925-6308ea3063d0",
+          "accountId": "712020:90356e5f-e9a9-471c-8925-6308ea3063d0",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/dbb0db564a1c1ddd6979261572f79389?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSK-4.png",
+            "24x24": "https://secure.gravatar.com/avatar/dbb0db564a1c1ddd6979261572f79389?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSK-4.png",
+            "16x16": "https://secure.gravatar.com/avatar/dbb0db564a1c1ddd6979261572f79389?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSK-4.png",
+            "32x32": "https://secure.gravatar.com/avatar/dbb0db564a1c1ddd6979261572f79389?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSK-4.png"
+          },
+          "displayName": "Shoaib Kadri",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "updated": "2025-09-18T10:27:09.518+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10049",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "Done",
+          "id": "10049",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "12620",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/12620",
+      "key": "SMC-121",
+      "fields": {
+        "summary": "Publishing Dimbl’s Founder & CEO Video on LinkedIn & Facebook ",
+        "created": "2025-09-18T10:22:57.117+0530",
+        "timespent": null,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A90356e5f-e9a9-471c-8925-6308ea3063d0",
+          "accountId": "712020:90356e5f-e9a9-471c-8925-6308ea3063d0",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/dbb0db564a1c1ddd6979261572f79389?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSK-4.png",
+            "24x24": "https://secure.gravatar.com/avatar/dbb0db564a1c1ddd6979261572f79389?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSK-4.png",
+            "16x16": "https://secure.gravatar.com/avatar/dbb0db564a1c1ddd6979261572f79389?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSK-4.png",
+            "32x32": "https://secure.gravatar.com/avatar/dbb0db564a1c1ddd6979261572f79389?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSK-4.png"
+          },
+          "displayName": "Shoaib Kadri",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "updated": "2025-09-18T10:35:42.958+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10049",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "Done",
+          "id": "10049",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "12619",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/12619",
+      "key": "SMC-120",
+      "fields": {
+        "summary": "Creating a Complete guide on ChatGPT SEO 2025",
+        "created": "2025-09-18T10:18:35.882+0530",
+        "timespent": null,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A90356e5f-e9a9-471c-8925-6308ea3063d0",
+          "accountId": "712020:90356e5f-e9a9-471c-8925-6308ea3063d0",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/dbb0db564a1c1ddd6979261572f79389?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSK-4.png",
+            "24x24": "https://secure.gravatar.com/avatar/dbb0db564a1c1ddd6979261572f79389?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSK-4.png",
+            "16x16": "https://secure.gravatar.com/avatar/dbb0db564a1c1ddd6979261572f79389?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSK-4.png",
+            "32x32": "https://secure.gravatar.com/avatar/dbb0db564a1c1ddd6979261572f79389?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSK-4.png"
+          },
+          "displayName": "Shoaib Kadri",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "updated": "2025-09-18T10:21:42.064+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10049",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "Done",
+          "id": "10049",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "12488",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/12488",
+      "key": "SMC-119",
+      "fields": {
+        "summary": "Publish LinkedIn Newsletter article ",
+        "created": "2025-09-11T10:56:50.151+0530",
+        "timespent": null,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A90356e5f-e9a9-471c-8925-6308ea3063d0",
+          "accountId": "712020:90356e5f-e9a9-471c-8925-6308ea3063d0",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/dbb0db564a1c1ddd6979261572f79389?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSK-4.png",
+            "24x24": "https://secure.gravatar.com/avatar/dbb0db564a1c1ddd6979261572f79389?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSK-4.png",
+            "16x16": "https://secure.gravatar.com/avatar/dbb0db564a1c1ddd6979261572f79389?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSK-4.png",
+            "32x32": "https://secure.gravatar.com/avatar/dbb0db564a1c1ddd6979261572f79389?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSK-4.png"
+          },
+          "displayName": "Shoaib Kadri",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/2",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/high_new.svg",
+          "name": "High",
+          "id": "2"
+        },
+        "updated": "2025-09-11T10:58:01.594+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10049",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "Done",
+          "id": "10049",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "12487",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/12487",
+      "key": "SMC-118",
+      "fields": {
+        "summary": "LinkedIn Newsletter article ",
+        "created": "2025-09-11T10:53:24.314+0530",
+        "timespent": null,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A90356e5f-e9a9-471c-8925-6308ea3063d0",
+          "accountId": "712020:90356e5f-e9a9-471c-8925-6308ea3063d0",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/dbb0db564a1c1ddd6979261572f79389?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSK-4.png",
+            "24x24": "https://secure.gravatar.com/avatar/dbb0db564a1c1ddd6979261572f79389?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSK-4.png",
+            "16x16": "https://secure.gravatar.com/avatar/dbb0db564a1c1ddd6979261572f79389?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSK-4.png",
+            "32x32": "https://secure.gravatar.com/avatar/dbb0db564a1c1ddd6979261572f79389?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSK-4.png"
+          },
+          "displayName": "Shoaib Kadri",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/2",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/high_new.svg",
+          "name": "High",
+          "id": "2"
+        },
+        "updated": "2025-09-11T10:56:26.633+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10049",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "Done",
+          "id": "10049",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "12458",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/12458",
+      "key": "SMC-117",
+      "fields": {
+        "summary": "YouTube Video Content – 5 Videos",
+        "created": "2025-09-10T10:40:40.298+0530",
+        "timespent": null,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A90356e5f-e9a9-471c-8925-6308ea3063d0",
+          "accountId": "712020:90356e5f-e9a9-471c-8925-6308ea3063d0",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/dbb0db564a1c1ddd6979261572f79389?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSK-4.png",
+            "24x24": "https://secure.gravatar.com/avatar/dbb0db564a1c1ddd6979261572f79389?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSK-4.png",
+            "16x16": "https://secure.gravatar.com/avatar/dbb0db564a1c1ddd6979261572f79389?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSK-4.png",
+            "32x32": "https://secure.gravatar.com/avatar/dbb0db564a1c1ddd6979261572f79389?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSK-4.png"
+          },
+          "displayName": "Shoaib Kadri",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/2",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/high_new.svg",
+          "name": "High",
+          "id": "2"
+        },
+        "updated": "2025-09-18T10:17:46.983+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10049",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "Done",
+          "id": "10049",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "12398",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/12398",
+      "key": "SMC-116",
+      "fields": {
+        "summary": "Reel 2 - Podcast CAM",
+        "created": "2025-09-08T12:45:02.906+0530",
+        "timespent": 12600,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ac44ad097-e9a1-497e-b0ea-7b115363695d",
+          "accountId": "712020:c44ad097-e9a1-497e-b0ea-7b115363695d",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+            "24x24": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+            "16x16": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+            "32x32": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png"
+          },
+          "displayName": "Harvesh Anand",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/2",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/high_new.svg",
+          "name": "High",
+          "id": "2"
+        },
+        "updated": "2025-09-10T12:22:50.788+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10049",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "Done",
+          "id": "10049",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "12279",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/12279",
+      "key": "SMC-115",
+      "fields": {
+        "summary": "Posting on social media",
+        "created": "2025-09-03T19:02:48.162+0530",
+        "timespent": null,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A90356e5f-e9a9-471c-8925-6308ea3063d0",
+          "accountId": "712020:90356e5f-e9a9-471c-8925-6308ea3063d0",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/dbb0db564a1c1ddd6979261572f79389?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSK-4.png",
+            "24x24": "https://secure.gravatar.com/avatar/dbb0db564a1c1ddd6979261572f79389?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSK-4.png",
+            "16x16": "https://secure.gravatar.com/avatar/dbb0db564a1c1ddd6979261572f79389?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSK-4.png",
+            "32x32": "https://secure.gravatar.com/avatar/dbb0db564a1c1ddd6979261572f79389?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSK-4.png"
+          },
+          "displayName": "Shoaib Kadri",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/2",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/high_new.svg",
+          "name": "High",
+          "id": "2"
+        },
+        "updated": "2025-09-03T19:03:43.058+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10049",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "Done",
+          "id": "10049",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "12278",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/12278",
+      "key": "SMC-114",
+      "fields": {
+        "summary": "Sharing Meta bills with accounts team ",
+        "created": "2025-09-03T18:58:34.949+0530",
+        "timespent": null,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A90356e5f-e9a9-471c-8925-6308ea3063d0",
+          "accountId": "712020:90356e5f-e9a9-471c-8925-6308ea3063d0",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/dbb0db564a1c1ddd6979261572f79389?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSK-4.png",
+            "24x24": "https://secure.gravatar.com/avatar/dbb0db564a1c1ddd6979261572f79389?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSK-4.png",
+            "16x16": "https://secure.gravatar.com/avatar/dbb0db564a1c1ddd6979261572f79389?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSK-4.png",
+            "32x32": "https://secure.gravatar.com/avatar/dbb0db564a1c1ddd6979261572f79389?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSK-4.png"
+          },
+          "displayName": "Shoaib Kadri",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/2",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/high_new.svg",
+          "name": "High",
+          "id": "2"
+        },
+        "updated": "2025-09-03T19:00:47.952+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10049",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "Done",
+          "id": "10049",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "12274",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/12274",
+      "key": "SMC-113",
+      "fields": {
+        "summary": "Posting on social media ",
+        "created": "2025-09-03T18:56:44.344+0530",
+        "timespent": null,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A90356e5f-e9a9-471c-8925-6308ea3063d0",
+          "accountId": "712020:90356e5f-e9a9-471c-8925-6308ea3063d0",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/dbb0db564a1c1ddd6979261572f79389?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSK-4.png",
+            "24x24": "https://secure.gravatar.com/avatar/dbb0db564a1c1ddd6979261572f79389?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSK-4.png",
+            "16x16": "https://secure.gravatar.com/avatar/dbb0db564a1c1ddd6979261572f79389?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSK-4.png",
+            "32x32": "https://secure.gravatar.com/avatar/dbb0db564a1c1ddd6979261572f79389?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSK-4.png"
+          },
+          "displayName": "Shoaib Kadri",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "updated": "2025-09-03T19:01:10.808+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10049",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "Done",
+          "id": "10049",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "12049",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/12049",
+      "key": "SMC-112",
+      "fields": {
+        "summary": "Ai Ad video - 20 seconds",
+        "created": "2025-08-21T14:16:59.026+0530",
+        "timespent": 25200,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ac44ad097-e9a1-497e-b0ea-7b115363695d",
+          "accountId": "712020:c44ad097-e9a1-497e-b0ea-7b115363695d",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+            "24x24": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+            "16x16": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+            "32x32": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png"
+          },
+          "displayName": "Harvesh Anand",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/2",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/high_new.svg",
+          "name": "High",
+          "id": "2"
+        },
+        "updated": "2025-08-22T17:14:02.682+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10049",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "Done",
+          "id": "10049",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "12044",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/12044",
+      "key": "SMC-111",
+      "fields": {
+        "summary": "LinkedIn Engagement campaign",
+        "created": "2025-08-21T12:47:23.557+0530",
+        "timespent": 3600,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A90356e5f-e9a9-471c-8925-6308ea3063d0",
+          "accountId": "712020:90356e5f-e9a9-471c-8925-6308ea3063d0",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/dbb0db564a1c1ddd6979261572f79389?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSK-4.png",
+            "24x24": "https://secure.gravatar.com/avatar/dbb0db564a1c1ddd6979261572f79389?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSK-4.png",
+            "16x16": "https://secure.gravatar.com/avatar/dbb0db564a1c1ddd6979261572f79389?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSK-4.png",
+            "32x32": "https://secure.gravatar.com/avatar/dbb0db564a1c1ddd6979261572f79389?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSK-4.png"
+          },
+          "displayName": "Shoaib Kadri",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/2",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/high_new.svg",
+          "name": "High",
+          "id": "2"
+        },
+        "updated": "2025-08-21T12:49:37.626+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10049",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "Done",
+          "id": "10049",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "12043",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/12043",
+      "key": "SMC-110",
+      "fields": {
+        "summary": "Creating Content for 2 Social Media Posts",
+        "created": "2025-08-21T12:44:17.503+0530",
+        "timespent": 7200,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A90356e5f-e9a9-471c-8925-6308ea3063d0",
+          "accountId": "712020:90356e5f-e9a9-471c-8925-6308ea3063d0",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/dbb0db564a1c1ddd6979261572f79389?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSK-4.png",
+            "24x24": "https://secure.gravatar.com/avatar/dbb0db564a1c1ddd6979261572f79389?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSK-4.png",
+            "16x16": "https://secure.gravatar.com/avatar/dbb0db564a1c1ddd6979261572f79389?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSK-4.png",
+            "32x32": "https://secure.gravatar.com/avatar/dbb0db564a1c1ddd6979261572f79389?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSK-4.png"
+          },
+          "displayName": "Shoaib Kadri",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/2",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/high_new.svg",
+          "name": "High",
+          "id": "2"
+        },
+        "updated": "2025-08-21T12:46:19.340+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10049",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "Done",
+          "id": "10049",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "12042",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/12042",
+      "key": "SMC-109",
+      "fields": {
+        "summary": "Edit Social Media Reel on Best tools for business.",
+        "created": "2025-08-21T12:30:29.913+0530",
+        "timespent": 25200,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A90356e5f-e9a9-471c-8925-6308ea3063d0",
+          "accountId": "712020:90356e5f-e9a9-471c-8925-6308ea3063d0",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/dbb0db564a1c1ddd6979261572f79389?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSK-4.png",
+            "24x24": "https://secure.gravatar.com/avatar/dbb0db564a1c1ddd6979261572f79389?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSK-4.png",
+            "16x16": "https://secure.gravatar.com/avatar/dbb0db564a1c1ddd6979261572f79389?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSK-4.png",
+            "32x32": "https://secure.gravatar.com/avatar/dbb0db564a1c1ddd6979261572f79389?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSK-4.png"
+          },
+          "displayName": "Shoaib Kadri",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/2",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/high_new.svg",
+          "name": "High",
+          "id": "2"
+        },
+        "updated": "2025-09-03T18:54:05.212+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10049",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "Done",
+          "id": "10049",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "12041",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/12041",
+      "key": "SMC-108",
+      "fields": {
+        "summary": "CAM team podcast reel 1",
+        "created": "2025-08-21T12:28:20.499+0530",
+        "timespent": 9000,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ac44ad097-e9a1-497e-b0ea-7b115363695d",
+          "accountId": "712020:c44ad097-e9a1-497e-b0ea-7b115363695d",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+            "24x24": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+            "16x16": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+            "32x32": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png"
+          },
+          "displayName": "Harvesh Anand",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "updated": "2025-09-01T16:23:18.341+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10049",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "Done",
+          "id": "10049",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "12033",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/12033",
+      "key": "SMC-107",
+      "fields": {
+        "summary": "Uploading YouTube Podcast",
+        "created": "2025-08-20T17:06:06.275+0530",
+        "timespent": 9000,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A90356e5f-e9a9-471c-8925-6308ea3063d0",
+          "accountId": "712020:90356e5f-e9a9-471c-8925-6308ea3063d0",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/dbb0db564a1c1ddd6979261572f79389?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSK-4.png",
+            "24x24": "https://secure.gravatar.com/avatar/dbb0db564a1c1ddd6979261572f79389?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSK-4.png",
+            "16x16": "https://secure.gravatar.com/avatar/dbb0db564a1c1ddd6979261572f79389?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSK-4.png",
+            "32x32": "https://secure.gravatar.com/avatar/dbb0db564a1c1ddd6979261572f79389?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSK-4.png"
+          },
+          "displayName": "Shoaib Kadri",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/2",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/high_new.svg",
+          "name": "High",
+          "id": "2"
+        },
+        "updated": "2025-08-21T12:36:15.365+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10049",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "Done",
+          "id": "10049",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "12007",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/12007",
+      "key": "SMC-106",
+      "fields": {
+        "summary": "Social Media Video Publishing (Ongoing activities)",
+        "created": "2025-08-19T11:07:49.067+0530",
+        "timespent": 12600,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ab3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
+          "accountId": "712020:b3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+            "24x24": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+            "16x16": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+            "32x32": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png"
+          },
+          "displayName": "smariti",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/1",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/highest_new.svg",
+          "name": "Highest",
+          "id": "1"
+        },
+        "updated": "2025-08-22T17:55:29.095+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10048",
+          "description": "This work item is being actively worked on at the moment by the assignee.",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "In Progress",
+          "id": "10048",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/4",
+            "id": 4,
+            "key": "indeterminate",
+            "colorName": "yellow",
+            "name": "In Progress"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "11953",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11953",
+      "key": "SMC-105",
+      "fields": {
+        "summary": "Meeting with SM Team (regarding postings)",
+        "created": "2025-08-14T13:33:26.529+0530",
+        "timespent": 5400,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Afe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
+          "accountId": "712020:fe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+            "24x24": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+            "16x16": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+            "32x32": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png"
+          },
+          "displayName": "abha jha",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "updated": "2025-08-22T12:09:45.849+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10049",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "Done",
+          "id": "10049",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "11784",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11784",
+      "key": "SMC-104",
+      "fields": {
+        "summary": "Social Media Strategy call",
+        "created": "2025-08-06T18:51:42.986+0530",
+        "timespent": 6600,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ab3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
+          "accountId": "712020:b3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+            "24x24": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+            "16x16": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+            "32x32": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png"
+          },
+          "displayName": "smariti",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "updated": "2025-08-06T18:58:24.746+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10049",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "Done",
+          "id": "10049",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "11783",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11783",
+      "key": "SMC-103",
+      "fields": {
+        "summary": "Instagram video post live ",
+        "created": "2025-08-06T18:42:48.164+0530",
+        "timespent": 900,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ab3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
+          "accountId": "712020:b3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+            "24x24": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+            "16x16": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+            "32x32": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png"
+          },
+          "displayName": "smariti",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "updated": "2025-08-06T18:46:07.213+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10049",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "Done",
+          "id": "10049",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "11773",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11773",
+      "key": "SMC-102",
+      "fields": {
+        "summary": "Spending on Social Media Platforms",
+        "created": "2025-08-05T17:29:03.537+0530",
+        "timespent": null,
+        "assignee": null,
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "updated": "2025-08-21T13:04:29.640+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10048",
+          "description": "This work item is being actively worked on at the moment by the assignee.",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "In Progress",
+          "id": "10048",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/4",
+            "id": 4,
+            "key": "indeterminate",
+            "colorName": "yellow",
+            "name": "In Progress"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "11762",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11762",
+      "key": "SMC-101",
+      "fields": {
+        "summary": "Posting on social media ",
+        "created": "2025-08-04T23:01:35.907+0530",
+        "timespent": 5400,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A90356e5f-e9a9-471c-8925-6308ea3063d0",
+          "accountId": "712020:90356e5f-e9a9-471c-8925-6308ea3063d0",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/dbb0db564a1c1ddd6979261572f79389?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSK-4.png",
+            "24x24": "https://secure.gravatar.com/avatar/dbb0db564a1c1ddd6979261572f79389?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSK-4.png",
+            "16x16": "https://secure.gravatar.com/avatar/dbb0db564a1c1ddd6979261572f79389?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSK-4.png",
+            "32x32": "https://secure.gravatar.com/avatar/dbb0db564a1c1ddd6979261572f79389?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSK-4.png"
+          },
+          "displayName": "Shoaib Kadri",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "updated": "2025-08-04T23:03:47.748+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10049",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "Done",
+          "id": "10049",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "11757",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11757",
+      "key": "SMC-100",
+      "fields": {
+        "summary": "VA Podcast Reel",
+        "created": "2025-08-04T18:36:08.153+0530",
+        "timespent": 7200,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A90356e5f-e9a9-471c-8925-6308ea3063d0",
+          "accountId": "712020:90356e5f-e9a9-471c-8925-6308ea3063d0",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/dbb0db564a1c1ddd6979261572f79389?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSK-4.png",
+            "24x24": "https://secure.gravatar.com/avatar/dbb0db564a1c1ddd6979261572f79389?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSK-4.png",
+            "16x16": "https://secure.gravatar.com/avatar/dbb0db564a1c1ddd6979261572f79389?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSK-4.png",
+            "32x32": "https://secure.gravatar.com/avatar/dbb0db564a1c1ddd6979261572f79389?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSK-4.png"
+          },
+          "displayName": "Shoaib Kadri",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "updated": "2025-09-08T17:53:19.188+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10049",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "Done",
+          "id": "10049",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "11748",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11748",
+      "key": "SMC-99",
+      "fields": {
+        "summary": "Liknedin Weekly report ",
+        "created": "2025-08-04T12:38:56.312+0530",
+        "timespent": 7200,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A90356e5f-e9a9-471c-8925-6308ea3063d0",
+          "accountId": "712020:90356e5f-e9a9-471c-8925-6308ea3063d0",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/dbb0db564a1c1ddd6979261572f79389?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSK-4.png",
+            "24x24": "https://secure.gravatar.com/avatar/dbb0db564a1c1ddd6979261572f79389?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSK-4.png",
+            "16x16": "https://secure.gravatar.com/avatar/dbb0db564a1c1ddd6979261572f79389?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSK-4.png",
+            "32x32": "https://secure.gravatar.com/avatar/dbb0db564a1c1ddd6979261572f79389?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSK-4.png"
+          },
+          "displayName": "Shoaib Kadri",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "updated": "2025-08-04T23:00:09.135+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10049",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "Done",
+          "id": "10049",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "11702",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11702",
+      "key": "SMC-98",
+      "fields": {
+        "summary": "Meeting regarding social media expert",
+        "created": "2025-08-01T17:10:21.671+0530",
+        "timespent": 1800,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3d0d1e55-ab61-4668-a46a-fc40721ae07a",
+          "accountId": "712020:3d0d1e55-ab61-4668-a46a-fc40721ae07a",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/4067b0ff6b0ef001cbbbe2fa0b4c144e?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSB-3.png",
+            "24x24": "https://secure.gravatar.com/avatar/4067b0ff6b0ef001cbbbe2fa0b4c144e?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSB-3.png",
+            "16x16": "https://secure.gravatar.com/avatar/4067b0ff6b0ef001cbbbe2fa0b4c144e?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSB-3.png",
+            "32x32": "https://secure.gravatar.com/avatar/4067b0ff6b0ef001cbbbe2fa0b4c144e?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSB-3.png"
+          },
+          "displayName": "Sandip Bhattacharya",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "updated": "2025-08-01T17:11:09.963+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10049",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "Done",
+          "id": "10049",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "11689",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11689",
+      "key": "SMC-97",
+      "fields": {
+        "summary": "Google my business (ongoing project)",
+        "created": "2025-08-01T11:22:29.222+0530",
+        "timespent": 64800,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ab3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
+          "accountId": "712020:b3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+            "24x24": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+            "16x16": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+            "32x32": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png"
+          },
+          "displayName": "smariti",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/1",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/highest_new.svg",
+          "name": "Highest",
+          "id": "1"
+        },
+        "updated": "2025-09-08T18:36:52.921+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10048",
+          "description": "This work item is being actively worked on at the moment by the assignee.",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "In Progress",
+          "id": "10048",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/4",
+            "id": 4,
+            "key": "indeterminate",
+            "colorName": "yellow",
+            "name": "In Progress"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "11653",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11653",
+      "key": "SMC-96",
+      "fields": {
+        "summary": "LinkedIn One Month Performance Report ",
+        "created": "2025-07-31T12:54:15.349+0530",
+        "timespent": 5400,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A90356e5f-e9a9-471c-8925-6308ea3063d0",
+          "accountId": "712020:90356e5f-e9a9-471c-8925-6308ea3063d0",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/dbb0db564a1c1ddd6979261572f79389?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSK-4.png",
+            "24x24": "https://secure.gravatar.com/avatar/dbb0db564a1c1ddd6979261572f79389?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSK-4.png",
+            "16x16": "https://secure.gravatar.com/avatar/dbb0db564a1c1ddd6979261572f79389?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSK-4.png",
+            "32x32": "https://secure.gravatar.com/avatar/dbb0db564a1c1ddd6979261572f79389?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSK-4.png"
+          },
+          "displayName": "Shoaib Kadri",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "updated": "2025-08-04T12:37:54.966+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10049",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "Done",
+          "id": "10049",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "11648",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11648",
+      "key": "SMC-95",
+      "fields": {
+        "summary": "YouTube thumbnail Design of the GO live video ",
+        "created": "2025-07-31T11:45:55.739+0530",
+        "timespent": 5400,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A90356e5f-e9a9-471c-8925-6308ea3063d0",
+          "accountId": "712020:90356e5f-e9a9-471c-8925-6308ea3063d0",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/dbb0db564a1c1ddd6979261572f79389?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSK-4.png",
+            "24x24": "https://secure.gravatar.com/avatar/dbb0db564a1c1ddd6979261572f79389?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSK-4.png",
+            "16x16": "https://secure.gravatar.com/avatar/dbb0db564a1c1ddd6979261572f79389?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSK-4.png",
+            "32x32": "https://secure.gravatar.com/avatar/dbb0db564a1c1ddd6979261572f79389?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSK-4.png"
+          },
+          "displayName": "Shoaib Kadri",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "updated": "2025-07-31T11:49:07.512+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10049",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "Done",
+          "id": "10049",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "11645",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11645",
+      "key": "SMC-94",
+      "fields": {
+        "summary": "Social Media Cover Design",
+        "created": "2025-07-31T11:41:16.564+0530",
+        "timespent": 14400,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A90356e5f-e9a9-471c-8925-6308ea3063d0",
+          "accountId": "712020:90356e5f-e9a9-471c-8925-6308ea3063d0",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/dbb0db564a1c1ddd6979261572f79389?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSK-4.png",
+            "24x24": "https://secure.gravatar.com/avatar/dbb0db564a1c1ddd6979261572f79389?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSK-4.png",
+            "16x16": "https://secure.gravatar.com/avatar/dbb0db564a1c1ddd6979261572f79389?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSK-4.png",
+            "32x32": "https://secure.gravatar.com/avatar/dbb0db564a1c1ddd6979261572f79389?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSK-4.png"
+          },
+          "displayName": "Shoaib Kadri",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "updated": "2025-08-21T13:00:19.365+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10633",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "On Hold",
+          "id": "10633",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
+            "id": 2,
+            "key": "new",
+            "colorName": "blue-gray",
+            "name": "To Do"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "11644",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11644",
+      "key": "SMC-93",
+      "fields": {
+        "summary": "Posting on social media ",
+        "created": "2025-07-31T11:33:00.475+0530",
+        "timespent": 4800,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A90356e5f-e9a9-471c-8925-6308ea3063d0",
+          "accountId": "712020:90356e5f-e9a9-471c-8925-6308ea3063d0",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/dbb0db564a1c1ddd6979261572f79389?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSK-4.png",
+            "24x24": "https://secure.gravatar.com/avatar/dbb0db564a1c1ddd6979261572f79389?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSK-4.png",
+            "16x16": "https://secure.gravatar.com/avatar/dbb0db564a1c1ddd6979261572f79389?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSK-4.png",
+            "32x32": "https://secure.gravatar.com/avatar/dbb0db564a1c1ddd6979261572f79389?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSK-4.png"
+          },
+          "displayName": "Shoaib Kadri",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "updated": "2025-07-31T11:40:27.196+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10049",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "Done",
+          "id": "10049",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "11636",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11636",
+      "key": "SMC-92",
+      "fields": {
+        "summary": "Instagram Post Design – People at VE + virtualemployee_india",
+        "created": "2025-07-30T18:54:04.381+0530",
+        "timespent": 103740,
+        "assignee": null,
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/1",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/highest_new.svg",
+          "name": "Highest",
+          "id": "1"
+        },
+        "updated": "2025-09-08T18:48:16.051+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10048",
+          "description": "This work item is being actively worked on at the moment by the assignee.",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "In Progress",
+          "id": "10048",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/4",
+            "id": 4,
+            "key": "indeterminate",
+            "colorName": "yellow",
+            "name": "In Progress"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "11633",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11633",
+      "key": "SMC-91",
+      "fields": {
+        "summary": "Instagram Reel Ad – “Worried AI Will Take Your Job?",
+        "created": "2025-07-30T18:38:38.819+0530",
+        "timespent": 900,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ab3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
+          "accountId": "712020:b3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+            "24x24": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+            "16x16": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+            "32x32": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png"
+          },
+          "displayName": "smariti",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "updated": "2025-07-30T18:40:34.154+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10049",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "Done",
+          "id": "10049",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "11629",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11629",
+      "key": "SMC-90",
+      "fields": {
+        "summary": "Carousal Post: “UK Hiring Reforms 2025”",
+        "created": "2025-07-30T17:21:41.019+0530",
+        "timespent": 5400,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ab3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
+          "accountId": "712020:b3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+            "24x24": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+            "16x16": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+            "32x32": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png"
+          },
+          "displayName": "smariti",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "updated": "2025-07-30T17:25:21.513+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10049",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "Done",
+          "id": "10049",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "11628",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11628",
+      "key": "SMC-89",
+      "fields": {
+        "summary": "Post: “Instagram is Now Google-Searchable”",
+        "created": "2025-07-30T17:18:27.854+0530",
+        "timespent": 3000,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ab3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
+          "accountId": "712020:b3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+            "24x24": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+            "16x16": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+            "32x32": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png"
+          },
+          "displayName": "smariti",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "updated": "2025-07-30T17:21:05.772+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10049",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "Done",
+          "id": "10049",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "11627",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11627",
+      "key": "SMC-88",
+      "fields": {
+        "summary": "Post: “Using AI is No Longer Optional” – Microsoft",
+        "created": "2025-07-30T17:15:54.833+0530",
+        "timespent": 3000,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ab3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
+          "accountId": "712020:b3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+            "24x24": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+            "16x16": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+            "32x32": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png"
+          },
+          "displayName": "smariti",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "updated": "2025-07-30T17:18:01.070+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10049",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "Done",
+          "id": "10049",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "11626",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11626",
+      "key": "SMC-87",
+      "fields": {
+        "summary": "Created Instagram Content Post – LLM Era: Real Answers Over SEO",
+        "created": "2025-07-30T17:01:18.873+0530",
+        "timespent": 3300,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ab3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
+          "accountId": "712020:b3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+            "24x24": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+            "16x16": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+            "32x32": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png"
+          },
+          "displayName": "smariti",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "updated": "2025-07-30T17:10:58.337+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10049",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "Done",
+          "id": "10049",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "11625",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11625",
+      "key": "SMC-86",
+      "fields": {
+        "summary": "Google’s AI Mode post creates using CANVA",
+        "created": "2025-07-30T16:54:08.963+0530",
+        "timespent": 2700,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ab3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
+          "accountId": "712020:b3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+            "24x24": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+            "16x16": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+            "32x32": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png"
+          },
+          "displayName": "smariti",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "updated": "2025-07-30T17:13:50.634+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10049",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "Done",
+          "id": "10049",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "11624",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11624",
+      "key": "SMC-85",
+      "fields": {
+        "summary": "Instagram Reel Ad – Client Loyalty Story (Hurricane)",
+        "created": "2025-07-30T16:36:25.800+0530",
+        "timespent": 900,
+        "assignee": null,
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "updated": "2025-07-30T16:37:39.685+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10049",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "Done",
+          "id": "10049",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "11622",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11622",
+      "key": "SMC-84",
+      "fields": {
+        "summary": "Instagram Reel Ad – Everyone’s a Creator Now ",
+        "created": "2025-07-30T16:26:24.111+0530",
+        "timespent": 900,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ab3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
+          "accountId": "712020:b3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+            "24x24": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+            "16x16": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+            "32x32": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png"
+          },
+          "displayName": "smariti",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/1",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/highest_new.svg",
+          "name": "Highest",
+          "id": "1"
+        },
+        "updated": "2025-07-30T16:27:31.812+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10049",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "Done",
+          "id": "10049",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "11616",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11616",
+      "key": "SMC-83",
+      "fields": {
+        "summary": "CAM Podcast - Raman Awasthy & Uddita Bhattacharya",
+        "created": "2025-07-30T12:53:12.040+0530",
+        "timespent": 46800,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ac44ad097-e9a1-497e-b0ea-7b115363695d",
+          "accountId": "712020:c44ad097-e9a1-497e-b0ea-7b115363695d",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+            "24x24": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+            "16x16": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+            "32x32": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png"
+          },
+          "displayName": "Harvesh Anand",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/2",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/high_new.svg",
+          "name": "High",
+          "id": "2"
+        },
+        "updated": "2025-08-13T18:22:35.494+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10049",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "Done",
+          "id": "10049",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "11612",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11612",
+      "key": "SMC-82",
+      "fields": {
+        "summary": "Glassdoor Profile Management (Ongoing project)",
+        "created": "2025-07-29T17:14:11.516+0530",
+        "timespent": 73800,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ab3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
+          "accountId": "712020:b3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+            "24x24": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+            "16x16": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+            "32x32": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png"
+          },
+          "displayName": "smariti",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/1",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/highest_new.svg",
+          "name": "Highest",
+          "id": "1"
+        },
+        "updated": "2025-09-08T18:36:18.240+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10048",
+          "description": "This work item is being actively worked on at the moment by the assignee.",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "In Progress",
+          "id": "10048",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/4",
+            "id": 4,
+            "key": "indeterminate",
+            "colorName": "yellow",
+            "name": "In Progress"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "11607",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11607",
+      "key": "SMC-81",
+      "fields": {
+        "summary": "Linkedin Post Engagement Campaign (Continuous Task)",
+        "created": "2025-07-29T13:29:19.495+0530",
+        "timespent": 10800,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A90356e5f-e9a9-471c-8925-6308ea3063d0",
+          "accountId": "712020:90356e5f-e9a9-471c-8925-6308ea3063d0",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/dbb0db564a1c1ddd6979261572f79389?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSK-4.png",
+            "24x24": "https://secure.gravatar.com/avatar/dbb0db564a1c1ddd6979261572f79389?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSK-4.png",
+            "16x16": "https://secure.gravatar.com/avatar/dbb0db564a1c1ddd6979261572f79389?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSK-4.png",
+            "32x32": "https://secure.gravatar.com/avatar/dbb0db564a1c1ddd6979261572f79389?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSK-4.png"
+          },
+          "displayName": "Shoaib Kadri",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/2",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/high_new.svg",
+          "name": "High",
+          "id": "2"
+        },
+        "updated": "2025-09-18T10:44:16.705+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10048",
+          "description": "This work item is being actively worked on at the moment by the assignee.",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "In Progress",
+          "id": "10048",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/4",
+            "id": 4,
+            "key": "indeterminate",
+            "colorName": "yellow",
+            "name": "In Progress"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "11606",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11606",
+      "key": "SMC-80",
+      "fields": {
+        "summary": "Linkedin Followers Campaign (Continuous Task)",
+        "created": "2025-07-29T13:28:41.967+0530",
+        "timespent": 5400,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A90356e5f-e9a9-471c-8925-6308ea3063d0",
+          "accountId": "712020:90356e5f-e9a9-471c-8925-6308ea3063d0",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/dbb0db564a1c1ddd6979261572f79389?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSK-4.png",
+            "24x24": "https://secure.gravatar.com/avatar/dbb0db564a1c1ddd6979261572f79389?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSK-4.png",
+            "16x16": "https://secure.gravatar.com/avatar/dbb0db564a1c1ddd6979261572f79389?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSK-4.png",
+            "32x32": "https://secure.gravatar.com/avatar/dbb0db564a1c1ddd6979261572f79389?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSK-4.png"
+          },
+          "displayName": "Shoaib Kadri",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/2",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/high_new.svg",
+          "name": "High",
+          "id": "2"
+        },
+        "updated": "2025-09-18T10:44:25.289+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10048",
+          "description": "This work item is being actively worked on at the moment by the assignee.",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "In Progress",
+          "id": "10048",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/4",
+            "id": 4,
+            "key": "indeterminate",
+            "colorName": "yellow",
+            "name": "In Progress"
+          }
+        }
+      }
+    }
+  ]
+}

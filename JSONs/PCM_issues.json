@@ -1,0 +1,2308 @@
+{
+  "name": "PPC Campaign Management",
+  "id": "10019",
+  "self_url": "https://idealabprojects.atlassian.net/rest/api/3/project/10019",
+  "issue_count": 0,
+  "issues": [
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "14486",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14486",
+      "key": "PCM-254",
+      "fields": {
+        "summary": "Google Ads Campaigns Monthly Device Report NOV'25",
+        "created": "2025-12-04T16:06:10.641+0530",
+        "timespent": null,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=5f75e7c0021acf0076b238e7",
+          "accountId": "5f75e7c0021acf0076b238e7",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png",
+            "24x24": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png",
+            "16x16": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png",
+            "32x32": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png"
+          },
+          "displayName": "Anuradha Narwal",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "updated": "2025-12-04T16:17:08.085+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10069",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "To Do",
+          "id": "10069",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
+            "id": 2,
+            "key": "new",
+            "colorName": "blue-gray",
+            "name": "To Do"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "14485",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14485",
+      "key": "PCM-253",
+      "fields": {
+        "summary": "Google Ads Campaigns Monthly Location Report NOV'25",
+        "created": "2025-12-04T16:06:00.513+0530",
+        "timespent": null,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=5f75e7c0021acf0076b238e7",
+          "accountId": "5f75e7c0021acf0076b238e7",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png",
+            "24x24": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png",
+            "16x16": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png",
+            "32x32": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png"
+          },
+          "displayName": "Anuradha Narwal",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "updated": "2025-12-04T16:13:40.729+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10069",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "To Do",
+          "id": "10069",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
+            "id": 2,
+            "key": "new",
+            "colorName": "blue-gray",
+            "name": "To Do"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "14295",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14295",
+      "key": "PCM-252",
+      "fields": {
+        "summary": "New Keywords for Revenue Cycle Management (Medical Billing & Coding)",
+        "created": "2025-11-27T17:28:36.019+0530",
+        "timespent": null,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A9d81cbd5-bff1-466b-8d31-4a2dd10b964e",
+          "accountId": "712020:9d81cbd5-bff1-466b-8d31-4a2dd10b964e",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
+            "24x24": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
+            "16x16": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
+            "32x32": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png"
+          },
+          "displayName": "Arin Chaudhuri",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/2",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/high_new.svg",
+          "name": "High",
+          "id": "2"
+        },
+        "updated": "2025-12-01T13:55:30.452+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10071",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "Done",
+          "id": "10071",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "14005",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14005",
+      "key": "PCM-251",
+      "fields": {
+        "summary": "New Keywords for Medical Billing & Coding",
+        "created": "2025-11-18T19:44:50.605+0530",
+        "timespent": null,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A9d81cbd5-bff1-466b-8d31-4a2dd10b964e",
+          "accountId": "712020:9d81cbd5-bff1-466b-8d31-4a2dd10b964e",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
+            "24x24": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
+            "16x16": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
+            "32x32": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png"
+          },
+          "displayName": "Arin Chaudhuri",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "updated": "2025-11-20T15:33:35.890+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10071",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "Done",
+          "id": "10071",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "14002",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14002",
+      "key": "PCM-250",
+      "fields": {
+        "summary": "Review and Approval: Dart Developer Keywords",
+        "created": "2025-11-18T17:01:18.291+0530",
+        "timespent": null,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A9d81cbd5-bff1-466b-8d31-4a2dd10b964e",
+          "accountId": "712020:9d81cbd5-bff1-466b-8d31-4a2dd10b964e",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
+            "24x24": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
+            "16x16": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
+            "32x32": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png"
+          },
+          "displayName": "Arin Chaudhuri",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "updated": "2025-11-18T17:32:01.452+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10071",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "Done",
+          "id": "10071",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "13787",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/13787",
+      "key": "PCM-249",
+      "fields": {
+        "summary": "Google Ads Account Performance Overview Report - OCT'25",
+        "created": "2025-11-11T16:59:54.682+0530",
+        "timespent": null,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=5f75e7c0021acf0076b238e7",
+          "accountId": "5f75e7c0021acf0076b238e7",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png",
+            "24x24": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png",
+            "16x16": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png",
+            "32x32": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png"
+          },
+          "displayName": "Anuradha Narwal",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "updated": "2025-11-11T17:01:12.113+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10071",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "Done",
+          "id": "10071",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "13786",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/13786",
+      "key": "PCM-248",
+      "fields": {
+        "summary": "Google Ads Account Monthly Lead Cost Report - OCT'25",
+        "created": "2025-11-11T16:59:33.022+0530",
+        "timespent": null,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=5f75e7c0021acf0076b238e7",
+          "accountId": "5f75e7c0021acf0076b238e7",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png",
+            "24x24": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png",
+            "16x16": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png",
+            "32x32": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png"
+          },
+          "displayName": "Anuradha Narwal",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "updated": "2025-11-11T17:03:56.064+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10071",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "Done",
+          "id": "10071",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "13654",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/13654",
+      "key": "PCM-247",
+      "fields": {
+        "summary": "Review & Approval: ST 07NOV25",
+        "created": "2025-11-07T17:02:50.489+0530",
+        "timespent": null,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=5f75e7c0021acf0076b238e7",
+          "accountId": "5f75e7c0021acf0076b238e7",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png",
+            "24x24": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png",
+            "16x16": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png",
+            "32x32": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png"
+          },
+          "displayName": "Anuradha Narwal",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "updated": "2025-11-07T17:04:19.557+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10069",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "To Do",
+          "id": "10069",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
+            "id": 2,
+            "key": "new",
+            "colorName": "blue-gray",
+            "name": "To Do"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "13606",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/13606",
+      "key": "PCM-246",
+      "fields": {
+        "summary": "Google Ads Campaigns Monthly Device Report OCT'25",
+        "created": "2025-11-05T18:49:13.375+0530",
+        "timespent": null,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=5f75e7c0021acf0076b238e7",
+          "accountId": "5f75e7c0021acf0076b238e7",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png",
+            "24x24": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png",
+            "16x16": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png",
+            "32x32": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png"
+          },
+          "displayName": "Anuradha Narwal",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "updated": "2025-11-05T18:51:45.887+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10071",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "Done",
+          "id": "10071",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "13605",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/13605",
+      "key": "PCM-245",
+      "fields": {
+        "summary": "Google Ads Campaigns Monthly Location Report OCT'25",
+        "created": "2025-11-05T18:48:56.822+0530",
+        "timespent": null,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=5f75e7c0021acf0076b238e7",
+          "accountId": "5f75e7c0021acf0076b238e7",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png",
+            "24x24": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png",
+            "16x16": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png",
+            "32x32": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png"
+          },
+          "displayName": "Anuradha Narwal",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "updated": "2025-11-05T18:50:43.349+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10071",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "Done",
+          "id": "10071",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "13244",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/13244",
+      "key": "PCM-244",
+      "fields": {
+        "summary": "Case Study: Lead Generation Strategy for SEO UAE",
+        "created": "2025-10-22T16:57:11.598+0530",
+        "timespent": null,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=5f75e7c0021acf0076b238e7",
+          "accountId": "5f75e7c0021acf0076b238e7",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png",
+            "24x24": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png",
+            "16x16": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png",
+            "32x32": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png"
+          },
+          "displayName": "Anuradha Narwal",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "updated": "2025-10-22T16:58:51.187+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10071",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "Done",
+          "id": "10071",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "13141",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/13141",
+      "key": "PCM-243",
+      "fields": {
+        "summary": "Review & Approval: SEO UAE ST 17OCT25",
+        "created": "2025-10-17T18:51:29.020+0530",
+        "timespent": null,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A9d81cbd5-bff1-466b-8d31-4a2dd10b964e",
+          "accountId": "712020:9d81cbd5-bff1-466b-8d31-4a2dd10b964e",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
+            "24x24": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
+            "16x16": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
+            "32x32": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png"
+          },
+          "displayName": "Arin Chaudhuri",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "updated": "2025-10-17T18:53:50.060+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10071",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "Done",
+          "id": "10071",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "13053",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/13053",
+      "key": "PCM-242",
+      "fields": {
+        "summary": "Google Ads Account Performance Overview Report - SEP'25",
+        "created": "2025-10-14T19:30:24.254+0530",
+        "timespent": null,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=5f75e7c0021acf0076b238e7",
+          "accountId": "5f75e7c0021acf0076b238e7",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png",
+            "24x24": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png",
+            "16x16": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png",
+            "32x32": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png"
+          },
+          "displayName": "Anuradha Narwal",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "updated": "2025-11-13T20:14:08.613+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10071",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "Done",
+          "id": "10071",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "13052",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/13052",
+      "key": "PCM-241",
+      "fields": {
+        "summary": "Google Ads Account Monthly Lead Cost Report - SEP'25",
+        "created": "2025-10-14T19:27:02.937+0530",
+        "timespent": null,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=5f75e7c0021acf0076b238e7",
+          "accountId": "5f75e7c0021acf0076b238e7",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png",
+            "24x24": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png",
+            "16x16": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png",
+            "32x32": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png"
+          },
+          "displayName": "Anuradha Narwal",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "updated": "2025-11-13T20:14:09.034+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10071",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "Done",
+          "id": "10071",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "12757",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/12757",
+      "key": "PCM-240",
+      "fields": {
+        "summary": "Review & Approval: ST 30SEP25",
+        "created": "2025-09-30T20:38:12.865+0530",
+        "timespent": null,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=5f75e7c0021acf0076b238e7",
+          "accountId": "5f75e7c0021acf0076b238e7",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png",
+            "24x24": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png",
+            "16x16": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png",
+            "32x32": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png"
+          },
+          "displayName": "Anuradha Narwal",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "updated": "2025-09-30T20:39:42.125+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10069",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "To Do",
+          "id": "10069",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
+            "id": 2,
+            "key": "new",
+            "colorName": "blue-gray",
+            "name": "To Do"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "12735",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/12735",
+      "key": "PCM-239",
+      "fields": {
+        "summary": "Review and Approval: Zoho Developer Keywords",
+        "created": "2025-09-26T20:47:38.324+0530",
+        "timespent": null,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A87014598-7fc2-4a58-bbc5-8ec01fc54856",
+          "accountId": "712020:87014598-7fc2-4a58-bbc5-8ec01fc54856",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/20f56106f26bf5669c2f46835ef78571?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDS-1.png",
+            "24x24": "https://secure.gravatar.com/avatar/20f56106f26bf5669c2f46835ef78571?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDS-1.png",
+            "16x16": "https://secure.gravatar.com/avatar/20f56106f26bf5669c2f46835ef78571?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDS-1.png",
+            "32x32": "https://secure.gravatar.com/avatar/20f56106f26bf5669c2f46835ef78571?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDS-1.png"
+          },
+          "displayName": "Deepakshi saini",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "updated": "2025-10-15T13:08:41.588+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10071",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "Done",
+          "id": "10071",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "12695",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/12695",
+      "key": "PCM-238",
+      "fields": {
+        "summary": "New Keywords for Engineering",
+        "created": "2025-09-24T14:37:52.012+0530",
+        "timespent": null,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=5f75e7c0021acf0076b238e7",
+          "accountId": "5f75e7c0021acf0076b238e7",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png",
+            "24x24": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png",
+            "16x16": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png",
+            "32x32": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png"
+          },
+          "displayName": "Anuradha Narwal",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/2",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/high_new.svg",
+          "name": "High",
+          "id": "2"
+        },
+        "updated": "2025-09-24T14:42:44.850+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10069",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "To Do",
+          "id": "10069",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
+            "id": 2,
+            "key": "new",
+            "colorName": "blue-gray",
+            "name": "To Do"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "12694",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/12694",
+      "key": "PCM-237",
+      "fields": {
+        "summary": "Case Study: Lead Generation Strategy for Accounts",
+        "created": "2025-09-24T14:33:59.270+0530",
+        "timespent": null,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=5f75e7c0021acf0076b238e7",
+          "accountId": "5f75e7c0021acf0076b238e7",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png",
+            "24x24": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png",
+            "16x16": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png",
+            "32x32": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png"
+          },
+          "displayName": "Anuradha Narwal",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "updated": "2025-09-24T14:35:35.341+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10071",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "Done",
+          "id": "10071",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "12626",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/12626",
+      "key": "PCM-236",
+      "fields": {
+        "summary": "Review & Approval: ST 18SEP25",
+        "created": "2025-09-18T17:30:49.518+0530",
+        "timespent": null,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A9d81cbd5-bff1-466b-8d31-4a2dd10b964e",
+          "accountId": "712020:9d81cbd5-bff1-466b-8d31-4a2dd10b964e",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
+            "24x24": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
+            "16x16": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
+            "32x32": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png"
+          },
+          "displayName": "Arin Chaudhuri",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/1",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/highest_new.svg",
+          "name": "Highest",
+          "id": "1"
+        },
+        "updated": "2025-09-22T17:00:48.689+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10071",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "Done",
+          "id": "10071",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "12599",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/12599",
+      "key": "PCM-235",
+      "fields": {
+        "summary": "New Keywords for Software Development ( Ad Group: Hire_Software_Engineer_Tier1)",
+        "created": "2025-09-16T17:38:48.855+0530",
+        "timespent": null,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A9d81cbd5-bff1-466b-8d31-4a2dd10b964e",
+          "accountId": "712020:9d81cbd5-bff1-466b-8d31-4a2dd10b964e",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
+            "24x24": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
+            "16x16": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
+            "32x32": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png"
+          },
+          "displayName": "Arin Chaudhuri",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/2",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/high_new.svg",
+          "name": "High",
+          "id": "2"
+        },
+        "updated": "2025-09-16T17:50:44.805+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10071",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "Done",
+          "id": "10071",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "12406",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/12406",
+      "key": "PCM-234",
+      "fields": {
+        "summary": "Review & Approval: ST 08SEP25",
+        "created": "2025-09-08T18:09:37.203+0530",
+        "timespent": null,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A9d81cbd5-bff1-466b-8d31-4a2dd10b964e",
+          "accountId": "712020:9d81cbd5-bff1-466b-8d31-4a2dd10b964e",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
+            "24x24": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
+            "16x16": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
+            "32x32": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png"
+          },
+          "displayName": "Arin Chaudhuri",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "updated": "2025-09-29T15:21:58.810+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10071",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "Done",
+          "id": "10071",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "12273",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/12273",
+      "key": "PCM-233",
+      "fields": {
+        "summary": "PPC Junk Job Seeker Keywords Data (JUL-AUG'25)",
+        "created": "2025-09-03T18:37:59.070+0530",
+        "timespent": null,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A9d81cbd5-bff1-466b-8d31-4a2dd10b964e",
+          "accountId": "712020:9d81cbd5-bff1-466b-8d31-4a2dd10b964e",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
+            "24x24": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
+            "16x16": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
+            "32x32": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png"
+          },
+          "displayName": "Arin Chaudhuri",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "updated": "2025-09-08T18:08:50.679+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10071",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "Done",
+          "id": "10071",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "12258",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/12258",
+      "key": "PCM-232",
+      "fields": {
+        "summary": "Google Ads Campaigns Monthly Location Report AUG'25",
+        "created": "2025-09-02T15:46:41.488+0530",
+        "timespent": null,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=5f75e7c0021acf0076b238e7",
+          "accountId": "5f75e7c0021acf0076b238e7",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png",
+            "24x24": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png",
+            "16x16": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png",
+            "32x32": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png"
+          },
+          "displayName": "Anuradha Narwal",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "updated": "2025-09-02T15:47:44.754+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10071",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "Done",
+          "id": "10071",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "12256",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/12256",
+      "key": "PCM-231",
+      "fields": {
+        "summary": "Google Ads Account Monthly Lead Cost Report - AUG'25",
+        "created": "2025-09-02T13:09:39.862+0530",
+        "timespent": null,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=5f75e7c0021acf0076b238e7",
+          "accountId": "5f75e7c0021acf0076b238e7",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png",
+            "24x24": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png",
+            "16x16": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png",
+            "32x32": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png"
+          },
+          "displayName": "Anuradha Narwal",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "updated": "2025-09-02T15:47:58.459+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10071",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "Done",
+          "id": "10071",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "12080",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/12080",
+      "key": "PCM-230",
+      "fields": {
+        "summary": "Review & Approval Virtual Employee Keywords",
+        "created": "2025-08-25T13:39:21.335+0530",
+        "timespent": null,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A9d81cbd5-bff1-466b-8d31-4a2dd10b964e",
+          "accountId": "712020:9d81cbd5-bff1-466b-8d31-4a2dd10b964e",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
+            "24x24": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
+            "16x16": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
+            "32x32": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png"
+          },
+          "displayName": "Arin Chaudhuri",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/1",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/highest_new.svg",
+          "name": "Highest",
+          "id": "1"
+        },
+        "updated": "2025-09-02T13:13:01.122+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10071",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "Done",
+          "id": "10071",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "11986",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11986",
+      "key": "PCM-229",
+      "fields": {
+        "summary": "Review & Approval PPC Junk Keywords Data",
+        "created": "2025-08-18T16:29:46.941+0530",
+        "timespent": null,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=5f75e7c0021acf0076b238e7",
+          "accountId": "5f75e7c0021acf0076b238e7",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png",
+            "24x24": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png",
+            "16x16": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png",
+            "32x32": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png"
+          },
+          "displayName": "Anuradha Narwal",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "updated": "2025-08-25T13:38:54.998+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10071",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "Done",
+          "id": "10071",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "11769",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11769",
+      "key": "PCM-228",
+      "fields": {
+        "summary": "Review & Approval Accounts and Bookkeeping New Keywords",
+        "created": "2025-08-05T13:19:13.595+0530",
+        "timespent": null,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=5f75e7c0021acf0076b238e7",
+          "accountId": "5f75e7c0021acf0076b238e7",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png",
+            "24x24": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png",
+            "16x16": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png",
+            "32x32": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png"
+          },
+          "displayName": "Anuradha Narwal",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "updated": "2025-09-18T17:37:47.624+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10715",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "On Hold",
+          "id": "10715",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
+            "id": 2,
+            "key": "new",
+            "colorName": "blue-gray",
+            "name": "To Do"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "11758",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11758",
+      "key": "PCM-227",
+      "fields": {
+        "summary": "Review & Approval PPC Junk Data",
+        "created": "2025-08-04T19:28:49.967+0530",
+        "timespent": null,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A9d81cbd5-bff1-466b-8d31-4a2dd10b964e",
+          "accountId": "712020:9d81cbd5-bff1-466b-8d31-4a2dd10b964e",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
+            "24x24": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
+            "16x16": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
+            "32x32": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png"
+          },
+          "displayName": "Arin Chaudhuri",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "updated": "2025-08-08T21:31:23.992+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10071",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "Done",
+          "id": "10071",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "11693",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11693",
+      "key": "PCM-226",
+      "fields": {
+        "summary": "Review: Google Ads Account Performance Overview Report - JUL'25",
+        "created": "2025-08-01T13:05:49.299+0530",
+        "timespent": null,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=5f75e7c0021acf0076b238e7",
+          "accountId": "5f75e7c0021acf0076b238e7",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png",
+            "24x24": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png",
+            "16x16": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png",
+            "32x32": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png"
+          },
+          "displayName": "Anuradha Narwal",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "updated": "2025-08-01T13:07:16.436+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10071",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "Done",
+          "id": "10071",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "11647",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11647",
+      "key": "PCM-225",
+      "fields": {
+        "summary": "IT Campaigns Need to work on",
+        "created": "2025-07-31T11:45:34.026+0530",
+        "timespent": 7200,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3d0d1e55-ab61-4668-a46a-fc40721ae07a",
+          "accountId": "712020:3d0d1e55-ab61-4668-a46a-fc40721ae07a",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/4067b0ff6b0ef001cbbbe2fa0b4c144e?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSB-3.png",
+            "24x24": "https://secure.gravatar.com/avatar/4067b0ff6b0ef001cbbbe2fa0b4c144e?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSB-3.png",
+            "16x16": "https://secure.gravatar.com/avatar/4067b0ff6b0ef001cbbbe2fa0b4c144e?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSB-3.png",
+            "32x32": "https://secure.gravatar.com/avatar/4067b0ff6b0ef001cbbbe2fa0b4c144e?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSB-3.png"
+          },
+          "displayName": "Sandip Bhattacharya",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/1",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/highest_new.svg",
+          "name": "Highest",
+          "id": "1"
+        },
+        "updated": "2025-08-08T17:55:20.931+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10071",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "Done",
+          "id": "10071",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "11646",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11646",
+      "key": "PCM-224",
+      "fields": {
+        "summary": "Accounting Campaign Reactivation",
+        "created": "2025-07-31T11:43:17.613+0530",
+        "timespent": null,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A9d81cbd5-bff1-466b-8d31-4a2dd10b964e",
+          "accountId": "712020:9d81cbd5-bff1-466b-8d31-4a2dd10b964e",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
+            "24x24": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
+            "16x16": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
+            "32x32": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png"
+          },
+          "displayName": "Arin Chaudhuri",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/1",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/highest_new.svg",
+          "name": "Highest",
+          "id": "1"
+        },
+        "updated": "2025-07-31T12:00:15.432+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10071",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "Done",
+          "id": "10071",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "11296",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11296",
+      "key": "PCM-223",
+      "fields": {
+        "summary": "Google Ads Campaigns Call Data Report JUN'25",
+        "created": "2025-07-08T13:35:29.223+0530",
+        "timespent": null,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=5f75e7c0021acf0076b238e7",
+          "accountId": "5f75e7c0021acf0076b238e7",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png",
+            "24x24": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png",
+            "16x16": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png",
+            "32x32": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png"
+          },
+          "displayName": "Anuradha Narwal",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "updated": "2025-08-01T12:43:13.802+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10071",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "Done",
+          "id": "10071",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "11282",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11282",
+      "key": "PCM-222",
+      "fields": {
+        "summary": "Google Ads Campaigns Monthly Device Report JUN'25",
+        "created": "2025-07-04T18:10:39.176+0530",
+        "timespent": null,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=5f75e7c0021acf0076b238e7",
+          "accountId": "5f75e7c0021acf0076b238e7",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png",
+            "24x24": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png",
+            "16x16": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png",
+            "32x32": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png"
+          },
+          "displayName": "Anuradha Narwal",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "updated": "2025-07-08T15:52:32.065+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10071",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "Done",
+          "id": "10071",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "11280",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11280",
+      "key": "PCM-221",
+      "fields": {
+        "summary": "Google Ads Campaigns Monthly Location Report JUN'25",
+        "created": "2025-07-04T18:08:08.417+0530",
+        "timespent": null,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=5f75e7c0021acf0076b238e7",
+          "accountId": "5f75e7c0021acf0076b238e7",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png",
+            "24x24": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png",
+            "16x16": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png",
+            "32x32": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png"
+          },
+          "displayName": "Anuradha Narwal",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "updated": "2025-07-08T15:52:32.641+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10071",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "Done",
+          "id": "10071",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "11267",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11267",
+      "key": "PCM-220",
+      "fields": {
+        "summary": "Review & Approval: Mobile App Development ST 04JUL25",
+        "created": "2025-07-04T14:13:55.137+0530",
+        "timespent": null,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=5f75e7c0021acf0076b238e7",
+          "accountId": "5f75e7c0021acf0076b238e7",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png",
+            "24x24": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png",
+            "16x16": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png",
+            "32x32": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png"
+          },
+          "displayName": "Anuradha Narwal",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "updated": "2025-07-08T15:55:37.231+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10715",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "On Hold",
+          "id": "10715",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
+            "id": 2,
+            "key": "new",
+            "colorName": "blue-gray",
+            "name": "To Do"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "11266",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11266",
+      "key": "PCM-219",
+      "fields": {
+        "summary": "Review: Software Development Campaign Auction Insight Report",
+        "created": "2025-07-04T13:10:52.266+0530",
+        "timespent": null,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=5f75e7c0021acf0076b238e7",
+          "accountId": "5f75e7c0021acf0076b238e7",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png",
+            "24x24": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png",
+            "16x16": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png",
+            "32x32": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png"
+          },
+          "displayName": "Anuradha Narwal",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/4",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/low_new.svg",
+          "name": "Low",
+          "id": "4"
+        },
+        "updated": "2025-07-08T15:49:33.464+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10071",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "Done",
+          "id": "10071",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "11258",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11258",
+      "key": "PCM-218",
+      "fields": {
+        "summary": "Google Ads Account Monthly Lead Cost Report - JUN'25",
+        "created": "2025-07-03T21:18:40.090+0530",
+        "timespent": null,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=5f75e7c0021acf0076b238e7",
+          "accountId": "5f75e7c0021acf0076b238e7",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png",
+            "24x24": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png",
+            "16x16": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png",
+            "32x32": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png"
+          },
+          "displayName": "Anuradha Narwal",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "updated": "2025-09-01T15:22:06.877+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10071",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "Done",
+          "id": "10071",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "11252",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11252",
+      "key": "PCM-217",
+      "fields": {
+        "summary": "Review & Approval: Bookkeeping ST 03JUL25",
+        "created": "2025-07-03T18:05:10.336+0530",
+        "timespent": null,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=5f75e7c0021acf0076b238e7",
+          "accountId": "5f75e7c0021acf0076b238e7",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png",
+            "24x24": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png",
+            "16x16": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png",
+            "32x32": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png"
+          },
+          "displayName": "Anuradha Narwal",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "updated": "2025-07-08T15:55:37.960+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10715",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "On Hold",
+          "id": "10715",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
+            "id": 2,
+            "key": "new",
+            "colorName": "blue-gray",
+            "name": "To Do"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "11250",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11250",
+      "key": "PCM-216",
+      "fields": {
+        "summary": "Request JUN'25 Power BI data of PPC source",
+        "created": "2025-07-03T15:25:37.542+0530",
+        "timespent": null,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ac582aaec-f7e7-45a0-8737-08d953fcbef7",
+          "accountId": "712020:c582aaec-f7e7-45a0-8737-08d953fcbef7",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png",
+            "24x24": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png",
+            "16x16": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png",
+            "32x32": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png"
+          },
+          "displayName": "sayeli chakraborty",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "updated": "2025-07-03T17:31:53.169+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10071",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "Done",
+          "id": "10071",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "11244",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11244",
+      "key": "PCM-215",
+      "fields": {
+        "summary": "Review: Web Development Campaign Auction Insight Report",
+        "created": "2025-07-03T12:44:10.751+0530",
+        "timespent": null,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=5f75e7c0021acf0076b238e7",
+          "accountId": "5f75e7c0021acf0076b238e7",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png",
+            "24x24": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png",
+            "16x16": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png",
+            "32x32": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png"
+          },
+          "displayName": "Anuradha Narwal",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/4",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/low_new.svg",
+          "name": "Low",
+          "id": "4"
+        },
+        "updated": "2025-07-08T15:49:33.977+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10071",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "Done",
+          "id": "10071",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "11242",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11242",
+      "key": "PCM-214",
+      "fields": {
+        "summary": "Review & Approval: Web Design ST 02JUL25",
+        "created": "2025-07-02T19:50:56.870+0530",
+        "timespent": null,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=5f75e7c0021acf0076b238e7",
+          "accountId": "5f75e7c0021acf0076b238e7",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png",
+            "24x24": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png",
+            "16x16": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png",
+            "32x32": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png"
+          },
+          "displayName": "Anuradha Narwal",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "updated": "2025-07-08T15:55:38.255+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10715",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "On Hold",
+          "id": "10715",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
+            "id": 2,
+            "key": "new",
+            "colorName": "blue-gray",
+            "name": "To Do"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "11228",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11228",
+      "key": "PCM-213",
+      "fields": {
+        "summary": "Review: Virtual Assistant Campaign Auction Insight Report",
+        "created": "2025-07-02T13:06:19.906+0530",
+        "timespent": null,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=5f75e7c0021acf0076b238e7",
+          "accountId": "5f75e7c0021acf0076b238e7",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png",
+            "24x24": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png",
+            "16x16": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png",
+            "32x32": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png"
+          },
+          "displayName": "Anuradha Narwal",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/4",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/low_new.svg",
+          "name": "Low",
+          "id": "4"
+        },
+        "updated": "2025-07-08T15:49:34.301+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10071",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "Done",
+          "id": "10071",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "11227",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11227",
+      "key": "PCM-212",
+      "fields": {
+        "summary": "Review & Approval: Web Development ST 01JUL25",
+        "created": "2025-07-01T18:46:23.676+0530",
+        "timespent": null,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=5f75e7c0021acf0076b238e7",
+          "accountId": "5f75e7c0021acf0076b238e7",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png",
+            "24x24": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png",
+            "16x16": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png",
+            "32x32": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png"
+          },
+          "displayName": "Anuradha Narwal",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "updated": "2025-07-08T15:55:38.533+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10715",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "On Hold",
+          "id": "10715",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
+            "id": 2,
+            "key": "new",
+            "colorName": "blue-gray",
+            "name": "To Do"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "11210",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11210",
+      "key": "PCM-211",
+      "fields": {
+        "summary": "Review: Google Ads Account Performance Overview Report - JUN'25",
+        "created": "2025-07-01T14:06:18.936+0530",
+        "timespent": null,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=5f75e7c0021acf0076b238e7",
+          "accountId": "5f75e7c0021acf0076b238e7",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png",
+            "24x24": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png",
+            "16x16": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png",
+            "32x32": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png"
+          },
+          "displayName": "Anuradha Narwal",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "updated": "2025-07-08T15:52:33.006+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10071",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "Done",
+          "id": "10071",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "11192",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11192",
+      "key": "PCM-210",
+      "fields": {
+        "summary": "Review & Approval: Full Stack Developer ST 30JUN25",
+        "created": "2025-06-30T16:46:13.329+0530",
+        "timespent": null,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=5f75e7c0021acf0076b238e7",
+          "accountId": "5f75e7c0021acf0076b238e7",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png",
+            "24x24": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png",
+            "16x16": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png",
+            "32x32": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png"
+          },
+          "displayName": "Anuradha Narwal",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "updated": "2025-07-08T15:55:38.802+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10715",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "On Hold",
+          "id": "10715",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
+            "id": 2,
+            "key": "new",
+            "colorName": "blue-gray",
+            "name": "To Do"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "11189",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11189",
+      "key": "PCM-209",
+      "fields": {
+        "summary": "Review: Medical Billing Campaign Auction Insight Report",
+        "created": "2025-06-30T13:43:02.675+0530",
+        "timespent": null,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=5f75e7c0021acf0076b238e7",
+          "accountId": "5f75e7c0021acf0076b238e7",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png",
+            "24x24": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png",
+            "16x16": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png",
+            "32x32": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png"
+          },
+          "displayName": "Anuradha Narwal",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/4",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/low_new.svg",
+          "name": "Low",
+          "id": "4"
+        },
+        "updated": "2025-07-08T15:49:34.570+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10071",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "Done",
+          "id": "10071",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "11175",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11175",
+      "key": "PCM-208",
+      "fields": {
+        "summary": "Review & Approval: Accounts Non-Lead Data (MAY'25 to JUN'25)",
+        "created": "2025-06-27T17:41:54.245+0530",
+        "timespent": null,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A9d81cbd5-bff1-466b-8d31-4a2dd10b964e",
+          "accountId": "712020:9d81cbd5-bff1-466b-8d31-4a2dd10b964e",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
+            "24x24": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
+            "16x16": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
+            "32x32": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png"
+          },
+          "displayName": "Arin Chaudhuri",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/2",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/high_new.svg",
+          "name": "High",
+          "id": "2"
+        },
+        "updated": "2025-06-30T20:39:44.393+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10071",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "Done",
+          "id": "10071",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "11168",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11168",
+      "key": "PCM-207",
+      "fields": {
+        "summary": "Review & Approval: Accounts ST 27JUN25",
+        "created": "2025-06-27T16:36:12.306+0530",
+        "timespent": null,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=5f75e7c0021acf0076b238e7",
+          "accountId": "5f75e7c0021acf0076b238e7",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png",
+            "24x24": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png",
+            "16x16": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png",
+            "32x32": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png"
+          },
+          "displayName": "Anuradha Narwal",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "updated": "2025-07-08T15:55:39.115+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10715",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "On Hold",
+          "id": "10715",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
+            "id": 2,
+            "key": "new",
+            "colorName": "blue-gray",
+            "name": "To Do"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "11163",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11163",
+      "key": "PCM-206",
+      "fields": {
+        "summary": "Review: Bookkeeping Campaign Auction Insight Report",
+        "created": "2025-06-27T13:13:20.154+0530",
+        "timespent": null,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=5f75e7c0021acf0076b238e7",
+          "accountId": "5f75e7c0021acf0076b238e7",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png",
+            "24x24": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png",
+            "16x16": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png",
+            "32x32": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png"
+          },
+          "displayName": "Anuradha Narwal",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/4",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/low_new.svg",
+          "name": "Low",
+          "id": "4"
+        },
+        "updated": "2025-07-08T15:49:34.836+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10071",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "Done",
+          "id": "10071",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "11154",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11154",
+      "key": "PCM-205",
+      "fields": {
+        "summary": "Review & Approval: Law Non-Serving Keywords 26JUN25",
+        "created": "2025-06-26T18:21:39.705+0530",
+        "timespent": null,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=5f75e7c0021acf0076b238e7",
+          "accountId": "5f75e7c0021acf0076b238e7",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png",
+            "24x24": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png",
+            "16x16": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png",
+            "32x32": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png"
+          },
+          "displayName": "Anuradha Narwal",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "updated": "2025-07-08T15:55:39.394+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10715",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "On Hold",
+          "id": "10715",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
+            "id": 2,
+            "key": "new",
+            "colorName": "blue-gray",
+            "name": "To Do"
+          }
+        }
+      }
+    }
+  ]
+}

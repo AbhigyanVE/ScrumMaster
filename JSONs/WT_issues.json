@@ -1,0 +1,1169 @@
+{
+  "name": "Website Testing",
+  "id": "10061",
+  "self_url": "https://idealabprojects.atlassian.net/rest/api/3/project/10061",
+  "issue_count": 0,
+  "issues": [
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "12039",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/12039",
+      "key": "WT-21",
+      "fields": {
+        "summary": "Test the client testimonial page",
+        "created": "2025-08-21T11:47:59.137+0530",
+        "timespent": null,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ab3fb05f7-bcf9-4f26-a159-e1c927917fdf",
+          "accountId": "712020:b3fb05f7-bcf9-4f26-a159-e1c927917fdf",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/e6422afc8fd8e2a6c1063742fc6e941b?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMK-4.png",
+            "24x24": "https://secure.gravatar.com/avatar/e6422afc8fd8e2a6c1063742fc6e941b?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMK-4.png",
+            "16x16": "https://secure.gravatar.com/avatar/e6422afc8fd8e2a6c1063742fc6e941b?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMK-4.png",
+            "32x32": "https://secure.gravatar.com/avatar/e6422afc8fd8e2a6c1063742fc6e941b?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMK-4.png"
+          },
+          "displayName": "Mrityunjay Kumar",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/2",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/high_new.svg",
+          "name": "High",
+          "id": "2"
+        },
+        "updated": "2025-08-27T11:52:16.217+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10224",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "Done",
+          "id": "10224",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "11961",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11961",
+      "key": "WT-20",
+      "fields": {
+        "summary": "Test FAQ Page",
+        "created": "2025-08-14T19:26:21.412+0530",
+        "timespent": null,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ab3fb05f7-bcf9-4f26-a159-e1c927917fdf",
+          "accountId": "712020:b3fb05f7-bcf9-4f26-a159-e1c927917fdf",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/e6422afc8fd8e2a6c1063742fc6e941b?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMK-4.png",
+            "24x24": "https://secure.gravatar.com/avatar/e6422afc8fd8e2a6c1063742fc6e941b?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMK-4.png",
+            "16x16": "https://secure.gravatar.com/avatar/e6422afc8fd8e2a6c1063742fc6e941b?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMK-4.png",
+            "32x32": "https://secure.gravatar.com/avatar/e6422afc8fd8e2a6c1063742fc6e941b?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMK-4.png"
+          },
+          "displayName": "Mrityunjay Kumar",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "updated": "2025-09-02T15:21:07.847+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10224",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "Done",
+          "id": "10224",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "11889",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11889",
+      "key": "WT-19",
+      "fields": {
+        "summary": "Test Testimonial Page",
+        "created": "2025-08-12T13:45:35.028+0530",
+        "timespent": null,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ab3fb05f7-bcf9-4f26-a159-e1c927917fdf",
+          "accountId": "712020:b3fb05f7-bcf9-4f26-a159-e1c927917fdf",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/e6422afc8fd8e2a6c1063742fc6e941b?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMK-4.png",
+            "24x24": "https://secure.gravatar.com/avatar/e6422afc8fd8e2a6c1063742fc6e941b?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMK-4.png",
+            "16x16": "https://secure.gravatar.com/avatar/e6422afc8fd8e2a6c1063742fc6e941b?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMK-4.png",
+            "32x32": "https://secure.gravatar.com/avatar/e6422afc8fd8e2a6c1063742fc6e941b?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMK-4.png"
+          },
+          "displayName": "Mrityunjay Kumar",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "updated": "2025-08-14T19:28:20.551+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10224",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "Done",
+          "id": "10224",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "11793",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11793",
+      "key": "WT-18",
+      "fields": {
+        "summary": "Please test Article category page",
+        "created": "2025-08-07T16:01:04.574+0530",
+        "timespent": null,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ab3fb05f7-bcf9-4f26-a159-e1c927917fdf",
+          "accountId": "712020:b3fb05f7-bcf9-4f26-a159-e1c927917fdf",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/e6422afc8fd8e2a6c1063742fc6e941b?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMK-4.png",
+            "24x24": "https://secure.gravatar.com/avatar/e6422afc8fd8e2a6c1063742fc6e941b?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMK-4.png",
+            "16x16": "https://secure.gravatar.com/avatar/e6422afc8fd8e2a6c1063742fc6e941b?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMK-4.png",
+            "32x32": "https://secure.gravatar.com/avatar/e6422afc8fd8e2a6c1063742fc6e941b?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMK-4.png"
+          },
+          "displayName": "Mrityunjay Kumar",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "updated": "2025-08-21T11:47:15.335+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10224",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "Done",
+          "id": "10224",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "11770",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11770",
+      "key": "WT-17",
+      "fields": {
+        "summary": "Please test case study page",
+        "created": "2025-08-05T14:42:30.241+0530",
+        "timespent": null,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ab3fb05f7-bcf9-4f26-a159-e1c927917fdf",
+          "accountId": "712020:b3fb05f7-bcf9-4f26-a159-e1c927917fdf",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/e6422afc8fd8e2a6c1063742fc6e941b?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMK-4.png",
+            "24x24": "https://secure.gravatar.com/avatar/e6422afc8fd8e2a6c1063742fc6e941b?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMK-4.png",
+            "16x16": "https://secure.gravatar.com/avatar/e6422afc8fd8e2a6c1063742fc6e941b?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMK-4.png",
+            "32x32": "https://secure.gravatar.com/avatar/e6422afc8fd8e2a6c1063742fc6e941b?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMK-4.png"
+          },
+          "displayName": "Mrityunjay Kumar",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/2",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/high_new.svg",
+          "name": "High",
+          "id": "2"
+        },
+        "updated": "2025-08-07T16:02:07.859+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10700",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "In Review",
+          "id": "10700",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
+            "id": 2,
+            "key": "new",
+            "colorName": "blue-gray",
+            "name": "To Do"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "11679",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11679",
+      "key": "WT-16",
+      "fields": {
+        "summary": "Test New Header & Footer",
+        "created": "2025-07-31T20:14:07.619+0530",
+        "timespent": null,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ab3fb05f7-bcf9-4f26-a159-e1c927917fdf",
+          "accountId": "712020:b3fb05f7-bcf9-4f26-a159-e1c927917fdf",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/e6422afc8fd8e2a6c1063742fc6e941b?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMK-4.png",
+            "24x24": "https://secure.gravatar.com/avatar/e6422afc8fd8e2a6c1063742fc6e941b?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMK-4.png",
+            "16x16": "https://secure.gravatar.com/avatar/e6422afc8fd8e2a6c1063742fc6e941b?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMK-4.png",
+            "32x32": "https://secure.gravatar.com/avatar/e6422afc8fd8e2a6c1063742fc6e941b?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMK-4.png"
+          },
+          "displayName": "Mrityunjay Kumar",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "updated": "2025-08-14T19:28:25.321+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10224",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "Done",
+          "id": "10224",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "11652",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11652",
+      "key": "WT-15",
+      "fields": {
+        "summary": "Single Blog Page testing",
+        "created": "2025-07-31T12:50:39.157+0530",
+        "timespent": 17400,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ab3fb05f7-bcf9-4f26-a159-e1c927917fdf",
+          "accountId": "712020:b3fb05f7-bcf9-4f26-a159-e1c927917fdf",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/e6422afc8fd8e2a6c1063742fc6e941b?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMK-4.png",
+            "24x24": "https://secure.gravatar.com/avatar/e6422afc8fd8e2a6c1063742fc6e941b?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMK-4.png",
+            "16x16": "https://secure.gravatar.com/avatar/e6422afc8fd8e2a6c1063742fc6e941b?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMK-4.png",
+            "32x32": "https://secure.gravatar.com/avatar/e6422afc8fd8e2a6c1063742fc6e941b?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMK-4.png"
+          },
+          "displayName": "Mrityunjay Kumar",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "updated": "2025-08-14T19:28:28.880+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10224",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "Done",
+          "id": "10224",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "11487",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11487",
+      "key": "WT-14",
+      "fields": {
+        "summary": "MFA for all the users",
+        "created": "2025-07-22T19:51:12.763+0530",
+        "timespent": null,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ab3fb05f7-bcf9-4f26-a159-e1c927917fdf",
+          "accountId": "712020:b3fb05f7-bcf9-4f26-a159-e1c927917fdf",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/e6422afc8fd8e2a6c1063742fc6e941b?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMK-4.png",
+            "24x24": "https://secure.gravatar.com/avatar/e6422afc8fd8e2a6c1063742fc6e941b?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMK-4.png",
+            "16x16": "https://secure.gravatar.com/avatar/e6422afc8fd8e2a6c1063742fc6e941b?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMK-4.png",
+            "32x32": "https://secure.gravatar.com/avatar/e6422afc8fd8e2a6c1063742fc6e941b?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMK-4.png"
+          },
+          "displayName": "Mrityunjay Kumar",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "updated": "2025-07-23T17:54:01.640+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10224",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "Done",
+          "id": "10224",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "11486",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11486",
+      "key": "WT-13",
+      "fields": {
+        "summary": "Test case study category page",
+        "created": "2025-07-22T19:05:12.892+0530",
+        "timespent": null,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ab3fb05f7-bcf9-4f26-a159-e1c927917fdf",
+          "accountId": "712020:b3fb05f7-bcf9-4f26-a159-e1c927917fdf",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/e6422afc8fd8e2a6c1063742fc6e941b?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMK-4.png",
+            "24x24": "https://secure.gravatar.com/avatar/e6422afc8fd8e2a6c1063742fc6e941b?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMK-4.png",
+            "16x16": "https://secure.gravatar.com/avatar/e6422afc8fd8e2a6c1063742fc6e941b?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMK-4.png",
+            "32x32": "https://secure.gravatar.com/avatar/e6422afc8fd8e2a6c1063742fc6e941b?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMK-4.png"
+          },
+          "displayName": "Mrityunjay Kumar",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "updated": "2025-07-23T17:51:04.098+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10223",
+          "description": "This work item is being actively worked on at the moment by the assignee.",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "In Progress",
+          "id": "10223",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/4",
+            "id": 4,
+            "key": "indeterminate",
+            "colorName": "yellow",
+            "name": "In Progress"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "11485",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11485",
+      "key": "WT-12",
+      "fields": {
+        "summary": "Submit you requirement on cta issue",
+        "created": "2025-07-22T15:03:20.111+0530",
+        "timespent": null,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ab3fb05f7-bcf9-4f26-a159-e1c927917fdf",
+          "accountId": "712020:b3fb05f7-bcf9-4f26-a159-e1c927917fdf",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/e6422afc8fd8e2a6c1063742fc6e941b?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMK-4.png",
+            "24x24": "https://secure.gravatar.com/avatar/e6422afc8fd8e2a6c1063742fc6e941b?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMK-4.png",
+            "16x16": "https://secure.gravatar.com/avatar/e6422afc8fd8e2a6c1063742fc6e941b?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMK-4.png",
+            "32x32": "https://secure.gravatar.com/avatar/e6422afc8fd8e2a6c1063742fc6e941b?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMK-4.png"
+          },
+          "displayName": "Mrityunjay Kumar",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "updated": "2025-08-27T12:13:39.492+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10224",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "Done",
+          "id": "10224",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "11329",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11329",
+      "key": "WT-11",
+      "fields": {
+        "summary": "Need to test article/blog page",
+        "created": "2025-07-11T10:54:54.996+0530",
+        "timespent": null,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ab3fb05f7-bcf9-4f26-a159-e1c927917fdf",
+          "accountId": "712020:b3fb05f7-bcf9-4f26-a159-e1c927917fdf",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/e6422afc8fd8e2a6c1063742fc6e941b?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMK-4.png",
+            "24x24": "https://secure.gravatar.com/avatar/e6422afc8fd8e2a6c1063742fc6e941b?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMK-4.png",
+            "16x16": "https://secure.gravatar.com/avatar/e6422afc8fd8e2a6c1063742fc6e941b?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMK-4.png",
+            "32x32": "https://secure.gravatar.com/avatar/e6422afc8fd8e2a6c1063742fc6e941b?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMK-4.png"
+          },
+          "displayName": "Mrityunjay Kumar",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/2",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/high_new.svg",
+          "name": "High",
+          "id": "2"
+        },
+        "updated": "2025-07-23T17:55:15.014+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10224",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "Done",
+          "id": "10224",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "11284",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11284",
+      "key": "WT-10",
+      "fields": {
+        "summary": "About US Page Issue",
+        "created": "2025-07-07T13:37:17.742+0530",
+        "timespent": null,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A41435bf1-7a46-4918-82dc-ba80eec20553",
+          "accountId": "712020:41435bf1-7a46-4918-82dc-ba80eec20553",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
+            "24x24": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
+            "16x16": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
+            "32x32": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png"
+          },
+          "displayName": "Praveen Soni",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/2",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/high_new.svg",
+          "name": "High",
+          "id": "2"
+        },
+        "updated": "2025-08-01T13:26:38.362+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10224",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "Done",
+          "id": "10224",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "11243",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11243",
+      "key": "WT-9",
+      "fields": {
+        "summary": "https://stag.virtualemployee.com/get-started/",
+        "created": "2025-07-03T10:58:33.901+0530",
+        "timespent": null,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ab3fb05f7-bcf9-4f26-a159-e1c927917fdf",
+          "accountId": "712020:b3fb05f7-bcf9-4f26-a159-e1c927917fdf",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/e6422afc8fd8e2a6c1063742fc6e941b?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMK-4.png",
+            "24x24": "https://secure.gravatar.com/avatar/e6422afc8fd8e2a6c1063742fc6e941b?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMK-4.png",
+            "16x16": "https://secure.gravatar.com/avatar/e6422afc8fd8e2a6c1063742fc6e941b?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMK-4.png",
+            "32x32": "https://secure.gravatar.com/avatar/e6422afc8fd8e2a6c1063742fc6e941b?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMK-4.png"
+          },
+          "displayName": "Mrityunjay Kumar",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "updated": "2025-09-02T15:21:33.511+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10223",
+          "description": "This work item is being actively worked on at the moment by the assignee.",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "In Progress",
+          "id": "10223",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/4",
+            "id": 4,
+            "key": "indeterminate",
+            "colorName": "yellow",
+            "name": "In Progress"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "11140",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11140",
+      "key": "WT-8",
+      "fields": {
+        "summary": "Creating excel sheet for all the pages",
+        "created": "2025-06-26T13:02:06.180+0530",
+        "timespent": null,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A77700fe3-8a05-4eee-8c03-8ecf9ccec870",
+          "accountId": "712020:77700fe3-8a05-4eee-8c03-8ecf9ccec870",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/d3bce45e619662a5e87adbdd3ad5954c?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRG-3.png",
+            "24x24": "https://secure.gravatar.com/avatar/d3bce45e619662a5e87adbdd3ad5954c?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRG-3.png",
+            "16x16": "https://secure.gravatar.com/avatar/d3bce45e619662a5e87adbdd3ad5954c?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRG-3.png",
+            "32x32": "https://secure.gravatar.com/avatar/d3bce45e619662a5e87adbdd3ad5954c?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRG-3.png"
+          },
+          "displayName": "rajni gangwar",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "updated": "2025-06-26T13:34:20.383+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10224",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "Done",
+          "id": "10224",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "11138",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11138",
+      "key": "WT-7",
+      "fields": {
+        "summary": "website issues",
+        "created": "2025-06-26T09:05:23.613+0530",
+        "timespent": null,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ab3fb05f7-bcf9-4f26-a159-e1c927917fdf",
+          "accountId": "712020:b3fb05f7-bcf9-4f26-a159-e1c927917fdf",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/e6422afc8fd8e2a6c1063742fc6e941b?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMK-4.png",
+            "24x24": "https://secure.gravatar.com/avatar/e6422afc8fd8e2a6c1063742fc6e941b?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMK-4.png",
+            "16x16": "https://secure.gravatar.com/avatar/e6422afc8fd8e2a6c1063742fc6e941b?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMK-4.png",
+            "32x32": "https://secure.gravatar.com/avatar/e6422afc8fd8e2a6c1063742fc6e941b?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMK-4.png"
+          },
+          "displayName": "Mrityunjay Kumar",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "updated": "2025-08-27T12:20:33.447+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10224",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "Done",
+          "id": "10224",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "10349",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/10349",
+      "key": "WT-6",
+      "fields": {
+        "summary": " Air4Cast Limited's Video",
+        "parent": {
+          "id": "10344",
+          "key": "WT-1",
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/10344",
+          "fields": {
+            "summary": "Client video to be checked on website pages",
+            "status": {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10224",
+              "description": "",
+              "iconUrl": "https://idealabprojects.atlassian.net/",
+              "name": "Done",
+              "id": "10224",
+              "statusCategory": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+                "id": 3,
+                "key": "done",
+                "colorName": "green",
+                "name": "Done"
+              }
+            },
+            "priority": {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+              "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+              "name": "Medium",
+              "id": "3"
+            },
+            "issuetype": {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issuetype/10098",
+              "id": "10098",
+              "description": "A small, distinct piece of work.",
+              "iconUrl": "https://idealabprojects.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10318?size=medium",
+              "name": "Task",
+              "subtask": false,
+              "avatarId": 10318,
+              "entityId": "43400534-6928-4a4c-9aa3-a0260a8c7546",
+              "hierarchyLevel": 0
+            }
+          }
+        },
+        "created": "2025-03-28T19:04:39.179+0530",
+        "timespent": null,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A41435bf1-7a46-4918-82dc-ba80eec20553",
+          "accountId": "712020:41435bf1-7a46-4918-82dc-ba80eec20553",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
+            "24x24": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
+            "16x16": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
+            "32x32": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png"
+          },
+          "displayName": "Praveen Soni",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "updated": "2025-03-31T13:22:03.611+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10224",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "Done",
+          "id": "10224",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "10348",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/10348",
+      "key": "WT-5",
+      "fields": {
+        "summary": "Jane Robinson's Video",
+        "parent": {
+          "id": "10344",
+          "key": "WT-1",
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/10344",
+          "fields": {
+            "summary": "Client video to be checked on website pages",
+            "status": {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10224",
+              "description": "",
+              "iconUrl": "https://idealabprojects.atlassian.net/",
+              "name": "Done",
+              "id": "10224",
+              "statusCategory": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+                "id": 3,
+                "key": "done",
+                "colorName": "green",
+                "name": "Done"
+              }
+            },
+            "priority": {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+              "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+              "name": "Medium",
+              "id": "3"
+            },
+            "issuetype": {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issuetype/10098",
+              "id": "10098",
+              "description": "A small, distinct piece of work.",
+              "iconUrl": "https://idealabprojects.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10318?size=medium",
+              "name": "Task",
+              "subtask": false,
+              "avatarId": 10318,
+              "entityId": "43400534-6928-4a4c-9aa3-a0260a8c7546",
+              "hierarchyLevel": 0
+            }
+          }
+        },
+        "created": "2025-03-28T19:04:15.683+0530",
+        "timespent": null,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A41435bf1-7a46-4918-82dc-ba80eec20553",
+          "accountId": "712020:41435bf1-7a46-4918-82dc-ba80eec20553",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
+            "24x24": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
+            "16x16": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
+            "32x32": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png"
+          },
+          "displayName": "Praveen Soni",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "updated": "2025-03-31T13:14:38.504+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10224",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "Done",
+          "id": "10224",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "10347",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/10347",
+      "key": "WT-4",
+      "fields": {
+        "summary": "Sarah Robinson's Video",
+        "parent": {
+          "id": "10344",
+          "key": "WT-1",
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/10344",
+          "fields": {
+            "summary": "Client video to be checked on website pages",
+            "status": {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10224",
+              "description": "",
+              "iconUrl": "https://idealabprojects.atlassian.net/",
+              "name": "Done",
+              "id": "10224",
+              "statusCategory": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+                "id": 3,
+                "key": "done",
+                "colorName": "green",
+                "name": "Done"
+              }
+            },
+            "priority": {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+              "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+              "name": "Medium",
+              "id": "3"
+            },
+            "issuetype": {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issuetype/10098",
+              "id": "10098",
+              "description": "A small, distinct piece of work.",
+              "iconUrl": "https://idealabprojects.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10318?size=medium",
+              "name": "Task",
+              "subtask": false,
+              "avatarId": 10318,
+              "entityId": "43400534-6928-4a4c-9aa3-a0260a8c7546",
+              "hierarchyLevel": 0
+            }
+          }
+        },
+        "created": "2025-03-28T19:04:08.224+0530",
+        "timespent": null,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A41435bf1-7a46-4918-82dc-ba80eec20553",
+          "accountId": "712020:41435bf1-7a46-4918-82dc-ba80eec20553",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
+            "24x24": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
+            "16x16": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
+            "32x32": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png"
+          },
+          "displayName": "Praveen Soni",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "updated": "2025-03-31T13:13:27.795+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10224",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "Done",
+          "id": "10224",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "10346",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/10346",
+      "key": "WT-3",
+      "fields": {
+        "summary": "Emma Robinson's Video ",
+        "parent": {
+          "id": "10344",
+          "key": "WT-1",
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/10344",
+          "fields": {
+            "summary": "Client video to be checked on website pages",
+            "status": {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10224",
+              "description": "",
+              "iconUrl": "https://idealabprojects.atlassian.net/",
+              "name": "Done",
+              "id": "10224",
+              "statusCategory": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+                "id": 3,
+                "key": "done",
+                "colorName": "green",
+                "name": "Done"
+              }
+            },
+            "priority": {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+              "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+              "name": "Medium",
+              "id": "3"
+            },
+            "issuetype": {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issuetype/10098",
+              "id": "10098",
+              "description": "A small, distinct piece of work.",
+              "iconUrl": "https://idealabprojects.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10318?size=medium",
+              "name": "Task",
+              "subtask": false,
+              "avatarId": 10318,
+              "entityId": "43400534-6928-4a4c-9aa3-a0260a8c7546",
+              "hierarchyLevel": 0
+            }
+          }
+        },
+        "created": "2025-03-28T19:03:59.048+0530",
+        "timespent": null,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A41435bf1-7a46-4918-82dc-ba80eec20553",
+          "accountId": "712020:41435bf1-7a46-4918-82dc-ba80eec20553",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
+            "24x24": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
+            "16x16": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
+            "32x32": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png"
+          },
+          "displayName": "Praveen Soni",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "updated": "2025-03-31T13:11:12.423+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10224",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "Done",
+          "id": "10224",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "10345",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/10345",
+      "key": "WT-2",
+      "fields": {
+        "summary": "Nick Arietta's Video",
+        "parent": {
+          "id": "10344",
+          "key": "WT-1",
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/10344",
+          "fields": {
+            "summary": "Client video to be checked on website pages",
+            "status": {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10224",
+              "description": "",
+              "iconUrl": "https://idealabprojects.atlassian.net/",
+              "name": "Done",
+              "id": "10224",
+              "statusCategory": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+                "id": 3,
+                "key": "done",
+                "colorName": "green",
+                "name": "Done"
+              }
+            },
+            "priority": {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+              "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+              "name": "Medium",
+              "id": "3"
+            },
+            "issuetype": {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issuetype/10098",
+              "id": "10098",
+              "description": "A small, distinct piece of work.",
+              "iconUrl": "https://idealabprojects.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10318?size=medium",
+              "name": "Task",
+              "subtask": false,
+              "avatarId": 10318,
+              "entityId": "43400534-6928-4a4c-9aa3-a0260a8c7546",
+              "hierarchyLevel": 0
+            }
+          }
+        },
+        "created": "2025-03-28T19:02:48.066+0530",
+        "timespent": null,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A77700fe3-8a05-4eee-8c03-8ecf9ccec870",
+          "accountId": "712020:77700fe3-8a05-4eee-8c03-8ecf9ccec870",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/d3bce45e619662a5e87adbdd3ad5954c?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRG-3.png",
+            "24x24": "https://secure.gravatar.com/avatar/d3bce45e619662a5e87adbdd3ad5954c?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRG-3.png",
+            "16x16": "https://secure.gravatar.com/avatar/d3bce45e619662a5e87adbdd3ad5954c?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRG-3.png",
+            "32x32": "https://secure.gravatar.com/avatar/d3bce45e619662a5e87adbdd3ad5954c?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRG-3.png"
+          },
+          "displayName": "rajni gangwar",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "updated": "2025-03-31T13:08:22.041+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10224",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "Done",
+          "id": "10224",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "10344",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/10344",
+      "key": "WT-1",
+      "fields": {
+        "summary": "Client video to be checked on website pages",
+        "created": "2025-03-28T18:22:42.371+0530",
+        "timespent": null,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A77700fe3-8a05-4eee-8c03-8ecf9ccec870",
+          "accountId": "712020:77700fe3-8a05-4eee-8c03-8ecf9ccec870",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/d3bce45e619662a5e87adbdd3ad5954c?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRG-3.png",
+            "24x24": "https://secure.gravatar.com/avatar/d3bce45e619662a5e87adbdd3ad5954c?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRG-3.png",
+            "16x16": "https://secure.gravatar.com/avatar/d3bce45e619662a5e87adbdd3ad5954c?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRG-3.png",
+            "32x32": "https://secure.gravatar.com/avatar/d3bce45e619662a5e87adbdd3ad5954c?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRG-3.png"
+          },
+          "displayName": "rajni gangwar",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "updated": "2025-03-31T13:26:10.016+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10224",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "Done",
+          "id": "10224",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
+          }
+        }
+      }
+    }
+  ]
+}

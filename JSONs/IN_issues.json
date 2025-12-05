@@ -1,0 +1,41 @@
+{
+  "name": "InterviewFirst Website",
+  "id": "10751",
+  "self_url": "https://idealabprojects.atlassian.net/rest/api/3/project/10751",
+  "issue_count": 0,
+  "issues": [
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "12396",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/12396",
+      "key": "IN-1",
+      "fields": {
+        "summary": "InterviewFirst Homepage",
+        "created": "2025-09-08T11:45:02.835+0530",
+        "timespent": null,
+        "assignee": null,
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/1",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/highest_new.svg",
+          "name": "Highest",
+          "id": "1"
+        },
+        "updated": "2025-09-08T11:56:30.734+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10996",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "To Do",
+          "id": "10996",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
+            "id": 2,
+            "key": "new",
+            "colorName": "blue-gray",
+            "name": "To Do"
+          }
+        }
+      }
+    }
+  ]
+}

@@ -60,7 +60,8 @@ def fetch_issues_by_jql(jql_query):
     all_issues = []
     start_at = 0
     total_issues = None
-    url = f"{BASE_API_URL}/search/jql"
+    # Correct endpoint path for the /rest/api/3 base URL
+    url = f"{BASE_API_URL}/search/jql" 
 
     while True:
         params = {
@@ -118,6 +119,7 @@ def fetch_issues_by_jql(jql_query):
 def fetch_all_project_data():
     """
     Executes the full extraction process: get projects, then get issues for each project.
+    Returns a dictionary where keys are project keys and values are project data.
     """
     projects = get_all_projects()
     if not projects:
@@ -138,12 +140,10 @@ def fetch_all_project_data():
 
         # The JQL query MUST be restricted (bounded) to a project and a time range 
         # to prevent the "Unbounded JQL" error from Jira Cloud.
-        # This JQL fetches all issues ever created in this specific project.
         project_jql = f'project = "{key}" AND created >= "2000/01/01" ORDER BY created DESC'
         
         print(f"-> Fetching issues for Project: {name} ({key})...")
         
-        # --- FIX START ---
         # Get the result first, which will be None on error or (issues, total) on success
         result = fetch_issues_by_jql(project_jql) 
 
@@ -154,7 +154,6 @@ def fetch_all_project_data():
         else:
             # If fetch succeeded, safely unpack the tuple
             issues, total = result
-        # --- FIX END ---
 
         # Store the project details and its issues
         all_data[key] = {
@@ -167,11 +166,45 @@ def fetch_all_project_data():
 
     return all_data
 
+def save_project_data_to_separate_files(project_data, folder_name="JSONs"):
+    """
+    Saves the data for each project into a separate JSON file within a specified folder.
+    """
+    print(f"\n--- Step 3: Saving Data to '{folder_name}' Folder ---")
+    
+    # Create the directory if it doesn't exist
+    if not os.path.exists(folder_name):
+        os.makedirs(folder_name)
+        print(f"Created directory: {folder_name}")
+
+    saved_count = 0
+    total_issues = 0
+
+    for project_key, data in project_data.items():
+        # Create a clean filename using the project key
+        filename = f"{project_key}_issues.json"
+        filepath = os.path.join(folder_name, filename)
+        
+        try:
+            with open(filepath, "w", encoding="utf-8") as f:
+                # We save the entire project dictionary (metadata + issues) for context
+                json.dump(data, f, indent=2, ensure_ascii=False)
+            
+            print(f"  -> Saved {data['issue_count']} issues for {project_key} to {filepath}")
+            saved_count += 1
+            total_issues += data['issue_count']
+
+        except Exception as e:
+            print(f"  [Error] Failed to save file {filepath}: {e}")
+
+    print(f"\n--- Save Complete ---")
+    print(f"Successfully saved data for {saved_count} out of {len(project_data)} projects.")
+    print(f"Total issues extracted and saved: {total_issues}")
+
 
 def extract_and_display_issue_details(issue_data):
     """
     Helper function to process and display individual issue data.
-    Includes the fix for the 'NoneType' error.
     """
     issues = []
     for key, project_data in issue_data.items():
@@ -207,18 +240,8 @@ if __name__ == "__main__":
     project_data = fetch_all_project_data()
     
     if project_data:
-        # --- Save to JSON file ---
-        output_filename = "jira_project_data.json"
-        try:
-            with open(output_filename, "w", encoding="utf-8") as f:
-                json.dump(project_data, f, indent=2, ensure_ascii=False)
-            
-            print(f"\n--- Save Successful ---")
-            print(f"Data from {len(project_data)} projects saved to '{output_filename}'.")
-            
-            # Display sample data
-            extract_and_display_issue_details(project_data)
-
-        except Exception as e:
-            print(f"\n--- Error Saving File ---")
-            print(f"An error occurred while saving the JSON file: {e}")
+        # Save data to separate files in the 'JSONs' folder
+        save_project_data_to_separate_files(project_data, folder_name="JSONs")
+        
+        # Display sample data from the aggregated project_data dictionary
+        extract_and_display_issue_details(project_data)

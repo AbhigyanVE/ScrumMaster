@@ -1,0 +1,239 @@
+{
+  "name": "YouTube Shorts Creation",
+  "id": "10487",
+  "self_url": "https://idealabprojects.atlassian.net/rest/api/3/project/10487",
+  "issue_count": 0,
+  "issues": [
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "11327",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11327",
+      "key": "SC-7",
+      "fields": {
+        "summary": "YouTube Shorts-Hire Digital Marketers from India",
+        "created": "2025-07-10T18:06:36.745+0530",
+        "timespent": null,
+        "assignee": null,
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "updated": "2025-07-10T18:06:36.794+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10732",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "To Do",
+          "id": "10732",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
+            "id": 2,
+            "key": "new",
+            "colorName": "blue-gray",
+            "name": "To Do"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "11326",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11326",
+      "key": "SC-6",
+      "fields": {
+        "summary": "YouTube Shorts-Hire Virtual Staff from India",
+        "created": "2025-07-10T18:06:17.372+0530",
+        "timespent": null,
+        "assignee": null,
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "updated": "2025-07-10T18:06:17.410+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10732",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "To Do",
+          "id": "10732",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
+            "id": 2,
+            "key": "new",
+            "colorName": "blue-gray",
+            "name": "To Do"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "11325",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11325",
+      "key": "SC-5",
+      "fields": {
+        "summary": "YouTube Shorts-Hire Virtual Assistants from India",
+        "created": "2025-07-10T17:50:46.990+0530",
+        "timespent": null,
+        "assignee": null,
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "updated": "2025-07-10T17:50:47.038+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10732",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "To Do",
+          "id": "10732",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
+            "id": 2,
+            "key": "new",
+            "colorName": "blue-gray",
+            "name": "To Do"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "11324",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11324",
+      "key": "SC-4",
+      "fields": {
+        "summary": "YouTube Shorts-Hire Software Developers from India",
+        "created": "2025-07-10T17:50:00.409+0530",
+        "timespent": null,
+        "assignee": null,
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "updated": "2025-07-10T17:50:00.455+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10732",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "To Do",
+          "id": "10732",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
+            "id": 2,
+            "key": "new",
+            "colorName": "blue-gray",
+            "name": "To Do"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "11323",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11323",
+      "key": "SC-3",
+      "fields": {
+        "summary": "YouTube Shorts-Hire Web Developers from India",
+        "created": "2025-07-10T17:47:50.239+0530",
+        "timespent": null,
+        "assignee": null,
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "updated": "2025-07-10T17:49:21.916+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10732",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "To Do",
+          "id": "10732",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
+            "id": 2,
+            "key": "new",
+            "colorName": "blue-gray",
+            "name": "To Do"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "11322",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11322",
+      "key": "SC-2",
+      "fields": {
+        "summary": "YouTube Shorts-Outsource to India",
+        "created": "2025-07-10T17:47:24.976+0530",
+        "timespent": null,
+        "assignee": null,
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "updated": "2025-07-10T17:49:05.721+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10732",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "To Do",
+          "id": "10732",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
+            "id": 2,
+            "key": "new",
+            "colorName": "blue-gray",
+            "name": "To Do"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "11321",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11321",
+      "key": "SC-1",
+      "fields": {
+        "summary": "YouTube Shorts 1-Hire Remote Staff",
+        "created": "2025-07-10T17:46:34.788+0530",
+        "timespent": null,
+        "assignee": null,
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "updated": "2025-07-10T17:48:43.052+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10732",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "To Do",
+          "id": "10732",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
+            "id": 2,
+            "key": "new",
+            "colorName": "blue-gray",
+            "name": "To Do"
+          }
+        }
+      }
+    }
+  ]
+}
