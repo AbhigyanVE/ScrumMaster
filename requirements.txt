@@ -1,5 +1,8 @@
-# pip install requests pydantic python-dotenv
+# pip install requests pydantic python-dotenv pandas streamlit ollama
 
 requests
 pydantic
 python-dotenv
+pandas
+streamlit
+ollama

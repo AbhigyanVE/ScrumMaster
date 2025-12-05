@@ -46,3 +46,7 @@ Thumbs.db
 # ---- GPT Files ----
 ChatGPT_files/
 github.html
+
+# ---- DB Files ----
+*.db
+*.sqlite3
