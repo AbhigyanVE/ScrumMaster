@@ -1,12 +1,21 @@
 import streamlit as st
 import sqlite3
 import pandas as pd
-import ollama
-import json
+import openai
+import os
+from dotenv import load_dotenv
+
+# Load environment variables from .env file
+load_dotenv()
 
 # === CONFIGURATION ===
 DATABASE_NAME = "jira_data.db"
-MODEL_NAME = "llama3.1"  # Make sure this model is pulled in Ollama
+
+# Get OpenAI API key from .env file
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "")
+
+if OPENAI_API_KEY:
+    openai.api_key = OPENAI_API_KEY
 
 # === DATABASE FUNCTIONS ===
 
@@ -68,16 +77,16 @@ def get_available_projects():
     conn.close()
     return projects
 
-# === LLM FUNCTIONS ===
+# === OPENAI FUNCTIONS ===
 
 def generate_sql_from_question(question):
-    """Use Ollama to convert natural language question to SQL"""
+    """Use OpenAI GPT-4o to convert natural language question to SQL"""
     
     schema = get_db_schema()
     assignees = get_available_assignees()
     projects = get_available_projects()
     
-    prompt = f"""You are a SQL expert. Convert the user's question into a valid SQLite query.
+    system_prompt = f"""You are a SQL expert. Convert the user's question into a valid SQLite query.
 
 {schema}
 
@@ -100,15 +109,20 @@ IMPORTANT RULES:
    - Blocked issues
 6. Always use proper string matching for names (use LIKE or exact match)
 7. Use GROUP BY for aggregations
-8. Use COUNT, SUM for metrics
-
-User Question: {question}
-
-SQL Query:"""
+8. Use COUNT, SUM for metrics"""
 
     try:
-        response = ollama.generate(model=MODEL_NAME, prompt=prompt)
-        sql_query = response['response'].strip()
+        response = openai.chat.completions.create(
+            model="gpt-4o",  # Best model available
+            messages=[
+                {"role": "system", "content": system_prompt},
+                {"role": "user", "content": question}
+            ],
+            temperature=0,
+            max_tokens=500
+        )
+        
+        sql_query = response.choices[0].message.content.strip()
         
         # Clean up the response (remove markdown if present)
         sql_query = sql_query.replace('```sql', '').replace('```', '').strip()
@@ -118,7 +132,7 @@ SQL Query:"""
         return f"Error generating SQL: {str(e)}"
 
 def generate_natural_response(question, query, results_df):
-    """Use Ollama to generate a natural language response from SQL results"""
+    """Use OpenAI GPT-4o to generate a natural language response from SQL results"""
     
     if results_df is None or results_df.empty:
         return "No data found for your question."
@@ -126,28 +140,36 @@ def generate_natural_response(question, query, results_df):
     # Convert dataframe to string representation
     results_text = results_df.to_string(index=False, max_rows=20)
     
-    prompt = f"""You are an AI Scrum Master analyzing Jira project data.
+    system_prompt = """You are an AI Scrum Master analyzing Jira project data.
+Based on the SQL results provided, give a clear, concise answer to the user's question. 
+- Be conversational and helpful
+- Highlight key insights
+- If it's about efficiency, mention completion rates and performance
+- If it's about project health, mention bottlenecks and priorities
+- Use bullet points for clarity when needed
+- Keep it under 200 words"""
 
-User asked: {question}
+    user_prompt = f"""User asked: {question}
 
 SQL query used: {query}
 
 Results:
 {results_text}
 
-Based on these results, provide a clear, concise answer to the user's question. 
-- Be conversational and helpful
-- Highlight key insights
-- If it's about efficiency, mention completion rates and performance
-- If it's about project health, mention bottlenecks and priorities
-- Use bullet points for clarity when needed
-- Keep it under 200 words
-
-Response:"""
+Provide your analysis:"""
 
     try:
-        response = ollama.generate(model=MODEL_NAME, prompt=prompt)
-        return response['response'].strip()
+        response = openai.chat.completions.create(
+            model="gpt-4o",  # Best model available
+            messages=[
+                {"role": "system", "content": system_prompt},
+                {"role": "user", "content": user_prompt}
+            ],
+            temperature=0.7,
+            max_tokens=500
+        )
+        
+        return response.choices[0].message.content.strip()
     except Exception as e:
         return f"Error generating response: {str(e)}"
 
@@ -158,6 +180,16 @@ def main():
     
     st.title("🤖 AI Scrum Master")
     st.markdown("Ask me anything about your Jira projects and team performance!")
+    
+    # Check for API key
+    if not OPENAI_API_KEY:
+        st.error("⚠️ OpenAI API key not found!")
+        st.info("Please add your API key to the .env file:")
+        st.code("""
+# Create a .env file in your project directory with:
+OPENAI_API_KEY=sk-proj-your-actual-api-key-here
+        """)
+        st.stop()
     
     # Sidebar with info
     with st.sidebar:
@@ -194,6 +226,9 @@ def main():
         - Who has the most open tasks?
         - What's the completion rate for [name]?
         """)
+        
+        st.markdown("---")
+        st.caption("🤖 Powered by OpenAI GPT-4o")
     
     # Initialize chat history
     if "messages" not in st.session_state:
@@ -209,7 +244,7 @@ def main():
                 with st.expander("🔍 View SQL Query & Data"):
                     st.code(message["sql"], language="sql")
                     if message.get("dataframe") is not None:
-                        st.dataframe(message["dataframe"], use_container_width=True)
+                        st.dataframe(message["dataframe"], width="stretch")
     
     # Chat input
     if prompt := st.chat_input("Ask about projects, team efficiency, or anything..."):
@@ -243,7 +278,7 @@ def main():
                     # Show expandable SQL and data
                     with st.expander("🔍 View SQL Query & Data"):
                         st.code(sql_query, language="sql")
-                        st.dataframe(results_df, use_container_width=True)
+                        st.dataframe(results_df, width="stretch")
                     
                     # Save to history
                     st.session_state.messages.append({
