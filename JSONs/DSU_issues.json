@@ -242,7 +242,7 @@
       "fields": {
         "summary": "Call Log--daily stand-ups, etc.",
         "created": "2025-07-31T11:47:41.531+0530",
-        "timespent": 73560,
+        "timespent": 77160,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=5f5b452d0b6be2006e056f42",
           "accountId": "5f5b452d0b6be2006e056f42",
@@ -263,7 +263,7 @@
           "name": "Medium",
           "id": "3"
         },
-        "updated": "2025-12-04T17:49:43.757+0530",
+        "updated": "2025-12-05T18:02:29.894+0530",
         "status": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10808",
           "description": "",

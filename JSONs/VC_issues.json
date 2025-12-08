@@ -79,19 +79,19 @@
           "name": "Highest",
           "id": "1"
         },
-        "updated": "2025-12-04T19:39:09.101+0530",
+        "updated": "2025-12-05T20:50:02.927+0530",
         "status": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10171",
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10061",
           "description": "",
           "iconUrl": "https://idealabprojects.atlassian.net/",
-          "name": "In Review",
-          "id": "10171",
+          "name": "Done",
+          "id": "10061",
           "statusCategory": {
-            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
-            "id": 2,
-            "key": "new",
-            "colorName": "blue-gray",
-            "name": "To Do"
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
           }
         }
       }

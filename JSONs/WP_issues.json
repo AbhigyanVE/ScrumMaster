@@ -6,6 +6,52 @@
   "issues": [
     {
       "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "14503",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14503",
+      "key": "WP-166",
+      "fields": {
+        "summary": "Design: Blog and Article Images",
+        "created": "2025-12-05T18:04:22.304+0530",
+        "timespent": 21600,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A7480f087-7269-4957-9e6d-ee85e73b09e2",
+          "accountId": "712020:7480f087-7269-4957-9e6d-ee85e73b09e2",
+          "avatarUrls": {
+            "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:7480f087-7269-4957-9e6d-ee85e73b09e2/bdf08eba-fdbb-4737-a97b-e9aceda31b31/48",
+            "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:7480f087-7269-4957-9e6d-ee85e73b09e2/bdf08eba-fdbb-4737-a97b-e9aceda31b31/24",
+            "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:7480f087-7269-4957-9e6d-ee85e73b09e2/bdf08eba-fdbb-4737-a97b-e9aceda31b31/16",
+            "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:7480f087-7269-4957-9e6d-ee85e73b09e2/bdf08eba-fdbb-4737-a97b-e9aceda31b31/32"
+          },
+          "displayName": "Mohit Kumar",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "updated": "2025-12-05T18:05:42.018+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10100",
+          "description": "This work item is being actively worked on at the moment by the assignee.",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "In Progress",
+          "id": "10100",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/4",
+            "id": 4,
+            "key": "indeterminate",
+            "colorName": "yellow",
+            "name": "In Progress"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
       "id": "14488",
       "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14488",
       "key": "WP-165",
@@ -281,7 +327,7 @@
       "fields": {
         "summary": "Design: FAQ by Domain Main Page",
         "created": "2025-12-01T19:07:09.880+0530",
-        "timespent": 54000,
+        "timespent": 61200,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A7480f087-7269-4957-9e6d-ee85e73b09e2",
           "accountId": "712020:7480f087-7269-4957-9e6d-ee85e73b09e2",
@@ -302,19 +348,19 @@
           "name": "Medium",
           "id": "3"
         },
-        "updated": "2025-12-04T19:55:53.122+0530",
+        "updated": "2025-12-05T13:21:50.810+0530",
         "status": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10100",
-          "description": "This work item is being actively worked on at the moment by the assignee.",
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10105",
+          "description": "",
           "iconUrl": "https://idealabprojects.atlassian.net/",
-          "name": "In Progress",
-          "id": "10100",
+          "name": "In Review",
+          "id": "10105",
           "statusCategory": {
-            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/4",
-            "id": 4,
-            "key": "indeterminate",
-            "colorName": "yellow",
-            "name": "In Progress"
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
+            "id": 2,
+            "key": "new",
+            "colorName": "blue-gray",
+            "name": "To Do"
           }
         }
       }
@@ -2827,91 +2873,6 @@
           "id": "3"
         },
         "updated": "2025-11-05T11:58:57.999+0530",
-        "status": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10101",
-          "description": "",
-          "iconUrl": "https://idealabprojects.atlassian.net/",
-          "name": "Done",
-          "id": "10101",
-          "statusCategory": {
-            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
-            "id": 3,
-            "key": "done",
-            "colorName": "green",
-            "name": "Done"
-          }
-        }
-      }
-    },
-    {
-      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
-      "id": "12171",
-      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/12171",
-      "key": "WP-114",
-      "fields": {
-        "summary": "Review: Videos page (Resources)",
-        "parent": {
-          "id": "11597",
-          "key": "WP-85",
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11597",
-          "fields": {
-            "summary": "Design: Videos page (Resources)",
-            "status": {
-              "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10101",
-              "description": "",
-              "iconUrl": "https://idealabprojects.atlassian.net/",
-              "name": "Done",
-              "id": "10101",
-              "statusCategory": {
-                "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
-                "id": 3,
-                "key": "done",
-                "colorName": "green",
-                "name": "Done"
-              }
-            },
-            "priority": {
-              "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
-              "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
-              "name": "Medium",
-              "id": "3"
-            },
-            "issuetype": {
-              "self": "https://idealabprojects.atlassian.net/rest/api/3/issuetype/10048",
-              "id": "10048",
-              "description": "A small, distinct piece of work.",
-              "iconUrl": "https://idealabprojects.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10318?size=medium",
-              "name": "Task",
-              "subtask": false,
-              "avatarId": 10318,
-              "entityId": "567121ae-9259-4ada-b1ba-e0790fae983b",
-              "hierarchyLevel": 0
-            }
-          }
-        },
-        "created": "2025-08-27T20:07:06.501+0530",
-        "timespent": null,
-        "assignee": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A7480f087-7269-4957-9e6d-ee85e73b09e2",
-          "accountId": "712020:7480f087-7269-4957-9e6d-ee85e73b09e2",
-          "avatarUrls": {
-            "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:7480f087-7269-4957-9e6d-ee85e73b09e2/bdf08eba-fdbb-4737-a97b-e9aceda31b31/48",
-            "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:7480f087-7269-4957-9e6d-ee85e73b09e2/bdf08eba-fdbb-4737-a97b-e9aceda31b31/24",
-            "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:7480f087-7269-4957-9e6d-ee85e73b09e2/bdf08eba-fdbb-4737-a97b-e9aceda31b31/16",
-            "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:7480f087-7269-4957-9e6d-ee85e73b09e2/bdf08eba-fdbb-4737-a97b-e9aceda31b31/32"
-          },
-          "displayName": "Mohit Kumar",
-          "active": true,
-          "timeZone": "Asia/Calcutta",
-          "accountType": "atlassian"
-        },
-        "priority": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/1",
-          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/highest_new.svg",
-          "name": "Highest",
-          "id": "1"
-        },
-        "updated": "2025-09-02T21:37:37.137+0530",
         "status": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10101",
           "description": "",
