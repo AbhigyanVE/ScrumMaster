@@ -155,7 +155,7 @@ def fetch_all_project_data():
             # If fetch succeeded, safely unpack the tuple
             issues, total = result
 
-        # FIX v2.2: Use len(issues) instead of total to get the ACTUAL count
+        # FIX v2.1: Use len(issues) instead of total to get the ACTUAL count
         actual_count = len(issues)
         
         # Store the project details and its issues
@@ -163,7 +163,7 @@ def fetch_all_project_data():
             "name": name,
             "id": project.get('id'),
             "self_url": project.get('self'),
-            "issue_count": actual_count,  # FIX v2.2: Use actual count from issues list
+            "issue_count": actual_count,  # FIX v2.1: Use actual count from issues list
             "issues": issues
         }
         
