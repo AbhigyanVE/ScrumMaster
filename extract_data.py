@@ -155,14 +155,28 @@ def fetch_all_project_data():
             # If fetch succeeded, safely unpack the tuple
             issues, total = result
 
+        # FIX v2.2: Use len(issues) instead of total to get the ACTUAL count
+        actual_count = len(issues)
+        
         # Store the project details and its issues
         all_data[key] = {
             "name": name,
             "id": project.get('id'),
             "self_url": project.get('self'),
-            "issue_count": total,
+            "issue_count": actual_count,  # FIX v2.2: Use actual count from issues list
             "issues": issues
         }
+        
+        # Debug print to verify
+        '''
+        The Jira API sometimes returns total: 0 in the response metadata when:
+        - Using certain field restrictions
+        - The JQL query structure confuses the total counter
+        - But it still returns all the actual issues in the issues[] array
+
+        and hence we see a discrepancy: -> Fetched 19 issues (API reported 0)
+        '''
+        print(f"   -> Fetched {actual_count} issues (API reported {total})")
 
     return all_data
 
