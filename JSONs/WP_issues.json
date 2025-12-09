@@ -2,7 +2,7 @@
   "name": "Website Pages",
   "id": "10023",
   "self_url": "https://idealabprojects.atlassian.net/rest/api/3/project/10023",
-  "issue_count": 0,
+  "issue_count": 50,
   "issues": [
     {
       "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
@@ -327,7 +327,7 @@
       "fields": {
         "summary": "Design: FAQ by Domain Main Page",
         "created": "2025-12-01T19:07:09.880+0530",
-        "timespent": 61200,
+        "timespent": 90000,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A7480f087-7269-4957-9e6d-ee85e73b09e2",
           "accountId": "712020:7480f087-7269-4957-9e6d-ee85e73b09e2",
@@ -348,7 +348,7 @@
           "name": "Medium",
           "id": "3"
         },
-        "updated": "2025-12-05T13:21:50.810+0530",
+        "updated": "2025-12-08T20:07:38.436+0530",
         "status": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10105",
           "description": "",

@@ -2,7 +2,7 @@
   "name": "Social Media",
   "id": "10012",
   "self_url": "https://idealabprojects.atlassian.net/rest/api/3/project/10012",
-  "issue_count": 0,
+  "issue_count": 50,
   "issues": [
     {
       "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",

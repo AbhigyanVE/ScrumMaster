@@ -4,7 +4,7 @@ import pandas as pd
 import openai
 import os
 from dotenv import load_dotenv
-from pydantic import BaseModel, Field, ValidationError
+from pydantic import BaseModel, Field, ValidationError, ConfigDict
 from typing import List, Optional, Dict
 from datetime import datetime
 import json
@@ -62,17 +62,27 @@ class AssignmentSuggestion(BaseModel):
     reasoning: str = Field(..., description="Why this person is recommended")
     current_workload: int = Field(..., description="Assignee's current workload")
     
-class ScrumMasterOutput(BaseModel):
-    """Generic output from Scrum Master agent"""
-    query_type: str = Field(..., description="Type of query: health/standup/assignment/general")
-    analysis: str = Field(..., description="Natural language analysis")
-    sql_query: Optional[str] = Field(None, description="SQL query used if applicable")
-    structured_data: Optional[List[Dict]] = Field(None, description="Structured output data as list of records")
-    recommendations: List[str] = Field(default_factory=list, description="Action items")
-    timestamp: str = Field(default_factory=lambda: datetime.now().isoformat())
+# class ScrumMasterOutput(BaseModel):
+#     """Generic output from Scrum Master agent"""
+#     query_type: str = Field(..., description="Type of query: health/standup/assignment/general")
+#     analysis: str = Field(..., description="Natural language analysis")
+#     sql_query: Optional[str] = Field(None, description="SQL query used if applicable")
+#     structured_data: Optional[List[Dict]] = Field(None, description="Structured output data as list of records")
+#     recommendations: List[str] = Field(default_factory=list, description="Action items")
+#     timestamp: str = Field(default_factory=lambda: datetime.now().isoformat())
     
-    class Config:
-        arbitrary_types_allowed = True
+#     class Config:
+#         arbitrary_types_allowed = True
+
+# Updated ScrumMasterOutput with ConfigDict for Pydantic's v2 compatibility
+class ScrumMasterOutput(BaseModel):
+    query_type: str
+    analysis: str
+    sql_query: Optional[str] = None
+    structured_data: Optional[List[Dict]] = None
+    recommendations: List[str] = Field(default_factory=list)
+    timestamp: str = Field(default_factory=lambda: datetime.now().isoformat())
+    model_config = ConfigDict(arbitrary_types_allowed=True)
 
 # ----------------------------------------------------------------------------
 # AI-02: Agent Persona Definition
@@ -316,12 +326,44 @@ def get_db_schema():
     return schema
 
 def execute_sql(query):
-    """Execute SQL query and return results as DataFrame"""
+    """Execute SQL query and return results as DataFrame. Handles multiple queries."""
     try:
+        # Check if there are multiple queries (separated by semicolons)
+        queries = [q.strip() for q in query.split(';') if q.strip()]
+        
+        if len(queries) == 0:
+            return None, "No valid SQL query provided"
+        
         conn = sqlite3.connect(DATABASE_NAME)
-        df = pd.read_sql_query(query, conn)
-        conn.close()
-        return df, None
+        
+        if len(queries) == 1:
+            # Single query - execute normally
+            df = pd.read_sql_query(queries[0], conn)
+            conn.close()
+            return df, None
+        else:
+            # Multiple queries - execute each and combine results
+            all_results = []
+            for i, q in enumerate(queries):
+                try:
+                    df = pd.read_sql_query(q, conn)
+                    # Add a column to identify which query this came from
+                    df['query_section'] = f"Query_{i+1}"
+                    all_results.append(df)
+                except Exception as e:
+                    # If one query fails, add error info
+                    error_df = pd.DataFrame({
+                        'error': [f"Query {i+1} failed: {str(e)}"],
+                        'query_section': [f"Query_{i+1}"]
+                    })
+                    all_results.append(error_df)
+            
+            conn.close()
+            
+            # Combine all results into one DataFrame
+            combined_df = pd.concat(all_results, ignore_index=True, sort=False)
+            return combined_df, None
+            
     except Exception as e:
         return None, str(e)
 
@@ -351,12 +393,19 @@ def classify_query_type(question: str) -> str:
     """Classify the type of user query"""
     question_lower = question.lower()
     
+    # Check for greetings/casual conversation first
+    greetings = ["hi", "hello", "hey", "good morning", "good afternoon", "good evening", "thanks", "thank you", "bye", "goodbye"]
+    if any(greeting == question_lower.strip() or question_lower.strip().startswith(greeting + " ") for greeting in greetings):
+        return "greeting"
+    
     if any(word in question_lower for word in ["health", "sprint", "project status"]):
         return "health"
     elif any(word in question_lower for word in ["standup", "daily", "what did", "working on"]):
         return "standup"
     elif any(word in question_lower for word in ["assign", "who should", "suggest", "recommend"]):
         return "assignment"
+    elif any(word in question_lower for word in ["list", "show me", "give me", "all team", "all project", "all member"]):
+        return "list"
     else:
         return "general"
 
@@ -384,12 +433,31 @@ IMPORTANT RULES:
 1. Return ONLY the SQL query, nothing else
 2. No explanations, no markdown, no code blocks
 3. Use proper SQLite syntax
-4. For health queries: get status distribution, priorities, blocked issues
-5. For standup queries: focus on specific assignee's recent activity
-6. For assignment queries: analyze workload distribution
-7. Always use proper string matching for names (use LIKE or exact match)
-8. Use GROUP BY for aggregations
-9. Use COUNT, SUM for metrics"""
+4. PREFER SINGLE QUERIES: Try to get all needed data in ONE query using JOINs, subqueries, or UNION
+5. If you absolutely need multiple queries, separate them with semicolons (they will be executed sequentially)
+6. For health queries: Use CASE statements and subqueries to get status distribution, priorities, and blocked issues in ONE query
+7. For standup queries: focus on specific assignee's recent activity
+8. For assignment queries: analyze workload distribution
+9. Always use proper string matching for names (use LIKE or exact match)
+10. Use GROUP BY for aggregations
+11. Use COUNT, SUM for metrics
+
+EXAMPLE for project health (SINGLE QUERY):
+SELECT 
+  'Status Distribution' as metric_type,
+  status as category,
+  COUNT(*) as count
+FROM issues 
+WHERE project_key = 'ABC'
+GROUP BY status
+UNION ALL
+SELECT 
+  'Priority Distribution' as metric_type,
+  priority as category,
+  COUNT(*) as count
+FROM issues 
+WHERE project_key = 'ABC'
+GROUP BY priority;"""
 
     try:
         response = openai.chat.completions.create(
@@ -415,7 +483,7 @@ def generate_structured_response(question: str, query_type: str, sql_query: str,
     if results_df is None or results_df.empty:
         return ValidationHandler.create_fallback_output(query_type, "No data found")
     
-    results_text = results_df.to_string(index=False, max_rows=20)
+    results_text = results_df.to_string(index=False, max_rows=100)  # Increased from 20 to 100
     persona = ScrumMasterAgent.get_persona_prompt()
     
     # Get appropriate template based on query type
@@ -425,6 +493,8 @@ def generate_structured_response(question: str, query_type: str, sql_query: str,
         template_context = "This is a standup summary query."
     elif query_type == "assignment":
         template_context = "This is a task assignment suggestion query."
+    elif query_type == "list":
+        template_context = "This is a list query. Show ALL items from the data clearly."
     else:
         template_context = "This is a general query."
     
@@ -433,16 +503,24 @@ def generate_structured_response(question: str, query_type: str, sql_query: str,
 {template_context}
 
 Based on the SQL results, provide analysis and recommendations.
-Be specific, actionable, and supportive."""
+Be specific, actionable, and supportive.
+
+IMPORTANT: If the user asked to "list" or "show" items (team members, projects, etc.), 
+you MUST display ALL items from the results clearly, not just summarize them."""
 
     user_prompt = f"""User asked: {question}
 
 SQL query used: {sql_query}
 
-Results:
+Results (showing up to 100 rows):
 {results_text}
 
-Provide your analysis as a Scrum Master. Include:
+Provide your response. If this is a LIST query, format it clearly:
+1. Start with a brief intro
+2. List ALL items from the data (use bullet points or numbered list)
+3. End with a summary count
+
+If this is an ANALYSIS query, include:
 1. Clear summary of the data
 2. Key insights and patterns
 3. At least 2-3 specific recommendations
@@ -456,7 +534,7 @@ Provide your analysis as a Scrum Master. Include:
                 {"role": "user", "content": user_prompt}
             ],
             temperature=0.7,
-            max_tokens=600
+            max_tokens=600  # Increased to 1000 if needed to handle longer lists
         )
         
         analysis = response.choices[0].message.content.strip()
@@ -585,7 +663,7 @@ def main():
                     with st.expander("🔍 View SQL Query & Data"):
                         st.code(output.sql_query, language="sql")
                         if output.structured_data:
-                            st.dataframe(pd.DataFrame(output.structured_data), use_container_width=True)
+                            st.dataframe(pd.DataFrame(output.structured_data), width='content')
     
     # Chat input
     if prompt := st.chat_input("Ask about projects, team efficiency, health reports..."):
@@ -596,46 +674,75 @@ def main():
         
         # Generate response
         with st.chat_message("assistant"):
-            with st.spinner("🤔 Analyzing with AI Scrum Master agent..."):
-                # Classify query type
-                query_type = classify_query_type(prompt)
+            # Classify query type
+            query_type = classify_query_type(prompt)
+            
+            # Handle greetings separately (no SQL needed)
+            if query_type == "greeting":
+                greeting_responses = {
+                    "hi": "Hello! I'm your AI Scrum Master. How can I help you with your projects and team today?",
+                    "hello": "Hi there! Ready to dive into your Jira data? Ask me anything about your projects, team performance, or sprint health!",
+                    "hey": "Hey! What would you like to know about your projects or team?",
+                    "good morning": "Good morning! Let's make today productive. What can I help you analyze?",
+                    "good afternoon": "Good afternoon! How can I assist with your Agile insights today?",
+                    "good evening": "Good evening! What would you like to explore in your Jira data?",
+                    "thanks": "You're welcome! Feel free to ask anything else about your projects.",
+                    "thank you": "Happy to help! Let me know if you need anything else.",
+                    "bye": "Goodbye! Come back anytime you need insights on your projects!",
+                    "goodbye": "See you later! Don't hesitate to return for more Agile insights."
+                }
                 
-                # Generate SQL
-                sql_query = generate_sql_from_question(prompt, query_type)
+                # Find matching greeting
+                response = "Hello! How can I assist you with your Agile and Scrum needs today?"
+                for key, value in greeting_responses.items():
+                    if key in prompt.lower():
+                        response = value
+                        break
                 
-                # Execute SQL
-                results_df, error = execute_sql(sql_query)
-                
-                if error:
-                    output = ValidationHandler.create_fallback_output(query_type, error)
-                    st.error(f"Query Error: {error}")
-                    st.code(sql_query, language="sql")
-                else:
-                    # Generate structured response
-                    output = generate_structured_response(prompt, query_type, sql_query, results_df)
-                
-                # Display analysis
-                st.markdown(output.analysis)
-                
-                # Show recommendations
-                if output.recommendations:
-                    with st.expander("💡 Recommendations"):
-                        for rec in output.recommendations:
-                            st.markdown(f"- {rec}")
-                
-                # Show SQL and data
-                if output.sql_query:
-                    with st.expander("🔍 View SQL Query & Data"):
-                        st.code(output.sql_query, language="sql")
-                        if output.structured_data:
-                            st.dataframe(pd.DataFrame(output.structured_data), use_container_width=True)
-                
-                # Save to history
+                st.markdown(response)
                 st.session_state.messages.append({
                     "role": "assistant",
-                    "content": output.analysis,
-                    "structured_output": output
+                    "content": response
                 })
+            else:
+                # Regular queries - need SQL
+                with st.spinner("🤔 Analyzing with AI Scrum Master agent..."):
+                    # Generate SQL
+                    sql_query = generate_sql_from_question(prompt, query_type)
+                    
+                    # Execute SQL
+                    results_df, error = execute_sql(sql_query)
+                    
+                    if error:
+                        output = ValidationHandler.create_fallback_output(query_type, error)
+                        st.error(f"Query Error: {error}")
+                        st.code(sql_query, language="sql")
+                    else:
+                        # Generate structured response
+                        output = generate_structured_response(prompt, query_type, sql_query, results_df)
+                    
+                    # Display analysis
+                    st.markdown(output.analysis)
+                    
+                    # Show recommendations
+                    if output.recommendations:
+                        with st.expander("💡 Recommendations"):
+                            for rec in output.recommendations:
+                                st.markdown(f"- {rec}")
+                    
+                    # Show SQL and data
+                    if output.sql_query:
+                        with st.expander("🔍 View SQL Query & Data"):
+                            st.code(output.sql_query, language="sql")
+                            if output.structured_data:
+                                st.dataframe(pd.DataFrame(output.structured_data), width='content')
+                    
+                    # Save to history
+                    st.session_state.messages.append({
+                        "role": "assistant",
+                        "content": output.analysis,
+                        "structured_output": output
+                    })
     
     # Clear chat button
     if st.sidebar.button("🗑️ Clear Chat & Context"):

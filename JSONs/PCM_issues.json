@@ -2,7 +2,7 @@
   "name": "PPC Campaign Management",
   "id": "10019",
   "self_url": "https://idealabprojects.atlassian.net/rest/api/3/project/10019",
-  "issue_count": 0,
+  "issue_count": 50,
   "issues": [
     {
       "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",

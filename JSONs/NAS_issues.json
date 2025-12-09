@@ -2,7 +2,7 @@
   "name": "Apps & AI Agent",
   "id": "10619",
   "self_url": "https://idealabprojects.atlassian.net/rest/api/3/project/10619",
-  "issue_count": 0,
+  "issue_count": 10,
   "issues": [
     {
       "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",

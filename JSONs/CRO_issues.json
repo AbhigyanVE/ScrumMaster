@@ -2,7 +2,7 @@
   "name": "CRO",
   "id": "10553",
   "self_url": "https://idealabprojects.atlassian.net/rest/api/3/project/10553",
-  "issue_count": 0,
+  "issue_count": 50,
   "issues": [
     {
       "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
@@ -51,7 +51,7 @@
           }
         },
         "created": "2025-11-27T21:06:00.706+0530",
-        "timespent": 14400,
+        "timespent": 43200,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
           "accountId": "712020:3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
@@ -72,7 +72,7 @@
           "name": "Medium",
           "id": "3"
         },
-        "updated": "2025-11-27T21:08:09.203+0530",
+        "updated": "2025-12-08T20:35:52.260+0530",
         "status": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10798",
           "description": "",

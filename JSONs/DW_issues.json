@@ -2,7 +2,7 @@
   "name": "Dhian's Website",
   "id": "10009",
   "self_url": "https://idealabprojects.atlassian.net/rest/api/3/project/10009",
-  "issue_count": 0,
+  "issue_count": 5,
   "issues": [
     {
       "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",

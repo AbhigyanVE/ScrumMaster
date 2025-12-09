@@ -2,7 +2,7 @@
   "name": "Web Articles",
   "id": "10355",
   "self_url": "https://idealabprojects.atlassian.net/rest/api/3/project/10355",
-  "issue_count": 0,
+  "issue_count": 50,
   "issues": [
     {
       "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
@@ -28,12 +28,12 @@
           "accountType": "atlassian"
         },
         "priority": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
-          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
-          "name": "Medium",
-          "id": "3"
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/1",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/highest_new.svg",
+          "name": "Highest",
+          "id": "1"
         },
-        "updated": "2025-12-02T15:24:38.698+0530",
+        "updated": "2025-12-09T11:15:28.968+0530",
         "status": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10571",
           "description": "",

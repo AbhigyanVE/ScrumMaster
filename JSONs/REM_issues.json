@@ -2,7 +2,7 @@
   "name": "Remarketing",
   "id": "10322",
   "self_url": "https://idealabprojects.atlassian.net/rest/api/3/project/10322",
-  "issue_count": 0,
+  "issue_count": 32,
   "issues": [
     {
       "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",

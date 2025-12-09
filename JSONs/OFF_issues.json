@@ -2,8 +2,54 @@
   "name": "Off-Page SEO Content",
   "id": "10006",
   "self_url": "https://idealabprojects.atlassian.net/rest/api/3/project/10006",
-  "issue_count": 0,
+  "issue_count": 50,
   "issues": [
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "14552",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14552",
+      "key": "OFF-354",
+      "fields": {
+        "summary": "Reddit & Quora",
+        "created": "2025-12-08T18:38:06.811+0530",
+        "timespent": 6600,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Afe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
+          "accountId": "712020:fe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+            "24x24": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+            "16x16": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+            "32x32": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png"
+          },
+          "displayName": "abha jha",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "updated": "2025-12-08T19:10:48.562+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10028",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "To Do",
+          "id": "10028",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
+            "id": 2,
+            "key": "new",
+            "colorName": "blue-gray",
+            "name": "To Do"
+          }
+        }
+      }
+    },
     {
       "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
       "id": "13872",
@@ -3028,91 +3074,6 @@
           "iconUrl": "https://idealabprojects.atlassian.net/",
           "name": "Implement Feedback",
           "id": "10068",
-          "statusCategory": {
-            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
-            "id": 2,
-            "key": "new",
-            "colorName": "blue-gray",
-            "name": "To Do"
-          }
-        }
-      }
-    },
-    {
-      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
-      "id": "12064",
-      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/12064",
-      "key": "OFF-304",
-      "fields": {
-        "summary": " Infographic- What Global CTOs Look for When Hiring Offshore Software Teams",
-        "parent": {
-          "id": "12029",
-          "key": "OFF-301",
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/12029",
-          "fields": {
-            "summary": "Infographic- What Global CTOs Look for When Hiring Offshore Software Teams",
-            "status": {
-              "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10031",
-              "description": "",
-              "iconUrl": "https://idealabprojects.atlassian.net/",
-              "name": "In Review",
-              "id": "10031",
-              "statusCategory": {
-                "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
-                "id": 2,
-                "key": "new",
-                "colorName": "blue-gray",
-                "name": "To Do"
-              }
-            },
-            "priority": {
-              "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
-              "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
-              "name": "Medium",
-              "id": "3"
-            },
-            "issuetype": {
-              "self": "https://idealabprojects.atlassian.net/rest/api/3/issuetype/10014",
-              "id": "10014",
-              "description": "A small, distinct piece of work.",
-              "iconUrl": "https://idealabprojects.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10318?size=medium",
-              "name": "Task",
-              "subtask": false,
-              "avatarId": 10318,
-              "entityId": "6147faa0-551f-4ef0-9050-b8cab73417ce",
-              "hierarchyLevel": 0
-            }
-          }
-        },
-        "created": "2025-08-22T16:20:31.491+0530",
-        "timespent": 900,
-        "assignee": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Afe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
-          "accountId": "712020:fe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
-          "avatarUrls": {
-            "48x48": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
-            "24x24": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
-            "16x16": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
-            "32x32": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png"
-          },
-          "displayName": "abha jha",
-          "active": true,
-          "timeZone": "Asia/Calcutta",
-          "accountType": "atlassian"
-        },
-        "priority": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
-          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
-          "name": "Medium",
-          "id": "3"
-        },
-        "updated": "2025-09-04T13:11:58.648+0530",
-        "status": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10031",
-          "description": "",
-          "iconUrl": "https://idealabprojects.atlassian.net/",
-          "name": "In Review",
-          "id": "10031",
           "statusCategory": {
             "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
             "id": 2,

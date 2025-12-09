@@ -2,7 +2,7 @@
   "name": "Brochures",
   "id": "10190",
   "self_url": "https://idealabprojects.atlassian.net/rest/api/3/project/10190",
-  "issue_count": 0,
+  "issue_count": 8,
   "issues": [
     {
       "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
