@@ -45,7 +45,7 @@
       "fields": {
         "summary": "SEO pages content",
         "created": "2025-12-04T19:36:32.105+0530",
-        "timespent": 10800,
+        "timespent": 21600,
         "assignee": null,
         "priority": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/1",
@@ -53,7 +53,7 @@
           "name": "Highest",
           "id": "1"
         },
-        "updated": "2025-12-04T19:41:51.974+0530",
+        "updated": "2025-12-09T19:04:29.861+0530",
         "status": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10604",
           "description": "This work item is being actively worked on at the moment by the assignee.",

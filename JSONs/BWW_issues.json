@@ -6,6 +6,52 @@
   "issues": [
     {
       "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "14560",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14560",
+      "key": "BWW-154",
+      "fields": {
+        "summary": "Real Estate VA - FAQs",
+        "created": "2025-12-09T18:51:12.934+0530",
+        "timespent": 10800,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A9118629a-f338-4a5a-9762-4244c0a608a8",
+          "accountId": "712020:9118629a-f338-4a5a-9762-4244c0a608a8",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/1ec1580bbcb02bd480d7b38c0cdf0a15?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKG-3.png",
+            "24x24": "https://secure.gravatar.com/avatar/1ec1580bbcb02bd480d7b38c0cdf0a15?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKG-3.png",
+            "16x16": "https://secure.gravatar.com/avatar/1ec1580bbcb02bd480d7b38c0cdf0a15?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKG-3.png",
+            "32x32": "https://secure.gravatar.com/avatar/1ec1580bbcb02bd480d7b38c0cdf0a15?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKG-3.png"
+          },
+          "displayName": "Koyel Ghosh",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/1",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/highest_new.svg",
+          "name": "Highest",
+          "id": "1"
+        },
+        "updated": "2025-12-09T18:57:58.715+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10767",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "Done",
+          "id": "10767",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
       "id": "13587",
       "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/13587",
       "key": "BWW-153",
@@ -3295,91 +3341,6 @@
           "id": "3"
         },
         "updated": "2025-10-06T19:40:13.761+0530",
-        "status": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10767",
-          "description": "",
-          "iconUrl": "https://idealabprojects.atlassian.net/",
-          "name": "Done",
-          "id": "10767",
-          "statusCategory": {
-            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
-            "id": 3,
-            "key": "done",
-            "colorName": "green",
-            "name": "Done"
-          }
-        }
-      }
-    },
-    {
-      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
-      "id": "12504",
-      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/12504",
-      "key": "BWW-102",
-      "fields": {
-        "summary": "Medium Spoke Article-Fortune 500s Are Quietly Building in India First. Here’s What They Know",
-        "parent": {
-          "id": "12421",
-          "key": "BWW-88",
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/12421",
-          "fields": {
-            "summary": "1B Project (Medium Article) - Why Fortune 500s Are Building ‘India-First’ Tech Teams Before Expanding Globally",
-            "status": {
-              "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10767",
-              "description": "",
-              "iconUrl": "https://idealabprojects.atlassian.net/",
-              "name": "Done",
-              "id": "10767",
-              "statusCategory": {
-                "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
-                "id": 3,
-                "key": "done",
-                "colorName": "green",
-                "name": "Done"
-              }
-            },
-            "priority": {
-              "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
-              "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
-              "name": "Medium",
-              "id": "3"
-            },
-            "issuetype": {
-              "self": "https://idealabprojects.atlassian.net/rest/api/3/issuetype/10547",
-              "id": "10547",
-              "description": "A small, distinct piece of work.",
-              "iconUrl": "https://idealabprojects.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10318?size=medium",
-              "name": "Task",
-              "subtask": false,
-              "avatarId": 10318,
-              "entityId": "f3e3b4e8-3605-4471-92a5-90eaf6177383",
-              "hierarchyLevel": 0
-            }
-          }
-        },
-        "created": "2025-09-11T19:51:23.196+0530",
-        "timespent": null,
-        "assignee": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3d0d1e55-ab61-4668-a46a-fc40721ae07a",
-          "accountId": "712020:3d0d1e55-ab61-4668-a46a-fc40721ae07a",
-          "avatarUrls": {
-            "48x48": "https://secure.gravatar.com/avatar/4067b0ff6b0ef001cbbbe2fa0b4c144e?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSB-3.png",
-            "24x24": "https://secure.gravatar.com/avatar/4067b0ff6b0ef001cbbbe2fa0b4c144e?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSB-3.png",
-            "16x16": "https://secure.gravatar.com/avatar/4067b0ff6b0ef001cbbbe2fa0b4c144e?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSB-3.png",
-            "32x32": "https://secure.gravatar.com/avatar/4067b0ff6b0ef001cbbbe2fa0b4c144e?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSB-3.png"
-          },
-          "displayName": "Sandip Bhattacharya",
-          "active": true,
-          "timeZone": "Asia/Calcutta",
-          "accountType": "atlassian"
-        },
-        "priority": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/2",
-          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/high_new.svg",
-          "name": "High",
-          "id": "2"
-        },
-        "updated": "2025-09-12T19:37:47.635+0530",
         "status": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10767",
           "description": "",

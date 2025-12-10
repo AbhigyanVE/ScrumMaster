@@ -104,7 +104,7 @@
       "fields": {
         "summary": "Design: teckvally.co.in",
         "created": "2025-10-06T20:15:15.289+0530",
-        "timespent": 14400,
+        "timespent": 43200,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A7480f087-7269-4957-9e6d-ee85e73b09e2",
           "accountId": "712020:7480f087-7269-4957-9e6d-ee85e73b09e2",
@@ -125,19 +125,19 @@
           "name": "Medium",
           "id": "3"
         },
-        "updated": "2025-11-03T11:07:31.390+0530",
+        "updated": "2025-12-09T19:46:24.069+0530",
         "status": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/11068",
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/11067",
           "description": "",
           "iconUrl": "https://idealabprojects.atlassian.net/",
-          "name": "Done",
-          "id": "11068",
+          "name": "In Progress",
+          "id": "11067",
           "statusCategory": {
-            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
-            "id": 3,
-            "key": "done",
-            "colorName": "green",
-            "name": "Done"
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/4",
+            "id": 4,
+            "key": "indeterminate",
+            "colorName": "yellow",
+            "name": "In Progress"
           }
         }
       }

@@ -33,19 +33,19 @@
           "name": "Medium",
           "id": "3"
         },
-        "updated": "2025-12-09T11:26:11.685+0530",
+        "updated": "2025-12-09T18:43:25.656+0530",
         "status": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10016",
-          "description": "",
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10017",
+          "description": "This work item is being actively worked on at the moment by the assignee.",
           "iconUrl": "https://idealabprojects.atlassian.net/",
-          "name": "To Do",
-          "id": "10016",
+          "name": "In Progress",
+          "id": "10017",
           "statusCategory": {
-            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
-            "id": 2,
-            "key": "new",
-            "colorName": "blue-gray",
-            "name": "To Do"
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/4",
+            "id": 4,
+            "key": "indeterminate",
+            "colorName": "yellow",
+            "name": "In Progress"
           }
         }
       }
@@ -58,7 +58,7 @@
       "fields": {
         "summary": "Christmas (Landing Page - PPC)",
         "created": "2025-12-08T13:38:06.154+0530",
-        "timespent": null,
+        "timespent": 28800,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
           "accountId": "712020:3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
@@ -79,19 +79,19 @@
           "name": "Medium",
           "id": "3"
         },
-        "updated": "2025-12-08T14:31:12.322+0530",
+        "updated": "2025-12-09T18:42:32.871+0530",
         "status": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10017",
-          "description": "This work item is being actively worked on at the moment by the assignee.",
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10018",
+          "description": "",
           "iconUrl": "https://idealabprojects.atlassian.net/",
-          "name": "In Progress",
-          "id": "10017",
+          "name": "Done",
+          "id": "10018",
           "statusCategory": {
-            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/4",
-            "id": 4,
-            "key": "indeterminate",
-            "colorName": "yellow",
-            "name": "In Progress"
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
           }
         }
       }
@@ -171,7 +171,7 @@
           "name": "Highest",
           "id": "1"
         },
-        "updated": "2025-12-05T17:31:12.030+0530",
+        "updated": "2025-12-09T20:07:52.633+0530",
         "status": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10016",
           "description": "",
@@ -302,7 +302,7 @@
           "name": "Medium",
           "id": "3"
         },
-        "updated": "2025-12-03T14:56:02.402+0530",
+        "updated": "2025-12-09T16:31:23.152+0530",
         "status": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10016",
           "description": "",
@@ -329,15 +329,15 @@
         "created": "2025-12-01T12:18:08.497+0530",
         "timespent": 28800,
         "assignee": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
-          "accountId": "712020:3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A87014598-7fc2-4a58-bbc5-8ec01fc54856",
+          "accountId": "712020:87014598-7fc2-4a58-bbc5-8ec01fc54856",
           "avatarUrls": {
-            "48x48": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
-            "24x24": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
-            "16x16": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
-            "32x32": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png"
+            "48x48": "https://secure.gravatar.com/avatar/20f56106f26bf5669c2f46835ef78571?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDS-1.png",
+            "24x24": "https://secure.gravatar.com/avatar/20f56106f26bf5669c2f46835ef78571?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDS-1.png",
+            "16x16": "https://secure.gravatar.com/avatar/20f56106f26bf5669c2f46835ef78571?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDS-1.png",
+            "32x32": "https://secure.gravatar.com/avatar/20f56106f26bf5669c2f46835ef78571?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDS-1.png"
           },
-          "displayName": "Vikas Bhardwaj",
+          "displayName": "Deepakshi saini",
           "active": true,
           "timeZone": "Asia/Calcutta",
           "accountType": "atlassian"
@@ -348,13 +348,13 @@
           "name": "Medium",
           "id": "3"
         },
-        "updated": "2025-12-05T10:48:46.606+0530",
+        "updated": "2025-12-10T09:52:31.763+0530",
         "status": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10019",
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10076",
           "description": "",
           "iconUrl": "https://idealabprojects.atlassian.net/",
-          "name": "In Review",
-          "id": "10019",
+          "name": "Implement Feedback",
+          "id": "10076",
           "statusCategory": {
             "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
             "id": 2,
@@ -644,15 +644,15 @@
         "created": "2025-11-13T12:58:02.063+0530",
         "timespent": 86400,
         "assignee": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=605aad190a9b6900719e7c99",
-          "accountId": "605aad190a9b6900719e7c99",
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A87014598-7fc2-4a58-bbc5-8ec01fc54856",
+          "accountId": "712020:87014598-7fc2-4a58-bbc5-8ec01fc54856",
           "avatarUrls": {
-            "48x48": "https://secure.gravatar.com/avatar/4f0d47d7277fe8d2b9942e49df3be561?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDM-5.png",
-            "24x24": "https://secure.gravatar.com/avatar/4f0d47d7277fe8d2b9942e49df3be561?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDM-5.png",
-            "16x16": "https://secure.gravatar.com/avatar/4f0d47d7277fe8d2b9942e49df3be561?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDM-5.png",
-            "32x32": "https://secure.gravatar.com/avatar/4f0d47d7277fe8d2b9942e49df3be561?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDM-5.png"
+            "48x48": "https://secure.gravatar.com/avatar/20f56106f26bf5669c2f46835ef78571?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDS-1.png",
+            "24x24": "https://secure.gravatar.com/avatar/20f56106f26bf5669c2f46835ef78571?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDS-1.png",
+            "16x16": "https://secure.gravatar.com/avatar/20f56106f26bf5669c2f46835ef78571?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDS-1.png",
+            "32x32": "https://secure.gravatar.com/avatar/20f56106f26bf5669c2f46835ef78571?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDS-1.png"
           },
-          "displayName": "Daya Mukherjee",
+          "displayName": "Deepakshi saini",
           "active": true,
           "timeZone": "Asia/Calcutta",
           "accountType": "atlassian"
@@ -663,13 +663,13 @@
           "name": "Medium",
           "id": "3"
         },
-        "updated": "2025-12-04T19:15:09.819+0530",
+        "updated": "2025-12-10T09:24:09.801+0530",
         "status": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10019",
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10076",
           "description": "",
           "iconUrl": "https://idealabprojects.atlassian.net/",
-          "name": "In Review",
-          "id": "10019",
+          "name": "Implement Feedback",
+          "id": "10076",
           "statusCategory": {
             "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
             "id": 2,
@@ -690,15 +690,15 @@
         "created": "2025-11-11T19:04:05.472+0530",
         "timespent": 75600,
         "assignee": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=605aad190a9b6900719e7c99",
-          "accountId": "605aad190a9b6900719e7c99",
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A87014598-7fc2-4a58-bbc5-8ec01fc54856",
+          "accountId": "712020:87014598-7fc2-4a58-bbc5-8ec01fc54856",
           "avatarUrls": {
-            "48x48": "https://secure.gravatar.com/avatar/4f0d47d7277fe8d2b9942e49df3be561?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDM-5.png",
-            "24x24": "https://secure.gravatar.com/avatar/4f0d47d7277fe8d2b9942e49df3be561?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDM-5.png",
-            "16x16": "https://secure.gravatar.com/avatar/4f0d47d7277fe8d2b9942e49df3be561?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDM-5.png",
-            "32x32": "https://secure.gravatar.com/avatar/4f0d47d7277fe8d2b9942e49df3be561?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDM-5.png"
+            "48x48": "https://secure.gravatar.com/avatar/20f56106f26bf5669c2f46835ef78571?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDS-1.png",
+            "24x24": "https://secure.gravatar.com/avatar/20f56106f26bf5669c2f46835ef78571?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDS-1.png",
+            "16x16": "https://secure.gravatar.com/avatar/20f56106f26bf5669c2f46835ef78571?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDS-1.png",
+            "32x32": "https://secure.gravatar.com/avatar/20f56106f26bf5669c2f46835ef78571?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDS-1.png"
           },
-          "displayName": "Daya Mukherjee",
+          "displayName": "Deepakshi saini",
           "active": true,
           "timeZone": "Asia/Calcutta",
           "accountType": "atlassian"
@@ -709,13 +709,13 @@
           "name": "Medium",
           "id": "3"
         },
-        "updated": "2025-12-05T19:56:56.897+0530",
+        "updated": "2025-12-10T10:42:32.268+0530",
         "status": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10019",
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10076",
           "description": "",
           "iconUrl": "https://idealabprojects.atlassian.net/",
-          "name": "In Review",
-          "id": "10019",
+          "name": "Implement Feedback",
+          "id": "10076",
           "statusCategory": {
             "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
             "id": 2,
@@ -1058,15 +1058,15 @@
         "created": "2025-10-13T12:41:44.529+0530",
         "timespent": null,
         "assignee": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=605aad190a9b6900719e7c99",
-          "accountId": "605aad190a9b6900719e7c99",
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A87014598-7fc2-4a58-bbc5-8ec01fc54856",
+          "accountId": "712020:87014598-7fc2-4a58-bbc5-8ec01fc54856",
           "avatarUrls": {
-            "48x48": "https://secure.gravatar.com/avatar/4f0d47d7277fe8d2b9942e49df3be561?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDM-5.png",
-            "24x24": "https://secure.gravatar.com/avatar/4f0d47d7277fe8d2b9942e49df3be561?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDM-5.png",
-            "16x16": "https://secure.gravatar.com/avatar/4f0d47d7277fe8d2b9942e49df3be561?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDM-5.png",
-            "32x32": "https://secure.gravatar.com/avatar/4f0d47d7277fe8d2b9942e49df3be561?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDM-5.png"
+            "48x48": "https://secure.gravatar.com/avatar/20f56106f26bf5669c2f46835ef78571?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDS-1.png",
+            "24x24": "https://secure.gravatar.com/avatar/20f56106f26bf5669c2f46835ef78571?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDS-1.png",
+            "16x16": "https://secure.gravatar.com/avatar/20f56106f26bf5669c2f46835ef78571?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDS-1.png",
+            "32x32": "https://secure.gravatar.com/avatar/20f56106f26bf5669c2f46835ef78571?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDS-1.png"
           },
-          "displayName": "Daya Mukherjee",
+          "displayName": "Deepakshi saini",
           "active": true,
           "timeZone": "Asia/Calcutta",
           "accountType": "atlassian"
@@ -1077,13 +1077,13 @@
           "name": "Medium",
           "id": "3"
         },
-        "updated": "2025-12-08T12:07:25.206+0530",
+        "updated": "2025-12-10T11:06:43.397+0530",
         "status": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10016",
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10076",
           "description": "",
           "iconUrl": "https://idealabprojects.atlassian.net/",
-          "name": "To Do",
-          "id": "10016",
+          "name": "Implement Feedback",
+          "id": "10076",
           "statusCategory": {
             "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
             "id": 2,

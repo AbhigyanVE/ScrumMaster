@@ -104,7 +104,7 @@
       "fields": {
         "summary": "When AI Designs… Nobody Cares (Graphic Designer Ad)",
         "created": "2025-12-04T20:00:34.782+0530",
-        "timespent": null,
+        "timespent": 57600,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ac44ad097-e9a1-497e-b0ea-7b115363695d",
           "accountId": "712020:c44ad097-e9a1-497e-b0ea-7b115363695d",
@@ -125,19 +125,19 @@
           "name": "High",
           "id": "2"
         },
-        "updated": "2025-12-04T20:04:36.580+0530",
+        "updated": "2025-12-09T21:04:50.606+0530",
         "status": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10062",
-          "description": "",
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10063",
+          "description": "This work item is being actively worked on at the moment by the assignee.",
           "iconUrl": "https://idealabprojects.atlassian.net/",
-          "name": "To Do",
-          "id": "10062",
+          "name": "In Progress",
+          "id": "10063",
           "statusCategory": {
-            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
-            "id": 2,
-            "key": "new",
-            "colorName": "blue-gray",
-            "name": "To Do"
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/4",
+            "id": 4,
+            "key": "indeterminate",
+            "colorName": "yellow",
+            "name": "In Progress"
           }
         }
       }

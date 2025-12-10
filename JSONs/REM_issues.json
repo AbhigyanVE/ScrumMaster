@@ -12,17 +12,17 @@
       "fields": {
         "summary": "Christmas Concept video ad",
         "created": "2025-12-05T20:35:21.051+0530",
-        "timespent": 57600,
+        "timespent": 64800,
         "assignee": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Aff39c89b-57c0-4df5-8be6-6c2e223816ae",
-          "accountId": "712020:ff39c89b-57c0-4df5-8be6-6c2e223816ae",
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ac44ad097-e9a1-497e-b0ea-7b115363695d",
+          "accountId": "712020:c44ad097-e9a1-497e-b0ea-7b115363695d",
           "avatarUrls": {
-            "48x48": "https://secure.gravatar.com/avatar/759649ecbfe73dc2e6b97b1402eb800e?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSJ-4.png",
-            "24x24": "https://secure.gravatar.com/avatar/759649ecbfe73dc2e6b97b1402eb800e?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSJ-4.png",
-            "16x16": "https://secure.gravatar.com/avatar/759649ecbfe73dc2e6b97b1402eb800e?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSJ-4.png",
-            "32x32": "https://secure.gravatar.com/avatar/759649ecbfe73dc2e6b97b1402eb800e?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSJ-4.png"
+            "48x48": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+            "24x24": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+            "16x16": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+            "32x32": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png"
           },
-          "displayName": "Sanjay Jaluthriya",
+          "displayName": "Harvesh Anand",
           "active": true,
           "timeZone": "Asia/Calcutta",
           "accountType": "atlassian"
@@ -33,19 +33,19 @@
           "name": "High",
           "id": "2"
         },
-        "updated": "2025-12-05T20:45:34.600+0530",
+        "updated": "2025-12-09T12:35:26.785+0530",
         "status": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/11031",
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10536",
           "description": "",
           "iconUrl": "https://idealabprojects.atlassian.net/",
-          "name": "In Review",
-          "id": "11031",
+          "name": "Done",
+          "id": "10536",
           "statusCategory": {
-            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
-            "id": 2,
-            "key": "new",
-            "colorName": "blue-gray",
-            "name": "To Do"
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
           }
         }
       }
@@ -58,7 +58,7 @@
       "fields": {
         "summary": "Remarketing -- Ad Copies -- Christmas Campaigns",
         "created": "2025-12-05T18:03:38.354+0530",
-        "timespent": 14400,
+        "timespent": 18000,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=5f5b452d0b6be2006e056f42",
           "accountId": "5f5b452d0b6be2006e056f42",
@@ -79,7 +79,7 @@
           "name": "Medium",
           "id": "3"
         },
-        "updated": "2025-12-05T19:22:45.789+0530",
+        "updated": "2025-12-09T19:10:43.273+0530",
         "status": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/status/11031",
           "description": "",

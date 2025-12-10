@@ -12,7 +12,7 @@
       "fields": {
         "summary": "Teck valley Instagram page",
         "created": "2025-12-04T19:44:13.543+0530",
-        "timespent": 7200,
+        "timespent": 9600,
         "assignee": null,
         "priority": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
@@ -20,7 +20,7 @@
           "name": "Medium",
           "id": "3"
         },
-        "updated": "2025-12-04T19:47:15.668+0530",
+        "updated": "2025-12-09T19:07:25.986+0530",
         "status": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10048",
           "description": "This work item is being actively worked on at the moment by the assignee.",
@@ -1458,7 +1458,7 @@
       "fields": {
         "summary": "Google my business (ongoing project)",
         "created": "2025-08-01T11:22:29.222+0530",
-        "timespent": 64800,
+        "timespent": 70200,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ab3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
           "accountId": "712020:b3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
@@ -1479,7 +1479,7 @@
           "name": "Highest",
           "id": "1"
         },
-        "updated": "2025-09-08T18:36:52.921+0530",
+        "updated": "2025-12-09T19:08:08.793+0530",
         "status": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10048",
           "description": "This work item is being actively worked on at the moment by the assignee.",

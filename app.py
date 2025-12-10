@@ -8,16 +8,23 @@ from pydantic import BaseModel, Field, ValidationError, ConfigDict
 from typing import List, Optional, Dict
 from datetime import datetime
 import json
+import uuid
 
 # Load environment variables from .env file
 load_dotenv()
 
 # === CONFIGURATION ===
 DATABASE_NAME = "jira_data.db"
+CONTEXT_FOLDER = "Context"
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "")
 
 if OPENAI_API_KEY:
     openai.api_key = OPENAI_API_KEY
+
+# Create Context folder if it doesn't exist
+if not os.path.exists(CONTEXT_FOLDER):
+    os.makedirs(CONTEXT_FOLDER)
+    print(f"Created directory: {CONTEXT_FOLDER}")
 
 # ============================================================================
 # PHASE 2 - AI AGENT FOUNDATION
@@ -85,12 +92,147 @@ class ScrumMasterOutput(BaseModel):
     model_config = ConfigDict(arbitrary_types_allowed=True)
 
 # ----------------------------------------------------------------------------
-# AI-02: Agent Persona Definition
+# Context Management System (Per-Session)
+# ----------------------------------------------------------------------------
+
+class ContextManager:
+    """Manages conversation context per session with file persistence"""
+    
+    @staticmethod
+    def get_session_id():
+        """Get or create a unique session ID for this user"""
+        if 'session_id' not in st.session_state:
+            st.session_state.session_id = str(uuid.uuid4())
+        return st.session_state.session_id
+    
+    @staticmethod
+    def get_context_file_path():
+        """Get the file path for this session's context"""
+        session_id = ContextManager.get_session_id()
+        return os.path.join(CONTEXT_FOLDER, f"context_{session_id}.json")
+    
+    @staticmethod
+    def load_context():
+        """Load context from file for this session"""
+        file_path = ContextManager.get_context_file_path()
+        if os.path.exists(file_path):
+            try:
+                with open(file_path, 'r', encoding='utf-8') as f:
+                    return json.load(f)
+            except:
+                return []
+        return []
+    
+    @staticmethod
+    def save_context(context_data):
+        """Save context to file for this session (keep last 5)"""
+        file_path = ContextManager.get_context_file_path()
+        
+        # Keep only last 5 entries
+        context_to_save = context_data[-5:] if len(context_data) > 5 else context_data
+        
+        try:
+            with open(file_path, 'w', encoding='utf-8') as f:
+                json.dump(context_to_save, f, indent=2, ensure_ascii=False)
+        except Exception as e:
+            print(f"Error saving context: {e}")
+    
+    @staticmethod
+    def add_to_context(user_query: str, response: str, sql_query: str = None):
+        """Add interaction to context and save to file"""
+        # Get current context
+        if 'context' not in st.session_state:
+            st.session_state.context = ContextManager.load_context()
+        
+        # Add new entry
+        entry = {
+            "timestamp": datetime.now().isoformat(),
+            "query": user_query,
+            "response": response,
+            "sql_query": sql_query
+        }
+        
+        st.session_state.context.append(entry)
+        
+        # Save to file (automatically keeps last 5)
+        ContextManager.save_context(st.session_state.context)
+    
+    @staticmethod
+    def get_context_summary():
+        """Get summary of recent conversation context for LLM"""
+        if 'context' not in st.session_state:
+            st.session_state.context = ContextManager.load_context()
+        
+        if not st.session_state.context:
+            return "No previous context in this session."
+        
+        summary = "Recent conversation context (last 5 interactions):\n"
+        for i, item in enumerate(st.session_state.context[-5:], 1):
+            summary += f"{i}. User asked: {item['query'][:100]}...\n"
+            if item.get('sql_query'):
+                summary += f"   (Query involved: {item['sql_query'][:80]}...)\n"
+        
+        return summary
+    
+    @staticmethod
+    def clear_context():
+        """Clear context for this session and delete file"""
+        file_path = ContextManager.get_context_file_path()
+        
+        # Delete file if exists
+        if os.path.exists(file_path):
+            try:
+                os.remove(file_path)
+                print(f"Deleted context file: {file_path}")
+            except Exception as e:
+                print(f"Error deleting context file: {e}")
+        
+        # Clear session state
+        st.session_state.context = []
+    
+    @staticmethod
+    def get_context_for_sql_generation():
+        """Get formatted context specifically for SQL generation"""
+        if 'context' not in st.session_state:
+            st.session_state.context = ContextManager.load_context()
+        
+        if not st.session_state.context:
+            return ""
+        
+        # Get last interaction
+        last_interaction = st.session_state.context[-1] if st.session_state.context else None
+        
+        if not last_interaction:
+            return ""
+        
+        context = "\nRECENT CONTEXT:\n"
+        context += f"Previous question: {last_interaction['query']}\n"
+        
+        if last_interaction.get('sql_query'):
+            # Extract key entities from previous query (projects, assignees, etc.)
+            prev_sql = last_interaction['sql_query']
+            
+            # Try to find project references
+            if 'project_key' in prev_sql and '=' in prev_sql:
+                # Extract project key from SQL
+                import re
+                match = re.search(r"project_key\s*=\s*['\"](\w+)['\"]", prev_sql)
+                if match:
+                    project = match.group(1)
+                    context += f"User was asking about project: {project}\n"
+                    context += f"IMPORTANT: If the current question refers to 'this project', 'that project', or uses context words like 'it', 'there', 'those', assume they mean project '{project}'\n"
+        
+        return context
+
+# ----------------------------------------------------------------------------
+# AI-02: Agent Persona Definition (Updated to use ContextManager)
 # ----------------------------------------------------------------------------
 
 class ScrumMasterAgent:
     """
     AI Scrum Master Agent with defined role, goal, and backstory
+    Note: Context is now managed per-session via ContextManager instead of 
+    context_memory: List[Dict] = []        (in version 2.2 line 117 & 419)
     """
     
     role = "Senior Scrum Master & Agile Coach"
@@ -112,9 +254,8 @@ class ScrumMasterAgent:
     You are analytical yet empathetic, always focusing on team success.
     You speak clearly and provide actionable recommendations.
     You use data from Jira to back up your insights.
+    You maintain context across the conversation and understand when users refer to previous topics.
     """
-    
-    context_memory: List[Dict] = []  # Stores conversation history
     
     @classmethod
     def get_persona_prompt(cls) -> str:
@@ -127,29 +268,6 @@ Backstory: {cls.backstory}
 
 You have access to a Jira database and must provide insights based on real data.
 Always be specific, actionable, and supportive of the team."""
-
-    @classmethod
-    def add_to_context(cls, user_query: str, response: str):
-        """Add interaction to context memory"""
-        cls.context_memory.append({
-            "timestamp": datetime.now().isoformat(),
-            "query": user_query,
-            "response": response
-        })
-        # Keep only last 10 interactions to avoid token limits
-        if len(cls.context_memory) > 10:
-            cls.context_memory.pop(0)
-    
-    @classmethod
-    def get_context_summary(cls) -> str:
-        """Get summary of recent conversation context"""
-        if not cls.context_memory:
-            return "No previous context."
-        
-        summary = "Recent conversation context:\n"
-        for item in cls.context_memory[-3:]:  # Last 3 interactions
-            summary += f"- User asked: {item['query'][:100]}...\n"
-        return summary
 
 # ----------------------------------------------------------------------------
 # AI-03: Task Templates (Reusable Prompts)
@@ -394,7 +512,14 @@ def classify_query_type(question: str) -> str:
     question_lower = question.lower()
     
     # Check for greetings/casual conversation first
-    greetings = ["hi", "hello", "hey", "good morning", "good afternoon", "good evening", "thanks", "thank you", "bye", "goodbye"]
+    greetings = ["hi", "hello", "hey", "good morning", "good afternoon", "good evening", "thanks", "thank you"]
+    farewells = ["bye", "goodbye", "good bye", "see you", "later"]
+    
+    # Check for farewells (triggers context cleanup)
+    if any(farewell == question_lower.strip() or question_lower.strip().startswith(farewell + " ") for farewell in farewells):
+        return "farewell"
+    
+    # Check for greetings
     if any(greeting == question_lower.strip() or question_lower.strip().startswith(greeting + " ") for greeting in greetings):
         return "greeting"
     
@@ -416,7 +541,7 @@ def generate_sql_from_question(question: str, query_type: str) -> str:
     assignees = get_available_assignees()
     projects = get_available_projects()
     persona = ScrumMasterAgent.get_persona_prompt()
-    context = ScrumMasterAgent.get_context_summary()
+    context = ContextManager.get_context_for_sql_generation()  # Updated to use ContextManager
     
     system_prompt = f"""{persona}
 
@@ -441,6 +566,7 @@ IMPORTANT RULES:
 9. Always use proper string matching for names (use LIKE or exact match)
 10. Use GROUP BY for aggregations
 11. Use COUNT, SUM for metrics
+12. PAY ATTENTION TO CONTEXT: If user says "those", "that project", "these issues", refer to the context above to understand what they mean
 
 EXAMPLE for project health (SINGLE QUERY):
 SELECT 
@@ -555,8 +681,8 @@ If this is an ANALYSIS query, include:
             recommendations=recommendations[:5] if recommendations else ["Continue monitoring the situation"]
         )
         
-        # Add to context memory
-        ScrumMasterAgent.add_to_context(question, analysis)
+        # Add to context memory using ContextManager
+        ContextManager.add_to_context(question, analysis, sql_query)
         
         return output
         
@@ -605,6 +731,19 @@ def main():
             st.error("Database not found!")
         
         st.markdown("---")
+        
+        # Show session info
+        session_id = ContextManager.get_session_id()
+        st.caption(f"🔑 Session: {session_id[:8]}...")
+        
+        # Load context count
+        if 'context' not in st.session_state:
+            st.session_state.context = ContextManager.load_context()
+        
+        context_count = len(st.session_state.context)
+        st.caption(f"💬 Context: {context_count}/5 interactions saved")
+        
+        st.markdown("---")
         st.markdown("### 🎯 Agent Capabilities")
         st.markdown("""
         **Project Health Analysis**
@@ -618,6 +757,10 @@ def main():
         **Smart Assignments**
         - Optimal task allocation
         - Capacity planning
+        
+        **Context-Aware**
+        - Remembers last 5 interactions
+        - Understands follow-up questions
         """)
         
         st.markdown("---")
@@ -635,6 +778,13 @@ def main():
             if st.button("Test Agent Persona"):
                 success, persona = StaticTester.test_agent_persona()
                 st.write(persona)
+            
+            if st.button("View Context File"):
+                context = ContextManager.load_context()
+                if context:
+                    st.json(context)
+                else:
+                    st.info("No context saved yet")
         
         st.markdown("---")
         st.caption("Powered by ⚡ GPT-4o | Built with 🧠 Pydantic")
@@ -667,18 +817,52 @@ def main():
     
     # Chat input
     if prompt := st.chat_input("Ask about projects, team efficiency, health reports..."):
-        # Add user message
-        st.session_state.messages.append({"role": "user", "content": prompt})
-        with st.chat_message("user"):
-            st.markdown(prompt)
+        # Classify query type FIRST (before adding to messages)
+        query_type = classify_query_type(prompt)
         
-        # Generate response
-        with st.chat_message("assistant"):
-            # Classify query type
-            query_type = classify_query_type(prompt)
+        # Handle farewells IMMEDIATELY (clear context, no SQL, no saving to context)
+        if query_type == "farewell":
+            # Add user message to chat history
+            st.session_state.messages.append({"role": "user", "content": prompt})
+            with st.chat_message("user"):
+                st.markdown(prompt)
             
-            # Handle greetings separately (no SQL needed)
-            if query_type == "greeting":
+            with st.chat_message("assistant"):
+                farewell_responses = {
+                    "bye": "Goodbye! I've cleared our conversation context. Come back anytime you need insights on your projects!",
+                    "goodbye": "See you later! Your session context has been reset. Feel free to start a fresh conversation anytime!",
+                    "good bye": "Take care! I've cleared this session. Looking forward to helping you again soon!",
+                    "see you": "See you! Context cleared. Don't hesitate to return for more Agile insights!",
+                    "later": "Catch you later! Your conversation history has been reset."
+                }
+                
+                # Find matching farewell
+                response = "Goodbye! I've cleared our conversation context. Come back anytime!"
+                for key, value in farewell_responses.items():
+                    if key in prompt.lower():
+                        response = value
+                        break
+                
+                # Clear context BEFORE displaying response
+                ContextManager.clear_context()
+                
+                st.markdown(response)
+                st.info("✨ Context cleared! Starting fresh on your next question.")
+                
+                # Add to chat history but NOT to context
+                st.session_state.messages.append({
+                    "role": "assistant",
+                    "content": response
+                })
+        
+        # Handle greetings (no SQL needed, no context saving for casual greetings)
+        elif query_type == "greeting":
+            # Add user message
+            st.session_state.messages.append({"role": "user", "content": prompt})
+            with st.chat_message("user"):
+                st.markdown(prompt)
+            
+            with st.chat_message("assistant"):
                 greeting_responses = {
                     "hi": "Hello! I'm your AI Scrum Master. How can I help you with your projects and team today?",
                     "hello": "Hi there! Ready to dive into your Jira data? Ask me anything about your projects, team performance, or sprint health!",
@@ -687,9 +871,7 @@ def main():
                     "good afternoon": "Good afternoon! How can I assist with your Agile insights today?",
                     "good evening": "Good evening! What would you like to explore in your Jira data?",
                     "thanks": "You're welcome! Feel free to ask anything else about your projects.",
-                    "thank you": "Happy to help! Let me know if you need anything else.",
-                    "bye": "Goodbye! Come back anytime you need insights on your projects!",
-                    "goodbye": "See you later! Don't hesitate to return for more Agile insights."
+                    "thank you": "Happy to help! Let me know if you need anything else."
                 }
                 
                 # Find matching greeting
@@ -704,8 +886,15 @@ def main():
                     "role": "assistant",
                     "content": response
                 })
-            else:
-                # Regular queries - need SQL
+        
+        # Regular queries - need SQL and context saving
+        else:
+            # Add user message
+            st.session_state.messages.append({"role": "user", "content": prompt})
+            with st.chat_message("user"):
+                st.markdown(prompt)
+            
+            with st.chat_message("assistant"):
                 with st.spinner("🤔 Analyzing with AI Scrum Master agent..."):
                     # Generate SQL
                     sql_query = generate_sql_from_question(prompt, query_type)
@@ -747,7 +936,7 @@ def main():
     # Clear chat button
     if st.sidebar.button("🗑️ Clear Chat & Context"):
         st.session_state.messages = []
-        ScrumMasterAgent.context_memory = []
+        ContextManager.clear_context()
         st.rerun()
 
 if __name__ == "__main__":
