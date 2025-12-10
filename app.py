@@ -660,7 +660,7 @@ If this is an ANALYSIS query, include:
                 {"role": "user", "content": user_prompt}
             ],
             temperature=0.7,
-            max_tokens=600  # Increased to 1000 if needed to handle longer lists
+            max_tokens=600          # Increase to 1000 if needed to handle longer lists
         )
         
         analysis = response.choices[0].message.content.strip()
@@ -817,7 +817,7 @@ def main():
         st.markdown("---")
 
         # st.caption("Made by 👤 |  Powered by ⚡")
-
+    
     # Initialize chat history
     if "messages" not in st.session_state:
         st.session_state.messages = []
@@ -851,38 +851,45 @@ def main():
         
         # Handle farewells IMMEDIATELY (clear context, no SQL, no saving to context)
         if query_type == "farewell":
-            # Add user message to chat history
+            # Clear context FIRST before anything else
+            ContextManager.clear_context()
+            
+            # ALSO clear the chat history to fully reset conversation
+            st.session_state.messages = []
+            
+            # Add farewell exchange to fresh chat
             st.session_state.messages.append({"role": "user", "content": prompt})
+            
             with st.chat_message("user"):
                 st.markdown(prompt)
             
             with st.chat_message("assistant"):
                 farewell_responses = {
-                    "bye": "Goodbye! I've cleared our conversation context. Come back anytime you need insights on your projects!",
-                    "goodbye": "See you later! Your session context has been reset. Feel free to start a fresh conversation anytime!",
-                    "good bye": "Take care! I've cleared this session. Looking forward to helping you again soon!",
-                    "see you": "See you! Context cleared. Don't hesitate to return for more Agile insights!",
-                    "later": "Catch you later! Your conversation history has been reset."
+                    "bye": "Goodbye! I've cleared our entire conversation including context. Come back anytime you need insights on your projects!",
+                    "goodbye": "See you later! Your session and chat history have been completely reset. Feel free to start fresh anytime!",
+                    "good bye": "Take care! I've cleared this session completely. Looking forward to helping you again soon!",
+                    "see you": "See you! Everything cleared. Don't hesitate to return for more Agile insights!",
+                    "later": "Catch you later! Your conversation and context have been completely reset."
                 }
                 
                 # Find matching farewell
-                response = "Goodbye! I've cleared our conversation context. Come back anytime!"
+                response = "Goodbye! I've cleared our entire conversation. Come back anytime!"
                 for key, value in farewell_responses.items():
                     if key in prompt.lower():
                         response = value
                         break
                 
-                # Clear context BEFORE displaying response
-                ContextManager.clear_context()
-                
                 st.markdown(response)
-                st.info("✨ Context cleared! Starting fresh on your next question.")
+                st.success("✨ Context AND chat history cleared! Starting completely fresh.")
                 
-                # Add to chat history but NOT to context
+                # Add to chat history
                 st.session_state.messages.append({
                     "role": "assistant",
                     "content": response
                 })
+                
+                # Force a rerun to update everything
+                st.rerun()
         
         # Handle greetings (no SQL needed, no context saving for casual greetings)
         elif query_type == "greeting":
@@ -961,6 +968,9 @@ def main():
                         "content": output.analysis,
                         "structured_output": output
                     })
+                    
+                    # Force rerun to update context count in sidebar
+                    st.rerun()
     
     # Clear chat button
     if st.sidebar.button("🗑️ Clear Chat & Context"):
