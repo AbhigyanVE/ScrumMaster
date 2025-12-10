@@ -696,7 +696,18 @@ If this is an ANALYSIS query, include:
 def main():
     st.set_page_config(page_title="AI Scrum Master", page_icon="🤖", layout="wide")
     
-    st.title("🤖 AI Scrum Master Agent")
+    # # Add logo
+    # st.image("assets\logo-1.png", width=120)
+    
+    # Header with title (left) and version (right)
+    col1, col2 = st.columns([4, 1])
+    with col1:
+        st.markdown("## 🤖 AI Scrum Master Agent")
+    with col2:
+        st.markdown(
+            "<p style='text-align: right; font-size: 20px; margin-top: 18px;'><b>Version 3</b></p>",
+            unsafe_allow_html=True
+        )
     st.markdown("*Your intelligent Agile assistant with context-aware reasoning*")
     
     # Check for API key
@@ -706,9 +717,18 @@ def main():
         st.stop()
     
     # Sidebar
+    # with st.sidebar:
+    #     st.image("assets/logo-1.png", width=100)
+    #     # st.markdown("---")
+    #     # st.header("📊 Quick Stats")
+    #     st.markdown("<h3 style='font-size:22px;'>📊 Quick Stats</h3>", unsafe_allow_html=True)
+
     with st.sidebar:
-        st.header("📊 Quick Stats")
-        
+        col1, col2, col3 = st.columns([1, 2, 1])
+        with col2:
+            st.image("assets/logo-1.png", width=100)
+        st.markdown("<h3 style='font-size:22px;'>📊 Quick Stats</h3>", unsafe_allow_html=True)        
+
         try:
             conn = sqlite3.connect(DATABASE_NAME)
             cursor = conn.cursor()
@@ -722,29 +742,26 @@ def main():
             cursor.execute("SELECT COUNT(DISTINCT assignee) FROM issues WHERE assignee != 'Unassigned'")
             assignee_count = cursor.fetchone()[0]
             
-            st.metric("Total Projects", project_count)
-            st.metric("Total Issues", issue_count)
-            st.metric("Team Members", assignee_count)
+            # st.metric("Total Projects", project_count)
+            # st.metric("Total Issues", issue_count)
+            # st.metric("Team Members", assignee_count)
+
+            stats_df = pd.DataFrame({
+                "Metric": ["Total Projects", "Total Issues", "Team Members"],
+                "Count": [project_count, issue_count, assignee_count]
+            })
+
+            st.table(stats_df.set_index("Metric"))
             
             conn.close()
         except:
             st.error("Database not found!")
         
-        st.markdown("---")
-        
-        # Show session info
-        session_id = ContextManager.get_session_id()
-        st.caption(f"🔑 Session: {session_id[:8]}...")
-        
-        # Load context count
-        if 'context' not in st.session_state:
-            st.session_state.context = ContextManager.load_context()
-        
-        context_count = len(st.session_state.context)
-        st.caption(f"💬 Context: {context_count}/5 interactions saved")
-        
-        st.markdown("---")
-        st.markdown("### 🎯 Agent Capabilities")
+        # st.markdown("---")
+
+        # st.markdown("### 🎯 Agent Capabilities")
+        st.markdown("<h3 style='font-size:22px;'>🎯 Agent Capabilities</h3>", unsafe_allow_html=True)
+
         st.markdown("""
         **Project Health Analysis**
         - Sprint velocity & completion
@@ -764,6 +781,17 @@ def main():
         """)
         
         st.markdown("---")
+        
+        # Show session info
+        session_id = ContextManager.get_session_id()
+        st.caption(f"🔑 Session: {session_id[:8]}...")
+        
+        # Load context count
+        if 'context' not in st.session_state:
+            st.session_state.context = ContextManager.load_context()
+        
+        context_count = len(st.session_state.context)
+        st.caption(f"💬 Context: {context_count}/5 interactions saved")
         
         # Testing interface
         with st.expander("🧪 Run Tests"):
@@ -787,8 +815,9 @@ def main():
                     st.info("No context saved yet")
         
         st.markdown("---")
-        st.caption("Powered by ⚡ GPT-4o | Built with 🧠 Pydantic")
-    
+
+        # st.caption("Made by 👤 |  Powered by ⚡")
+
     # Initialize chat history
     if "messages" not in st.session_state:
         st.session_state.messages = []
