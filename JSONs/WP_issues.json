@@ -6,6 +6,53 @@
   "issues": [
     {
       "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "14576",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14576",
+      "key": "WP-167",
+      "fields": {
+        "summary": "FAQs New HTML (as per LayerOne)",
+        "created": "2025-12-11T10:28:34.375+0530",
+        "timespent": null,
+        "duedate": "2025-12-16",
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
+          "accountId": "712020:3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
+            "24x24": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
+            "16x16": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
+            "32x32": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png"
+          },
+          "displayName": "Vikas Bhardwaj",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "updated": "2025-12-11T10:29:09.767+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10100",
+          "description": "This work item is being actively worked on at the moment by the assignee.",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "In Progress",
+          "id": "10100",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/4",
+            "id": 4,
+            "key": "indeterminate",
+            "colorName": "yellow",
+            "name": "In Progress"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
       "id": "14503",
       "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14503",
       "key": "WP-166",
@@ -13,6 +60,7 @@
         "summary": "Design: Blog and Article Images",
         "created": "2025-12-05T18:04:22.304+0530",
         "timespent": 21600,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A7480f087-7269-4957-9e6d-ee85e73b09e2",
           "accountId": "712020:7480f087-7269-4957-9e6d-ee85e73b09e2",
@@ -59,6 +107,7 @@
         "summary": "Homepage testing and design changes",
         "created": "2025-12-04T18:24:33.493+0530",
         "timespent": 28800,
+        "duedate": "2025-10-03",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Aff39c89b-57c0-4df5-8be6-6c2e223816ae",
           "accountId": "712020:ff39c89b-57c0-4df5-8be6-6c2e223816ae",
@@ -105,6 +154,7 @@
         "summary": "Design: Employee Welfare Page",
         "created": "2025-12-04T18:02:00.829+0530",
         "timespent": 1680,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A023a0dbc-d7f7-4d53-9905-9641e6759d36",
           "accountId": "712020:023a0dbc-d7f7-4d53-9905-9641e6759d36",
@@ -151,6 +201,7 @@
         "summary": "Case Studies & Success Stories (Website -  Issue)",
         "created": "2025-12-03T18:51:16.848+0530",
         "timespent": 120,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
           "accountId": "712020:3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
@@ -236,6 +287,7 @@
         },
         "created": "2025-12-03T16:22:19.094+0530",
         "timespent": null,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Aff39c89b-57c0-4df5-8be6-6c2e223816ae",
           "accountId": "712020:ff39c89b-57c0-4df5-8be6-6c2e223816ae",
@@ -282,6 +334,7 @@
         "summary": "About us page 2025",
         "created": "2025-12-03T16:20:24.100+0530",
         "timespent": 489600,
+        "duedate": "2025-12-03",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Aff39c89b-57c0-4df5-8be6-6c2e223816ae",
           "accountId": "712020:ff39c89b-57c0-4df5-8be6-6c2e223816ae",
@@ -328,6 +381,7 @@
         "summary": "Design: FAQ by Domain Main Page",
         "created": "2025-12-01T19:07:09.880+0530",
         "timespent": 90000,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A7480f087-7269-4957-9e6d-ee85e73b09e2",
           "accountId": "712020:7480f087-7269-4957-9e6d-ee85e73b09e2",
@@ -374,6 +428,7 @@
         "summary": "What unit us, Meet the Team & Events (About us pages) Design issue",
         "created": "2025-11-26T18:51:14.707+0530",
         "timespent": 28800,
+        "duedate": "2025-11-26",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
           "accountId": "712020:3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
@@ -420,6 +475,7 @@
         "summary": "About Us Pages Issue - With new Header on staging",
         "created": "2025-11-17T19:26:49.577+0530",
         "timespent": 86400,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
           "accountId": "712020:3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
@@ -466,6 +522,7 @@
         "summary": "Design: About us pages(LayerOne)",
         "created": "2025-11-10T20:50:44.269+0530",
         "timespent": 115200,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A7480f087-7269-4957-9e6d-ee85e73b09e2",
           "accountId": "712020:7480f087-7269-4957-9e6d-ee85e73b09e2",
@@ -512,6 +569,7 @@
         "summary": "Design: Media Page",
         "created": "2025-11-07T18:46:39.830+0530",
         "timespent": 28800,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A7480f087-7269-4957-9e6d-ee85e73b09e2",
           "accountId": "712020:7480f087-7269-4957-9e6d-ee85e73b09e2",
@@ -558,6 +616,7 @@
         "summary": "Design: Brochures Anchor Page",
         "created": "2025-11-06T11:15:06.107+0530",
         "timespent": null,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A7480f087-7269-4957-9e6d-ee85e73b09e2",
           "accountId": "712020:7480f087-7269-4957-9e6d-ee85e73b09e2",
@@ -643,6 +702,7 @@
         },
         "created": "2025-11-05T16:35:01.520+0530",
         "timespent": null,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Aff39c89b-57c0-4df5-8be6-6c2e223816ae",
           "accountId": "712020:ff39c89b-57c0-4df5-8be6-6c2e223816ae",
@@ -728,6 +788,7 @@
         },
         "created": "2025-11-05T11:59:11.755+0530",
         "timespent": 57600,
+        "duedate": "2025-11-07",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
           "accountId": "712020:3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
@@ -774,6 +835,7 @@
         "summary": "dublicate page",
         "created": "2025-11-05T11:47:33.682+0530",
         "timespent": null,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
           "accountId": "712020:3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
@@ -859,6 +921,7 @@
         },
         "created": "2025-10-31T13:12:20.097+0530",
         "timespent": 57600,
+        "duedate": "2025-11-05",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
           "accountId": "712020:3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
@@ -905,6 +968,7 @@
         "summary": "Service Page (TeckVantage Website)",
         "created": "2025-10-30T11:23:04.107+0530",
         "timespent": 57600,
+        "duedate": "2025-10-31",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
           "accountId": "712020:3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
@@ -951,6 +1015,7 @@
         "summary": "Refund Policy (TeckValley)",
         "created": "2025-10-24T18:57:41.027+0530",
         "timespent": 7200,
+        "duedate": "2025-10-27",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
           "accountId": "712020:3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
@@ -997,6 +1062,7 @@
         "summary": "Privacy Policy (TeckValley)",
         "created": "2025-10-24T18:55:18.514+0530",
         "timespent": 21600,
+        "duedate": "2025-10-27",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
           "accountId": "712020:3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
@@ -1043,6 +1109,7 @@
         "summary": "TeckValley - About us page changes",
         "created": "2025-10-21T18:36:36.903+0530",
         "timespent": 14400,
+        "duedate": "2025-10-22",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
           "accountId": "712020:3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
@@ -1089,6 +1156,7 @@
         "summary": "Teckvalley - Home Page",
         "created": "2025-10-21T18:33:12.296+0530",
         "timespent": 7200,
+        "duedate": "2025-10-21",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
           "accountId": "712020:3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
@@ -1135,6 +1203,7 @@
         "summary": "Teckvalley - People First Website Page",
         "created": "2025-10-21T18:32:05.126+0530",
         "timespent": 86400,
+        "duedate": "2025-10-24",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
           "accountId": "712020:3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
@@ -1181,6 +1250,7 @@
         "summary": "Teckvalley",
         "created": "2025-10-01T10:47:04.756+0530",
         "timespent": 108000,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
           "accountId": "712020:3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
@@ -1227,6 +1297,7 @@
         "summary": "Service Pages Template Design",
         "created": "2025-09-29T12:42:34.009+0530",
         "timespent": 835200,
+        "duedate": "2025-11-05",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Aff39c89b-57c0-4df5-8be6-6c2e223816ae",
           "accountId": "712020:ff39c89b-57c0-4df5-8be6-6c2e223816ae",
@@ -1273,6 +1344,7 @@
         "summary": "Success stories page design",
         "created": "2025-09-29T12:38:14.194+0530",
         "timespent": null,
+        "duedate": "2025-09-23",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Aff39c89b-57c0-4df5-8be6-6c2e223816ae",
           "accountId": "712020:ff39c89b-57c0-4df5-8be6-6c2e223816ae",
@@ -1319,6 +1391,7 @@
         "summary": "VE.co.in website changes",
         "created": "2025-09-29T12:37:04.502+0530",
         "timespent": null,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Aff39c89b-57c0-4df5-8be6-6c2e223816ae",
           "accountId": "712020:ff39c89b-57c0-4df5-8be6-6c2e223816ae",
@@ -1365,6 +1438,7 @@
         "summary": "Case-studies-&-success-stories",
         "created": "2025-09-25T09:49:47.063+0530",
         "timespent": 122400,
+        "duedate": "2025-09-30",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
           "accountId": "712020:3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
@@ -1411,6 +1485,7 @@
         "summary": "Home Page (As per LayerOne)",
         "created": "2025-09-23T19:00:17.793+0530",
         "timespent": 158400,
+        "duedate": "2025-09-24",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
           "accountId": "712020:3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
@@ -1457,6 +1532,7 @@
         "summary": "Domain Service Category (work existing page as per LayerOne)",
         "created": "2025-09-22T10:02:04.578+0530",
         "timespent": null,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
           "accountId": "712020:3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
@@ -1542,6 +1618,7 @@
         },
         "created": "2025-09-19T18:52:24.664+0530",
         "timespent": 29280,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A7480f087-7269-4957-9e6d-ee85e73b09e2",
           "accountId": "712020:7480f087-7269-4957-9e6d-ee85e73b09e2",
@@ -1588,6 +1665,7 @@
         "summary": "Design: Client's Images for Testimonial page",
         "created": "2025-09-18T18:53:30.358+0530",
         "timespent": 72000,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A7480f087-7269-4957-9e6d-ee85e73b09e2",
           "accountId": "712020:7480f087-7269-4957-9e6d-ee85e73b09e2",
@@ -1634,6 +1712,7 @@
         "summary": "Caledon event rentals",
         "created": "2025-09-15T18:55:19.898+0530",
         "timespent": 43200,
+        "duedate": "2025-09-17",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
           "accountId": "712020:3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
@@ -1680,6 +1759,7 @@
         "summary": "FAQs",
         "created": "2025-09-12T18:30:06.248+0530",
         "timespent": 7200,
+        "duedate": "2025-09-12",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
           "accountId": "712020:3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
@@ -1765,6 +1845,7 @@
         },
         "created": "2025-09-11T13:14:26.274+0530",
         "timespent": null,
+        "duedate": "2025-09-17",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=5f5b452d0b6be2006e056f42",
           "accountId": "5f5b452d0b6be2006e056f42",
@@ -1811,6 +1892,7 @@
         "summary": "Career (TeckValley)",
         "created": "2025-09-10T21:05:31.279+0530",
         "timespent": 7200,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
           "accountId": "712020:3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
@@ -1857,6 +1939,7 @@
         "summary": "Case Study",
         "created": "2025-09-10T21:04:28.685+0530",
         "timespent": 61200,
+        "duedate": "2025-09-12",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
           "accountId": "712020:3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
@@ -1903,6 +1986,7 @@
         "summary": "Videos Website Page \"Work on UI issue\" (LayerOne)",
         "created": "2025-09-05T09:52:58.001+0530",
         "timespent": 39600,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
           "accountId": "712020:3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
@@ -1949,6 +2033,7 @@
         "summary": "Testimonial Page (LayerOne)",
         "created": "2025-09-03T11:20:32.383+0530",
         "timespent": 129600,
+        "duedate": "2025-09-08",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
           "accountId": "712020:3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
@@ -2034,6 +2119,7 @@
         },
         "created": "2025-09-01T12:16:32.888+0530",
         "timespent": null,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=5f5b452d0b6be2006e056f42",
           "accountId": "5f5b452d0b6be2006e056f42",
@@ -2119,6 +2205,7 @@
         },
         "created": "2025-09-01T12:15:32.129+0530",
         "timespent": null,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=5f5b452d0b6be2006e056f42",
           "accountId": "5f5b452d0b6be2006e056f42",
@@ -2204,6 +2291,7 @@
         },
         "created": "2025-09-01T12:14:34.508+0530",
         "timespent": 5400,
+        "duedate": "2025-09-12",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=5f5b452d0b6be2006e056f42",
           "accountId": "5f5b452d0b6be2006e056f42",
@@ -2289,6 +2377,7 @@
         },
         "created": "2025-09-01T12:13:30.180+0530",
         "timespent": null,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=5f5b452d0b6be2006e056f42",
           "accountId": "5f5b452d0b6be2006e056f42",
@@ -2374,6 +2463,7 @@
         },
         "created": "2025-09-01T12:12:33.008+0530",
         "timespent": null,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=5f5b452d0b6be2006e056f42",
           "accountId": "5f5b452d0b6be2006e056f42",
@@ -2459,6 +2549,7 @@
         },
         "created": "2025-09-01T12:11:25.142+0530",
         "timespent": null,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=5f5b452d0b6be2006e056f42",
           "accountId": "5f5b452d0b6be2006e056f42",
@@ -2544,6 +2635,7 @@
         },
         "created": "2025-09-01T12:09:52.058+0530",
         "timespent": null,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=5f5b452d0b6be2006e056f42",
           "accountId": "5f5b452d0b6be2006e056f42",
@@ -2629,6 +2721,7 @@
         },
         "created": "2025-09-01T12:01:48.545+0530",
         "timespent": null,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=5f5b452d0b6be2006e056f42",
           "accountId": "5f5b452d0b6be2006e056f42",
@@ -2675,6 +2768,7 @@
         "summary": "Design: Resource Management page (AI@VE)",
         "created": "2025-08-29T18:49:08.225+0530",
         "timespent": 57600,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A7480f087-7269-4957-9e6d-ee85e73b09e2",
           "accountId": "712020:7480f087-7269-4957-9e6d-ee85e73b09e2",
@@ -2721,6 +2815,7 @@
         "summary": "Design: Recruitment page (AI@VE)",
         "created": "2025-08-28T20:47:08.732+0530",
         "timespent": 57600,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A7480f087-7269-4957-9e6d-ee85e73b09e2",
           "accountId": "712020:7480f087-7269-4957-9e6d-ee85e73b09e2",
@@ -2806,6 +2901,7 @@
         },
         "created": "2025-08-28T11:42:58.154+0530",
         "timespent": null,
+        "duedate": "2025-09-04",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A7480f087-7269-4957-9e6d-ee85e73b09e2",
           "accountId": "712020:7480f087-7269-4957-9e6d-ee85e73b09e2",
@@ -2827,52 +2923,6 @@
           "id": "1"
         },
         "updated": "2025-09-11T12:28:14.305+0530",
-        "status": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10101",
-          "description": "",
-          "iconUrl": "https://idealabprojects.atlassian.net/",
-          "name": "Done",
-          "id": "10101",
-          "statusCategory": {
-            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
-            "id": 3,
-            "key": "done",
-            "colorName": "green",
-            "name": "Done"
-          }
-        }
-      }
-    },
-    {
-      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
-      "id": "12174",
-      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/12174",
-      "key": "WP-115",
-      "fields": {
-        "summary": "CSR page (About Us)",
-        "created": "2025-08-27T20:21:34.525+0530",
-        "timespent": 7200,
-        "assignee": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A7480f087-7269-4957-9e6d-ee85e73b09e2",
-          "accountId": "712020:7480f087-7269-4957-9e6d-ee85e73b09e2",
-          "avatarUrls": {
-            "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:7480f087-7269-4957-9e6d-ee85e73b09e2/bdf08eba-fdbb-4737-a97b-e9aceda31b31/48",
-            "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:7480f087-7269-4957-9e6d-ee85e73b09e2/bdf08eba-fdbb-4737-a97b-e9aceda31b31/24",
-            "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:7480f087-7269-4957-9e6d-ee85e73b09e2/bdf08eba-fdbb-4737-a97b-e9aceda31b31/16",
-            "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:7480f087-7269-4957-9e6d-ee85e73b09e2/bdf08eba-fdbb-4737-a97b-e9aceda31b31/32"
-          },
-          "displayName": "Mohit Kumar",
-          "active": true,
-          "timeZone": "Asia/Calcutta",
-          "accountType": "atlassian"
-        },
-        "priority": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
-          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
-          "name": "Medium",
-          "id": "3"
-        },
-        "updated": "2025-11-05T11:58:57.999+0530",
         "status": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10101",
           "description": "",

@@ -6,13 +6,14 @@
   "issues": [
     {
       "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
-      "id": "14563",
-      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14563",
-      "key": "CRO-114",
+      "id": "14575",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14575",
+      "key": "CRO-115",
       "fields": {
-        "summary": "About us page research",
-        "created": "2025-12-09T20:22:07.124+0530",
-        "timespent": 28800,
+        "summary": "call with team on sentiment analysis of VA",
+        "created": "2025-12-10T21:26:31.550+0530",
+        "timespent": 3600,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
           "accountId": "712020:3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
@@ -33,7 +34,54 @@
           "name": "Medium",
           "id": "3"
         },
-        "updated": "2025-12-09T20:25:04.090+0530",
+        "updated": "2025-12-10T21:26:53.599+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10800",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "Done",
+          "id": "10800",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "14563",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14563",
+      "key": "CRO-114",
+      "fields": {
+        "summary": "About us page research",
+        "created": "2025-12-09T20:22:07.124+0530",
+        "timespent": 54000,
+        "duedate": null,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
+          "accountId": "712020:3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/0d95ffae99216804599d824a071e83d2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHJ-6.png",
+            "24x24": "https://secure.gravatar.com/avatar/0d95ffae99216804599d824a071e83d2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHJ-6.png",
+            "16x16": "https://secure.gravatar.com/avatar/0d95ffae99216804599d824a071e83d2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHJ-6.png",
+            "32x32": "https://secure.gravatar.com/avatar/0d95ffae99216804599d824a071e83d2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHJ-6.png"
+          },
+          "displayName": "harshit jain",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "updated": "2025-12-10T21:25:56.398+0530",
         "status": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10798",
           "description": "",
@@ -98,6 +146,7 @@
         },
         "created": "2025-11-27T21:06:00.706+0530",
         "timespent": 43200,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
           "accountId": "712020:3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
@@ -144,6 +193,7 @@
         "summary": "calls with team members",
         "created": "2025-11-25T20:37:39.533+0530",
         "timespent": 5400,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
           "accountId": "712020:3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
@@ -190,6 +240,7 @@
         "summary": "bookkeeping domain project",
         "created": "2025-11-25T20:35:57.541+0530",
         "timespent": 37800,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
           "accountId": "712020:3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
@@ -236,6 +287,7 @@
         "summary": "Performance evaluation on website traffic and leads",
         "created": "2025-11-18T20:45:27.250+0530",
         "timespent": 61200,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
           "accountId": "712020:3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
@@ -282,6 +334,7 @@
         "summary": "evaluating website ",
         "created": "2025-11-17T20:36:42.788+0530",
         "timespent": 14400,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
           "accountId": "712020:3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
@@ -328,6 +381,7 @@
         "summary": "research competitors for user journey",
         "created": "2025-11-14T20:23:55.037+0530",
         "timespent": 21600,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
           "accountId": "712020:3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
@@ -374,6 +428,7 @@
         "summary": "call on about us page shaun feedback",
         "created": "2025-11-10T20:50:01.017+0530",
         "timespent": 3600,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
           "accountId": "712020:3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
@@ -420,6 +475,7 @@
         "summary": "homepage performance analysis post default",
         "created": "2025-11-07T20:31:22.801+0530",
         "timespent": 169200,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
           "accountId": "712020:3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
@@ -466,6 +522,7 @@
         "summary": "review friction analysis of recordings",
         "created": "2025-11-04T18:53:54.234+0530",
         "timespent": 14400,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
           "accountId": "712020:3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
@@ -512,6 +569,7 @@
         "summary": "journey creation in GA4",
         "created": "2025-11-03T21:08:51.916+0530",
         "timespent": 14400,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
           "accountId": "712020:3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
@@ -597,6 +655,7 @@
         },
         "created": "2025-10-31T18:33:52.951+0530",
         "timespent": 32400,
+        "duedate": "2025-11-05",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
           "accountId": "712020:3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
@@ -643,6 +702,7 @@
         "summary": "Service pages revamp project",
         "created": "2025-10-31T18:28:24.911+0530",
         "timespent": 14400,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
           "accountId": "712020:3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
@@ -689,6 +749,7 @@
         "summary": " Call with remarketing team on Halloween and further research",
         "created": "2025-10-29T20:30:52.053+0530",
         "timespent": 36000,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
           "accountId": "712020:3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
@@ -735,6 +796,7 @@
         "summary": "Researching tools similar or better than Mouseflow",
         "created": "2025-10-29T20:30:01.118+0530",
         "timespent": null,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
           "accountId": "712020:3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
@@ -820,6 +882,7 @@
         },
         "created": "2025-10-28T20:56:10.219+0530",
         "timespent": 7200,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
           "accountId": "712020:3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
@@ -866,6 +929,7 @@
         "summary": "Evaluating lead generating User Journey wrt About us page ",
         "created": "2025-10-27T20:44:46.549+0530",
         "timespent": 100800,
+        "duedate": "2025-11-12",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
           "accountId": "712020:3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
@@ -912,6 +976,7 @@
         "summary": "Evaluating services pages of websites",
         "created": "2025-10-24T19:43:57.151+0530",
         "timespent": 57600,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
           "accountId": "712020:3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
@@ -958,6 +1023,7 @@
         "summary": "Researching competitors for web flow and lead form journey",
         "created": "2025-10-24T19:34:57.531+0530",
         "timespent": 7200,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
           "accountId": "712020:3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
@@ -1004,6 +1070,7 @@
         "summary": "Researching websites with UX UI elements for design",
         "created": "2025-10-24T19:30:23.316+0530",
         "timespent": 5400,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
           "accountId": "712020:3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
@@ -1050,6 +1117,7 @@
         "summary": "Tracking data of homepage performance",
         "created": "2025-10-24T19:28:47.614+0530",
         "timespent": 3600,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
           "accountId": "712020:3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
@@ -1096,6 +1164,7 @@
         "summary": "researching huristic principles",
         "created": "2025-10-22T20:20:06.897+0530",
         "timespent": 10800,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
           "accountId": "712020:3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
@@ -1142,6 +1211,7 @@
         "summary": "team call for work update",
         "created": "2025-10-22T20:13:45.184+0530",
         "timespent": 5400,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
           "accountId": "712020:3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
@@ -1188,6 +1258,7 @@
         "summary": "evaluating journey creation on tools",
         "created": "2025-10-21T20:23:53.142+0530",
         "timespent": 5400,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
           "accountId": "712020:3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
@@ -1234,6 +1305,7 @@
         "summary": "meeting with ppc and cro team",
         "created": "2025-10-17T19:48:41.199+0530",
         "timespent": 3600,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
           "accountId": "712020:3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
@@ -1280,6 +1352,7 @@
         "summary": "Analyzing all pages performance ",
         "created": "2025-10-15T20:26:46.769+0530",
         "timespent": 36000,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
           "accountId": "712020:3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
@@ -1326,6 +1399,7 @@
         "summary": " Discussion on new pages to be analysed ",
         "created": "2025-10-15T20:23:43.467+0530",
         "timespent": 3600,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
           "accountId": "712020:3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
@@ -1372,6 +1446,7 @@
         "summary": "Researching TCS and Accenture websites",
         "created": "2025-10-13T20:27:34.217+0530",
         "timespent": 18000,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
           "accountId": "712020:3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
@@ -1418,6 +1493,7 @@
         "summary": "Research cognitive biases in CRO for content optimization",
         "created": "2025-10-08T20:40:23.446+0530",
         "timespent": 46800,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
           "accountId": "712020:3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
@@ -1464,6 +1540,7 @@
         "summary": "New homepage checking on live",
         "created": "2025-10-06T20:49:46.387+0530",
         "timespent": 3600,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
           "accountId": "712020:3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
@@ -1510,6 +1587,7 @@
         "summary": "Homepage running A/B test performance check",
         "created": "2025-10-03T20:33:53.037+0530",
         "timespent": 5400,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
           "accountId": "712020:3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
@@ -1556,6 +1634,7 @@
         "summary": "Researching new frameworks for CRO ",
         "created": "2025-10-01T20:35:41.536+0530",
         "timespent": 120,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
           "accountId": "712020:3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
@@ -1602,6 +1681,7 @@
         "summary": "Analyzing keywords for content pages",
         "created": "2025-10-01T20:29:09.629+0530",
         "timespent": 3600,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
           "accountId": "712020:3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
@@ -1648,6 +1728,7 @@
         "summary": "Identifying mouseflow tracking issue on testimonial page",
         "created": "2025-09-30T20:33:47.954+0530",
         "timespent": 10800,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
           "accountId": "712020:3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
@@ -1694,6 +1775,7 @@
         "summary": "Call to discuss homepage changes before making default",
         "created": "2025-09-30T20:32:44.173+0530",
         "timespent": 1800,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
           "accountId": "712020:3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
@@ -1740,6 +1822,7 @@
         "summary": "Analyzing testimonial web page flow",
         "created": "2025-09-29T18:59:55.271+0530",
         "timespent": 64800,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
           "accountId": "712020:3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
@@ -1786,6 +1869,7 @@
         "summary": "Planning testing hypothesis for new homepage",
         "created": "2025-09-29T18:58:44.342+0530",
         "timespent": 48600,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
           "accountId": "712020:3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
@@ -1832,6 +1916,7 @@
         "summary": "Analyzing and suggesting changes on master template for service pages",
         "created": "2025-09-29T18:53:27.256+0530",
         "timespent": 7200,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
           "accountId": "712020:3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
@@ -1878,6 +1963,7 @@
         "summary": "Analyse get started page ",
         "created": "2025-09-29T18:49:20.167+0530",
         "timespent": 100800,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
           "accountId": "712020:3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
@@ -1924,6 +2010,7 @@
         "summary": "Call with CRO and PPC team for data",
         "created": "2025-09-26T19:56:04.891+0530",
         "timespent": 1800,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
           "accountId": "712020:3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
@@ -1970,6 +2057,7 @@
         "summary": "call with sayali on homepage data",
         "created": "2025-09-26T19:52:20.755+0530",
         "timespent": 5400,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
           "accountId": "712020:3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
@@ -2016,6 +2104,7 @@
         "summary": "Checking website pages for flow",
         "created": "2025-09-25T20:55:45.770+0530",
         "timespent": 5400,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
           "accountId": "712020:3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
@@ -2062,6 +2151,7 @@
         "summary": "Call with Sayali on homepage response",
         "created": "2025-09-25T20:54:41.384+0530",
         "timespent": 1800,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
           "accountId": "712020:3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
@@ -2108,6 +2198,7 @@
         "summary": "Call with team on service section revamp",
         "created": "2025-09-25T20:49:51.143+0530",
         "timespent": 3600,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
           "accountId": "712020:3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
@@ -2193,6 +2284,7 @@
         },
         "created": "2025-09-24T20:40:32.702+0530",
         "timespent": 48600,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
           "accountId": "712020:3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
@@ -2239,6 +2331,7 @@
         "summary": "weekly meeting with sudhir",
         "created": "2025-09-23T20:52:06.287+0530",
         "timespent": 1800,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
           "accountId": "712020:3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
@@ -2324,6 +2417,7 @@
         },
         "created": "2025-09-23T20:49:11.924+0530",
         "timespent": 7200,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
           "accountId": "712020:3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
@@ -2409,6 +2503,7 @@
         },
         "created": "2025-09-22T20:40:55.801+0530",
         "timespent": 10800,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
           "accountId": "712020:3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
@@ -2494,6 +2589,7 @@
         },
         "created": "2025-09-22T20:39:48.367+0530",
         "timespent": 7200,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
           "accountId": "712020:3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
@@ -2515,52 +2611,6 @@
           "id": "3"
         },
         "updated": "2025-09-22T20:40:13.065+0530",
-        "status": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10800",
-          "description": "",
-          "iconUrl": "https://idealabprojects.atlassian.net/",
-          "name": "Done",
-          "id": "10800",
-          "statusCategory": {
-            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
-            "id": 3,
-            "key": "done",
-            "colorName": "green",
-            "name": "Done"
-          }
-        }
-      }
-    },
-    {
-      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
-      "id": "12666",
-      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/12666",
-      "key": "CRO-65",
-      "fields": {
-        "summary": "Analyse the content pages for leads quality",
-        "created": "2025-09-22T20:39:05.728+0530",
-        "timespent": 16200,
-        "assignee": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
-          "accountId": "712020:3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
-          "avatarUrls": {
-            "48x48": "https://secure.gravatar.com/avatar/0d95ffae99216804599d824a071e83d2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHJ-6.png",
-            "24x24": "https://secure.gravatar.com/avatar/0d95ffae99216804599d824a071e83d2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHJ-6.png",
-            "16x16": "https://secure.gravatar.com/avatar/0d95ffae99216804599d824a071e83d2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHJ-6.png",
-            "32x32": "https://secure.gravatar.com/avatar/0d95ffae99216804599d824a071e83d2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHJ-6.png"
-          },
-          "displayName": "harshit jain",
-          "active": true,
-          "timeZone": "Asia/Calcutta",
-          "accountType": "atlassian"
-        },
-        "priority": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
-          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
-          "name": "Medium",
-          "id": "3"
-        },
-        "updated": "2025-10-29T20:26:13.411+0530",
         "status": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10800",
           "description": "",

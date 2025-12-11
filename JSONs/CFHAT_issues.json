@@ -13,6 +13,7 @@
         "summary": "Design: Diwali 2025",
         "created": "2025-10-15T16:15:12.046+0530",
         "timespent": 32400,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A7480f087-7269-4957-9e6d-ee85e73b09e2",
           "accountId": "712020:7480f087-7269-4957-9e6d-ee85e73b09e2",
@@ -59,6 +60,7 @@
         "summary": "E-mailer Design - Independence Day",
         "created": "2025-08-14T16:12:01.235+0530",
         "timespent": 14400,
+        "duedate": "2025-08-13",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A023a0dbc-d7f7-4d53-9905-9641e6759d36",
           "accountId": "712020:023a0dbc-d7f7-4d53-9905-9641e6759d36",
@@ -105,6 +107,7 @@
         "summary": "Eid al-Fitr Emailer",
         "created": "2025-03-28T18:04:49.852+0530",
         "timespent": null,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A7480f087-7269-4957-9e6d-ee85e73b09e2",
           "accountId": "712020:7480f087-7269-4957-9e6d-ee85e73b09e2",
@@ -151,6 +154,7 @@
         "summary": "Cricket Tournament Standee Design",
         "created": "2025-02-13T21:04:13.768+0530",
         "timespent": null,
+        "duedate": "2025-02-14",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A7480f087-7269-4957-9e6d-ee85e73b09e2",
           "accountId": "712020:7480f087-7269-4957-9e6d-ee85e73b09e2",
@@ -197,6 +201,7 @@
         "summary": "Cricket Tournament Champions Flex Design",
         "created": "2025-02-13T21:03:48.269+0530",
         "timespent": null,
+        "duedate": "2025-02-14",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A7480f087-7269-4957-9e6d-ee85e73b09e2",
           "accountId": "712020:7480f087-7269-4957-9e6d-ee85e73b09e2",
@@ -243,6 +248,7 @@
         "summary": "Cricket Tournament Backdrop",
         "created": "2025-02-13T21:03:17.806+0530",
         "timespent": null,
+        "duedate": "2025-02-14",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A7480f087-7269-4957-9e6d-ee85e73b09e2",
           "accountId": "712020:7480f087-7269-4957-9e6d-ee85e73b09e2",

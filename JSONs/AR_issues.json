@@ -13,6 +13,7 @@
         "summary": "Web Article - How to Choose the Right Bookkeeping Model: In-House vs Freelance vs Remote",
         "created": "2025-12-02T12:41:09.169+0530",
         "timespent": null,
+        "duedate": "2025-12-03",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3d0d1e55-ab61-4668-a46a-fc40721ae07a",
           "accountId": "712020:3d0d1e55-ab61-4668-a46a-fc40721ae07a",
@@ -59,6 +60,7 @@
         "summary": "Web Article - How to Hire a Bookkeeper",
         "created": "2025-12-02T12:38:02.565+0530",
         "timespent": null,
+        "duedate": "2025-12-03",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3d0d1e55-ab61-4668-a46a-fc40721ae07a",
           "accountId": "712020:3d0d1e55-ab61-4668-a46a-fc40721ae07a",
@@ -105,6 +107,7 @@
         "summary": "Web Article - How Much Does Bookkeeping Really Cost for Small Businesses?",
         "created": "2025-12-02T12:35:04.713+0530",
         "timespent": null,
+        "duedate": "2025-12-03",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3d0d1e55-ab61-4668-a46a-fc40721ae07a",
           "accountId": "712020:3d0d1e55-ab61-4668-a46a-fc40721ae07a",
@@ -125,7 +128,7 @@
           "name": "Highest",
           "id": "1"
         },
-        "updated": "2025-12-09T18:33:04.232+0530",
+        "updated": "2025-12-10T15:32:29.164+0530",
         "status": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10568",
           "description": "",
@@ -151,6 +154,7 @@
         "summary": "Web Article - Bookkeeper vs Accountant vs CPA vs Controller vs Finance VA:",
         "created": "2025-12-02T12:31:38.378+0530",
         "timespent": null,
+        "duedate": "2025-12-03",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3d0d1e55-ab61-4668-a46a-fc40721ae07a",
           "accountId": "712020:3d0d1e55-ab61-4668-a46a-fc40721ae07a",
@@ -197,6 +201,7 @@
         "summary": "Why Small Businesses Struggle with Bookkeeping (And How to Fix It Early)",
         "created": "2025-11-27T13:18:42.610+0530",
         "timespent": null,
+        "duedate": "2025-11-28",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A41435bf1-7a46-4918-82dc-ba80eec20553",
           "accountId": "712020:41435bf1-7a46-4918-82dc-ba80eec20553",
@@ -243,6 +248,7 @@
         "summary": "Data as Distribution: Why Feeding LLMs Matters More Than Publishing for Humans",
         "created": "2025-09-25T13:39:30.465+0530",
         "timespent": 12600,
+        "duedate": "2025-11-28",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A41435bf1-7a46-4918-82dc-ba80eec20553",
           "accountId": "712020:41435bf1-7a46-4918-82dc-ba80eec20553",
@@ -289,6 +295,7 @@
         "summary": "Tech & AI Articles by Sabyasachi: AI Underwriters and the End of Human Guesswork in Insurance",
         "created": "2025-09-25T12:31:07.263+0530",
         "timespent": null,
+        "duedate": "2025-10-03",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Aa8b16dd6-d07f-4169-8312-8193e9ca3955",
           "accountId": "712020:a8b16dd6-d07f-4169-8312-8193e9ca3955",
@@ -335,6 +342,7 @@
         "summary": "Tech & AI Articles by Sabyasachi: Your Trusty Crypto Wallet May Be Quantum Bait Already",
         "created": "2025-09-25T12:31:03.030+0530",
         "timespent": null,
+        "duedate": "2025-10-03",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=5f5b452d0b6be2006e056f42",
           "accountId": "5f5b452d0b6be2006e056f42",
@@ -381,6 +389,7 @@
         "summary": "Tech & AI Articles by Sabyasachi: Blockchain is Taking On India's Biggest Traffic Blind Spot ",
         "created": "2025-09-25T12:30:58.563+0530",
         "timespent": null,
+        "duedate": "2025-11-28",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Aa8b16dd6-d07f-4169-8312-8193e9ca3955",
           "accountId": "712020:a8b16dd6-d07f-4169-8312-8193e9ca3955",
@@ -427,6 +436,7 @@
         "summary": "Tech & AI Articles by Sabyasachi: Blockchain 2.0 is Finally Ready to Rule, Thanks to AI",
         "created": "2025-09-25T12:30:53.604+0530",
         "timespent": null,
+        "duedate": "2025-10-10",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Aa8b16dd6-d07f-4169-8312-8193e9ca3955",
           "accountId": "712020:a8b16dd6-d07f-4169-8312-8193e9ca3955",
@@ -473,6 +483,7 @@
         "summary": "Tech & AI Articles by Sabyasachi: The Smartest Voice in the Clinic is Not your Doctor Anymore",
         "created": "2025-09-25T12:30:45.504+0530",
         "timespent": null,
+        "duedate": "2025-11-28",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Aa8b16dd6-d07f-4169-8312-8193e9ca3955",
           "accountId": "712020:a8b16dd6-d07f-4169-8312-8193e9ca3955",
@@ -519,6 +530,7 @@
         "summary": "Citation Gravity vs. Recommendation Gravity:",
         "created": "2025-09-16T14:49:09.694+0530",
         "timespent": null,
+        "duedate": "2025-12-15",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A41435bf1-7a46-4918-82dc-ba80eec20553",
           "accountId": "712020:41435bf1-7a46-4918-82dc-ba80eec20553",
@@ -604,6 +616,7 @@
         },
         "created": "2025-08-26T16:01:02.921+0530",
         "timespent": null,
+        "duedate": "2025-12-15",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A41435bf1-7a46-4918-82dc-ba80eec20553",
           "accountId": "712020:41435bf1-7a46-4918-82dc-ba80eec20553",
@@ -650,6 +663,7 @@
         "summary": "6. Answer Ownership: How to Become the Default Source in AI Responses",
         "created": "2025-08-26T15:58:52.754+0530",
         "timespent": null,
+        "duedate": "2025-11-28",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A41435bf1-7a46-4918-82dc-ba80eec20553",
           "accountId": "712020:41435bf1-7a46-4918-82dc-ba80eec20553",
@@ -696,6 +710,7 @@
         "summary": "5: Vector Real Estate: Owning Your Brand’s Place in AI’s Semantic Space",
         "created": "2025-08-18T16:27:49.072+0530",
         "timespent": 3600,
+        "duedate": "2025-12-15",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A41435bf1-7a46-4918-82dc-ba80eec20553",
           "accountId": "712020:41435bf1-7a46-4918-82dc-ba80eec20553",
@@ -742,6 +757,7 @@
         "summary": "4: Prompt Gravity: How to Become the Default Answer in AI Conversations",
         "created": "2025-08-18T16:27:39.480+0530",
         "timespent": 2700,
+        "duedate": "2025-12-15",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A41435bf1-7a46-4918-82dc-ba80eec20553",
           "accountId": "712020:41435bf1-7a46-4918-82dc-ba80eec20553",
@@ -788,6 +804,7 @@
         "summary": "Web Article: Semantic Reputation: The New SEO Moat No One’s Talking About",
         "created": "2025-08-11T19:18:48.739+0530",
         "timespent": 10800,
+        "duedate": "2025-12-15",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A41435bf1-7a46-4918-82dc-ba80eec20553",
           "accountId": "712020:41435bf1-7a46-4918-82dc-ba80eec20553",
@@ -834,6 +851,7 @@
         "summary": "Web Article: The Citation Layer: Why Being an AI-Preferred Source Will Define Future Authority",
         "created": "2025-08-11T19:17:39.920+0530",
         "timespent": 10800,
+        "duedate": "2025-11-28",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A41435bf1-7a46-4918-82dc-ba80eec20553",
           "accountId": "712020:41435bf1-7a46-4918-82dc-ba80eec20553",
@@ -880,6 +898,7 @@
         "summary": "Web Article: When ChatGPT Starts Quoting You: How to Optimize for LLM Discoverability, Not Just SEO",
         "created": "2025-08-11T19:15:38.764+0530",
         "timespent": 10200,
+        "duedate": "2025-11-28",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A41435bf1-7a46-4918-82dc-ba80eec20553",
           "accountId": "712020:41435bf1-7a46-4918-82dc-ba80eec20553",
@@ -926,6 +945,7 @@
         "summary": "Tech & AI Articles by Sabyasachi - Blockchain in Organ Transplant Article",
         "created": "2025-06-18T19:46:31.891+0530",
         "timespent": null,
+        "duedate": "2025-06-26",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A4360d118-7d6d-49ed-9537-35808e825c0c",
           "accountId": "712020:4360d118-7d6d-49ed-9537-35808e825c0c",
@@ -972,6 +992,7 @@
         "summary": "Web Article:\tNot Clicks, But Context: Why PPC Must Start with Human Intent\t1000",
         "created": "2025-06-18T14:11:51.081+0530",
         "timespent": null,
+        "duedate": "2025-12-15",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A41435bf1-7a46-4918-82dc-ba80eec20553",
           "accountId": "712020:41435bf1-7a46-4918-82dc-ba80eec20553",
@@ -1018,6 +1039,7 @@
         "summary": "Web Article:\tAgility Is the New Authority: Why Brands Outsource Marketing\t1000",
         "created": "2025-06-18T14:11:34.697+0530",
         "timespent": 4800,
+        "duedate": "2025-11-28",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A41435bf1-7a46-4918-82dc-ba80eec20553",
           "accountId": "712020:41435bf1-7a46-4918-82dc-ba80eec20553",
@@ -1064,6 +1086,7 @@
         "summary": "Web Article:\tAlways-On IT Support: The Secret Weapon for Remote-First Teams\t1000",
         "created": "2025-06-18T14:11:06.836+0530",
         "timespent": 12900,
+        "duedate": "2025-11-28",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A41435bf1-7a46-4918-82dc-ba80eec20553",
           "accountId": "712020:41435bf1-7a46-4918-82dc-ba80eec20553",
@@ -1110,6 +1133,7 @@
         "summary": "Web Article:\tVelocity Without Overhead: How Smart Firms Hire Devs in India\t1000",
         "created": "2025-06-18T14:10:45.783+0530",
         "timespent": null,
+        "duedate": "2025-12-15",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A41435bf1-7a46-4918-82dc-ba80eec20553",
           "accountId": "712020:41435bf1-7a46-4918-82dc-ba80eec20553",
@@ -1156,6 +1180,7 @@
         "summary": ".",
         "created": "2025-06-18T14:09:31.332+0530",
         "timespent": null,
+        "duedate": null,
         "assignee": null,
         "priority": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
@@ -1189,6 +1214,7 @@
         "summary": "Web Article:\tPredictive IT Support: Replacing Break-Fix with Proactive Ops\t1000",
         "created": "2025-06-18T14:09:19.930+0530",
         "timespent": 12300,
+        "duedate": "2025-11-28",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A41435bf1-7a46-4918-82dc-ba80eec20553",
           "accountId": "712020:41435bf1-7a46-4918-82dc-ba80eec20553",
@@ -1235,6 +1261,7 @@
         "summary": "Web Article:\tThe New IT Stack: Outsourcing Isn’t Cost-Cutting, It’s Control\t1000",
         "created": "2025-06-18T14:09:01.112+0530",
         "timespent": 10800,
+        "duedate": "2025-11-14",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A41435bf1-7a46-4918-82dc-ba80eec20553",
           "accountId": "712020:41435bf1-7a46-4918-82dc-ba80eec20553",
@@ -1281,6 +1308,7 @@
         "summary": "Web Article:\tDesign Is the Dealbreaker: Why Designers Define Brand Trust\t1000",
         "created": "2025-06-18T14:08:45.356+0530",
         "timespent": null,
+        "duedate": "2025-12-15",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A41435bf1-7a46-4918-82dc-ba80eec20553",
           "accountId": "712020:41435bf1-7a46-4918-82dc-ba80eec20553",
@@ -1327,6 +1355,7 @@
         "summary": "Tech & AI Articles by Sabyasachi -Blockchain in organ transplant article",
         "created": "2025-06-16T19:54:39.718+0530",
         "timespent": null,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A4360d118-7d6d-49ed-9537-35808e825c0c",
           "accountId": "712020:4360d118-7d6d-49ed-9537-35808e825c0c",
@@ -1373,6 +1402,7 @@
         "summary": "Tech & AI Articles by Sabyasachi - Is Your Cybersecurity Strategy Ready for the Quantum Impact",
         "created": "2025-06-02T19:24:49.872+0530",
         "timespent": null,
+        "duedate": "2025-06-04",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A41435bf1-7a46-4918-82dc-ba80eec20553",
           "accountId": "712020:41435bf1-7a46-4918-82dc-ba80eec20553",
@@ -1419,6 +1449,7 @@
         "summary": "Tech & AI Articles by Sabyasachi - The Role of Computer Vision (CV) in Fighting Cancer Today",
         "created": "2025-05-28T19:04:25.972+0530",
         "timespent": null,
+        "duedate": "2025-06-04",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A41435bf1-7a46-4918-82dc-ba80eec20553",
           "accountId": "712020:41435bf1-7a46-4918-82dc-ba80eec20553",
@@ -1465,6 +1496,7 @@
         "summary": "Tech & AI Articles by Sabyasachi - The Impact of AI and Computer Vision (CV) on Medical Diagnostics",
         "created": "2025-05-28T19:04:24.315+0530",
         "timespent": null,
+        "duedate": "2025-06-04",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A41435bf1-7a46-4918-82dc-ba80eec20553",
           "accountId": "712020:41435bf1-7a46-4918-82dc-ba80eec20553",
@@ -1511,6 +1543,7 @@
         "summary": "Tech & AI Articles by Sabyasachi - How Computer Vision (CV) Leads the Way in Healthcare Innovation",
         "created": "2025-05-28T19:04:20.132+0530",
         "timespent": null,
+        "duedate": "2025-06-04",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A41435bf1-7a46-4918-82dc-ba80eec20553",
           "accountId": "712020:41435bf1-7a46-4918-82dc-ba80eec20553",
@@ -1557,6 +1590,7 @@
         "summary": "Web Article:\tHow to Evaluate a Software Developer Before Hiring – A Complete Guide\t800",
         "created": "2025-05-27T14:07:36.550+0530",
         "timespent": 600,
+        "duedate": "2025-08-12",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Afe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
           "accountId": "712020:fe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
@@ -1603,6 +1637,7 @@
         "summary": "Web Article:\tWhy Hiring a Professional Tax Preparer Saves You More Than Just Money\t800",
         "created": "2025-05-27T14:07:09.654+0530",
         "timespent": 600,
+        "duedate": "2025-11-28",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A41435bf1-7a46-4918-82dc-ba80eec20553",
           "accountId": "712020:41435bf1-7a46-4918-82dc-ba80eec20553",
@@ -1649,6 +1684,7 @@
         "summary": "Web Article:\tWhy Bookkeeping Should Be the First Task You Outsource as a Business Owner\t800",
         "created": "2025-05-27T14:06:05.670+0530",
         "timespent": 3600,
+        "duedate": "2025-08-04",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A41435bf1-7a46-4918-82dc-ba80eec20553",
           "accountId": "712020:41435bf1-7a46-4918-82dc-ba80eec20553",
@@ -1695,6 +1731,7 @@
         "summary": "Web Article: The Hidden Cost of the Wrong Hire",
         "created": "2025-05-27T13:10:45.652+0530",
         "timespent": 7200,
+        "duedate": "2025-05-29",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A16506829-3e43-4324-812b-710f925f21f4",
           "accountId": "712020:16506829-3e43-4324-812b-710f925f21f4",
@@ -1741,6 +1778,7 @@
         "summary": "Web Article:\tWhy Hiring a Dedicated PHP Developer is Cheaper Than In-House: A Data-Backed Analysis\t800",
         "created": "2025-05-27T12:54:23.499+0530",
         "timespent": null,
+        "duedate": "2025-12-15",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A41435bf1-7a46-4918-82dc-ba80eec20553",
           "accountId": "712020:41435bf1-7a46-4918-82dc-ba80eec20553",
@@ -1787,6 +1825,7 @@
         "summary": "Web Article:\tWhy Your Business Needs a Microsoft Excel Expert in 2025\t800",
         "created": "2025-05-27T12:51:36.388+0530",
         "timespent": 5400,
+        "duedate": "2025-08-11",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A41435bf1-7a46-4918-82dc-ba80eec20553",
           "accountId": "712020:41435bf1-7a46-4918-82dc-ba80eec20553",
@@ -1833,6 +1872,7 @@
         "summary": "Web Article: From Chaos to Control: How a Personal Assistant Transforms Your Workflow 800",
         "created": "2025-05-26T10:39:49.592+0530",
         "timespent": null,
+        "duedate": "2025-12-15",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A41435bf1-7a46-4918-82dc-ba80eec20553",
           "accountId": "712020:41435bf1-7a46-4918-82dc-ba80eec20553",
@@ -1879,6 +1919,7 @@
         "summary": "Web Article\tHow Outsourced Data Entry Services Save Businesses Thousands Every Month\t800\tdata entry experts\thire data entry specialist",
         "created": "2025-05-23T10:53:03.121+0530",
         "timespent": null,
+        "duedate": "2025-11-28",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A41435bf1-7a46-4918-82dc-ba80eec20553",
           "accountId": "712020:41435bf1-7a46-4918-82dc-ba80eec20553",
@@ -1925,6 +1966,7 @@
         "summary": "Web Article - Why Hiring a Virtual Assistant Is the Smartest Move for Busy Entrepreneurs\t800",
         "created": "2025-05-22T16:21:40.984+0530",
         "timespent": null,
+        "duedate": "2025-12-15",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A41435bf1-7a46-4918-82dc-ba80eec20553",
           "accountId": "712020:41435bf1-7a46-4918-82dc-ba80eec20553",
@@ -1971,6 +2013,7 @@
         "summary": "Web Article 10 Business Questions Only a Data Scientist Can Answer\t800",
         "created": "2025-05-20T13:43:44.046+0530",
         "timespent": 1800,
+        "duedate": "2025-11-24",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A41435bf1-7a46-4918-82dc-ba80eec20553",
           "accountId": "712020:41435bf1-7a46-4918-82dc-ba80eec20553",
@@ -2017,6 +2060,7 @@
         "summary": "Web Article\t5 Real-World Applications of AI That Will Change Your Business\t800",
         "created": "2025-05-12T12:47:28.426+0530",
         "timespent": null,
+        "duedate": "2025-06-18",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A41435bf1-7a46-4918-82dc-ba80eec20553",
           "accountId": "712020:41435bf1-7a46-4918-82dc-ba80eec20553",
@@ -2063,6 +2107,7 @@
         "summary": "Web Article\tHow Hiring a Remote Software Developer Can Save 60% in Development Costs\t800",
         "created": "2025-05-12T12:44:28.124+0530",
         "timespent": 5400,
+        "duedate": "2025-08-11",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A41435bf1-7a46-4918-82dc-ba80eec20553",
           "accountId": "712020:41435bf1-7a46-4918-82dc-ba80eec20553",
@@ -2109,6 +2154,7 @@
         "summary": "Web Article\t10 Critical Signs You Need to Hire a Dedicated Developer Today\t800",
         "created": "2025-05-12T12:42:35.421+0530",
         "timespent": null,
+        "duedate": "2025-12-15",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A41435bf1-7a46-4918-82dc-ba80eec20553",
           "accountId": "712020:41435bf1-7a46-4918-82dc-ba80eec20553",
@@ -2155,6 +2201,7 @@
         "summary": "Web Article\tThe ROI of Great Design: How Graphic Design Drives Conversions & Trust\t800",
         "created": "2025-05-12T12:41:27.276+0530",
         "timespent": 600,
+        "duedate": "2025-12-15",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A41435bf1-7a46-4918-82dc-ba80eec20553",
           "accountId": "712020:41435bf1-7a46-4918-82dc-ba80eec20553",
@@ -2201,6 +2248,7 @@
         "summary": "Web Article\tHow an SMM Expert Helps You Turn Followers into Paying Customers\t800",
         "created": "2025-05-07T15:23:25.513+0530",
         "timespent": 3600,
+        "duedate": "2025-07-31",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A41435bf1-7a46-4918-82dc-ba80eec20553",
           "accountId": "712020:41435bf1-7a46-4918-82dc-ba80eec20553",
@@ -2247,6 +2295,7 @@
         "summary": "Web Article - Cost Breakdown: What It Really Takes to Build a Mobile App in 2025\t800",
         "created": "2025-05-07T14:44:42.645+0530",
         "timespent": null,
+        "duedate": "2025-06-16",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A41435bf1-7a46-4918-82dc-ba80eec20553",
           "accountId": "712020:41435bf1-7a46-4918-82dc-ba80eec20553",
@@ -2293,6 +2342,7 @@
         "summary": "Web Article\tThe Psychology Behind High-Converting Email Campaigns: What the Data Reveals\t800",
         "created": "2025-05-05T12:23:17.142+0530",
         "timespent": null,
+        "duedate": "2025-06-06",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A41435bf1-7a46-4918-82dc-ba80eec20553",
           "accountId": "712020:41435bf1-7a46-4918-82dc-ba80eec20553",

@@ -12,17 +12,18 @@
       "fields": {
         "summary": "Email Marketing Template PDF Design - Email Collaterals",
         "created": "2025-12-08T17:55:36.989+0530",
-        "timespent": 21600,
+        "timespent": 28800,
+        "duedate": "2025-12-10",
         "assignee": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A023a0dbc-d7f7-4d53-9905-9641e6759d36",
-          "accountId": "712020:023a0dbc-d7f7-4d53-9905-9641e6759d36",
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3d0d1e55-ab61-4668-a46a-fc40721ae07a",
+          "accountId": "712020:3d0d1e55-ab61-4668-a46a-fc40721ae07a",
           "avatarUrls": {
-            "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:023a0dbc-d7f7-4d53-9905-9641e6759d36/7be68c71-0b1c-4b05-885b-7a373913a23a/48",
-            "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:023a0dbc-d7f7-4d53-9905-9641e6759d36/7be68c71-0b1c-4b05-885b-7a373913a23a/24",
-            "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:023a0dbc-d7f7-4d53-9905-9641e6759d36/7be68c71-0b1c-4b05-885b-7a373913a23a/16",
-            "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:023a0dbc-d7f7-4d53-9905-9641e6759d36/7be68c71-0b1c-4b05-885b-7a373913a23a/32"
+            "48x48": "https://secure.gravatar.com/avatar/4067b0ff6b0ef001cbbbe2fa0b4c144e?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSB-3.png",
+            "24x24": "https://secure.gravatar.com/avatar/4067b0ff6b0ef001cbbbe2fa0b4c144e?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSB-3.png",
+            "16x16": "https://secure.gravatar.com/avatar/4067b0ff6b0ef001cbbbe2fa0b4c144e?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSB-3.png",
+            "32x32": "https://secure.gravatar.com/avatar/4067b0ff6b0ef001cbbbe2fa0b4c144e?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSB-3.png"
           },
-          "displayName": "Rahul",
+          "displayName": "Sandip Bhattacharya",
           "active": true,
           "timeZone": "Asia/Calcutta",
           "accountType": "atlassian"
@@ -33,13 +34,13 @@
           "name": "Highest",
           "id": "1"
         },
-        "updated": "2025-12-08T18:27:30.105+0530",
+        "updated": "2025-12-10T16:43:50.491+0530",
         "status": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10065",
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10075",
           "description": "",
           "iconUrl": "https://idealabprojects.atlassian.net/",
-          "name": "To Do",
-          "id": "10065",
+          "name": "In Review",
+          "id": "10075",
           "statusCategory": {
             "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
             "id": 2,
@@ -98,6 +99,7 @@
         },
         "created": "2025-09-29T16:02:32.761+0530",
         "timespent": null,
+        "duedate": null,
         "assignee": null,
         "priority": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
@@ -170,6 +172,7 @@
         },
         "created": "2025-09-25T13:56:21.805+0530",
         "timespent": null,
+        "duedate": "2025-09-26",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=605aad190a9b6900719e7c99",
           "accountId": "605aad190a9b6900719e7c99",
@@ -255,6 +258,7 @@
         },
         "created": "2025-09-25T13:55:23.214+0530",
         "timespent": null,
+        "duedate": "2025-12-10",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3d0d1e55-ab61-4668-a46a-fc40721ae07a",
           "accountId": "712020:3d0d1e55-ab61-4668-a46a-fc40721ae07a",
@@ -340,6 +344,7 @@
         },
         "created": "2025-09-25T12:43:56.606+0530",
         "timespent": null,
+        "duedate": "2025-09-26",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=628b7d1aab91fe0070973fa6",
           "accountId": "628b7d1aab91fe0070973fa6",
@@ -386,6 +391,7 @@
         "summary": "CRM (Customer Insights) access to Sandip by Naeem for managing email campaigns",
         "created": "2025-08-21T13:45:02.275+0530",
         "timespent": null,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=628b7d1aab91fe0070973fa6",
           "accountId": "628b7d1aab91fe0070973fa6",
@@ -432,6 +438,7 @@
         "summary": "Content for SEO Email 3",
         "created": "2025-02-13T19:33:24.957+0530",
         "timespent": null,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=628b7d1aab91fe0070973fa6",
           "accountId": "628b7d1aab91fe0070973fa6",
@@ -478,6 +485,7 @@
         "summary": "Content for SEO Email 2",
         "created": "2025-02-13T19:33:19.705+0530",
         "timespent": null,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=605aad190a9b6900719e7c99",
           "accountId": "605aad190a9b6900719e7c99",
@@ -524,6 +532,7 @@
         "summary": "SEO Email 1: Is your website deaf",
         "created": "2025-02-13T19:32:21.312+0530",
         "timespent": null,
+        "duedate": null,
         "assignee": null,
         "priority": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",

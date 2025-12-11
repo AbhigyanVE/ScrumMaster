@@ -13,6 +13,7 @@
         "summary": "Real Estate VA - FAQs",
         "created": "2025-12-09T18:51:12.934+0530",
         "timespent": 10800,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A9118629a-f338-4a5a-9762-4244c0a608a8",
           "accountId": "712020:9118629a-f338-4a5a-9762-4244c0a608a8",
@@ -98,6 +99,7 @@
         },
         "created": "2025-11-04T17:05:09.237+0530",
         "timespent": null,
+        "duedate": "2025-11-10",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3d0d1e55-ab61-4668-a46a-fc40721ae07a",
           "accountId": "712020:3d0d1e55-ab61-4668-a46a-fc40721ae07a",
@@ -183,6 +185,7 @@
         },
         "created": "2025-11-04T16:56:55.538+0530",
         "timespent": null,
+        "duedate": "2025-11-13",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3d0d1e55-ab61-4668-a46a-fc40721ae07a",
           "accountId": "712020:3d0d1e55-ab61-4668-a46a-fc40721ae07a",
@@ -268,6 +271,7 @@
         },
         "created": "2025-11-04T16:50:59.707+0530",
         "timespent": null,
+        "duedate": "2025-11-13",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3d0d1e55-ab61-4668-a46a-fc40721ae07a",
           "accountId": "712020:3d0d1e55-ab61-4668-a46a-fc40721ae07a",
@@ -314,6 +318,7 @@
         "summary": "1B Project (Medium Article) - Quantum Layouts: Using Spatial & Nonlinear Navigation for Deep Stories",
         "created": "2025-10-15T10:12:39.869+0530",
         "timespent": 10800,
+        "duedate": "2025-10-21",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3d0d1e55-ab61-4668-a46a-fc40721ae07a",
           "accountId": "712020:3d0d1e55-ab61-4668-a46a-fc40721ae07a",
@@ -360,6 +365,7 @@
         "summary": "1B Project (Medium Article) - Invisible UX: Designing for AI Navigation, Not Human Navigation",
         "created": "2025-10-15T10:12:05.368+0530",
         "timespent": 10800,
+        "duedate": "2025-10-21",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3d0d1e55-ab61-4668-a46a-fc40721ae07a",
           "accountId": "712020:3d0d1e55-ab61-4668-a46a-fc40721ae07a",
@@ -406,6 +412,7 @@
         "summary": "1B Project (Medium Article) - Micro-Motion & Haptics: The Next UX Frontier Beyond Scroll & Click",
         "created": "2025-10-15T10:11:34.789+0530",
         "timespent": 10800,
+        "duedate": "2025-10-16",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3d0d1e55-ab61-4668-a46a-fc40721ae07a",
           "accountId": "712020:3d0d1e55-ab61-4668-a46a-fc40721ae07a",
@@ -452,6 +459,7 @@
         "summary": "1B Project (Medium Article) - Emotion-Responsive UI: Interfaces That Shift Based on Users’ Mood or Context",
         "created": "2025-10-15T10:10:56.893+0530",
         "timespent": 10800,
+        "duedate": "2025-10-16",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3d0d1e55-ab61-4668-a46a-fc40721ae07a",
           "accountId": "712020:3d0d1e55-ab61-4668-a46a-fc40721ae07a",
@@ -498,6 +506,7 @@
         "summary": "1B Project (Medium Article) - Generative Design Systems: Websites That Sketch Themselves Based on Brand DNA",
         "created": "2025-10-13T17:43:46.567+0530",
         "timespent": 10800,
+        "duedate": "2025-10-15",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3d0d1e55-ab61-4668-a46a-fc40721ae07a",
           "accountId": "712020:3d0d1e55-ab61-4668-a46a-fc40721ae07a",
@@ -583,6 +592,7 @@
         },
         "created": "2025-10-13T11:58:35.953+0530",
         "timespent": null,
+        "duedate": "2025-10-28",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3d0d1e55-ab61-4668-a46a-fc40721ae07a",
           "accountId": "712020:3d0d1e55-ab61-4668-a46a-fc40721ae07a",
@@ -668,6 +678,7 @@
         },
         "created": "2025-10-13T11:51:26.617+0530",
         "timespent": null,
+        "duedate": "2025-10-28",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3d0d1e55-ab61-4668-a46a-fc40721ae07a",
           "accountId": "712020:3d0d1e55-ab61-4668-a46a-fc40721ae07a",
@@ -753,6 +764,7 @@
         },
         "created": "2025-09-29T16:04:53.619+0530",
         "timespent": null,
+        "duedate": "2025-10-01",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3d0d1e55-ab61-4668-a46a-fc40721ae07a",
           "accountId": "712020:3d0d1e55-ab61-4668-a46a-fc40721ae07a",
@@ -838,6 +850,7 @@
         },
         "created": "2025-09-29T12:07:08.078+0530",
         "timespent": 1200,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3d0d1e55-ab61-4668-a46a-fc40721ae07a",
           "accountId": "712020:3d0d1e55-ab61-4668-a46a-fc40721ae07a",
@@ -884,6 +897,7 @@
         "summary": "Medium Article from Case Study--The Denial Economy: Stop the 50% Claim-Data Problem with Real-Time Eligibility  ",
         "created": "2025-09-29T12:05:26.168+0530",
         "timespent": 28800,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=5f5b452d0b6be2006e056f42",
           "accountId": "5f5b452d0b6be2006e056f42",
@@ -969,6 +983,7 @@
         },
         "created": "2025-09-26T12:31:01.683+0530",
         "timespent": null,
+        "duedate": "2025-10-01",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3d0d1e55-ab61-4668-a46a-fc40721ae07a",
           "accountId": "712020:3d0d1e55-ab61-4668-a46a-fc40721ae07a",
@@ -1054,6 +1069,7 @@
         },
         "created": "2025-09-26T12:23:01.609+0530",
         "timespent": null,
+        "duedate": "2025-09-30",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3d0d1e55-ab61-4668-a46a-fc40721ae07a",
           "accountId": "712020:3d0d1e55-ab61-4668-a46a-fc40721ae07a",
@@ -1139,6 +1155,7 @@
         },
         "created": "2025-09-26T12:17:34.939+0530",
         "timespent": null,
+        "duedate": "2025-09-30",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3d0d1e55-ab61-4668-a46a-fc40721ae07a",
           "accountId": "712020:3d0d1e55-ab61-4668-a46a-fc40721ae07a",
@@ -1224,6 +1241,7 @@
         },
         "created": "2025-09-25T15:50:45.182+0530",
         "timespent": null,
+        "duedate": "2025-10-03",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Afe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
           "accountId": "712020:fe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
@@ -1309,6 +1327,7 @@
         },
         "created": "2025-09-25T13:53:14.535+0530",
         "timespent": null,
+        "duedate": "2025-09-30",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3d0d1e55-ab61-4668-a46a-fc40721ae07a",
           "accountId": "712020:3d0d1e55-ab61-4668-a46a-fc40721ae07a",
@@ -1394,6 +1413,7 @@
         },
         "created": "2025-09-24T16:53:07.038+0530",
         "timespent": null,
+        "duedate": "2025-09-25",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Afe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
           "accountId": "712020:fe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
@@ -1479,6 +1499,7 @@
         },
         "created": "2025-09-23T18:10:36.356+0530",
         "timespent": 2100,
+        "duedate": "2025-09-26",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3d0d1e55-ab61-4668-a46a-fc40721ae07a",
           "accountId": "712020:3d0d1e55-ab61-4668-a46a-fc40721ae07a",
@@ -1525,6 +1546,7 @@
         "summary": "1B: Medium Article - How a Fintech AI Solved the Problem That Still Haunts Legal AI",
         "created": "2025-09-23T18:08:23.274+0530",
         "timespent": 25200,
+        "duedate": "2025-09-30",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Aa8b16dd6-d07f-4169-8312-8193e9ca3955",
           "accountId": "712020:a8b16dd6-d07f-4169-8312-8193e9ca3955",
@@ -1610,6 +1632,7 @@
         },
         "created": "2025-09-22T19:12:41.233+0530",
         "timespent": null,
+        "duedate": "2025-10-06",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3d0d1e55-ab61-4668-a46a-fc40721ae07a",
           "accountId": "712020:3d0d1e55-ab61-4668-a46a-fc40721ae07a",
@@ -1656,6 +1679,7 @@
         "summary": "1B Project (Medium Article) - Cognitive Off-Loading as a Service: The New ROI Metric for Executive VAs",
         "created": "2025-09-22T18:23:26.517+0530",
         "timespent": 12000,
+        "duedate": "2025-09-29",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3d0d1e55-ab61-4668-a46a-fc40721ae07a",
           "accountId": "712020:3d0d1e55-ab61-4668-a46a-fc40721ae07a",
@@ -1702,6 +1726,7 @@
         "summary": "1B Project (Medium Article) - Real-Time Sentiment Loops: When Social Listening Guides Creative in Minutes",
         "created": "2025-09-22T18:22:50.442+0530",
         "timespent": 12000,
+        "duedate": "2025-09-26",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3d0d1e55-ab61-4668-a46a-fc40721ae07a",
           "accountId": "712020:3d0d1e55-ab61-4668-a46a-fc40721ae07a",
@@ -1748,6 +1773,7 @@
         "summary": "1B Project (Medium Article) - Zero-Click Funnels: Monetizing Traffic You Never Receive",
         "created": "2025-09-22T18:22:18.312+0530",
         "timespent": 12000,
+        "duedate": "2025-09-26",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3d0d1e55-ab61-4668-a46a-fc40721ae07a",
           "accountId": "712020:3d0d1e55-ab61-4668-a46a-fc40721ae07a",
@@ -1794,6 +1820,7 @@
         "summary": "1B Project (Medium Article) - Spatial Web Design: Building for the AR Cloud and Mixed Reality Browsers",
         "created": "2025-09-22T18:21:42.004+0530",
         "timespent": 15600,
+        "duedate": "2025-09-24",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3d0d1e55-ab61-4668-a46a-fc40721ae07a",
           "accountId": "712020:3d0d1e55-ab61-4668-a46a-fc40721ae07a",
@@ -1840,6 +1867,7 @@
         "summary": "1B Project (Medium Article) - Liquid Teams: The Future of On-Demand, Borderless Staff Augmentation",
         "created": "2025-09-22T18:21:03.417+0530",
         "timespent": 8400,
+        "duedate": "2025-09-24",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3d0d1e55-ab61-4668-a46a-fc40721ae07a",
           "accountId": "712020:3d0d1e55-ab61-4668-a46a-fc40721ae07a",
@@ -1886,6 +1914,7 @@
         "summary": "1B Project (Medium Article) - Trust Architecture: Designing Security Protocols for Always-On Remote Support",
         "created": "2025-09-22T10:35:05.083+0530",
         "timespent": 12000,
+        "duedate": "2025-09-23",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3d0d1e55-ab61-4668-a46a-fc40721ae07a",
           "accountId": "712020:3d0d1e55-ab61-4668-a46a-fc40721ae07a",
@@ -1971,6 +2000,7 @@
         },
         "created": "2025-09-20T13:47:12.909+0530",
         "timespent": null,
+        "duedate": "2025-10-06",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3d0d1e55-ab61-4668-a46a-fc40721ae07a",
           "accountId": "712020:3d0d1e55-ab61-4668-a46a-fc40721ae07a",
@@ -2056,6 +2086,7 @@
         },
         "created": "2025-09-20T13:43:07.297+0530",
         "timespent": null,
+        "duedate": "2025-10-06",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3d0d1e55-ab61-4668-a46a-fc40721ae07a",
           "accountId": "712020:3d0d1e55-ab61-4668-a46a-fc40721ae07a",
@@ -2102,6 +2133,7 @@
         "summary": "1B Project (Medium Article) - Threads, TikTok, and the LLM Discovery Engine: The New Cross-Platform Growth Stack",
         "created": "2025-09-19T19:23:45.229+0530",
         "timespent": 13800,
+        "duedate": "2025-09-22",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3d0d1e55-ab61-4668-a46a-fc40721ae07a",
           "accountId": "712020:3d0d1e55-ab61-4668-a46a-fc40721ae07a",
@@ -2187,6 +2219,7 @@
         },
         "created": "2025-09-19T16:15:07.786+0530",
         "timespent": null,
+        "duedate": "2025-09-22",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3d0d1e55-ab61-4668-a46a-fc40721ae07a",
           "accountId": "712020:3d0d1e55-ab61-4668-a46a-fc40721ae07a",
@@ -2272,6 +2305,7 @@
         },
         "created": "2025-09-19T11:36:48.733+0530",
         "timespent": 1200,
+        "duedate": "2025-09-22",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3d0d1e55-ab61-4668-a46a-fc40721ae07a",
           "accountId": "712020:3d0d1e55-ab61-4668-a46a-fc40721ae07a",
@@ -2318,6 +2352,7 @@
         "summary": "Medium Article--AI-Powered Design Workflows: India’s Advantage in Faster, Smarter Web Creation",
         "created": "2025-09-19T11:35:54.057+0530",
         "timespent": 21600,
+        "duedate": "2025-09-22",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=5f5b452d0b6be2006e056f42",
           "accountId": "5f5b452d0b6be2006e056f42",
@@ -2403,6 +2438,7 @@
         },
         "created": "2025-09-18T20:02:30.214+0530",
         "timespent": null,
+        "duedate": "2025-10-06",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3d0d1e55-ab61-4668-a46a-fc40721ae07a",
           "accountId": "712020:3d0d1e55-ab61-4668-a46a-fc40721ae07a",
@@ -2488,6 +2524,7 @@
         },
         "created": "2025-09-18T19:57:32.067+0530",
         "timespent": null,
+        "duedate": "2025-09-29",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3d0d1e55-ab61-4668-a46a-fc40721ae07a",
           "accountId": "712020:3d0d1e55-ab61-4668-a46a-fc40721ae07a",
@@ -2534,6 +2571,7 @@
         "summary": "1B Project (Medium Article) - Knowledge Graph Warfare: Outranking Competitors Inside Google’s Brain",
         "created": "2025-09-18T10:11:15.160+0530",
         "timespent": 12000,
+        "duedate": "2025-09-19",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3d0d1e55-ab61-4668-a46a-fc40721ae07a",
           "accountId": "712020:3d0d1e55-ab61-4668-a46a-fc40721ae07a",
@@ -2580,6 +2618,7 @@
         "summary": "1B Project (Medium Article) - Neuroaesthetic Metrics: Designing for Dopamine, Not Click-Throughs",
         "created": "2025-09-18T10:10:34.548+0530",
         "timespent": 12000,
+        "duedate": "2025-09-19",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3d0d1e55-ab61-4668-a46a-fc40721ae07a",
           "accountId": "712020:3d0d1e55-ab61-4668-a46a-fc40721ae07a",
@@ -2665,6 +2704,7 @@
         },
         "created": "2025-09-17T19:57:52.949+0530",
         "timespent": null,
+        "duedate": "2025-10-06",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3d0d1e55-ab61-4668-a46a-fc40721ae07a",
           "accountId": "712020:3d0d1e55-ab61-4668-a46a-fc40721ae07a",
@@ -2750,6 +2790,7 @@
         },
         "created": "2025-09-17T15:49:10.991+0530",
         "timespent": null,
+        "duedate": "2025-09-25",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Afe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
           "accountId": "712020:fe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
@@ -2796,6 +2837,7 @@
         "summary": "1B Project (Medium Article) - Outcome-Based Outsourcing: Paying for Results, Not Hours",
         "created": "2025-09-17T10:07:57.511+0530",
         "timespent": 8400,
+        "duedate": "2025-09-17",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3d0d1e55-ab61-4668-a46a-fc40721ae07a",
           "accountId": "712020:3d0d1e55-ab61-4668-a46a-fc40721ae07a",
@@ -2842,6 +2884,7 @@
         "summary": "1B Project (Medium Article) - VA 3.0: Pairing Human Assistants with Autonomous AI Agents",
         "created": "2025-09-17T10:07:27.295+0530",
         "timespent": 12000,
+        "duedate": "2025-09-17",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3d0d1e55-ab61-4668-a46a-fc40721ae07a",
           "accountId": "712020:3d0d1e55-ab61-4668-a46a-fc40721ae07a",
@@ -2927,6 +2970,7 @@
         },
         "created": "2025-09-16T19:44:20.654+0530",
         "timespent": null,
+        "duedate": "2025-10-06",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3d0d1e55-ab61-4668-a46a-fc40721ae07a",
           "accountId": "712020:3d0d1e55-ab61-4668-a46a-fc40721ae07a",
@@ -3012,6 +3056,7 @@
         },
         "created": "2025-09-16T16:48:50.910+0530",
         "timespent": null,
+        "duedate": "2025-09-18",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3d0d1e55-ab61-4668-a46a-fc40721ae07a",
           "accountId": "712020:3d0d1e55-ab61-4668-a46a-fc40721ae07a",
@@ -3097,6 +3142,7 @@
         },
         "created": "2025-09-16T16:38:44.217+0530",
         "timespent": null,
+        "duedate": "2025-10-06",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3d0d1e55-ab61-4668-a46a-fc40721ae07a",
           "accountId": "712020:3d0d1e55-ab61-4668-a46a-fc40721ae07a",
@@ -3143,6 +3189,7 @@
         "summary": "1B Project (Medium Article) - Synthetic Influencers: Partnering with AI-Generated Creators for 10x Reach",
         "created": "2025-09-16T11:27:22.427+0530",
         "timespent": 11700,
+        "duedate": "2025-09-17",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3d0d1e55-ab61-4668-a46a-fc40721ae07a",
           "accountId": "712020:3d0d1e55-ab61-4668-a46a-fc40721ae07a",
@@ -3189,6 +3236,7 @@
         "summary": "1B Project (Medium Article) - Entity SEO vs Vector Search: Who Wins When Search Becomes Pure AI?",
         "created": "2025-09-16T11:26:30.952+0530",
         "timespent": 10800,
+        "duedate": "2025-09-17",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3d0d1e55-ab61-4668-a46a-fc40721ae07a",
           "accountId": "712020:3d0d1e55-ab61-4668-a46a-fc40721ae07a",
@@ -3274,6 +3322,7 @@
         },
         "created": "2025-09-15T20:53:13.016+0530",
         "timespent": 1800,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3d0d1e55-ab61-4668-a46a-fc40721ae07a",
           "accountId": "712020:3d0d1e55-ab61-4668-a46a-fc40721ae07a",
@@ -3320,6 +3369,7 @@
         "summary": "Review Medium Article -- Automating Admin vs Automating Engagement: The Hidden Gap AI Can’t Close in Social Media",
         "created": "2025-09-15T20:51:00.252+0530",
         "timespent": 14400,
+        "duedate": "2025-09-17",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=5f5b452d0b6be2006e056f42",
           "accountId": "5f5b452d0b6be2006e056f42",

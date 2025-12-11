@@ -13,6 +13,7 @@
         "summary": "Podcast style video extracted from the call",
         "created": "2025-12-04T20:07:34.169+0530",
         "timespent": 28800,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ac44ad097-e9a1-497e-b0ea-7b115363695d",
           "accountId": "712020:c44ad097-e9a1-497e-b0ea-7b115363695d",
@@ -59,6 +60,7 @@
         "summary": "Why Debate hurts a free society - Video",
         "created": "2025-12-04T19:35:58.021+0530",
         "timespent": 57600,
+        "duedate": "2025-12-05",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ac44ad097-e9a1-497e-b0ea-7b115363695d",
           "accountId": "712020:c44ad097-e9a1-497e-b0ea-7b115363695d",
@@ -105,6 +107,7 @@
         "summary": "Why millionaires aren't clever - Video",
         "created": "2025-10-28T12:44:46.585+0530",
         "timespent": 90000,
+        "duedate": "2025-10-31",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ac44ad097-e9a1-497e-b0ea-7b115363695d",
           "accountId": "712020:c44ad097-e9a1-497e-b0ea-7b115363695d",
@@ -151,6 +154,7 @@
         "summary": "Why you shouldn't treat people equally - Video",
         "created": "2025-10-28T12:44:08.083+0530",
         "timespent": 64800,
+        "duedate": "2025-10-27",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ac44ad097-e9a1-497e-b0ea-7b115363695d",
           "accountId": "712020:c44ad097-e9a1-497e-b0ea-7b115363695d",
@@ -197,6 +201,7 @@
         "summary": "Milton Friedman YT Short",
         "created": "2025-09-29T16:05:47.717+0530",
         "timespent": 57600,
+        "duedate": "2025-10-10",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ac44ad097-e9a1-497e-b0ea-7b115363695d",
           "accountId": "712020:c44ad097-e9a1-497e-b0ea-7b115363695d",
@@ -243,6 +248,7 @@
         "summary": "Inattentional blindness - YouTube Short",
         "created": "2025-09-10T12:24:03.853+0530",
         "timespent": 136800,
+        "duedate": "2025-09-24",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ac44ad097-e9a1-497e-b0ea-7b115363695d",
           "accountId": "712020:c44ad097-e9a1-497e-b0ea-7b115363695d",
@@ -289,6 +295,7 @@
         "summary": "The Spirit of Entrepreneurship is Changing - Video",
         "created": "2025-08-21T14:07:21.274+0530",
         "timespent": 64800,
+        "duedate": "2025-08-21",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ac44ad097-e9a1-497e-b0ea-7b115363695d",
           "accountId": "712020:c44ad097-e9a1-497e-b0ea-7b115363695d",
@@ -335,6 +342,7 @@
         "summary": "Video update using new voice over",
         "created": "2025-08-14T15:55:05.880+0530",
         "timespent": 28800,
+        "duedate": "2025-08-12",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A023a0dbc-d7f7-4d53-9905-9641e6759d36",
           "accountId": "712020:023a0dbc-d7f7-4d53-9905-9641e6759d36",
@@ -381,6 +389,7 @@
         "summary": "How to Build an AI-Savvy SEO Team Hiring for the Future - Video",
         "created": "2025-07-31T20:28:55.800+0530",
         "timespent": 2700,
+        "duedate": "2025-08-04",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ac44ad097-e9a1-497e-b0ea-7b115363695d",
           "accountId": "712020:c44ad097-e9a1-497e-b0ea-7b115363695d",
@@ -427,6 +436,7 @@
         "summary": "How AI Turns 1 Idea into 100 Content Pieces - Video",
         "created": "2025-07-31T20:28:45.797+0530",
         "timespent": 2700,
+        "duedate": "2025-08-04",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ac44ad097-e9a1-497e-b0ea-7b115363695d",
           "accountId": "712020:c44ad097-e9a1-497e-b0ea-7b115363695d",
@@ -473,6 +483,7 @@
         "summary": "Entrepreneur Video From Call",
         "created": "2025-07-30T21:21:16.894+0530",
         "timespent": 10800,
+        "duedate": "2025-08-04",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ac44ad097-e9a1-497e-b0ea-7b115363695d",
           "accountId": "712020:c44ad097-e9a1-497e-b0ea-7b115363695d",
@@ -519,6 +530,7 @@
         "summary": "Why All Money is a Lie-Including Bitcoin - Video",
         "created": "2025-07-14T13:00:00.046+0530",
         "timespent": 25200,
+        "duedate": "2025-08-13",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ac44ad097-e9a1-497e-b0ea-7b115363695d",
           "accountId": "712020:c44ad097-e9a1-497e-b0ea-7b115363695d",
@@ -565,6 +577,7 @@
         "summary": "Why reading makes you so smart- Video",
         "created": "2025-07-01T12:54:37.125+0530",
         "timespent": null,
+        "duedate": "2025-07-09",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ac44ad097-e9a1-497e-b0ea-7b115363695d",
           "accountId": "712020:c44ad097-e9a1-497e-b0ea-7b115363695d",
@@ -611,6 +624,7 @@
         "summary": "Big tech isn't about technology",
         "created": "2025-05-26T20:31:19.705+0530",
         "timespent": null,
+        "duedate": "2025-06-06",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ac44ad097-e9a1-497e-b0ea-7b115363695d",
           "accountId": "712020:c44ad097-e9a1-497e-b0ea-7b115363695d",
@@ -657,6 +671,7 @@
         "summary": "How to control a society",
         "created": "2025-02-13T21:00:40.723+0530",
         "timespent": null,
+        "duedate": "2025-02-14",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A286cf5ad-d944-4d43-833c-95909f5b1d0d",
           "accountId": "712020:286cf5ad-d944-4d43-833c-95909f5b1d0d",

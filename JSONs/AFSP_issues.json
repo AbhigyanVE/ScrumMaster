@@ -6,23 +6,24 @@
   "issues": [
     {
       "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
-      "id": "14561",
-      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14561",
-      "key": "AFSP-84",
+      "id": "14579",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14579",
+      "key": "AFSP-95",
       "fields": {
-        "summary": "FAQs (VA Sub Domain - Real Estate VA)",
-        "created": "2025-12-09T18:59:11.143+0530",
-        "timespent": 10800,
+        "summary": "Domain FAQ - Bookkeeping FAQs Page",
+        "created": "2025-12-11T16:20:48.070+0530",
+        "timespent": 1800,
+        "duedate": null,
         "assignee": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A41435bf1-7a46-4918-82dc-ba80eec20553",
-          "accountId": "712020:41435bf1-7a46-4918-82dc-ba80eec20553",
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=605aad190a9b6900719e7c99",
+          "accountId": "605aad190a9b6900719e7c99",
           "avatarUrls": {
-            "48x48": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
-            "24x24": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
-            "16x16": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
-            "32x32": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png"
+            "48x48": "https://secure.gravatar.com/avatar/4f0d47d7277fe8d2b9942e49df3be561?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDM-5.png",
+            "24x24": "https://secure.gravatar.com/avatar/4f0d47d7277fe8d2b9942e49df3be561?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDM-5.png",
+            "16x16": "https://secure.gravatar.com/avatar/4f0d47d7277fe8d2b9942e49df3be561?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDM-5.png",
+            "32x32": "https://secure.gravatar.com/avatar/4f0d47d7277fe8d2b9942e49df3be561?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDM-5.png"
           },
-          "displayName": "Praveen Soni",
+          "displayName": "Daya Mukherjee",
           "active": true,
           "timeZone": "Asia/Calcutta",
           "accountType": "atlassian"
@@ -33,7 +34,563 @@
           "name": "Highest",
           "id": "1"
         },
-        "updated": "2025-12-09T19:01:42.374+0530",
+        "updated": "2025-12-11T16:23:53.923+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10468",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "To Do",
+          "id": "10468",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
+            "id": 2,
+            "key": "new",
+            "colorName": "blue-gray",
+            "name": "To Do"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "14578",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14578",
+      "key": "AFSP-94",
+      "fields": {
+        "summary": "Guest Post (Real Estate VA) - The New Real Estate Workflow and How VAs and AI Work Together",
+        "created": "2025-12-11T13:44:35.241+0530",
+        "timespent": null,
+        "duedate": "2025-12-12",
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A9118629a-f338-4a5a-9762-4244c0a608a8",
+          "accountId": "712020:9118629a-f338-4a5a-9762-4244c0a608a8",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/1ec1580bbcb02bd480d7b38c0cdf0a15?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKG-3.png",
+            "24x24": "https://secure.gravatar.com/avatar/1ec1580bbcb02bd480d7b38c0cdf0a15?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKG-3.png",
+            "16x16": "https://secure.gravatar.com/avatar/1ec1580bbcb02bd480d7b38c0cdf0a15?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKG-3.png",
+            "32x32": "https://secure.gravatar.com/avatar/1ec1580bbcb02bd480d7b38c0cdf0a15?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKG-3.png"
+          },
+          "displayName": "Koyel Ghosh",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "updated": "2025-12-11T13:44:35.323+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10468",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "To Do",
+          "id": "10468",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
+            "id": 2,
+            "key": "new",
+            "colorName": "blue-gray",
+            "name": "To Do"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "14577",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14577",
+      "key": "AFSP-93",
+      "fields": {
+        "summary": "Guest Post (Real Estate VA) - The Invisible Work Slowing Real Estate Teams and How VAs Fix It",
+        "created": "2025-12-11T13:43:46.392+0530",
+        "timespent": null,
+        "duedate": "2025-12-11",
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A9118629a-f338-4a5a-9762-4244c0a608a8",
+          "accountId": "712020:9118629a-f338-4a5a-9762-4244c0a608a8",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/1ec1580bbcb02bd480d7b38c0cdf0a15?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKG-3.png",
+            "24x24": "https://secure.gravatar.com/avatar/1ec1580bbcb02bd480d7b38c0cdf0a15?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKG-3.png",
+            "16x16": "https://secure.gravatar.com/avatar/1ec1580bbcb02bd480d7b38c0cdf0a15?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKG-3.png",
+            "32x32": "https://secure.gravatar.com/avatar/1ec1580bbcb02bd480d7b38c0cdf0a15?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKG-3.png"
+          },
+          "displayName": "Koyel Ghosh",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "updated": "2025-12-11T13:47:48.290+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10469",
+          "description": "This work item is being actively worked on at the moment by the assignee.",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "In Progress",
+          "id": "10469",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/4",
+            "id": 4,
+            "key": "indeterminate",
+            "colorName": "yellow",
+            "name": "In Progress"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "14573",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14573",
+      "key": "AFSP-92",
+      "fields": {
+        "summary": "High Value Web Article (VA Sub Domain - Personal VA) - Part 6 - How to Choose the Right Personal VA Model",
+        "created": "2025-12-10T18:46:35.397+0530",
+        "timespent": null,
+        "duedate": "2025-12-26",
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A9118629a-f338-4a5a-9762-4244c0a608a8",
+          "accountId": "712020:9118629a-f338-4a5a-9762-4244c0a608a8",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/1ec1580bbcb02bd480d7b38c0cdf0a15?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKG-3.png",
+            "24x24": "https://secure.gravatar.com/avatar/1ec1580bbcb02bd480d7b38c0cdf0a15?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKG-3.png",
+            "16x16": "https://secure.gravatar.com/avatar/1ec1580bbcb02bd480d7b38c0cdf0a15?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKG-3.png",
+            "32x32": "https://secure.gravatar.com/avatar/1ec1580bbcb02bd480d7b38c0cdf0a15?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKG-3.png"
+          },
+          "displayName": "Koyel Ghosh",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/1",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/highest_new.svg",
+          "name": "Highest",
+          "id": "1"
+        },
+        "updated": "2025-12-11T13:47:29.761+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10468",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "To Do",
+          "id": "10468",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
+            "id": 2,
+            "key": "new",
+            "colorName": "blue-gray",
+            "name": "To Do"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "14572",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14572",
+      "key": "AFSP-91",
+      "fields": {
+        "summary": "High Value Web Article (VA Sub Domain - Personal VA) - Part 5 - The Real Economics of Hiring a Personal VA",
+        "created": "2025-12-10T18:44:22.977+0530",
+        "timespent": null,
+        "duedate": "2025-12-24",
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A9118629a-f338-4a5a-9762-4244c0a608a8",
+          "accountId": "712020:9118629a-f338-4a5a-9762-4244c0a608a8",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/1ec1580bbcb02bd480d7b38c0cdf0a15?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKG-3.png",
+            "24x24": "https://secure.gravatar.com/avatar/1ec1580bbcb02bd480d7b38c0cdf0a15?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKG-3.png",
+            "16x16": "https://secure.gravatar.com/avatar/1ec1580bbcb02bd480d7b38c0cdf0a15?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKG-3.png",
+            "32x32": "https://secure.gravatar.com/avatar/1ec1580bbcb02bd480d7b38c0cdf0a15?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKG-3.png"
+          },
+          "displayName": "Koyel Ghosh",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/1",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/highest_new.svg",
+          "name": "Highest",
+          "id": "1"
+        },
+        "updated": "2025-12-11T13:47:09.455+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10468",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "To Do",
+          "id": "10468",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
+            "id": 2,
+            "key": "new",
+            "colorName": "blue-gray",
+            "name": "To Do"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "14571",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14571",
+      "key": "AFSP-90",
+      "fields": {
+        "summary": "High Value Web Article (VA Sub Domain - Personal VA) - Part 4 - The Personal VA Capability Map: What They Can and Cannot Do",
+        "created": "2025-12-10T18:40:51.611+0530",
+        "timespent": null,
+        "duedate": "2025-12-23",
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A9118629a-f338-4a5a-9762-4244c0a608a8",
+          "accountId": "712020:9118629a-f338-4a5a-9762-4244c0a608a8",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/1ec1580bbcb02bd480d7b38c0cdf0a15?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKG-3.png",
+            "24x24": "https://secure.gravatar.com/avatar/1ec1580bbcb02bd480d7b38c0cdf0a15?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKG-3.png",
+            "16x16": "https://secure.gravatar.com/avatar/1ec1580bbcb02bd480d7b38c0cdf0a15?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKG-3.png",
+            "32x32": "https://secure.gravatar.com/avatar/1ec1580bbcb02bd480d7b38c0cdf0a15?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKG-3.png"
+          },
+          "displayName": "Koyel Ghosh",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/1",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/highest_new.svg",
+          "name": "Highest",
+          "id": "1"
+        },
+        "updated": "2025-12-11T13:46:55.652+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10468",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "To Do",
+          "id": "10468",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
+            "id": 2,
+            "key": "new",
+            "colorName": "blue-gray",
+            "name": "To Do"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "14570",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14570",
+      "key": "AFSP-89",
+      "fields": {
+        "summary": "High Value Web Article (VA Sub Domain - Personal VA) - Part 3 - Why Personal VA Partnerships Fail And the Hybrid Human Model That Fixes Them",
+        "created": "2025-12-10T18:40:00.126+0530",
+        "timespent": null,
+        "duedate": "2025-12-19",
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A9118629a-f338-4a5a-9762-4244c0a608a8",
+          "accountId": "712020:9118629a-f338-4a5a-9762-4244c0a608a8",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/1ec1580bbcb02bd480d7b38c0cdf0a15?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKG-3.png",
+            "24x24": "https://secure.gravatar.com/avatar/1ec1580bbcb02bd480d7b38c0cdf0a15?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKG-3.png",
+            "16x16": "https://secure.gravatar.com/avatar/1ec1580bbcb02bd480d7b38c0cdf0a15?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKG-3.png",
+            "32x32": "https://secure.gravatar.com/avatar/1ec1580bbcb02bd480d7b38c0cdf0a15?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKG-3.png"
+          },
+          "displayName": "Koyel Ghosh",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/1",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/highest_new.svg",
+          "name": "Highest",
+          "id": "1"
+        },
+        "updated": "2025-12-11T13:46:05.522+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10468",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "To Do",
+          "id": "10468",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
+            "id": 2,
+            "key": "new",
+            "colorName": "blue-gray",
+            "name": "To Do"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "14569",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14569",
+      "key": "AFSP-88",
+      "fields": {
+        "summary": "High Value Web Article (VA Sub Domain - Personal VA) - Part 2 - The 5 Personal VA Archetypes: And the Trust Equation Behind Each",
+        "created": "2025-12-10T18:38:07.941+0530",
+        "timespent": null,
+        "duedate": "2025-12-17",
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A9118629a-f338-4a5a-9762-4244c0a608a8",
+          "accountId": "712020:9118629a-f338-4a5a-9762-4244c0a608a8",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/1ec1580bbcb02bd480d7b38c0cdf0a15?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKG-3.png",
+            "24x24": "https://secure.gravatar.com/avatar/1ec1580bbcb02bd480d7b38c0cdf0a15?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKG-3.png",
+            "16x16": "https://secure.gravatar.com/avatar/1ec1580bbcb02bd480d7b38c0cdf0a15?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKG-3.png",
+            "32x32": "https://secure.gravatar.com/avatar/1ec1580bbcb02bd480d7b38c0cdf0a15?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKG-3.png"
+          },
+          "displayName": "Koyel Ghosh",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/1",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/highest_new.svg",
+          "name": "Highest",
+          "id": "1"
+        },
+        "updated": "2025-12-11T13:46:28.915+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10468",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "To Do",
+          "id": "10468",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
+            "id": 2,
+            "key": "new",
+            "colorName": "blue-gray",
+            "name": "To Do"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "14568",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14568",
+      "key": "AFSP-87",
+      "fields": {
+        "summary": "High Value Web Article (VA Sub Domain - Personal VA) - Part 1 - The Personal Workload System: Why Life Breaks Without  a VA",
+        "created": "2025-12-10T18:35:10.406+0530",
+        "timespent": null,
+        "duedate": "2025-12-16",
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A9118629a-f338-4a5a-9762-4244c0a608a8",
+          "accountId": "712020:9118629a-f338-4a5a-9762-4244c0a608a8",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/1ec1580bbcb02bd480d7b38c0cdf0a15?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKG-3.png",
+            "24x24": "https://secure.gravatar.com/avatar/1ec1580bbcb02bd480d7b38c0cdf0a15?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKG-3.png",
+            "16x16": "https://secure.gravatar.com/avatar/1ec1580bbcb02bd480d7b38c0cdf0a15?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKG-3.png",
+            "32x32": "https://secure.gravatar.com/avatar/1ec1580bbcb02bd480d7b38c0cdf0a15?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKG-3.png"
+          },
+          "displayName": "Koyel Ghosh",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/1",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/highest_new.svg",
+          "name": "Highest",
+          "id": "1"
+        },
+        "updated": "2025-12-11T13:46:14.396+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10468",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "To Do",
+          "id": "10468",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
+            "id": 2,
+            "key": "new",
+            "colorName": "blue-gray",
+            "name": "To Do"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "14566",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14566",
+      "key": "AFSP-86",
+      "fields": {
+        "summary": "Review: AIO - Outsource Revenue Cycle Management SEO Page",
+        "parent": {
+          "id": "14564",
+          "key": "AFSP-85",
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14564",
+          "fields": {
+            "summary": "AIO - Outsource Revenue Cycle Management SEO Page",
+            "status": {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10702",
+              "description": "",
+              "iconUrl": "https://idealabprojects.atlassian.net/",
+              "name": "In Review",
+              "id": "10702",
+              "statusCategory": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
+                "id": 2,
+                "key": "new",
+                "colorName": "blue-gray",
+                "name": "To Do"
+              }
+            },
+            "priority": {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/1",
+              "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/highest_new.svg",
+              "name": "Highest",
+              "id": "1"
+            },
+            "issuetype": {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issuetype/10283",
+              "id": "10283",
+              "description": "A small, distinct piece of work.",
+              "iconUrl": "https://idealabprojects.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10318?size=medium",
+              "name": "Task",
+              "subtask": false,
+              "avatarId": 10318,
+              "entityId": "63c9ad1d-e40d-41b0-8b14-c43c85f225bc",
+              "hierarchyLevel": 0
+            }
+          }
+        },
+        "created": "2025-12-10T13:28:36.089+0530",
+        "timespent": 3600,
+        "duedate": "2025-12-11",
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Aa8b16dd6-d07f-4169-8312-8193e9ca3955",
+          "accountId": "712020:a8b16dd6-d07f-4169-8312-8193e9ca3955",
+          "avatarUrls": {
+            "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:a8b16dd6-d07f-4169-8312-8193e9ca3955/c3dd1409-d70a-4203-990f-665827f381a0/48",
+            "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:a8b16dd6-d07f-4169-8312-8193e9ca3955/c3dd1409-d70a-4203-990f-665827f381a0/24",
+            "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:a8b16dd6-d07f-4169-8312-8193e9ca3955/c3dd1409-d70a-4203-990f-665827f381a0/16",
+            "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:a8b16dd6-d07f-4169-8312-8193e9ca3955/c3dd1409-d70a-4203-990f-665827f381a0/32"
+          },
+          "displayName": "ABHISHEK SHARMA",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/1",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/highest_new.svg",
+          "name": "Highest",
+          "id": "1"
+        },
+        "updated": "2025-12-11T15:25:58.140+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10703",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "Implement Feedback",
+          "id": "10703",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
+            "id": 2,
+            "key": "new",
+            "colorName": "blue-gray",
+            "name": "To Do"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "14564",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14564",
+      "key": "AFSP-85",
+      "fields": {
+        "summary": "AIO - Outsource Revenue Cycle Management SEO Page",
+        "created": "2025-12-10T13:27:22.206+0530",
+        "timespent": 36000,
+        "duedate": "2025-12-10",
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Aa8b16dd6-d07f-4169-8312-8193e9ca3955",
+          "accountId": "712020:a8b16dd6-d07f-4169-8312-8193e9ca3955",
+          "avatarUrls": {
+            "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:a8b16dd6-d07f-4169-8312-8193e9ca3955/c3dd1409-d70a-4203-990f-665827f381a0/48",
+            "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:a8b16dd6-d07f-4169-8312-8193e9ca3955/c3dd1409-d70a-4203-990f-665827f381a0/24",
+            "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:a8b16dd6-d07f-4169-8312-8193e9ca3955/c3dd1409-d70a-4203-990f-665827f381a0/16",
+            "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:a8b16dd6-d07f-4169-8312-8193e9ca3955/c3dd1409-d70a-4203-990f-665827f381a0/32"
+          },
+          "displayName": "ABHISHEK SHARMA",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/1",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/highest_new.svg",
+          "name": "Highest",
+          "id": "1"
+        },
+        "updated": "2025-12-10T13:28:21.455+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10702",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "In Review",
+          "id": "10702",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
+            "id": 2,
+            "key": "new",
+            "colorName": "blue-gray",
+            "name": "To Do"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "14561",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14561",
+      "key": "AFSP-84",
+      "fields": {
+        "summary": "FAQs (VA Sub Domain - Real Estate VA)",
+        "created": "2025-12-09T18:59:11.143+0530",
+        "timespent": 12600,
+        "duedate": "2025-12-12",
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=605aad190a9b6900719e7c99",
+          "accountId": "605aad190a9b6900719e7c99",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/4f0d47d7277fe8d2b9942e49df3be561?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDM-5.png",
+            "24x24": "https://secure.gravatar.com/avatar/4f0d47d7277fe8d2b9942e49df3be561?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDM-5.png",
+            "16x16": "https://secure.gravatar.com/avatar/4f0d47d7277fe8d2b9942e49df3be561?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDM-5.png",
+            "32x32": "https://secure.gravatar.com/avatar/4f0d47d7277fe8d2b9942e49df3be561?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDM-5.png"
+          },
+          "displayName": "Daya Mukherjee",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/1",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/highest_new.svg",
+          "name": "Highest",
+          "id": "1"
+        },
+        "updated": "2025-12-11T12:34:01.616+0530",
         "status": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10702",
           "description": "",
@@ -98,6 +655,7 @@
         },
         "created": "2025-12-09T12:37:42.343+0530",
         "timespent": 1800,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=605aad190a9b6900719e7c99",
           "accountId": "605aad190a9b6900719e7c99",
@@ -118,7 +676,7 @@
           "name": "Highest",
           "id": "1"
         },
-        "updated": "2025-12-09T14:12:18.240+0530",
+        "updated": "2025-12-11T16:32:42.838+0530",
         "status": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10702",
           "description": "",
@@ -143,7 +701,8 @@
       "fields": {
         "summary": "AIO -- Hire Medical Imaging Expert SEO Page (revamp)",
         "created": "2025-12-09T12:34:37.432+0530",
-        "timespent": 18000,
+        "timespent": 19800,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=5f5b452d0b6be2006e056f42",
           "accountId": "5f5b452d0b6be2006e056f42",
@@ -164,7 +723,7 @@
           "name": "Medium",
           "id": "3"
         },
-        "updated": "2025-12-09T12:38:53.867+0530",
+        "updated": "2025-12-10T18:05:15.946+0530",
         "status": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10702",
           "description": "",
@@ -229,6 +788,7 @@
         },
         "created": "2025-12-09T12:29:05.745+0530",
         "timespent": null,
+        "duedate": "2025-12-10",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A41435bf1-7a46-4918-82dc-ba80eec20553",
           "accountId": "712020:41435bf1-7a46-4918-82dc-ba80eec20553",
@@ -275,6 +835,7 @@
         "summary": "AIO - Hire Artificial Intelligence Specialists SEO Page (Freelancer)",
         "created": "2025-12-09T12:27:47.942+0530",
         "timespent": 7200,
+        "duedate": "2025-12-10",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Aa8b16dd6-d07f-4169-8312-8193e9ca3955",
           "accountId": "712020:a8b16dd6-d07f-4169-8312-8193e9ca3955",
@@ -359,17 +920,18 @@
           }
         },
         "created": "2025-12-08T13:55:14.333+0530",
-        "timespent": null,
+        "timespent": 8100,
+        "duedate": "2025-12-09",
         "assignee": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Aa8b16dd6-d07f-4169-8312-8193e9ca3955",
-          "accountId": "712020:a8b16dd6-d07f-4169-8312-8193e9ca3955",
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=605aad190a9b6900719e7c99",
+          "accountId": "605aad190a9b6900719e7c99",
           "avatarUrls": {
-            "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:a8b16dd6-d07f-4169-8312-8193e9ca3955/c3dd1409-d70a-4203-990f-665827f381a0/48",
-            "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:a8b16dd6-d07f-4169-8312-8193e9ca3955/c3dd1409-d70a-4203-990f-665827f381a0/24",
-            "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:a8b16dd6-d07f-4169-8312-8193e9ca3955/c3dd1409-d70a-4203-990f-665827f381a0/16",
-            "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:a8b16dd6-d07f-4169-8312-8193e9ca3955/c3dd1409-d70a-4203-990f-665827f381a0/32"
+            "48x48": "https://secure.gravatar.com/avatar/4f0d47d7277fe8d2b9942e49df3be561?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDM-5.png",
+            "24x24": "https://secure.gravatar.com/avatar/4f0d47d7277fe8d2b9942e49df3be561?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDM-5.png",
+            "16x16": "https://secure.gravatar.com/avatar/4f0d47d7277fe8d2b9942e49df3be561?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDM-5.png",
+            "32x32": "https://secure.gravatar.com/avatar/4f0d47d7277fe8d2b9942e49df3be561?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDM-5.png"
           },
-          "displayName": "ABHISHEK SHARMA",
+          "displayName": "Daya Mukherjee",
           "active": true,
           "timeZone": "Asia/Calcutta",
           "accountType": "atlassian"
@@ -380,7 +942,7 @@
           "name": "Highest",
           "id": "1"
         },
-        "updated": "2025-12-10T11:51:49.886+0530",
+        "updated": "2025-12-11T16:24:42.223+0530",
         "status": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10702",
           "description": "",
@@ -406,6 +968,7 @@
         "summary": "Hire Real Estate VA SEO Page (AIO-Revamp)",
         "created": "2025-12-08T13:52:22.171+0530",
         "timespent": 36000,
+        "duedate": "2025-12-09",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Aa8b16dd6-d07f-4169-8312-8193e9ca3955",
           "accountId": "712020:a8b16dd6-d07f-4169-8312-8193e9ca3955",
@@ -491,6 +1054,7 @@
         },
         "created": "2025-11-28T18:52:34.324+0530",
         "timespent": 28800,
+        "duedate": "2025-12-03",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A41435bf1-7a46-4918-82dc-ba80eec20553",
           "accountId": "712020:41435bf1-7a46-4918-82dc-ba80eec20553",
@@ -537,6 +1101,7 @@
         "summary": "AIO - Medical Process Outsourcing SEO Page (Revamp)",
         "created": "2025-11-28T18:50:51.546+0530",
         "timespent": 57600,
+        "duedate": "2025-12-03",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Aa8b16dd6-d07f-4169-8312-8193e9ca3955",
           "accountId": "712020:a8b16dd6-d07f-4169-8312-8193e9ca3955",
@@ -622,6 +1187,7 @@
         },
         "created": "2025-11-28T13:35:52.070+0530",
         "timespent": null,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A41435bf1-7a46-4918-82dc-ba80eec20553",
           "accountId": "712020:41435bf1-7a46-4918-82dc-ba80eec20553",
@@ -667,7 +1233,8 @@
       "fields": {
         "summary": "AIO -- Hire Medical Billing SEO Page (revamp)",
         "created": "2025-11-28T13:33:38.457+0530",
-        "timespent": 37800,
+        "timespent": 38700,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=5f5b452d0b6be2006e056f42",
           "accountId": "5f5b452d0b6be2006e056f42",
@@ -688,7 +1255,7 @@
           "name": "Medium",
           "id": "3"
         },
-        "updated": "2025-12-09T19:11:30.945+0530",
+        "updated": "2025-12-10T18:05:40.168+0530",
         "status": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10702",
           "description": "",
@@ -753,6 +1320,7 @@
         },
         "created": "2025-11-21T20:01:47.119+0530",
         "timespent": 28800,
+        "duedate": "2025-12-03",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A41435bf1-7a46-4918-82dc-ba80eec20553",
           "accountId": "712020:41435bf1-7a46-4918-82dc-ba80eec20553",
@@ -799,6 +1367,7 @@
         "summary": "AIO - Hire Paralegal Specialists SEO Page (Revamp)",
         "created": "2025-11-21T19:59:50.725+0530",
         "timespent": 28800,
+        "duedate": "2025-12-03",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Aa8b16dd6-d07f-4169-8312-8193e9ca3955",
           "accountId": "712020:a8b16dd6-d07f-4169-8312-8193e9ca3955",
@@ -845,6 +1414,7 @@
         "summary": "TLDR; Design",
         "created": "2025-11-21T18:34:49.974+0530",
         "timespent": null,
+        "duedate": "2025-11-24",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A41435bf1-7a46-4918-82dc-ba80eec20553",
           "accountId": "712020:41435bf1-7a46-4918-82dc-ba80eec20553",
@@ -888,9 +1458,10 @@
       "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14146",
       "key": "AFSP-70",
       "fields": {
-        "summary": "High Value Web Article (VA Sub Domain - Real Estate VA) - How to Hire a Real Estate VA Without Costly Mistakes",
+        "summary": "High Value Web Article (VA Sub Domain - Real Estate VA) - Part 6 - How to Hire a Real Estate VA Without Costly Mistakes",
         "created": "2025-11-21T16:06:08.983+0530",
         "timespent": 29400,
+        "duedate": "2025-12-10",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A41435bf1-7a46-4918-82dc-ba80eec20553",
           "accountId": "712020:41435bf1-7a46-4918-82dc-ba80eec20553",
@@ -911,7 +1482,7 @@
           "name": "Highest",
           "id": "1"
         },
-        "updated": "2025-12-09T11:11:14.558+0530",
+        "updated": "2025-12-10T18:58:02.126+0530",
         "status": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10702",
           "description": "",
@@ -934,9 +1505,10 @@
       "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14145",
       "key": "AFSP-69",
       "fields": {
-        "summary": "High Value Web Article (VA Sub Domain - Real Estate VA) - The Real Estate VA Hiring Guide : Roles, Screening, Pricing, and the First 30 Days",
+        "summary": "High Value Web Article (VA Sub Domain - Real Estate VA) - Part 5 - The Real Estate VA Hiring Guide : Roles, Screening, Pricing, and the First 30 Days",
         "created": "2025-11-21T16:05:30.578+0530",
         "timespent": 30600,
+        "duedate": "2025-12-11",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A41435bf1-7a46-4918-82dc-ba80eec20553",
           "accountId": "712020:41435bf1-7a46-4918-82dc-ba80eec20553",
@@ -957,7 +1529,7 @@
           "name": "Highest",
           "id": "1"
         },
-        "updated": "2025-12-09T13:15:19.628+0530",
+        "updated": "2025-12-10T18:57:42.236+0530",
         "status": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10702",
           "description": "",
@@ -980,9 +1552,10 @@
       "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14144",
       "key": "AFSP-68",
       "fields": {
-        "summary": "High Value Web Article (VA Sub Domain - Real Estate VA) - The Real Estate VA Task and SOP Library for Consistent Workflows",
+        "summary": "High Value Web Article (VA Sub Domain - Real Estate VA) - Part 4 - The Real Estate VA Task and SOP Library for Consistent Workflows",
         "created": "2025-11-21T16:04:41.969+0530",
         "timespent": 37800,
+        "duedate": "2025-12-05",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A41435bf1-7a46-4918-82dc-ba80eec20553",
           "accountId": "712020:41435bf1-7a46-4918-82dc-ba80eec20553",
@@ -1003,7 +1576,7 @@
           "name": "Highest",
           "id": "1"
         },
-        "updated": "2025-12-05T17:30:52.650+0530",
+        "updated": "2025-12-10T18:57:18.018+0530",
         "status": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10702",
           "description": "",
@@ -1026,9 +1599,10 @@
       "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14143",
       "key": "AFSP-67",
       "fields": {
-        "summary": "High Value Web Article (VA Sub Domain - Real Estate VA) - How Real Estate VAs Keep Lead-to-Close Workflows Running Smoothly",
+        "summary": "High Value Web Article (VA Sub Domain - Real Estate VA) - Part 3 - How Real Estate VAs Keep Lead-to-Close Workflows Running Smoothly",
         "created": "2025-11-21T16:03:58.237+0530",
         "timespent": 36000,
+        "duedate": "2025-12-09",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A41435bf1-7a46-4918-82dc-ba80eec20553",
           "accountId": "712020:41435bf1-7a46-4918-82dc-ba80eec20553",
@@ -1049,7 +1623,7 @@
           "name": "Highest",
           "id": "1"
         },
-        "updated": "2025-12-09T14:33:59.000+0530",
+        "updated": "2025-12-10T18:53:15.085+0530",
         "status": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10702",
           "description": "",
@@ -1072,9 +1646,10 @@
       "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14142",
       "key": "AFSP-66",
       "fields": {
-        "summary": "High Value Web Article (VA Sub Domain - Real Estate VA) - The Real Estate VA Role Map Every Team Needs",
+        "summary": "High Value Web Article (VA Sub Domain - Real Estate VA) - Part 2 -The Real Estate VA Role Map Every Team Needs",
         "created": "2025-11-21T16:03:17.019+0530",
         "timespent": 37800,
+        "duedate": "2025-12-05",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A41435bf1-7a46-4918-82dc-ba80eec20553",
           "accountId": "712020:41435bf1-7a46-4918-82dc-ba80eec20553",
@@ -1095,7 +1670,7 @@
           "name": "Highest",
           "id": "1"
         },
-        "updated": "2025-12-04T14:59:26.488+0530",
+        "updated": "2025-12-10T18:52:55.358+0530",
         "status": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10702",
           "description": "",
@@ -1118,9 +1693,10 @@
       "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14141",
       "key": "AFSP-65",
       "fields": {
-        "summary": "High Value Web Article (VA Sub Domain - Real Estate VA) - The Real Estate VA Handbook for Smoother Operations",
+        "summary": "High Value Web Article (VA Sub Domain - Real Estate VA) - Part 1 - The Real Estate VA Handbook for Smoother Operations",
         "created": "2025-11-21T16:00:55.566+0530",
         "timespent": 47700,
+        "duedate": "2025-12-04",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Afe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
           "accountId": "712020:fe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
@@ -1141,7 +1717,7 @@
           "name": "Highest",
           "id": "1"
         },
-        "updated": "2025-12-05T19:46:56.372+0530",
+        "updated": "2025-12-10T18:52:37.409+0530",
         "status": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10702",
           "description": "",
@@ -1206,6 +1782,7 @@
         },
         "created": "2025-11-19T19:12:37.806+0530",
         "timespent": null,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3d0d1e55-ab61-4668-a46a-fc40721ae07a",
           "accountId": "712020:3d0d1e55-ab61-4668-a46a-fc40721ae07a",
@@ -1291,6 +1868,7 @@
         },
         "created": "2025-11-19T18:06:34.886+0530",
         "timespent": 3600,
+        "duedate": "2025-11-26",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3d0d1e55-ab61-4668-a46a-fc40721ae07a",
           "accountId": "712020:3d0d1e55-ab61-4668-a46a-fc40721ae07a",
@@ -1337,6 +1915,7 @@
         "summary": "Long Form Article (AIO): Are You Doing the VA’s Job in Your Own Business Without Realizing It? ",
         "created": "2025-11-18T12:31:52.337+0530",
         "timespent": null,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A16506829-3e43-4324-812b-710f925f21f4",
           "accountId": "712020:16506829-3e43-4324-812b-710f925f21f4",
@@ -1383,6 +1962,7 @@
         "summary": "Long Form Blog (VA Domain) - Why Most Virtual Assistant Partnerships Fail (and How to Build One That Lasts)",
         "created": "2025-11-18T12:28:19.880+0530",
         "timespent": 30600,
+        "duedate": "2025-11-20",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A41435bf1-7a46-4918-82dc-ba80eec20553",
           "accountId": "712020:41435bf1-7a46-4918-82dc-ba80eec20553",
@@ -1468,6 +2048,7 @@
         },
         "created": "2025-11-17T20:51:13.820+0530",
         "timespent": 7200,
+        "duedate": "2025-11-20",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3d0d1e55-ab61-4668-a46a-fc40721ae07a",
           "accountId": "712020:3d0d1e55-ab61-4668-a46a-fc40721ae07a",
@@ -1553,6 +2134,7 @@
         },
         "created": "2025-11-17T20:37:16.307+0530",
         "timespent": 22500,
+        "duedate": "2025-11-18",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3d0d1e55-ab61-4668-a46a-fc40721ae07a",
           "accountId": "712020:3d0d1e55-ab61-4668-a46a-fc40721ae07a",
@@ -1599,6 +2181,7 @@
         "summary": "Web Blog High Value Content - Remote Staffing vs Freelancing",
         "created": "2025-11-17T12:57:28.156+0530",
         "timespent": null,
+        "duedate": "2025-11-18",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Aa8b16dd6-d07f-4169-8312-8193e9ca3955",
           "accountId": "712020:a8b16dd6-d07f-4169-8312-8193e9ca3955",
@@ -1684,6 +2267,7 @@
         },
         "created": "2025-11-17T12:29:36.079+0530",
         "timespent": 1800,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=5f5b452d0b6be2006e056f42",
           "accountId": "5f5b452d0b6be2006e056f42",
@@ -1730,6 +2314,7 @@
         "summary": "Long-form Blog--The Decision Lens: Outsourcing vs Offshoring vs Nearshoring vs Staffing",
         "created": "2025-11-17T12:27:11.582+0530",
         "timespent": 36000,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=5f5b452d0b6be2006e056f42",
           "accountId": "5f5b452d0b6be2006e056f42",
@@ -1815,6 +2400,7 @@
         },
         "created": "2025-11-17T12:21:50.197+0530",
         "timespent": 10800,
+        "duedate": "2025-11-20",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3d0d1e55-ab61-4668-a46a-fc40721ae07a",
           "accountId": "712020:3d0d1e55-ab61-4668-a46a-fc40721ae07a",
@@ -1900,6 +2486,7 @@
         },
         "created": "2025-11-17T12:11:12.073+0530",
         "timespent": 18000,
+        "duedate": "2025-11-20",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3d0d1e55-ab61-4668-a46a-fc40721ae07a",
           "accountId": "712020:3d0d1e55-ab61-4668-a46a-fc40721ae07a",
@@ -1946,6 +2533,7 @@
         "summary": "High Value VA Content - Neutral, Data-driven 'Best Virtual Assistant Companies for US Businesses (2025)",
         "created": "2025-11-17T12:09:41.145+0530",
         "timespent": null,
+        "duedate": "2025-11-18",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3d0d1e55-ab61-4668-a46a-fc40721ae07a",
           "accountId": "712020:3d0d1e55-ab61-4668-a46a-fc40721ae07a",
@@ -2031,6 +2619,7 @@
         },
         "created": "2025-11-14T19:31:38.973+0530",
         "timespent": 1800,
+        "duedate": "2025-11-17",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Aa8b16dd6-d07f-4169-8312-8193e9ca3955",
           "accountId": "712020:a8b16dd6-d07f-4169-8312-8193e9ca3955",
@@ -2077,6 +2666,7 @@
         "summary": "Long Form Blog - The Trust Architecture - How High-Performing Companies Build Accountability in Remote Teams",
         "created": "2025-11-14T19:30:58.549+0530",
         "timespent": 21600,
+        "duedate": "2025-11-17",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Aa8b16dd6-d07f-4169-8312-8193e9ca3955",
           "accountId": "712020:a8b16dd6-d07f-4169-8312-8193e9ca3955",
@@ -2162,6 +2752,7 @@
         },
         "created": "2025-11-13T19:41:08.001+0530",
         "timespent": 23400,
+        "duedate": "2025-11-20",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A41435bf1-7a46-4918-82dc-ba80eec20553",
           "accountId": "712020:41435bf1-7a46-4918-82dc-ba80eec20553",
@@ -2208,6 +2799,7 @@
         "summary": "Long Form Blog - The New Productivity Equation - Why Remote Teams Now Outperform In-House Ones",
         "created": "2025-11-13T19:39:30.089+0530",
         "timespent": 21600,
+        "duedate": "2025-11-14",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Aa8b16dd6-d07f-4169-8312-8193e9ca3955",
           "accountId": "712020:a8b16dd6-d07f-4169-8312-8193e9ca3955",
@@ -2254,6 +2846,7 @@
         "summary": "Long Form Blog (VA Domain) - What the Next Generation of Virtual Assistants Will Actually Do in 2026",
         "created": "2025-11-13T19:03:37.100+0530",
         "timespent": 34200,
+        "duedate": "2025-12-13",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A9118629a-f338-4a5a-9762-4244c0a608a8",
           "accountId": "712020:9118629a-f338-4a5a-9762-4244c0a608a8",
@@ -2300,6 +2893,7 @@
         "summary": "Blog (AIO Optimization) - How India and the US Became “Legally Wed”",
         "created": "2025-11-11T14:27:51.109+0530",
         "timespent": 17100,
+        "duedate": "2025-11-13",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Afe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
           "accountId": "712020:fe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
@@ -2346,6 +2940,7 @@
         "summary": "Blog (AIO Optimization) - How outsourcing has the power to make “MADE IN USA” a success again",
         "created": "2025-11-11T14:27:18.968+0530",
         "timespent": 17100,
+        "duedate": "2025-11-14",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A41435bf1-7a46-4918-82dc-ba80eec20553",
           "accountId": "712020:41435bf1-7a46-4918-82dc-ba80eec20553",
@@ -2367,512 +2962,6 @@
           "id": "1"
         },
         "updated": "2025-12-04T18:27:28.173+0530",
-        "status": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10702",
-          "description": "",
-          "iconUrl": "https://idealabprojects.atlassian.net/",
-          "name": "In Review",
-          "id": "10702",
-          "statusCategory": {
-            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
-            "id": 2,
-            "key": "new",
-            "colorName": "blue-gray",
-            "name": "To Do"
-          }
-        }
-      }
-    },
-    {
-      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
-      "id": "13783",
-      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/13783",
-      "key": "AFSP-45",
-      "fields": {
-        "summary": "Blog (AIO Optimization) - Why America’s Hinterland is Looking Towards India’s Metros",
-        "created": "2025-11-11T14:26:40.315+0530",
-        "timespent": 25260,
-        "assignee": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Afe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
-          "accountId": "712020:fe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
-          "avatarUrls": {
-            "48x48": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
-            "24x24": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
-            "16x16": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
-            "32x32": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png"
-          },
-          "displayName": "abha jha",
-          "active": true,
-          "timeZone": "Asia/Calcutta",
-          "accountType": "atlassian"
-        },
-        "priority": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/1",
-          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/highest_new.svg",
-          "name": "Highest",
-          "id": "1"
-        },
-        "updated": "2025-12-08T12:24:06.445+0530",
-        "status": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10702",
-          "description": "",
-          "iconUrl": "https://idealabprojects.atlassian.net/",
-          "name": "In Review",
-          "id": "10702",
-          "statusCategory": {
-            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
-            "id": 2,
-            "key": "new",
-            "colorName": "blue-gray",
-            "name": "To Do"
-          }
-        }
-      }
-    },
-    {
-      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
-      "id": "13741",
-      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/13741",
-      "key": "AFSP-44",
-      "fields": {
-        "summary": "Blog (AIO Optimized) - Here’s why Virtual Employee Model is safer than Project Outsourcing",
-        "created": "2025-11-10T16:43:26.503+0530",
-        "timespent": 15300,
-        "assignee": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A41435bf1-7a46-4918-82dc-ba80eec20553",
-          "accountId": "712020:41435bf1-7a46-4918-82dc-ba80eec20553",
-          "avatarUrls": {
-            "48x48": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
-            "24x24": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
-            "16x16": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
-            "32x32": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png"
-          },
-          "displayName": "Praveen Soni",
-          "active": true,
-          "timeZone": "Asia/Calcutta",
-          "accountType": "atlassian"
-        },
-        "priority": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/1",
-          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/highest_new.svg",
-          "name": "Highest",
-          "id": "1"
-        },
-        "updated": "2025-12-04T18:22:24.012+0530",
-        "status": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10702",
-          "description": "",
-          "iconUrl": "https://idealabprojects.atlassian.net/",
-          "name": "In Review",
-          "id": "10702",
-          "statusCategory": {
-            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
-            "id": 2,
-            "key": "new",
-            "colorName": "blue-gray",
-            "name": "To Do"
-          }
-        }
-      }
-    },
-    {
-      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
-      "id": "13740",
-      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/13740",
-      "key": "AFSP-43",
-      "fields": {
-        "summary": "Blog (AIO Optimized) - How Project Outsourcing Can Be More Advantageous than Hiring Virtual Employees",
-        "created": "2025-11-10T16:40:03.172+0530",
-        "timespent": 8100,
-        "assignee": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A41435bf1-7a46-4918-82dc-ba80eec20553",
-          "accountId": "712020:41435bf1-7a46-4918-82dc-ba80eec20553",
-          "avatarUrls": {
-            "48x48": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
-            "24x24": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
-            "16x16": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
-            "32x32": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png"
-          },
-          "displayName": "Praveen Soni",
-          "active": true,
-          "timeZone": "Asia/Calcutta",
-          "accountType": "atlassian"
-        },
-        "priority": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/1",
-          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/highest_new.svg",
-          "name": "Highest",
-          "id": "1"
-        },
-        "updated": "2025-12-04T18:22:55.579+0530",
-        "status": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10702",
-          "description": "",
-          "iconUrl": "https://idealabprojects.atlassian.net/",
-          "name": "In Review",
-          "id": "10702",
-          "statusCategory": {
-            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
-            "id": 2,
-            "key": "new",
-            "colorName": "blue-gray",
-            "name": "To Do"
-          }
-        }
-      }
-    },
-    {
-      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
-      "id": "13614",
-      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/13614",
-      "key": "AFSP-42",
-      "fields": {
-        "summary": "Blog (AIO Optimized) - Advantages of Outsourcing, Offshoring and Offshore Outsourcing",
-        "created": "2025-11-06T17:54:08.318+0530",
-        "timespent": 16200,
-        "assignee": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A41435bf1-7a46-4918-82dc-ba80eec20553",
-          "accountId": "712020:41435bf1-7a46-4918-82dc-ba80eec20553",
-          "avatarUrls": {
-            "48x48": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
-            "24x24": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
-            "16x16": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
-            "32x32": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png"
-          },
-          "displayName": "Praveen Soni",
-          "active": true,
-          "timeZone": "Asia/Calcutta",
-          "accountType": "atlassian"
-        },
-        "priority": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
-          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
-          "name": "Medium",
-          "id": "3"
-        },
-        "updated": "2025-12-04T18:28:06.599+0530",
-        "status": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10702",
-          "description": "",
-          "iconUrl": "https://idealabprojects.atlassian.net/",
-          "name": "In Review",
-          "id": "10702",
-          "statusCategory": {
-            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
-            "id": 2,
-            "key": "new",
-            "colorName": "blue-gray",
-            "name": "To Do"
-          }
-        }
-      }
-    },
-    {
-      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
-      "id": "13613",
-      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/13613",
-      "key": "AFSP-41",
-      "fields": {
-        "summary": "Blog (AIO Optimized) - 13 Reasons Why You Need an Outsourcing Guru",
-        "created": "2025-11-06T17:53:13.020+0530",
-        "timespent": 19800,
-        "assignee": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Afe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
-          "accountId": "712020:fe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
-          "avatarUrls": {
-            "48x48": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
-            "24x24": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
-            "16x16": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
-            "32x32": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png"
-          },
-          "displayName": "abha jha",
-          "active": true,
-          "timeZone": "Asia/Calcutta",
-          "accountType": "atlassian"
-        },
-        "priority": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/1",
-          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/highest_new.svg",
-          "name": "Highest",
-          "id": "1"
-        },
-        "updated": "2025-12-04T18:23:55.815+0530",
-        "status": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10702",
-          "description": "",
-          "iconUrl": "https://idealabprojects.atlassian.net/",
-          "name": "In Review",
-          "id": "10702",
-          "statusCategory": {
-            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
-            "id": 2,
-            "key": "new",
-            "colorName": "blue-gray",
-            "name": "To Do"
-          }
-        }
-      }
-    },
-    {
-      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
-      "id": "13612",
-      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/13612",
-      "key": "AFSP-40",
-      "fields": {
-        "summary": "Blog (AIO Optimized) - The 3 Different Types of Offshore Outsourcing Companies",
-        "created": "2025-11-06T17:52:36.554+0530",
-        "timespent": 21600,
-        "assignee": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Afe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
-          "accountId": "712020:fe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
-          "avatarUrls": {
-            "48x48": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
-            "24x24": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
-            "16x16": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
-            "32x32": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png"
-          },
-          "displayName": "abha jha",
-          "active": true,
-          "timeZone": "Asia/Calcutta",
-          "accountType": "atlassian"
-        },
-        "priority": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
-          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
-          "name": "Medium",
-          "id": "3"
-        },
-        "updated": "2025-12-05T12:53:13.280+0530",
-        "status": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10702",
-          "description": "",
-          "iconUrl": "https://idealabprojects.atlassian.net/",
-          "name": "In Review",
-          "id": "10702",
-          "statusCategory": {
-            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
-            "id": 2,
-            "key": "new",
-            "colorName": "blue-gray",
-            "name": "To Do"
-          }
-        }
-      }
-    },
-    {
-      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
-      "id": "13611",
-      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/13611",
-      "key": "AFSP-39",
-      "fields": {
-        "summary": "Blog (AIO Optimized) - How Outsourcing Can Help You Overcome Opportunity Cost Cognitive Biases",
-        "created": "2025-11-06T17:52:01.427+0530",
-        "timespent": 10800,
-        "assignee": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A41435bf1-7a46-4918-82dc-ba80eec20553",
-          "accountId": "712020:41435bf1-7a46-4918-82dc-ba80eec20553",
-          "avatarUrls": {
-            "48x48": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
-            "24x24": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
-            "16x16": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
-            "32x32": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png"
-          },
-          "displayName": "Praveen Soni",
-          "active": true,
-          "timeZone": "Asia/Calcutta",
-          "accountType": "atlassian"
-        },
-        "priority": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
-          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
-          "name": "Medium",
-          "id": "3"
-        },
-        "updated": "2025-12-04T18:25:19.659+0530",
-        "status": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10702",
-          "description": "",
-          "iconUrl": "https://idealabprojects.atlassian.net/",
-          "name": "In Review",
-          "id": "10702",
-          "statusCategory": {
-            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
-            "id": 2,
-            "key": "new",
-            "colorName": "blue-gray",
-            "name": "To Do"
-          }
-        }
-      }
-    },
-    {
-      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
-      "id": "13610",
-      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/13610",
-      "key": "AFSP-38",
-      "fields": {
-        "summary": "Blog (AIO Optimized) - How Outsourcing will ‘Protect Your Will-Power’",
-        "created": "2025-11-06T17:51:32.130+0530",
-        "timespent": 19800,
-        "assignee": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A41435bf1-7a46-4918-82dc-ba80eec20553",
-          "accountId": "712020:41435bf1-7a46-4918-82dc-ba80eec20553",
-          "avatarUrls": {
-            "48x48": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
-            "24x24": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
-            "16x16": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
-            "32x32": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png"
-          },
-          "displayName": "Praveen Soni",
-          "active": true,
-          "timeZone": "Asia/Calcutta",
-          "accountType": "atlassian"
-        },
-        "priority": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
-          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
-          "name": "Medium",
-          "id": "3"
-        },
-        "updated": "2025-12-05T13:59:28.123+0530",
-        "status": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10702",
-          "description": "",
-          "iconUrl": "https://idealabprojects.atlassian.net/",
-          "name": "In Review",
-          "id": "10702",
-          "statusCategory": {
-            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
-            "id": 2,
-            "key": "new",
-            "colorName": "blue-gray",
-            "name": "To Do"
-          }
-        }
-      }
-    },
-    {
-      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
-      "id": "13608",
-      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/13608",
-      "key": "AFSP-37",
-      "fields": {
-        "summary": "Artificial Intelligence Category Page - SEO Page",
-        "created": "2025-11-06T12:52:12.037+0530",
-        "timespent": 72000,
-        "assignee": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A16506829-3e43-4324-812b-710f925f21f4",
-          "accountId": "712020:16506829-3e43-4324-812b-710f925f21f4",
-          "avatarUrls": {
-            "48x48": "https://secure.gravatar.com/avatar/e49f43632a97524b80c338b9959e6780?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTG-2.png",
-            "24x24": "https://secure.gravatar.com/avatar/e49f43632a97524b80c338b9959e6780?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTG-2.png",
-            "16x16": "https://secure.gravatar.com/avatar/e49f43632a97524b80c338b9959e6780?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTG-2.png",
-            "32x32": "https://secure.gravatar.com/avatar/e49f43632a97524b80c338b9959e6780?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTG-2.png"
-          },
-          "displayName": "tanumoy ghosh",
-          "active": true,
-          "timeZone": "Asia/Calcutta",
-          "accountType": "atlassian"
-        },
-        "priority": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/1",
-          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/highest_new.svg",
-          "name": "Highest",
-          "id": "1"
-        },
-        "updated": "2025-11-17T10:02:00.371+0530",
-        "status": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10470",
-          "description": "",
-          "iconUrl": "https://idealabprojects.atlassian.net/",
-          "name": "Done",
-          "id": "10470",
-          "statusCategory": {
-            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
-            "id": 3,
-            "key": "done",
-            "colorName": "green",
-            "name": "Done"
-          }
-        }
-      }
-    },
-    {
-      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
-      "id": "13604",
-      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/13604",
-      "key": "AFSP-36",
-      "fields": {
-        "summary": "Blog (AIO Optimized) - Why RFPs are a Terrible Way to Outsource",
-        "created": "2025-11-05T16:42:02.345+0530",
-        "timespent": 24300,
-        "assignee": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A41435bf1-7a46-4918-82dc-ba80eec20553",
-          "accountId": "712020:41435bf1-7a46-4918-82dc-ba80eec20553",
-          "avatarUrls": {
-            "48x48": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
-            "24x24": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
-            "16x16": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
-            "32x32": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png"
-          },
-          "displayName": "Praveen Soni",
-          "active": true,
-          "timeZone": "Asia/Calcutta",
-          "accountType": "atlassian"
-        },
-        "priority": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
-          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
-          "name": "Medium",
-          "id": "3"
-        },
-        "updated": "2025-12-04T18:09:26.114+0530",
-        "status": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10702",
-          "description": "",
-          "iconUrl": "https://idealabprojects.atlassian.net/",
-          "name": "In Review",
-          "id": "10702",
-          "statusCategory": {
-            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
-            "id": 2,
-            "key": "new",
-            "colorName": "blue-gray",
-            "name": "To Do"
-          }
-        }
-      }
-    },
-    {
-      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
-      "id": "13603",
-      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/13603",
-      "key": "AFSP-35",
-      "fields": {
-        "summary": "Blog (AIO Optimized) - How Client’s Mindset is behind Most Offshoring Failures",
-        "created": "2025-11-05T16:41:32.603+0530",
-        "timespent": 10800,
-        "assignee": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A41435bf1-7a46-4918-82dc-ba80eec20553",
-          "accountId": "712020:41435bf1-7a46-4918-82dc-ba80eec20553",
-          "avatarUrls": {
-            "48x48": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
-            "24x24": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
-            "16x16": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
-            "32x32": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png"
-          },
-          "displayName": "Praveen Soni",
-          "active": true,
-          "timeZone": "Asia/Calcutta",
-          "accountType": "atlassian"
-        },
-        "priority": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
-          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
-          "name": "Medium",
-          "id": "3"
-        },
-        "updated": "2025-12-04T18:24:34.930+0530",
         "status": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10702",
           "description": "",

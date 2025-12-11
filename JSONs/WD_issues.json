@@ -13,6 +13,7 @@
         "summary": "Bullet Points Formatting Issue on Live Site",
         "created": "2025-07-31T16:51:38.789+0530",
         "timespent": 5400,
+        "duedate": "2025-08-04",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ab3fb05f7-bcf9-4f26-a159-e1c927917fdf",
           "accountId": "712020:b3fb05f7-bcf9-4f26-a159-e1c927917fdf",
@@ -59,6 +60,7 @@
         "summary": "White Space Formatting Issue in Paragraphs",
         "created": "2025-07-31T16:00:55.481+0530",
         "timespent": 1200,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ab3fb05f7-bcf9-4f26-a159-e1c927917fdf",
           "accountId": "712020:b3fb05f7-bcf9-4f26-a159-e1c927917fdf",
@@ -105,6 +107,7 @@
         "summary": "Fix White Space Issues on Blogs and Articles Pages",
         "created": "2025-07-30T16:35:24.318+0530",
         "timespent": null,
+        "duedate": "2025-08-01",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ab3fb05f7-bcf9-4f26-a159-e1c927917fdf",
           "accountId": "712020:b3fb05f7-bcf9-4f26-a159-e1c927917fdf",
@@ -151,6 +154,7 @@
         "summary": "LayerOne Design System Changes: responsive font sizes added",
         "created": "2025-07-29T13:39:27.982+0530",
         "timespent": null,
+        "duedate": "2025-07-10",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Aff39c89b-57c0-4df5-8be6-6c2e223816ae",
           "accountId": "712020:ff39c89b-57c0-4df5-8be6-6c2e223816ae",
@@ -197,6 +201,7 @@
         "summary": "Homepage redirection of livewebsite",
         "created": "2025-07-28T19:49:22.936+0530",
         "timespent": null,
+        "duedate": "2025-07-28",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ab3fb05f7-bcf9-4f26-a159-e1c927917fdf",
           "accountId": "712020:b3fb05f7-bcf9-4f26-a159-e1c927917fdf",
@@ -243,6 +248,7 @@
         "summary": "VE's Website - 8 internal links are broken - FIXED",
         "created": "2025-07-24T16:10:14.764+0530",
         "timespent": null,
+        "duedate": "2025-07-24",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A41435bf1-7a46-4918-82dc-ba80eec20553",
           "accountId": "712020:41435bf1-7a46-4918-82dc-ba80eec20553",
@@ -289,6 +295,7 @@
         "summary": "Redesign Case Study page based on bootstrap",
         "created": "2025-07-08T12:46:36.009+0530",
         "timespent": null,
+        "duedate": "2025-07-11",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
           "accountId": "712020:3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
@@ -335,6 +342,7 @@
         "summary": "Redesign Domain Services page template according to bootstrap",
         "created": "2025-07-08T12:43:22.304+0530",
         "timespent": 39600,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
           "accountId": "712020:3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
@@ -381,6 +389,7 @@
         "summary": "New Blog Category SEO Page To Be Made Live (Bootstrap version)",
         "created": "2025-07-04T17:56:48.320+0530",
         "timespent": 28800,
+        "duedate": "2025-07-31",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ab3fb05f7-bcf9-4f26-a159-e1c927917fdf",
           "accountId": "712020:b3fb05f7-bcf9-4f26-a159-e1c927917fdf",
@@ -427,6 +436,7 @@
         "summary": "Implement: header and footer new design template (Layer One) on website",
         "created": "2025-07-04T17:45:28.911+0530",
         "timespent": null,
+        "duedate": "2025-07-28",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ab3fb05f7-bcf9-4f26-a159-e1c927917fdf",
           "accountId": "712020:b3fb05f7-bcf9-4f26-a159-e1c927917fdf",
@@ -473,6 +483,7 @@
         "summary": "Need to fix some design issues in internal pages",
         "created": "2025-07-04T12:11:16.357+0530",
         "timespent": null,
+        "duedate": "2025-07-04",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ab3fb05f7-bcf9-4f26-a159-e1c927917fdf",
           "accountId": "712020:b3fb05f7-bcf9-4f26-a159-e1c927917fdf",
@@ -519,6 +530,7 @@
         "summary": "Research - Request to Block Crawl Waste from AdsBot, PPC URLs, and UTM Parameters",
         "created": "2025-07-01T12:07:17.506+0530",
         "timespent": null,
+        "duedate": "2025-07-01",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A41435bf1-7a46-4918-82dc-ba80eec20553",
           "accountId": "712020:41435bf1-7a46-4918-82dc-ba80eec20553",
@@ -565,6 +577,7 @@
         "summary": "Research - Crawl Load from Non-Content Assets (Images, JS, CSS)",
         "created": "2025-07-01T12:07:11.365+0530",
         "timespent": null,
+        "duedate": "2025-07-01",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A41435bf1-7a46-4918-82dc-ba80eec20553",
           "accountId": "712020:41435bf1-7a46-4918-82dc-ba80eec20553",
@@ -611,6 +624,7 @@
         "summary": "Issue - Core Web Vital Issues on Key Pages - VE.com",
         "created": "2025-07-01T12:04:52.808+0530",
         "timespent": null,
+        "duedate": "2025-07-31",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ab3fb05f7-bcf9-4f26-a159-e1c927917fdf",
           "accountId": "712020:b3fb05f7-bcf9-4f26-a159-e1c927917fdf",
@@ -657,6 +671,7 @@
         "summary": "Issue - Request to Block Crawl Waste from AdsBot, PPC URLs, and UTM Parameters",
         "created": "2025-07-01T12:02:45.044+0530",
         "timespent": null,
+        "duedate": "2025-07-29",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A41435bf1-7a46-4918-82dc-ba80eec20553",
           "accountId": "712020:41435bf1-7a46-4918-82dc-ba80eec20553",
@@ -703,6 +718,7 @@
         "summary": "Issue - Optimize Crawl Load from Non-Content Assets (Images, JS, CSS)",
         "created": "2025-07-01T11:59:24.010+0530",
         "timespent": null,
+        "duedate": "2025-07-29",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A41435bf1-7a46-4918-82dc-ba80eec20553",
           "accountId": "712020:41435bf1-7a46-4918-82dc-ba80eec20553",
@@ -749,6 +765,7 @@
         "summary": "Develop: header and footer new design template (Layer One) from scratch",
         "created": "2025-06-27T19:55:22.174+0530",
         "timespent": null,
+        "duedate": "2025-07-25",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
           "accountId": "712020:3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
@@ -795,6 +812,7 @@
         "summary": "HTML Design of the Header",
         "created": "2025-06-27T12:56:07.741+0530",
         "timespent": null,
+        "duedate": null,
         "assignee": null,
         "priority": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
@@ -828,6 +846,7 @@
         "summary": "Content Structure: VE's Website Footer",
         "created": "2025-06-25T20:01:29.538+0530",
         "timespent": null,
+        "duedate": "2025-08-08",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A7480f087-7269-4957-9e6d-ee85e73b09e2",
           "accountId": "712020:7480f087-7269-4957-9e6d-ee85e73b09e2",
@@ -874,6 +893,7 @@
         "summary": "Redesign Single blog page template",
         "created": "2025-06-17T12:46:36.539+0530",
         "timespent": 14400,
+        "duedate": "2025-07-28",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
           "accountId": "712020:3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
@@ -920,6 +940,7 @@
         "summary": "VE Website Design System (LayerOne)",
         "created": "2025-05-26T20:48:35.501+0530",
         "timespent": null,
+        "duedate": "2025-05-30",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Aff39c89b-57c0-4df5-8be6-6c2e223816ae",
           "accountId": "712020:ff39c89b-57c0-4df5-8be6-6c2e223816ae",

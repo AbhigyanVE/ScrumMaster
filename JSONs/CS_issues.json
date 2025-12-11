@@ -13,6 +13,7 @@
         "summary": "Case Study Review",
         "created": "2025-11-24T15:42:23.934+0530",
         "timespent": null,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A16506829-3e43-4324-812b-710f925f21f4",
           "accountId": "712020:16506829-3e43-4324-812b-710f925f21f4",
@@ -98,6 +99,7 @@
         },
         "created": "2025-11-17T15:03:46.350+0530",
         "timespent": 57600,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A023a0dbc-d7f7-4d53-9905-9641e6759d36",
           "accountId": "712020:023a0dbc-d7f7-4d53-9905-9641e6759d36",
@@ -183,6 +185,7 @@
         },
         "created": "2025-11-17T15:03:16.860+0530",
         "timespent": 57600,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A023a0dbc-d7f7-4d53-9905-9641e6759d36",
           "accountId": "712020:023a0dbc-d7f7-4d53-9905-9641e6759d36",
@@ -229,6 +232,7 @@
         "summary": "Content: Case Study - GPO+",
         "created": "2025-10-30T16:03:32.523+0530",
         "timespent": null,
+        "duedate": "2025-10-30",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A16506829-3e43-4324-812b-710f925f21f4",
           "accountId": "712020:16506829-3e43-4324-812b-710f925f21f4",
@@ -275,6 +279,7 @@
         "summary": "Content: Case Study - Brandcil",
         "created": "2025-10-30T11:06:18.582+0530",
         "timespent": null,
+        "duedate": "2025-10-30",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A16506829-3e43-4324-812b-710f925f21f4",
           "accountId": "712020:16506829-3e43-4324-812b-710f925f21f4",
@@ -360,6 +365,7 @@
         },
         "created": "2025-10-14T18:43:37.307+0530",
         "timespent": null,
+        "duedate": "2025-10-14",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A023a0dbc-d7f7-4d53-9905-9641e6759d36",
           "accountId": "712020:023a0dbc-d7f7-4d53-9905-9641e6759d36",
@@ -406,6 +412,7 @@
         "summary": "Design: Glossy Print Redesign of Case Studies",
         "created": "2025-10-14T18:42:32.455+0530",
         "timespent": null,
+        "duedate": "2025-10-14",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A023a0dbc-d7f7-4d53-9905-9641e6759d36",
           "accountId": "712020:023a0dbc-d7f7-4d53-9905-9641e6759d36",
@@ -452,6 +459,7 @@
         "summary": "Content: Case Study - Circuit Mind",
         "created": "2025-09-12T18:28:28.601+0530",
         "timespent": 43200,
+        "duedate": "2025-10-30",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A16506829-3e43-4324-812b-710f925f21f4",
           "accountId": "712020:16506829-3e43-4324-812b-710f925f21f4",
@@ -498,6 +506,7 @@
         "summary": "Content: Case Study - WakeWall",
         "created": "2025-09-01T11:23:10.609+0530",
         "timespent": null,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A16506829-3e43-4324-812b-710f925f21f4",
           "accountId": "712020:16506829-3e43-4324-812b-710f925f21f4",
@@ -544,6 +553,7 @@
         "summary": "Content: Case Study - Pharmacy Mentor",
         "created": "2025-09-01T11:02:48.820+0530",
         "timespent": null,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A16506829-3e43-4324-812b-710f925f21f4",
           "accountId": "712020:16506829-3e43-4324-812b-710f925f21f4",
@@ -629,6 +639,7 @@
         },
         "created": "2025-09-01T10:39:20.821+0530",
         "timespent": null,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A87014598-7fc2-4a58-bbc5-8ec01fc54856",
           "accountId": "712020:87014598-7fc2-4a58-bbc5-8ec01fc54856",
@@ -675,6 +686,7 @@
         "summary": "Pharmacy Mentor Case Study",
         "created": "2025-09-01T10:35:40.532+0530",
         "timespent": 57600,
+        "duedate": "2025-09-03",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
           "accountId": "712020:3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
@@ -721,6 +733,7 @@
         "summary": "Design: Issac Adedara - Mobile Case Study",
         "created": "2025-08-28T20:08:39.751+0530",
         "timespent": 57600,
+        "duedate": "2025-08-27",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A16506829-3e43-4324-812b-710f925f21f4",
           "accountId": "712020:16506829-3e43-4324-812b-710f925f21f4",
@@ -806,6 +819,7 @@
         },
         "created": "2025-08-27T14:09:33.735+0530",
         "timespent": null,
+        "duedate": "2025-10-30",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A16506829-3e43-4324-812b-710f925f21f4",
           "accountId": "712020:16506829-3e43-4324-812b-710f925f21f4",
@@ -891,6 +905,7 @@
         },
         "created": "2025-08-27T14:07:19.722+0530",
         "timespent": null,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A16506829-3e43-4324-812b-710f925f21f4",
           "accountId": "712020:16506829-3e43-4324-812b-710f925f21f4",
@@ -976,6 +991,7 @@
         },
         "created": "2025-08-27T14:04:33.142+0530",
         "timespent": null,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A16506829-3e43-4324-812b-710f925f21f4",
           "accountId": "712020:16506829-3e43-4324-812b-710f925f21f4",
@@ -1061,6 +1077,7 @@
         },
         "created": "2025-08-27T14:02:08.729+0530",
         "timespent": null,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A16506829-3e43-4324-812b-710f925f21f4",
           "accountId": "712020:16506829-3e43-4324-812b-710f925f21f4",
@@ -1146,6 +1163,7 @@
         },
         "created": "2025-08-27T13:58:51.456+0530",
         "timespent": null,
+        "duedate": "2025-10-30",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A16506829-3e43-4324-812b-710f925f21f4",
           "accountId": "712020:16506829-3e43-4324-812b-710f925f21f4",
@@ -1192,6 +1210,7 @@
         "summary": "Delete",
         "created": "2025-08-27T13:56:02.448+0530",
         "timespent": null,
+        "duedate": null,
         "assignee": null,
         "priority": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
@@ -1225,6 +1244,7 @@
         "summary": "Content: Case Study - Lucida",
         "created": "2025-08-27T13:52:02.886+0530",
         "timespent": null,
+        "duedate": "2025-08-28",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A16506829-3e43-4324-812b-710f925f21f4",
           "accountId": "712020:16506829-3e43-4324-812b-710f925f21f4",
@@ -1271,6 +1291,7 @@
         "summary": "Avalanche Multimedia",
         "created": "2025-08-25T18:49:02.702+0530",
         "timespent": 28800,
+        "duedate": "2025-08-27",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
           "accountId": "712020:3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
@@ -1317,6 +1338,7 @@
         "summary": "NetaTech-Case Study",
         "created": "2025-08-25T03:17:21.058+0530",
         "timespent": 3600,
+        "duedate": "2025-08-26",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A16506829-3e43-4324-812b-710f925f21f4",
           "accountId": "712020:16506829-3e43-4324-812b-710f925f21f4",
@@ -1363,6 +1385,7 @@
         "summary": "Design Studio Network",
         "created": "2025-08-21T19:32:31.414+0530",
         "timespent": 43200,
+        "duedate": "2025-08-26",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
           "accountId": "712020:3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
@@ -1409,6 +1432,7 @@
         "summary": "Video: TOUCH iT Case Study - banner video",
         "created": "2025-08-21T11:48:39.292+0530",
         "timespent": 1800,
+        "duedate": "2025-08-21",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ac44ad097-e9a1-497e-b0ea-7b115363695d",
           "accountId": "712020:c44ad097-e9a1-497e-b0ea-7b115363695d",
@@ -1455,6 +1479,7 @@
         "summary": "Design: Case study - Avalanche",
         "created": "2025-08-20T19:19:45.982+0530",
         "timespent": 72000,
+        "duedate": "2025-08-22",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A023a0dbc-d7f7-4d53-9905-9641e6759d36",
           "accountId": "712020:023a0dbc-d7f7-4d53-9905-9641e6759d36",
@@ -1501,6 +1526,7 @@
         "summary": "Lucida Tax & Accounting Solution",
         "created": "2025-08-20T18:00:54.901+0530",
         "timespent": 32400,
+        "duedate": "2025-08-25",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
           "accountId": "712020:3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
@@ -1547,6 +1573,7 @@
         "summary": "Case Studies - Data Gathering",
         "created": "2025-08-19T19:56:18.051+0530",
         "timespent": 12600,
+        "duedate": "2025-08-20",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A9118629a-f338-4a5a-9762-4244c0a608a8",
           "accountId": "712020:9118629a-f338-4a5a-9762-4244c0a608a8",
@@ -1593,6 +1620,7 @@
         "summary": "Design - Medistics Case Study",
         "created": "2025-08-18T11:46:15.901+0530",
         "timespent": 72000,
+        "duedate": "2025-08-14",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A023a0dbc-d7f7-4d53-9905-9641e6759d36",
           "accountId": "712020:023a0dbc-d7f7-4d53-9905-9641e6759d36",
@@ -1639,6 +1667,7 @@
         "summary": "TSL Case Study",
         "created": "2025-08-18T09:48:58.563+0530",
         "timespent": 54000,
+        "duedate": "2025-08-20",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
           "accountId": "712020:3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
@@ -1685,6 +1714,7 @@
         "summary": "Lystmark Case Study",
         "created": "2025-08-14T17:20:57.093+0530",
         "timespent": 39600,
+        "duedate": "2025-08-19",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
           "accountId": "712020:3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
@@ -1731,6 +1761,7 @@
         "summary": "Video - Lystmark case study Banner",
         "created": "2025-08-14T12:48:00.417+0530",
         "timespent": 3600,
+        "duedate": "2025-08-14",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ac44ad097-e9a1-497e-b0ea-7b115363695d",
           "accountId": "712020:c44ad097-e9a1-497e-b0ea-7b115363695d",
@@ -1777,6 +1808,7 @@
         "summary": "Case Study - Client Names + Company Names (Data Gathering)",
         "created": "2025-08-13T19:30:21.454+0530",
         "timespent": 7200,
+        "duedate": "2025-08-13",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A9118629a-f338-4a5a-9762-4244c0a608a8",
           "accountId": "712020:9118629a-f338-4a5a-9762-4244c0a608a8",
@@ -1823,6 +1855,7 @@
         "summary": "Atelier Loupiote Case Study",
         "created": "2025-08-11T17:19:06.745+0530",
         "timespent": 75660,
+        "duedate": "2025-08-13",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
           "accountId": "712020:3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
@@ -1869,6 +1902,7 @@
         "summary": "Design - WakeWall",
         "created": "2025-08-08T14:13:24.422+0530",
         "timespent": null,
+        "duedate": "2025-08-07",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A023a0dbc-d7f7-4d53-9905-9641e6759d36",
           "accountId": "712020:023a0dbc-d7f7-4d53-9905-9641e6759d36",
@@ -1915,6 +1949,7 @@
         "summary": "Design - Lystmark Case Study",
         "created": "2025-08-04T13:38:55.925+0530",
         "timespent": null,
+        "duedate": "2025-08-06",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A023a0dbc-d7f7-4d53-9905-9641e6759d36",
           "accountId": "712020:023a0dbc-d7f7-4d53-9905-9641e6759d36",
@@ -1961,6 +1996,7 @@
         "summary": "Design: Demba Dieng - Case Study (Tanumoy)",
         "created": "2025-07-31T20:37:53.075+0530",
         "timespent": 10800,
+        "duedate": "2025-07-07",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A16506829-3e43-4324-812b-710f925f21f4",
           "accountId": "712020:16506829-3e43-4324-812b-710f925f21f4",
@@ -2007,6 +2043,7 @@
         "summary": "Design: FundFlicks - Case Study (Tanumoy)",
         "created": "2025-07-31T20:34:21.468+0530",
         "timespent": 10800,
+        "duedate": "2025-07-04",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A16506829-3e43-4324-812b-710f925f21f4",
           "accountId": "712020:16506829-3e43-4324-812b-710f925f21f4",
@@ -2053,6 +2090,7 @@
         "summary": "Content: Case Study - Atelier Loupiote_Web Version (1200+ Words)",
         "created": "2025-07-31T18:39:03.610+0530",
         "timespent": 7200,
+        "duedate": "2025-07-22",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A16506829-3e43-4324-812b-710f925f21f4",
           "accountId": "712020:16506829-3e43-4324-812b-710f925f21f4",
@@ -2099,6 +2137,7 @@
         "summary": "Content: Case Study - Club Five Health_Mobile Version (300+ Words)",
         "created": "2025-07-31T18:33:05.851+0530",
         "timespent": 10800,
+        "duedate": "2025-07-17",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A16506829-3e43-4324-812b-710f925f21f4",
           "accountId": "712020:16506829-3e43-4324-812b-710f925f21f4",
@@ -2145,6 +2184,7 @@
         "summary": "Content: Case Study - Dash Marketing",
         "created": "2025-07-31T18:28:03.180+0530",
         "timespent": 7200,
+        "duedate": "2025-09-24",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A16506829-3e43-4324-812b-710f925f21f4",
           "accountId": "712020:16506829-3e43-4324-812b-710f925f21f4",
@@ -2191,6 +2231,7 @@
         "summary": "Content: Case Study - FundFlicks_Web Version (1200+ Words)",
         "created": "2025-07-31T18:23:48.289+0530",
         "timespent": 19800,
+        "duedate": "2025-07-07",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A16506829-3e43-4324-812b-710f925f21f4",
           "accountId": "712020:16506829-3e43-4324-812b-710f925f21f4",
@@ -2237,6 +2278,7 @@
         "summary": "Content: Case Study - NetaTech_Web Version (1200+ Words)",
         "created": "2025-07-31T18:20:15.404+0530",
         "timespent": 21600,
+        "duedate": "2025-07-03",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A16506829-3e43-4324-812b-710f925f21f4",
           "accountId": "712020:16506829-3e43-4324-812b-710f925f21f4",
@@ -2283,6 +2325,7 @@
         "summary": "Content: Case Study - Matt Campbell_Web Version (1200+ Words)",
         "created": "2025-07-31T18:08:28.578+0530",
         "timespent": 14400,
+        "duedate": "2025-07-02",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A16506829-3e43-4324-812b-710f925f21f4",
           "accountId": "712020:16506829-3e43-4324-812b-710f925f21f4",
@@ -2329,6 +2372,7 @@
         "summary": "Issues & Blockers",
         "created": "2025-07-31T13:16:21.256+0530",
         "timespent": 900,
+        "duedate": "2025-07-31",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=628b7d1aab91fe0070973fa6",
           "accountId": "628b7d1aab91fe0070973fa6",
@@ -2375,6 +2419,7 @@
         "summary": "Banner Video for Atelier Loupiote Case Study",
         "created": "2025-07-31T12:22:32.666+0530",
         "timespent": 10800,
+        "duedate": "2025-07-31",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ac44ad097-e9a1-497e-b0ea-7b115363695d",
           "accountId": "712020:c44ad097-e9a1-497e-b0ea-7b115363695d",
@@ -2421,6 +2466,7 @@
         "summary": "Design: Atelier Loupiote - Case Study",
         "created": "2025-07-31T11:27:24.645+0530",
         "timespent": 89100,
+        "duedate": "2025-07-30",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=628b7d1aab91fe0070973fa6",
           "accountId": "628b7d1aab91fe0070973fa6",
@@ -2467,6 +2513,7 @@
         "summary": "Design - SERS Case Study",
         "created": "2025-07-31T11:26:20.895+0530",
         "timespent": 87600,
+        "duedate": "2025-07-25",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A16506829-3e43-4324-812b-710f925f21f4",
           "accountId": "712020:16506829-3e43-4324-812b-710f925f21f4",
@@ -2513,6 +2560,7 @@
         "summary": "Design: Case Study - Shhard Development, Client Shivam Bhardwaj",
         "created": "2025-07-04T10:50:00.609+0530",
         "timespent": null,
+        "duedate": "2025-06-27",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A023a0dbc-d7f7-4d53-9905-9641e6759d36",
           "accountId": "712020:023a0dbc-d7f7-4d53-9905-9641e6759d36",
@@ -2559,6 +2607,7 @@
         "summary": "Design: Case Study - Ravi Patel\tJhumJhum Sen Shill",
         "created": "2025-07-01T13:33:06.414+0530",
         "timespent": null,
+        "duedate": "2025-07-02",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A023a0dbc-d7f7-4d53-9905-9641e6759d36",
           "accountId": "712020:023a0dbc-d7f7-4d53-9905-9641e6759d36",
@@ -2605,6 +2654,7 @@
         "summary": "Test: David Tan Case Study",
         "created": "2025-06-25T16:25:59.080+0530",
         "timespent": null,
+        "duedate": "2025-06-26",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A77700fe3-8a05-4eee-8c03-8ecf9ccec870",
           "accountId": "712020:77700fe3-8a05-4eee-8c03-8ecf9ccec870",

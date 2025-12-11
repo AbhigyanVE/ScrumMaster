@@ -19,7 +19,7 @@ AUTH_TUPLE = (JIRA_EMAIL, JIRA_API_TOKEN)
 HEADERS = {"Accept": "application/json", "Content-Type": "application/json"}
 
 # Define the fields we want to extract for each issue
-FIELDS_LIST = "key,summary,status,assignee,priority,created,updated,timespent,parent"
+FIELDS_LIST = "key,summary,status,assignee,priority,created,updated,timespent,parent,duedate"
 MAX_RESULTS_PER_PAGE = 50 
 
 if not all([JIRA_DOMAIN, JIRA_EMAIL, JIRA_API_TOKEN]):

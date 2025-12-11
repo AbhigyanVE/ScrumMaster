@@ -13,6 +13,7 @@
         "summary": "freelancers for article",
         "created": "2025-12-04T19:41:27.653+0530",
         "timespent": 9000,
+        "duedate": null,
         "assignee": null,
         "priority": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
@@ -46,6 +47,7 @@
         "summary": "SEO pages content",
         "created": "2025-12-04T19:36:32.105+0530",
         "timespent": 21600,
+        "duedate": null,
         "assignee": null,
         "priority": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/1",
@@ -79,6 +81,7 @@
         "summary": "Android App Development Brochure – Freelancer Feedback Update",
         "created": "2025-07-30T21:56:04.807+0530",
         "timespent": 3600,
+        "duedate": "2025-07-31",
         "assignee": null,
         "priority": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/1",
@@ -112,6 +115,7 @@
         "summary": "Build a Panel of Freelance Experts in Emerging Domains-Robotic Engineering",
         "created": "2025-07-30T15:48:00.957+0530",
         "timespent": 32400,
+        "duedate": "2025-07-29",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ab3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
           "accountId": "712020:b3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
@@ -158,6 +162,7 @@
         "summary": "Build a Panel of Freelance Experts in Emerging Domains-Machine Learning",
         "created": "2025-07-30T15:15:17.327+0530",
         "timespent": 12600,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ab3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
           "accountId": "712020:b3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
@@ -204,6 +209,7 @@
         "summary": "Build a Panel of Freelance Experts in Emerging Domains-Cybersecurity",
         "created": "2025-07-29T17:03:03.911+0530",
         "timespent": 14400,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ab3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
           "accountId": "712020:b3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
@@ -250,6 +256,7 @@
         "summary": "Get Android App Developers Brochure Content Reviewed Externally",
         "created": "2025-07-08T20:07:43.828+0530",
         "timespent": 9000,
+        "duedate": "2025-07-15",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ab3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
           "accountId": "712020:b3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
@@ -296,6 +303,7 @@
         "summary": "Hire freelancers for reviewing pages.",
         "created": "2025-06-30T11:00:39.293+0530",
         "timespent": null,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ab3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
           "accountId": "712020:b3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
@@ -342,6 +350,7 @@
         "summary": "Hire freelancers for reviewing pages.",
         "created": "2025-06-30T10:58:30.040+0530",
         "timespent": null,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ab3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
           "accountId": "712020:b3e6b5f6-6f3e-468d-bec6-88f6d7339e58",

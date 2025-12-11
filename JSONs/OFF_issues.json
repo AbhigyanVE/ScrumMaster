@@ -12,7 +12,8 @@
       "fields": {
         "summary": "Reddit & Quora",
         "created": "2025-12-08T18:38:06.811+0530",
-        "timespent": 12000,
+        "timespent": 22800,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Afe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
           "accountId": "712020:fe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
@@ -33,7 +34,7 @@
           "name": "Medium",
           "id": "3"
         },
-        "updated": "2025-12-09T18:55:14.612+0530",
+        "updated": "2025-12-10T19:34:24.474+0530",
         "status": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10028",
           "description": "",
@@ -59,6 +60,7 @@
         "summary": "Quora Answer - Why is outsourcing to India considered a cost-effective solution for startups and smaller companies?",
         "created": "2025-11-13T12:39:53.552+0530",
         "timespent": null,
+        "duedate": "2025-11-14",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A16506829-3e43-4324-812b-710f925f21f4",
           "accountId": "712020:16506829-3e43-4324-812b-710f925f21f4",
@@ -105,6 +107,7 @@
         "summary": "Quora Answer - Why do so many outsourcing strategies fail, and how can businesses make outsourcing actually work?",
         "created": "2025-11-13T12:32:59.114+0530",
         "timespent": null,
+        "duedate": "2025-11-14",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A16506829-3e43-4324-812b-710f925f21f4",
           "accountId": "712020:16506829-3e43-4324-812b-710f925f21f4",
@@ -151,6 +154,7 @@
         "summary": "Freelancer Sample article: Schema-First SEO: Designing Sites for LLMs Before Humans",
         "created": "2025-10-17T18:30:12.398+0530",
         "timespent": null,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ab3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
           "accountId": "712020:b3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
@@ -197,6 +201,7 @@
         "summary": "SEO: Latent Space Ranking: What Vector Search Means for Long-Tail Content",
         "created": "2025-10-17T18:25:13.731+0530",
         "timespent": null,
+        "duedate": "2025-10-22",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ab3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
           "accountId": "712020:b3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
@@ -243,6 +248,7 @@
         "summary": "SEO: Adaptive SEO - Sites That Change Based on Global Events & AI Trends",
         "created": "2025-10-15T18:16:57.210+0530",
         "timespent": null,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ab3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
           "accountId": "712020:b3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
@@ -328,6 +334,7 @@
         },
         "created": "2025-10-15T11:56:17.816+0530",
         "timespent": null,
+        "duedate": "2025-10-17",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ab3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
           "accountId": "712020:b3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
@@ -374,6 +381,7 @@
         "summary": "SEO: Voice + Vision Search Fusion: Optimizing for Screens & Sound ",
         "created": "2025-10-15T11:55:24.391+0530",
         "timespent": null,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ab3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
           "accountId": "712020:b3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
@@ -420,6 +428,7 @@
         "summary": "Prepared listicles plan",
         "created": "2025-09-30T19:17:37.373+0530",
         "timespent": 12600,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Afe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
           "accountId": "712020:fe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
@@ -466,6 +475,7 @@
         "summary": "Prepared Listicles strategy",
         "created": "2025-09-26T17:30:35.631+0530",
         "timespent": 7200,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Afe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
           "accountId": "712020:fe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
@@ -551,6 +561,7 @@
         },
         "created": "2025-09-24T16:16:08.170+0530",
         "timespent": null,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Afe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
           "accountId": "712020:fe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
@@ -636,6 +647,7 @@
         },
         "created": "2025-09-23T17:09:05.886+0530",
         "timespent": null,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Afe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
           "accountId": "712020:fe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
@@ -682,6 +694,7 @@
         "summary": "Web 2.0- Cognitive Design Metrics: Measuring Trust Lift From Neuroaesthetic Branding ",
         "created": "2025-09-23T17:08:03.118+0530",
         "timespent": 900,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Afe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
           "accountId": "712020:fe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
@@ -767,6 +780,7 @@
         },
         "created": "2025-09-23T16:55:49.041+0530",
         "timespent": null,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Afe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
           "accountId": "712020:fe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
@@ -813,6 +827,7 @@
         "summary": "External article: Hire Digital Marketers in India: The AI Growth Playbook ",
         "created": "2025-09-23T16:54:49.373+0530",
         "timespent": 1800,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Afe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
           "accountId": "712020:fe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
@@ -898,6 +913,7 @@
         },
         "created": "2025-09-23T16:46:39.198+0530",
         "timespent": null,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Afe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
           "accountId": "712020:fe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
@@ -983,6 +999,7 @@
         },
         "created": "2025-09-23T16:39:02.532+0530",
         "timespent": null,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Afe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
           "accountId": "712020:fe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
@@ -1029,6 +1046,7 @@
         "summary": "Quora 23rd Sep Doc",
         "created": "2025-09-23T16:15:28.475+0530",
         "timespent": 13800,
+        "duedate": "2025-09-24",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Afe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
           "accountId": "712020:fe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
@@ -1114,6 +1132,7 @@
         },
         "created": "2025-09-23T10:54:39.096+0530",
         "timespent": null,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Afe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
           "accountId": "712020:fe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
@@ -1199,6 +1218,7 @@
         },
         "created": "2025-09-22T14:13:34.971+0530",
         "timespent": 900,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=5f5b452d0b6be2006e056f42",
           "accountId": "5f5b452d0b6be2006e056f42",
@@ -1245,6 +1265,7 @@
         "summary": "Infographic--Why In-house data entry slows you down",
         "created": "2025-09-22T14:12:30.582+0530",
         "timespent": 7200,
+        "duedate": "2025-09-26",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=5f5b452d0b6be2006e056f42",
           "accountId": "5f5b452d0b6be2006e056f42",
@@ -1330,6 +1351,7 @@
         },
         "created": "2025-09-22T13:39:51.026+0530",
         "timespent": 600,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Afe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
           "accountId": "712020:fe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
@@ -1376,6 +1398,7 @@
         "summary": "Infographic- Automation vs Remote Teams: Throughput Gains Across Data-Entry Workflows ",
         "created": "2025-09-19T17:06:17.049+0530",
         "timespent": 1800,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Afe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
           "accountId": "712020:fe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
@@ -1422,6 +1445,7 @@
         "summary": "Microblog: Excel + AI Synergy: Turning Spreadsheets Into Decision Engines (3 Real Dashboards)",
         "created": "2025-09-19T17:02:12.879+0530",
         "timespent": 1800,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Afe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
           "accountId": "712020:fe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
@@ -1468,6 +1492,7 @@
         "summary": "PPT-AI-Powered PPC: Field Data on Reducing Spend While Preserving Conversion Rates ",
         "created": "2025-09-19T16:58:18.557+0530",
         "timespent": 1800,
+        "duedate": "2025-10-02",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Afe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
           "accountId": "712020:fe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
@@ -1514,6 +1539,7 @@
         "summary": "External article: Entity Signals > Keywords: Building AI-Citable Content in the LLM Search Era ",
         "created": "2025-09-19T16:56:10.614+0530",
         "timespent": 1800,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Afe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
           "accountId": "712020:fe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
@@ -1560,6 +1586,7 @@
         "summary": "Web 2.0 How Global Tech Leaders Build Faster with Remote Developer Teams ",
         "created": "2025-09-19T16:50:49.883+0530",
         "timespent": 1800,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Afe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
           "accountId": "712020:fe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
@@ -1606,6 +1633,7 @@
         "summary": "Business Description For VE",
         "created": "2025-09-19T13:48:33.229+0530",
         "timespent": 16200,
+        "duedate": "2025-09-23",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Afe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
           "accountId": "712020:fe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
@@ -1652,6 +1680,7 @@
         "summary": "External Article-The Algorithmic Gap: Why Global Brands Now Rely on Offshore Teams for Social Media Intelligence  ",
         "created": "2025-09-16T13:15:30.038+0530",
         "timespent": 6420,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Afe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
           "accountId": "712020:fe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
@@ -1737,6 +1766,7 @@
         },
         "created": "2025-09-11T18:47:18.919+0530",
         "timespent": 600,
+        "duedate": "2025-09-15",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Afe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
           "accountId": "712020:fe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
@@ -1822,6 +1852,7 @@
         },
         "created": "2025-09-11T16:21:36.152+0530",
         "timespent": 8400,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Afe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
           "accountId": "712020:fe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
@@ -1907,6 +1938,7 @@
         },
         "created": "2025-09-11T13:43:24.455+0530",
         "timespent": null,
+        "duedate": "2025-09-16",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Afe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
           "accountId": "712020:fe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
@@ -1953,6 +1985,7 @@
         "summary": " External Article- From Chaos to Scale: Hire a Remote Virtual Assistant Smartly ",
         "created": "2025-09-11T13:42:41.214+0530",
         "timespent": 600,
+        "duedate": "2025-09-17",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Afe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
           "accountId": "712020:fe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
@@ -1999,6 +2032,7 @@
         "summary": "Quora Task(10th Sep)",
         "created": "2025-09-10T13:33:13.452+0530",
         "timespent": 18000,
+        "duedate": "2025-09-19",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Afe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
           "accountId": "712020:fe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
@@ -2045,6 +2079,7 @@
         "summary": "Reddit (10th Sep)",
         "created": "2025-09-10T12:48:19.795+0530",
         "timespent": 19500,
+        "duedate": "2025-09-22",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Afe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
           "accountId": "712020:fe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
@@ -2130,6 +2165,7 @@
         },
         "created": "2025-09-10T11:43:00.680+0530",
         "timespent": null,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Afe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
           "accountId": "712020:fe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
@@ -2176,6 +2212,7 @@
         "summary": "External Article- India’s Talent Edge Why Global Leaders Hire Here in 2025",
         "created": "2025-09-10T11:42:31.098+0530",
         "timespent": 600,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Afe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
           "accountId": "712020:fe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
@@ -2261,6 +2298,7 @@
         },
         "created": "2025-09-09T15:41:58.315+0530",
         "timespent": 3600,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Afe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
           "accountId": "712020:fe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
@@ -2346,6 +2384,7 @@
         },
         "created": "2025-09-08T19:27:49.229+0530",
         "timespent": null,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Afe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
           "accountId": "712020:fe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
@@ -2392,6 +2431,7 @@
         "summary": "Content Assignment Sheet",
         "created": "2025-09-08T13:15:00.237+0530",
         "timespent": 24180,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Afe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
           "accountId": "712020:fe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
@@ -2438,6 +2478,7 @@
         "summary": "Reddit Doc(5th Sep)",
         "created": "2025-09-05T18:02:16.256+0530",
         "timespent": 18000,
+        "duedate": "2025-09-19",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Afe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
           "accountId": "712020:fe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
@@ -2484,6 +2525,7 @@
         "summary": "PPT Content - Remote Developers Deliver Faster, Spend Smarter",
         "created": "2025-09-05T15:34:59.572+0530",
         "timespent": 7200,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Aa8b16dd6-d07f-4169-8312-8193e9ca3955",
           "accountId": "712020:a8b16dd6-d07f-4169-8312-8193e9ca3955",
@@ -2569,6 +2611,7 @@
         },
         "created": "2025-09-05T13:48:00.250+0530",
         "timespent": 4620,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Afe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
           "accountId": "712020:fe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
@@ -2654,6 +2697,7 @@
         },
         "created": "2025-09-05T11:05:46.803+0530",
         "timespent": 900,
+        "duedate": "2025-09-29",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=5f5b452d0b6be2006e056f42",
           "accountId": "5f5b452d0b6be2006e056f42",
@@ -2700,6 +2744,7 @@
         "summary": "Microblog--hire accountant",
         "created": "2025-09-05T11:03:51.548+0530",
         "timespent": 7200,
+        "duedate": "2025-09-08",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=5f5b452d0b6be2006e056f42",
           "accountId": "5f5b452d0b6be2006e056f42",
@@ -2746,6 +2791,7 @@
         "summary": "Listicles & PR sites",
         "created": "2025-09-02T13:23:22.872+0530",
         "timespent": 18000,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Afe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
           "accountId": "712020:fe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
@@ -2831,6 +2877,7 @@
         },
         "created": "2025-08-27T12:37:14.867+0530",
         "timespent": 6000,
+        "duedate": "2025-09-03",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Afe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
           "accountId": "712020:fe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
@@ -2916,6 +2963,7 @@
         },
         "created": "2025-08-26T13:13:37.438+0530",
         "timespent": 18300,
+        "duedate": "2025-09-03",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Afe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
           "accountId": "712020:fe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
@@ -2962,6 +3010,7 @@
         "summary": "Quora Task (2)",
         "created": "2025-08-26T13:07:46.954+0530",
         "timespent": null,
+        "duedate": "2025-09-05",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Afe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
           "accountId": "712020:fe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
@@ -3047,6 +3096,7 @@
         },
         "created": "2025-08-25T11:22:28.926+0530",
         "timespent": 16020,
+        "duedate": "2025-09-26",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=5f5b452d0b6be2006e056f42",
           "accountId": "5f5b452d0b6be2006e056f42",

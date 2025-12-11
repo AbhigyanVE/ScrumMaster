@@ -52,6 +52,7 @@
         },
         "created": "2025-08-22T11:40:49.248+0530",
         "timespent": null,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A9118629a-f338-4a5a-9762-4244c0a608a8",
           "accountId": "712020:9118629a-f338-4a5a-9762-4244c0a608a8",
@@ -98,6 +99,7 @@
         "summary": "Review: Hire Elite Dedicated Developer",
         "created": "2025-08-21T16:37:59.943+0530",
         "timespent": 6660,
+        "duedate": "2025-08-28",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A87014598-7fc2-4a58-bbc5-8ec01fc54856",
           "accountId": "712020:87014598-7fc2-4a58-bbc5-8ec01fc54856",
@@ -144,6 +146,7 @@
         "summary": "Develop: Hire Programmer PPC Page for Desktop (Top 6 IT Pages)",
         "created": "2025-07-07T19:37:30.707+0530",
         "timespent": null,
+        "duedate": "2025-07-10",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=628b7d1aab91fe0070973fa6",
           "accountId": "628b7d1aab91fe0070973fa6",
@@ -190,6 +193,7 @@
         "summary": "Hire Programmer PPC Page for Mobile Phone Edits (Top 6 IT Pages)",
         "created": "2025-05-06T14:57:10.289+0530",
         "timespent": null,
+        "duedate": "2025-06-24",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
           "accountId": "712020:3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
@@ -236,6 +240,7 @@
         "summary": "Design: Hire Programmer PPC Page for Desktop (Top 6 IT Pages)",
         "created": "2025-05-06T14:55:48.948+0530",
         "timespent": null,
+        "duedate": "2025-07-09",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A7480f087-7269-4957-9e6d-ee85e73b09e2",
           "accountId": "712020:7480f087-7269-4957-9e6d-ee85e73b09e2",
@@ -282,6 +287,7 @@
         "summary": "Hire Full-stack Developer PPC Page Edits (Top 6 IT Pages)",
         "created": "2025-05-06T14:55:38.337+0530",
         "timespent": null,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A87014598-7fc2-4a58-bbc5-8ec01fc54856",
           "accountId": "712020:87014598-7fc2-4a58-bbc5-8ec01fc54856",
@@ -328,6 +334,7 @@
         "summary": "Hire Web Developer PPC Page for Mobile Phones Edits (Top 6 IT Pages)",
         "created": "2025-05-06T14:55:29.095+0530",
         "timespent": 120,
+        "duedate": "2025-07-31",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A16506829-3e43-4324-812b-710f925f21f4",
           "accountId": "712020:16506829-3e43-4324-812b-710f925f21f4",
@@ -374,6 +381,7 @@
         "summary": "Hire Software Developer PPC Page Edits (Top 6 IT Pages)",
         "created": "2025-05-06T14:54:53.381+0530",
         "timespent": null,
+        "duedate": null,
         "assignee": null,
         "priority": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
@@ -407,6 +415,7 @@
         "summary": "Hire Elite Dedicated Developer PPC Page Edits (Top 6 IT Pages)",
         "created": "2025-05-06T14:54:28.496+0530",
         "timespent": null,
+        "duedate": "2025-06-20",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A16506829-3e43-4324-812b-710f925f21f4",
           "accountId": "712020:16506829-3e43-4324-812b-710f925f21f4",
@@ -453,6 +462,7 @@
         "summary": "Top 6 IT PPC Page Edits",
         "created": "2025-02-20T18:31:33.208+0530",
         "timespent": null,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A87014598-7fc2-4a58-bbc5-8ec01fc54856",
           "accountId": "712020:87014598-7fc2-4a58-bbc5-8ec01fc54856",

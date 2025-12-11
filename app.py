@@ -187,23 +187,28 @@ class ContextManager:
             except Exception as e:
                 print(f"Error deleting context file: {e}")
         
-        # Clear session state
+        # Clear session state AND mark that context was just cleared
         st.session_state.context = []
+        st.session_state.context_cleared = True  # Flag to indicate fresh start
     
     @staticmethod
     def get_context_for_sql_generation():
         """Get formatted context specifically for SQL generation"""
-        if 'context' not in st.session_state:
-            st.session_state.context = ContextManager.load_context()
+        # Check if context was just cleared
+        if st.session_state.get('context_cleared', False):
+            return "\n⚠️ CRITICAL: NO PREVIOUS CONTEXT EXISTS. This is a completely fresh query with ZERO prior conversation history. If user refers to 'this project', 'that team', 'those issues' - you MUST ask them to specify which project/team/issues they mean, as you have NO context to reference."
         
-        if not st.session_state.context:
-            return ""
+        # ALWAYS load from file to ensure fresh data
+        current_context = ContextManager.load_context()
+        
+        if not current_context:
+            return "\nNO PREVIOUS CONTEXT: This is a fresh query with no prior conversation history. If user uses pronouns like 'this', 'that', 'those', ask for clarification."
         
         # Get last interaction
-        last_interaction = st.session_state.context[-1] if st.session_state.context else None
+        last_interaction = current_context[-1] if current_context else None
         
         if not last_interaction:
-            return ""
+            return "\nNO PREVIOUS CONTEXT: This is a fresh query with no prior conversation history."
         
         context = "\nRECENT CONTEXT:\n"
         context += f"Previous question: {last_interaction['query']}\n"
@@ -438,6 +443,7 @@ def get_db_schema():
     - priority (TEXT) - values like: 'High', 'Medium', 'Low', 'Critical', etc.
     - created (TEXT) - date in format YYYY-MM-DD
     - updated (TEXT) - date in format YYYY-MM-DD
+    - duedate (TEXT) - date in format YYYY-MM-DD
     - time_spent (INTEGER) - time in seconds
     - parent_key (TEXT) - parent issue key if this is a subtask
     """
@@ -851,45 +857,46 @@ def main():
         
         # Handle farewells IMMEDIATELY (clear context, no SQL, no saving to context)
         if query_type == "farewell":
-            # Clear context FIRST before anything else
+            # Clear context file FIRST
             ContextManager.clear_context()
             
-            # ALSO clear the chat history to fully reset conversation
+            # Clear chat history completely
             st.session_state.messages = []
             
-            # Add farewell exchange to fresh chat
+            # Add only the farewell exchange to fresh chat
             st.session_state.messages.append({"role": "user", "content": prompt})
             
+            farewell_responses = {
+                "bye": "Goodbye! I've completely erased all memory of our conversation. If you ask me about 'that project' or 'those issues' next, I won't know what you mean - you'll need to be specific!",
+                "goodbye": "See you later! Everything has been wiped clean. Next question = brand new conversation with zero memory.",
+                "good bye": "Take care! All context deleted. I won't remember anything we just discussed!",
+                "see you": "See you! Memory wiped. Next query starts from scratch!",
+                "later": "Catch you later! Context completely erased!"
+            }
+            
+            # Find matching farewell
+            response = "Goodbye! Memory wiped. Next question = fresh start!"
+            for key, value in farewell_responses.items():
+                if key in prompt.lower():
+                    response = value
+                    break
+            
+            st.session_state.messages.append({
+                "role": "assistant",
+                "content": response
+            })
+            
+            # Display the messages
             with st.chat_message("user"):
                 st.markdown(prompt)
             
             with st.chat_message("assistant"):
-                farewell_responses = {
-                    "bye": "Goodbye! I've cleared our entire conversation including context. Come back anytime you need insights on your projects!",
-                    "goodbye": "See you later! Your session and chat history have been completely reset. Feel free to start fresh anytime!",
-                    "good bye": "Take care! I've cleared this session completely. Looking forward to helping you again soon!",
-                    "see you": "See you! Everything cleared. Don't hesitate to return for more Agile insights!",
-                    "later": "Catch you later! Your conversation and context have been completely reset."
-                }
-                
-                # Find matching farewell
-                response = "Goodbye! I've cleared our entire conversation. Come back anytime!"
-                for key, value in farewell_responses.items():
-                    if key in prompt.lower():
-                        response = value
-                        break
-                
                 st.markdown(response)
-                st.success("✨ Context AND chat history cleared! Starting completely fresh.")
+                st.success("✨ All context erased!")
+                st.warning("⚠️ I won't remember what we just talked about. Be specific in your next question!")
                 
-                # Add to chat history
-                st.session_state.messages.append({
-                    "role": "assistant",
-                    "content": response
-                })
-                
-                # Force a rerun to update everything
-                st.rerun()
+            # Force rerun to show empty context
+            st.rerun()
         
         # Handle greetings (no SQL needed, no context saving for casual greetings)
         elif query_type == "greeting":
@@ -925,6 +932,10 @@ def main():
         
         # Regular queries - need SQL and context saving
         else:
+            # Clear the context_cleared flag if it exists (user is asking a new real question)
+            if 'context_cleared' in st.session_state:
+                del st.session_state['context_cleared']
+            
             # Add user message
             st.session_state.messages.append({"role": "user", "content": prompt})
             with st.chat_message("user"):

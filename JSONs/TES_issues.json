@@ -12,7 +12,8 @@
       "fields": {
         "summary": "Development: Outsource Accounting to India PPC Page",
         "created": "2025-12-09T11:21:40.230+0530",
-        "timespent": null,
+        "timespent": 28800,
+        "duedate": "2025-12-11",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
           "accountId": "712020:3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
@@ -33,19 +34,19 @@
           "name": "Medium",
           "id": "3"
         },
-        "updated": "2025-12-09T18:43:25.656+0530",
+        "updated": "2025-12-11T14:04:16.814+0530",
         "status": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10017",
-          "description": "This work item is being actively worked on at the moment by the assignee.",
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10019",
+          "description": "",
           "iconUrl": "https://idealabprojects.atlassian.net/",
-          "name": "In Progress",
-          "id": "10017",
+          "name": "In Review",
+          "id": "10019",
           "statusCategory": {
-            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/4",
-            "id": 4,
-            "key": "indeterminate",
-            "colorName": "yellow",
-            "name": "In Progress"
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
+            "id": 2,
+            "key": "new",
+            "colorName": "blue-gray",
+            "name": "To Do"
           }
         }
       }
@@ -59,6 +60,7 @@
         "summary": "Christmas (Landing Page - PPC)",
         "created": "2025-12-08T13:38:06.154+0530",
         "timespent": 28800,
+        "duedate": "2025-12-10",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
           "accountId": "712020:3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
@@ -105,6 +107,7 @@
         "summary": "Development: Hire PPC Expert PPC Page ",
         "created": "2025-12-08T12:12:22.991+0530",
         "timespent": null,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3ca97815-9cd0-469f-ab3f-a8b1afc2de2d",
           "accountId": "712020:3ca97815-9cd0-469f-ab3f-a8b1afc2de2d",
@@ -151,16 +154,17 @@
         "summary": "GEO - Content Writing Domain ",
         "created": "2025-12-05T17:29:09.009+0530",
         "timespent": null,
+        "duedate": "2025-12-05",
         "assignee": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A41435bf1-7a46-4918-82dc-ba80eec20553",
-          "accountId": "712020:41435bf1-7a46-4918-82dc-ba80eec20553",
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=605aad190a9b6900719e7c99",
+          "accountId": "605aad190a9b6900719e7c99",
           "avatarUrls": {
-            "48x48": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
-            "24x24": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
-            "16x16": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
-            "32x32": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png"
+            "48x48": "https://secure.gravatar.com/avatar/4f0d47d7277fe8d2b9942e49df3be561?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDM-5.png",
+            "24x24": "https://secure.gravatar.com/avatar/4f0d47d7277fe8d2b9942e49df3be561?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDM-5.png",
+            "16x16": "https://secure.gravatar.com/avatar/4f0d47d7277fe8d2b9942e49df3be561?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDM-5.png",
+            "32x32": "https://secure.gravatar.com/avatar/4f0d47d7277fe8d2b9942e49df3be561?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDM-5.png"
           },
-          "displayName": "Praveen Soni",
+          "displayName": "Daya Mukherjee",
           "active": true,
           "timeZone": "Asia/Calcutta",
           "accountType": "atlassian"
@@ -171,7 +175,7 @@
           "name": "Highest",
           "id": "1"
         },
-        "updated": "2025-12-09T20:07:52.633+0530",
+        "updated": "2025-12-11T15:58:39.636+0530",
         "status": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10016",
           "description": "",
@@ -236,6 +240,7 @@
         },
         "created": "2025-12-02T16:37:30.393+0530",
         "timespent": null,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A16506829-3e43-4324-812b-710f925f21f4",
           "accountId": "712020:16506829-3e43-4324-812b-710f925f21f4",
@@ -282,6 +287,7 @@
         "summary": "Ad Copy Request - Revenue Cycle Management (Medical Billing & Coding) Ad Group",
         "created": "2025-12-01T13:50:13.747+0530",
         "timespent": null,
+        "duedate": "2025-12-12",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=605aad190a9b6900719e7c99",
           "accountId": "605aad190a9b6900719e7c99",
@@ -302,13 +308,13 @@
           "name": "Medium",
           "id": "3"
         },
-        "updated": "2025-12-09T16:31:23.152+0530",
+        "updated": "2025-12-10T19:57:49.640+0530",
         "status": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10016",
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10019",
           "description": "",
           "iconUrl": "https://idealabprojects.atlassian.net/",
-          "name": "To Do",
-          "id": "10016",
+          "name": "In Review",
+          "id": "10019",
           "statusCategory": {
             "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
             "id": 2,
@@ -328,16 +334,17 @@
         "summary": "Development: Hire Medical coding and Billing Expert (Mobile Version)",
         "created": "2025-12-01T12:18:08.497+0530",
         "timespent": 28800,
+        "duedate": "2025-12-03",
         "assignee": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A87014598-7fc2-4a58-bbc5-8ec01fc54856",
-          "accountId": "712020:87014598-7fc2-4a58-bbc5-8ec01fc54856",
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=605aad190a9b6900719e7c99",
+          "accountId": "605aad190a9b6900719e7c99",
           "avatarUrls": {
-            "48x48": "https://secure.gravatar.com/avatar/20f56106f26bf5669c2f46835ef78571?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDS-1.png",
-            "24x24": "https://secure.gravatar.com/avatar/20f56106f26bf5669c2f46835ef78571?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDS-1.png",
-            "16x16": "https://secure.gravatar.com/avatar/20f56106f26bf5669c2f46835ef78571?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDS-1.png",
-            "32x32": "https://secure.gravatar.com/avatar/20f56106f26bf5669c2f46835ef78571?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDS-1.png"
+            "48x48": "https://secure.gravatar.com/avatar/4f0d47d7277fe8d2b9942e49df3be561?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDM-5.png",
+            "24x24": "https://secure.gravatar.com/avatar/4f0d47d7277fe8d2b9942e49df3be561?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDM-5.png",
+            "16x16": "https://secure.gravatar.com/avatar/4f0d47d7277fe8d2b9942e49df3be561?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDM-5.png",
+            "32x32": "https://secure.gravatar.com/avatar/4f0d47d7277fe8d2b9942e49df3be561?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDM-5.png"
           },
-          "displayName": "Deepakshi saini",
+          "displayName": "Daya Mukherjee",
           "active": true,
           "timeZone": "Asia/Calcutta",
           "accountType": "atlassian"
@@ -348,7 +355,7 @@
           "name": "Medium",
           "id": "3"
         },
-        "updated": "2025-12-10T09:52:31.763+0530",
+        "updated": "2025-12-10T17:05:02.061+0530",
         "status": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10076",
           "description": "",
@@ -413,6 +420,7 @@
         },
         "created": "2025-11-27T17:33:59.772+0530",
         "timespent": null,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A16506829-3e43-4324-812b-710f925f21f4",
           "accountId": "712020:16506829-3e43-4324-812b-710f925f21f4",
@@ -459,6 +467,7 @@
         "summary": "Ad Copy Rewrite Request (Only Single Headline)",
         "created": "2025-11-24T16:02:49.662+0530",
         "timespent": null,
+        "duedate": "2025-11-25",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A9d81cbd5-bff1-466b-8d31-4a2dd10b964e",
           "accountId": "712020:9d81cbd5-bff1-466b-8d31-4a2dd10b964e",
@@ -505,6 +514,7 @@
         "summary": "Ad Copy Request - Dart Developer ad group",
         "created": "2025-11-20T12:44:18.386+0530",
         "timespent": null,
+        "duedate": "2025-11-25",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A9d81cbd5-bff1-466b-8d31-4a2dd10b964e",
           "accountId": "712020:9d81cbd5-bff1-466b-8d31-4a2dd10b964e",
@@ -551,6 +561,7 @@
         "summary": "Content Dart Developer (additional service in Flutter ppc page)",
         "created": "2025-11-18T17:34:17.066+0530",
         "timespent": null,
+        "duedate": "2025-11-21",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
           "accountId": "712020:3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
@@ -597,6 +608,7 @@
         "summary": "Design: About Us Main Page",
         "created": "2025-11-14T18:53:08.143+0530",
         "timespent": 144000,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A7480f087-7269-4957-9e6d-ee85e73b09e2",
           "accountId": "712020:7480f087-7269-4957-9e6d-ee85e73b09e2",
@@ -642,7 +654,8 @@
       "fields": {
         "summary": "Development: Hire Architect Expert PPC Page ",
         "created": "2025-11-13T12:58:02.063+0530",
-        "timespent": 86400,
+        "timespent": 87600,
+        "duedate": "2025-12-11",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A87014598-7fc2-4a58-bbc5-8ec01fc54856",
           "accountId": "712020:87014598-7fc2-4a58-bbc5-8ec01fc54856",
@@ -663,13 +676,13 @@
           "name": "Medium",
           "id": "3"
         },
-        "updated": "2025-12-10T09:24:09.801+0530",
+        "updated": "2025-12-10T18:18:08.292+0530",
         "status": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10076",
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10019",
           "description": "",
           "iconUrl": "https://idealabprojects.atlassian.net/",
-          "name": "Implement Feedback",
-          "id": "10076",
+          "name": "In Review",
+          "id": "10019",
           "statusCategory": {
             "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
             "id": 2,
@@ -689,6 +702,7 @@
         "summary": "Development: Hire Quantity Estimators, Procurement & Surveyor PPC Page",
         "created": "2025-11-11T19:04:05.472+0530",
         "timespent": 75600,
+        "duedate": "2025-12-04",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A87014598-7fc2-4a58-bbc5-8ec01fc54856",
           "accountId": "712020:87014598-7fc2-4a58-bbc5-8ec01fc54856",
@@ -735,16 +749,17 @@
         "summary": "Development:  AI Agent PPC Page",
         "created": "2025-11-10T12:04:27.129+0530",
         "timespent": 32400,
+        "duedate": null,
         "assignee": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A87014598-7fc2-4a58-bbc5-8ec01fc54856",
-          "accountId": "712020:87014598-7fc2-4a58-bbc5-8ec01fc54856",
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A16506829-3e43-4324-812b-710f925f21f4",
+          "accountId": "712020:16506829-3e43-4324-812b-710f925f21f4",
           "avatarUrls": {
-            "48x48": "https://secure.gravatar.com/avatar/20f56106f26bf5669c2f46835ef78571?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDS-1.png",
-            "24x24": "https://secure.gravatar.com/avatar/20f56106f26bf5669c2f46835ef78571?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDS-1.png",
-            "16x16": "https://secure.gravatar.com/avatar/20f56106f26bf5669c2f46835ef78571?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDS-1.png",
-            "32x32": "https://secure.gravatar.com/avatar/20f56106f26bf5669c2f46835ef78571?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDS-1.png"
+            "48x48": "https://secure.gravatar.com/avatar/e49f43632a97524b80c338b9959e6780?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTG-2.png",
+            "24x24": "https://secure.gravatar.com/avatar/e49f43632a97524b80c338b9959e6780?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTG-2.png",
+            "16x16": "https://secure.gravatar.com/avatar/e49f43632a97524b80c338b9959e6780?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTG-2.png",
+            "32x32": "https://secure.gravatar.com/avatar/e49f43632a97524b80c338b9959e6780?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTG-2.png"
           },
-          "displayName": "Deepakshi saini",
+          "displayName": "tanumoy ghosh",
           "active": true,
           "timeZone": "Asia/Calcutta",
           "accountType": "atlassian"
@@ -755,13 +770,13 @@
           "name": "Medium",
           "id": "3"
         },
-        "updated": "2025-12-09T11:10:55.087+0530",
+        "updated": "2025-12-10T17:18:51.581+0530",
         "status": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10019",
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10076",
           "description": "",
           "iconUrl": "https://idealabprojects.atlassian.net/",
-          "name": "In Review",
-          "id": "10019",
+          "name": "Implement Feedback",
+          "id": "10076",
           "statusCategory": {
             "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
             "id": 2,
@@ -781,6 +796,7 @@
         "summary": "Custom-AI-Develover-duplicate entry",
         "created": "2025-11-10T11:24:16.477+0530",
         "timespent": null,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
           "accountId": "712020:3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
@@ -827,6 +843,7 @@
         "summary": "Development: Hire Software Developer Mobile Version PPC Page",
         "created": "2025-11-07T12:07:03.058+0530",
         "timespent": 32400,
+        "duedate": "2025-12-03",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A87014598-7fc2-4a58-bbc5-8ec01fc54856",
           "accountId": "712020:87014598-7fc2-4a58-bbc5-8ec01fc54856",
@@ -873,6 +890,7 @@
         "summary": "Ad Copy Request - Outsource BPO PPC page",
         "created": "2025-10-29T20:17:55.502+0530",
         "timespent": null,
+        "duedate": "2025-12-31",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=5f5b452d0b6be2006e056f42",
           "accountId": "5f5b452d0b6be2006e056f42",
@@ -919,6 +937,7 @@
         "summary": "Development: Custom AI Development PPC Page",
         "created": "2025-10-29T13:46:29.826+0530",
         "timespent": 82800,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A87014598-7fc2-4a58-bbc5-8ec01fc54856",
           "accountId": "712020:87014598-7fc2-4a58-bbc5-8ec01fc54856",
@@ -965,6 +984,7 @@
         "summary": "Content Review - Hire HVAC Experts",
         "created": "2025-10-22T18:09:13.277+0530",
         "timespent": 1800,
+        "duedate": "2025-10-23",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A87014598-7fc2-4a58-bbc5-8ec01fc54856",
           "accountId": "712020:87014598-7fc2-4a58-bbc5-8ec01fc54856",
@@ -1011,6 +1031,7 @@
         "summary": "Content: Hire Zoho Developer PPC LP",
         "created": "2025-10-15T12:26:41.579+0530",
         "timespent": 28800,
+        "duedate": "2025-11-04",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A87014598-7fc2-4a58-bbc5-8ec01fc54856",
           "accountId": "712020:87014598-7fc2-4a58-bbc5-8ec01fc54856",
@@ -1057,16 +1078,17 @@
         "summary": "Development: Hire Embedded Developer PPC page",
         "created": "2025-10-13T12:41:44.529+0530",
         "timespent": null,
+        "duedate": null,
         "assignee": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A87014598-7fc2-4a58-bbc5-8ec01fc54856",
-          "accountId": "712020:87014598-7fc2-4a58-bbc5-8ec01fc54856",
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A16506829-3e43-4324-812b-710f925f21f4",
+          "accountId": "712020:16506829-3e43-4324-812b-710f925f21f4",
           "avatarUrls": {
-            "48x48": "https://secure.gravatar.com/avatar/20f56106f26bf5669c2f46835ef78571?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDS-1.png",
-            "24x24": "https://secure.gravatar.com/avatar/20f56106f26bf5669c2f46835ef78571?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDS-1.png",
-            "16x16": "https://secure.gravatar.com/avatar/20f56106f26bf5669c2f46835ef78571?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDS-1.png",
-            "32x32": "https://secure.gravatar.com/avatar/20f56106f26bf5669c2f46835ef78571?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDS-1.png"
+            "48x48": "https://secure.gravatar.com/avatar/e49f43632a97524b80c338b9959e6780?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTG-2.png",
+            "24x24": "https://secure.gravatar.com/avatar/e49f43632a97524b80c338b9959e6780?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTG-2.png",
+            "16x16": "https://secure.gravatar.com/avatar/e49f43632a97524b80c338b9959e6780?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTG-2.png",
+            "32x32": "https://secure.gravatar.com/avatar/e49f43632a97524b80c338b9959e6780?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTG-2.png"
           },
-          "displayName": "Deepakshi saini",
+          "displayName": "tanumoy ghosh",
           "active": true,
           "timeZone": "Asia/Calcutta",
           "accountType": "atlassian"
@@ -1077,7 +1099,7 @@
           "name": "Medium",
           "id": "3"
         },
-        "updated": "2025-12-10T11:06:43.397+0530",
+        "updated": "2025-12-10T18:09:10.753+0530",
         "status": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10076",
           "description": "",
@@ -1103,6 +1125,7 @@
         "summary": "Design: Hire Quantity Estimators, Procurement & Surveyor PPC Page",
         "created": "2025-10-13T12:33:51.031+0530",
         "timespent": 39600,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A87014598-7fc2-4a58-bbc5-8ec01fc54856",
           "accountId": "712020:87014598-7fc2-4a58-bbc5-8ec01fc54856",
@@ -1149,6 +1172,7 @@
         "summary": "Development: Hire Outsourcing Business Process",
         "created": "2025-10-09T11:46:12.233+0530",
         "timespent": null,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A87014598-7fc2-4a58-bbc5-8ec01fc54856",
           "accountId": "712020:87014598-7fc2-4a58-bbc5-8ec01fc54856",
@@ -1195,6 +1219,7 @@
         "summary": "Design:  AI Agent PPC Page",
         "created": "2025-10-09T11:43:32.404+0530",
         "timespent": 28800,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A87014598-7fc2-4a58-bbc5-8ec01fc54856",
           "accountId": "712020:87014598-7fc2-4a58-bbc5-8ec01fc54856",
@@ -1241,6 +1266,7 @@
         "summary": "Design: Hire Software Developer Mobile Version PPC Page",
         "created": "2025-10-09T11:40:11.150+0530",
         "timespent": 14400,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A87014598-7fc2-4a58-bbc5-8ec01fc54856",
           "accountId": "712020:87014598-7fc2-4a58-bbc5-8ec01fc54856",
@@ -1326,6 +1352,7 @@
         },
         "created": "2025-09-16T20:03:57.398+0530",
         "timespent": null,
+        "duedate": "2025-09-17",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A87014598-7fc2-4a58-bbc5-8ec01fc54856",
           "accountId": "712020:87014598-7fc2-4a58-bbc5-8ec01fc54856",
@@ -1372,6 +1399,7 @@
         "summary": "Content: Hire Software Developer Mobile Version PPC Page",
         "created": "2025-09-16T18:48:01.361+0530",
         "timespent": 21600,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A87014598-7fc2-4a58-bbc5-8ec01fc54856",
           "accountId": "712020:87014598-7fc2-4a58-bbc5-8ec01fc54856",
@@ -1418,6 +1446,7 @@
         "summary": "Create: Hire Offshore Developer PPC Page (Mobile Version)",
         "created": "2025-09-16T18:38:56.891+0530",
         "timespent": null,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A87014598-7fc2-4a58-bbc5-8ec01fc54856",
           "accountId": "712020:87014598-7fc2-4a58-bbc5-8ec01fc54856",
@@ -1464,6 +1493,7 @@
         "summary": "Create: Hire Offshore Developer PPC Page",
         "created": "2025-09-16T18:35:04.484+0530",
         "timespent": null,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A87014598-7fc2-4a58-bbc5-8ec01fc54856",
           "accountId": "712020:87014598-7fc2-4a58-bbc5-8ec01fc54856",
@@ -1510,6 +1540,7 @@
         "summary": "Ad Copy Request - HVAC PPC page",
         "created": "2025-09-11T19:48:43.719+0530",
         "timespent": 18600,
+        "duedate": "2025-10-14",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A9d81cbd5-bff1-466b-8d31-4a2dd10b964e",
           "accountId": "712020:9d81cbd5-bff1-466b-8d31-4a2dd10b964e",
@@ -1556,6 +1587,7 @@
         "summary": "Requirement of Content of AI Development service in all LPs",
         "created": "2025-09-11T18:37:48.266+0530",
         "timespent": 36000,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A16506829-3e43-4324-812b-710f925f21f4",
           "accountId": "712020:16506829-3e43-4324-812b-710f925f21f4",
@@ -1641,6 +1673,7 @@
         },
         "created": "2025-09-10T13:36:25.009+0530",
         "timespent": 57600,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A7480f087-7269-4957-9e6d-ee85e73b09e2",
           "accountId": "712020:7480f087-7269-4957-9e6d-ee85e73b09e2",
@@ -1687,6 +1720,7 @@
         "summary": "Video: BPO PPC Page",
         "created": "2025-09-04T18:17:01.366+0530",
         "timespent": 10800,
+        "duedate": "2025-09-04",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ac44ad097-e9a1-497e-b0ea-7b115363695d",
           "accountId": "712020:c44ad097-e9a1-497e-b0ea-7b115363695d",
@@ -1733,6 +1767,7 @@
         "summary": "Design: Custom AI Development PPC Page",
         "created": "2025-09-04T17:23:36.317+0530",
         "timespent": 36000,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A87014598-7fc2-4a58-bbc5-8ec01fc54856",
           "accountId": "712020:87014598-7fc2-4a58-bbc5-8ec01fc54856",
@@ -1818,6 +1853,7 @@
         },
         "created": "2025-09-03T16:21:00.249+0530",
         "timespent": 3600,
+        "duedate": "2025-09-05",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A74ae95c3-5c9a-4ef0-b632-b97f4d713f48",
           "accountId": "712020:74ae95c3-5c9a-4ef0-b632-b97f4d713f48",
@@ -1864,6 +1900,7 @@
         "summary": "Content: Hire Virtual Employee Brand (Mobile) PPC page",
         "created": "2025-09-01T16:59:57.645+0530",
         "timespent": null,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=605aad190a9b6900719e7c99",
           "accountId": "605aad190a9b6900719e7c99",
@@ -1910,6 +1947,7 @@
         "summary": "Content: Hire Virtual Employee Brand PPC page",
         "created": "2025-09-01T16:54:52.404+0530",
         "timespent": null,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A87014598-7fc2-4a58-bbc5-8ec01fc54856",
           "accountId": "712020:87014598-7fc2-4a58-bbc5-8ec01fc54856",
@@ -1956,6 +1994,7 @@
         "summary": "Content: AI Agent PPC Page",
         "created": "2025-09-01T16:46:19.989+0530",
         "timespent": 32400,
+        "duedate": "2025-10-06",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A87014598-7fc2-4a58-bbc5-8ec01fc54856",
           "accountId": "712020:87014598-7fc2-4a58-bbc5-8ec01fc54856",
@@ -2002,6 +2041,7 @@
         "summary": "Development: Hire PPC Expert Mobile PPC Page",
         "created": "2025-08-29T11:19:56.713+0530",
         "timespent": 1500,
+        "duedate": "2025-09-04",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A87014598-7fc2-4a58-bbc5-8ec01fc54856",
           "accountId": "712020:87014598-7fc2-4a58-bbc5-8ec01fc54856",
@@ -2087,6 +2127,7 @@
         },
         "created": "2025-08-28T13:40:33.074+0530",
         "timespent": null,
+        "duedate": "2025-09-24",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A023a0dbc-d7f7-4d53-9905-9641e6759d36",
           "accountId": "712020:023a0dbc-d7f7-4d53-9905-9641e6759d36",
@@ -2133,6 +2174,7 @@
         "summary": "Development: Hire SEO Expert Mobile PPC Page",
         "created": "2025-08-26T13:25:42.869+0530",
         "timespent": 2700,
+        "duedate": "2025-09-01",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A87014598-7fc2-4a58-bbc5-8ec01fc54856",
           "accountId": "712020:87014598-7fc2-4a58-bbc5-8ec01fc54856",
@@ -2179,6 +2221,7 @@
         "summary": "Development: Hire Outsourced Accounting Services Mobile PPC Page",
         "created": "2025-08-22T17:11:20.835+0530",
         "timespent": 1800,
+        "duedate": "2025-08-27",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A87014598-7fc2-4a58-bbc5-8ec01fc54856",
           "accountId": "712020:87014598-7fc2-4a58-bbc5-8ec01fc54856",
@@ -2225,6 +2268,7 @@
         "summary": "Development: Hire Bookkeeping Expert Mobile version",
         "created": "2025-08-22T16:45:30.389+0530",
         "timespent": null,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A87014598-7fc2-4a58-bbc5-8ec01fc54856",
           "accountId": "712020:87014598-7fc2-4a58-bbc5-8ec01fc54856",
@@ -2271,6 +2315,7 @@
         "summary": "Content change: Outsource to India",
         "created": "2025-08-13T17:54:54.366+0530",
         "timespent": null,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A87014598-7fc2-4a58-bbc5-8ec01fc54856",
           "accountId": "712020:87014598-7fc2-4a58-bbc5-8ec01fc54856",
@@ -2317,6 +2362,7 @@
         "summary": "Content Change: Hire Virtual Assistant (Mobile Version)",
         "created": "2025-08-13T17:45:00.263+0530",
         "timespent": 4500,
+        "duedate": "2025-08-19",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A87014598-7fc2-4a58-bbc5-8ec01fc54856",
           "accountId": "712020:87014598-7fc2-4a58-bbc5-8ec01fc54856",
@@ -2363,6 +2409,7 @@
         "summary": "Content: Custom AI Development PPC Page",
         "created": "2025-08-13T17:22:33.273+0530",
         "timespent": 47700,
+        "duedate": "2025-09-03",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A87014598-7fc2-4a58-bbc5-8ec01fc54856",
           "accountId": "712020:87014598-7fc2-4a58-bbc5-8ec01fc54856",
@@ -2409,6 +2456,7 @@
         "summary": "BPO page discussion",
         "created": "2025-08-12T18:30:22.788+0530",
         "timespent": 3000,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A16506829-3e43-4324-812b-710f925f21f4",
           "accountId": "712020:16506829-3e43-4324-812b-710f925f21f4",
@@ -2494,6 +2542,7 @@
         },
         "created": "2025-08-08T13:34:53.327+0530",
         "timespent": 3600,
+        "duedate": "2025-08-12",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A9d81cbd5-bff1-466b-8d31-4a2dd10b964e",
           "accountId": "712020:9d81cbd5-bff1-466b-8d31-4a2dd10b964e",
@@ -2540,6 +2589,7 @@
         "summary": "Content: Outsource BPO PPC Page",
         "created": "2025-08-02T11:43:03.628+0530",
         "timespent": null,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A74ae95c3-5c9a-4ef0-b632-b97f4d713f48",
           "accountId": "712020:74ae95c3-5c9a-4ef0-b632-b97f4d713f48",

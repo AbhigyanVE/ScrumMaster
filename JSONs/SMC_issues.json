@@ -13,6 +13,7 @@
         "summary": "Teck valley Instagram page",
         "created": "2025-12-04T19:44:13.543+0530",
         "timespent": 9600,
+        "duedate": null,
         "assignee": null,
         "priority": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
@@ -46,6 +47,7 @@
         "summary": "Noida Diwali Mela Main Video",
         "created": "2025-10-28T12:43:26.642+0530",
         "timespent": 43200,
+        "duedate": "2025-10-21",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ac44ad097-e9a1-497e-b0ea-7b115363695d",
           "accountId": "712020:c44ad097-e9a1-497e-b0ea-7b115363695d",
@@ -92,6 +94,7 @@
         "summary": "Noida Diwali mela reel",
         "created": "2025-10-28T12:43:17.180+0530",
         "timespent": 10800,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ac44ad097-e9a1-497e-b0ea-7b115363695d",
           "accountId": "712020:c44ad097-e9a1-497e-b0ea-7b115363695d",
@@ -138,6 +141,7 @@
         "summary": "Kolkata Diwali Reel 1",
         "created": "2025-10-28T12:43:08.969+0530",
         "timespent": 10800,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ac44ad097-e9a1-497e-b0ea-7b115363695d",
           "accountId": "712020:c44ad097-e9a1-497e-b0ea-7b115363695d",
@@ -184,6 +188,7 @@
         "summary": "Kolkata Diwali Video  2",
         "created": "2025-10-28T12:43:01.474+0530",
         "timespent": 18000,
+        "duedate": "2025-10-30",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ac44ad097-e9a1-497e-b0ea-7b115363695d",
           "accountId": "712020:c44ad097-e9a1-497e-b0ea-7b115363695d",
@@ -230,6 +235,7 @@
         "summary": "VA Podcast Reel",
         "created": "2025-09-23T18:23:32.024+0530",
         "timespent": 21600,
+        "duedate": "2025-09-24",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ac44ad097-e9a1-497e-b0ea-7b115363695d",
           "accountId": "712020:c44ad097-e9a1-497e-b0ea-7b115363695d",
@@ -276,6 +282,7 @@
         "summary": "LinkedIn Paid Campaigns Analysis & Optimization (Continuous Task)",
         "created": "2025-09-18T10:36:28.790+0530",
         "timespent": null,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A90356e5f-e9a9-471c-8925-6308ea3063d0",
           "accountId": "712020:90356e5f-e9a9-471c-8925-6308ea3063d0",
@@ -322,6 +329,7 @@
         "summary": "Social Media Carousel - Future of Leadership",
         "created": "2025-09-18T10:25:24.195+0530",
         "timespent": null,
+        "duedate": "2025-09-15",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A90356e5f-e9a9-471c-8925-6308ea3063d0",
           "accountId": "712020:90356e5f-e9a9-471c-8925-6308ea3063d0",
@@ -368,6 +376,7 @@
         "summary": "Publishing Dimbl’s Founder & CEO Video on LinkedIn & Facebook ",
         "created": "2025-09-18T10:22:57.117+0530",
         "timespent": null,
+        "duedate": "2025-09-15",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A90356e5f-e9a9-471c-8925-6308ea3063d0",
           "accountId": "712020:90356e5f-e9a9-471c-8925-6308ea3063d0",
@@ -414,6 +423,7 @@
         "summary": "Creating a Complete guide on ChatGPT SEO 2025",
         "created": "2025-09-18T10:18:35.882+0530",
         "timespent": null,
+        "duedate": "2025-09-19",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A90356e5f-e9a9-471c-8925-6308ea3063d0",
           "accountId": "712020:90356e5f-e9a9-471c-8925-6308ea3063d0",
@@ -460,6 +470,7 @@
         "summary": "Publish LinkedIn Newsletter article ",
         "created": "2025-09-11T10:56:50.151+0530",
         "timespent": null,
+        "duedate": "2025-09-10",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A90356e5f-e9a9-471c-8925-6308ea3063d0",
           "accountId": "712020:90356e5f-e9a9-471c-8925-6308ea3063d0",
@@ -506,6 +517,7 @@
         "summary": "LinkedIn Newsletter article ",
         "created": "2025-09-11T10:53:24.314+0530",
         "timespent": null,
+        "duedate": "2025-09-10",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A90356e5f-e9a9-471c-8925-6308ea3063d0",
           "accountId": "712020:90356e5f-e9a9-471c-8925-6308ea3063d0",
@@ -552,6 +564,7 @@
         "summary": "YouTube Video Content – 5 Videos",
         "created": "2025-09-10T10:40:40.298+0530",
         "timespent": null,
+        "duedate": "2025-09-12",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A90356e5f-e9a9-471c-8925-6308ea3063d0",
           "accountId": "712020:90356e5f-e9a9-471c-8925-6308ea3063d0",
@@ -598,6 +611,7 @@
         "summary": "Reel 2 - Podcast CAM",
         "created": "2025-09-08T12:45:02.906+0530",
         "timespent": 12600,
+        "duedate": "2025-09-08",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ac44ad097-e9a1-497e-b0ea-7b115363695d",
           "accountId": "712020:c44ad097-e9a1-497e-b0ea-7b115363695d",
@@ -644,6 +658,7 @@
         "summary": "Posting on social media",
         "created": "2025-09-03T19:02:48.162+0530",
         "timespent": null,
+        "duedate": "2025-09-02",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A90356e5f-e9a9-471c-8925-6308ea3063d0",
           "accountId": "712020:90356e5f-e9a9-471c-8925-6308ea3063d0",
@@ -690,6 +705,7 @@
         "summary": "Sharing Meta bills with accounts team ",
         "created": "2025-09-03T18:58:34.949+0530",
         "timespent": null,
+        "duedate": "2025-09-03",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A90356e5f-e9a9-471c-8925-6308ea3063d0",
           "accountId": "712020:90356e5f-e9a9-471c-8925-6308ea3063d0",
@@ -736,6 +752,7 @@
         "summary": "Posting on social media ",
         "created": "2025-09-03T18:56:44.344+0530",
         "timespent": null,
+        "duedate": "2025-09-03",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A90356e5f-e9a9-471c-8925-6308ea3063d0",
           "accountId": "712020:90356e5f-e9a9-471c-8925-6308ea3063d0",
@@ -782,6 +799,7 @@
         "summary": "Ai Ad video - 20 seconds",
         "created": "2025-08-21T14:16:59.026+0530",
         "timespent": 25200,
+        "duedate": "2025-08-22",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ac44ad097-e9a1-497e-b0ea-7b115363695d",
           "accountId": "712020:c44ad097-e9a1-497e-b0ea-7b115363695d",
@@ -828,6 +846,7 @@
         "summary": "LinkedIn Engagement campaign",
         "created": "2025-08-21T12:47:23.557+0530",
         "timespent": 3600,
+        "duedate": "2025-08-21",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A90356e5f-e9a9-471c-8925-6308ea3063d0",
           "accountId": "712020:90356e5f-e9a9-471c-8925-6308ea3063d0",
@@ -874,6 +893,7 @@
         "summary": "Creating Content for 2 Social Media Posts",
         "created": "2025-08-21T12:44:17.503+0530",
         "timespent": 7200,
+        "duedate": "2025-08-20",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A90356e5f-e9a9-471c-8925-6308ea3063d0",
           "accountId": "712020:90356e5f-e9a9-471c-8925-6308ea3063d0",
@@ -920,6 +940,7 @@
         "summary": "Edit Social Media Reel on Best tools for business.",
         "created": "2025-08-21T12:30:29.913+0530",
         "timespent": 25200,
+        "duedate": "2025-08-26",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A90356e5f-e9a9-471c-8925-6308ea3063d0",
           "accountId": "712020:90356e5f-e9a9-471c-8925-6308ea3063d0",
@@ -966,6 +987,7 @@
         "summary": "CAM team podcast reel 1",
         "created": "2025-08-21T12:28:20.499+0530",
         "timespent": 9000,
+        "duedate": "2025-08-26",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ac44ad097-e9a1-497e-b0ea-7b115363695d",
           "accountId": "712020:c44ad097-e9a1-497e-b0ea-7b115363695d",
@@ -1012,6 +1034,7 @@
         "summary": "Uploading YouTube Podcast",
         "created": "2025-08-20T17:06:06.275+0530",
         "timespent": 9000,
+        "duedate": "2025-08-20",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A90356e5f-e9a9-471c-8925-6308ea3063d0",
           "accountId": "712020:90356e5f-e9a9-471c-8925-6308ea3063d0",
@@ -1058,6 +1081,7 @@
         "summary": "Social Media Video Publishing (Ongoing activities)",
         "created": "2025-08-19T11:07:49.067+0530",
         "timespent": 12600,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ab3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
           "accountId": "712020:b3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
@@ -1104,6 +1128,7 @@
         "summary": "Meeting with SM Team (regarding postings)",
         "created": "2025-08-14T13:33:26.529+0530",
         "timespent": 5400,
+        "duedate": "2025-08-29",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Afe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
           "accountId": "712020:fe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
@@ -1150,6 +1175,7 @@
         "summary": "Social Media Strategy call",
         "created": "2025-08-06T18:51:42.986+0530",
         "timespent": 6600,
+        "duedate": "2025-08-06",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ab3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
           "accountId": "712020:b3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
@@ -1196,6 +1222,7 @@
         "summary": "Instagram video post live ",
         "created": "2025-08-06T18:42:48.164+0530",
         "timespent": 900,
+        "duedate": "2025-08-06",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ab3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
           "accountId": "712020:b3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
@@ -1242,6 +1269,7 @@
         "summary": "Spending on Social Media Platforms",
         "created": "2025-08-05T17:29:03.537+0530",
         "timespent": null,
+        "duedate": null,
         "assignee": null,
         "priority": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
@@ -1275,6 +1303,7 @@
         "summary": "Posting on social media ",
         "created": "2025-08-04T23:01:35.907+0530",
         "timespent": 5400,
+        "duedate": "2025-08-01",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A90356e5f-e9a9-471c-8925-6308ea3063d0",
           "accountId": "712020:90356e5f-e9a9-471c-8925-6308ea3063d0",
@@ -1321,6 +1350,7 @@
         "summary": "VA Podcast Reel",
         "created": "2025-08-04T18:36:08.153+0530",
         "timespent": 7200,
+        "duedate": "2025-08-06",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A90356e5f-e9a9-471c-8925-6308ea3063d0",
           "accountId": "712020:90356e5f-e9a9-471c-8925-6308ea3063d0",
@@ -1367,6 +1397,7 @@
         "summary": "Liknedin Weekly report ",
         "created": "2025-08-04T12:38:56.312+0530",
         "timespent": 7200,
+        "duedate": "2025-08-03",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A90356e5f-e9a9-471c-8925-6308ea3063d0",
           "accountId": "712020:90356e5f-e9a9-471c-8925-6308ea3063d0",
@@ -1413,6 +1444,7 @@
         "summary": "Meeting regarding social media expert",
         "created": "2025-08-01T17:10:21.671+0530",
         "timespent": 1800,
+        "duedate": "2025-08-01",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3d0d1e55-ab61-4668-a46a-fc40721ae07a",
           "accountId": "712020:3d0d1e55-ab61-4668-a46a-fc40721ae07a",
@@ -1459,6 +1491,7 @@
         "summary": "Google my business (ongoing project)",
         "created": "2025-08-01T11:22:29.222+0530",
         "timespent": 70200,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ab3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
           "accountId": "712020:b3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
@@ -1505,6 +1538,7 @@
         "summary": "LinkedIn One Month Performance Report ",
         "created": "2025-07-31T12:54:15.349+0530",
         "timespent": 5400,
+        "duedate": "2025-07-31",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A90356e5f-e9a9-471c-8925-6308ea3063d0",
           "accountId": "712020:90356e5f-e9a9-471c-8925-6308ea3063d0",
@@ -1551,6 +1585,7 @@
         "summary": "YouTube thumbnail Design of the GO live video ",
         "created": "2025-07-31T11:45:55.739+0530",
         "timespent": 5400,
+        "duedate": "2025-07-30",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A90356e5f-e9a9-471c-8925-6308ea3063d0",
           "accountId": "712020:90356e5f-e9a9-471c-8925-6308ea3063d0",
@@ -1597,6 +1632,7 @@
         "summary": "Social Media Cover Design",
         "created": "2025-07-31T11:41:16.564+0530",
         "timespent": 14400,
+        "duedate": "2025-08-08",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A90356e5f-e9a9-471c-8925-6308ea3063d0",
           "accountId": "712020:90356e5f-e9a9-471c-8925-6308ea3063d0",
@@ -1643,6 +1679,7 @@
         "summary": "Posting on social media ",
         "created": "2025-07-31T11:33:00.475+0530",
         "timespent": 4800,
+        "duedate": "2025-07-30",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A90356e5f-e9a9-471c-8925-6308ea3063d0",
           "accountId": "712020:90356e5f-e9a9-471c-8925-6308ea3063d0",
@@ -1689,6 +1726,7 @@
         "summary": "Instagram Post Design – People at VE + virtualemployee_india",
         "created": "2025-07-30T18:54:04.381+0530",
         "timespent": 103740,
+        "duedate": "2025-08-12",
         "assignee": null,
         "priority": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/1",
@@ -1722,6 +1760,7 @@
         "summary": "Instagram Reel Ad – “Worried AI Will Take Your Job?",
         "created": "2025-07-30T18:38:38.819+0530",
         "timespent": 900,
+        "duedate": "2025-07-23",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ab3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
           "accountId": "712020:b3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
@@ -1768,6 +1807,7 @@
         "summary": "Carousal Post: “UK Hiring Reforms 2025”",
         "created": "2025-07-30T17:21:41.019+0530",
         "timespent": 5400,
+        "duedate": "2025-06-30",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ab3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
           "accountId": "712020:b3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
@@ -1814,6 +1854,7 @@
         "summary": "Post: “Instagram is Now Google-Searchable”",
         "created": "2025-07-30T17:18:27.854+0530",
         "timespent": 3000,
+        "duedate": "2025-07-09",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ab3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
           "accountId": "712020:b3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
@@ -1860,6 +1901,7 @@
         "summary": "Post: “Using AI is No Longer Optional” – Microsoft",
         "created": "2025-07-30T17:15:54.833+0530",
         "timespent": 3000,
+        "duedate": "2025-07-10",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ab3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
           "accountId": "712020:b3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
@@ -1906,6 +1948,7 @@
         "summary": "Created Instagram Content Post – LLM Era: Real Answers Over SEO",
         "created": "2025-07-30T17:01:18.873+0530",
         "timespent": 3300,
+        "duedate": "2025-07-16",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ab3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
           "accountId": "712020:b3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
@@ -1952,6 +1995,7 @@
         "summary": "Google’s AI Mode post creates using CANVA",
         "created": "2025-07-30T16:54:08.963+0530",
         "timespent": 2700,
+        "duedate": "2025-07-16",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ab3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
           "accountId": "712020:b3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
@@ -1998,6 +2042,7 @@
         "summary": "Instagram Reel Ad – Client Loyalty Story (Hurricane)",
         "created": "2025-07-30T16:36:25.800+0530",
         "timespent": 900,
+        "duedate": "2025-07-29",
         "assignee": null,
         "priority": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
@@ -2031,6 +2076,7 @@
         "summary": "Instagram Reel Ad – Everyone’s a Creator Now ",
         "created": "2025-07-30T16:26:24.111+0530",
         "timespent": 900,
+        "duedate": "2025-07-29",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ab3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
           "accountId": "712020:b3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
@@ -2077,6 +2123,7 @@
         "summary": "CAM Podcast - Raman Awasthy & Uddita Bhattacharya",
         "created": "2025-07-30T12:53:12.040+0530",
         "timespent": 46800,
+        "duedate": "2025-08-07",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ac44ad097-e9a1-497e-b0ea-7b115363695d",
           "accountId": "712020:c44ad097-e9a1-497e-b0ea-7b115363695d",
@@ -2123,6 +2170,7 @@
         "summary": "Glassdoor Profile Management (Ongoing project)",
         "created": "2025-07-29T17:14:11.516+0530",
         "timespent": 73800,
+        "duedate": "2025-07-11",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ab3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
           "accountId": "712020:b3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
@@ -2169,6 +2217,7 @@
         "summary": "Linkedin Post Engagement Campaign (Continuous Task)",
         "created": "2025-07-29T13:29:19.495+0530",
         "timespent": 10800,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A90356e5f-e9a9-471c-8925-6308ea3063d0",
           "accountId": "712020:90356e5f-e9a9-471c-8925-6308ea3063d0",
@@ -2215,6 +2264,7 @@
         "summary": "Linkedin Followers Campaign (Continuous Task)",
         "created": "2025-07-29T13:28:41.967+0530",
         "timespent": 5400,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A90356e5f-e9a9-471c-8925-6308ea3063d0",
           "accountId": "712020:90356e5f-e9a9-471c-8925-6308ea3063d0",

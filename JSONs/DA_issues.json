@@ -13,6 +13,7 @@
         "summary": "Data Requirement for Monthly Reports (Power Bi)",
         "created": "2025-08-01T12:00:22.393+0530",
         "timespent": null,
+        "duedate": null,
         "assignee": null,
         "priority": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
@@ -46,6 +47,7 @@
         "summary": "O2I service page url ppc lead details for Jun'25",
         "created": "2025-07-09T13:06:54.930+0530",
         "timespent": null,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ac582aaec-f7e7-45a0-8737-08d953fcbef7",
           "accountId": "712020:c582aaec-f7e7-45a0-8737-08d953fcbef7",
@@ -92,6 +94,7 @@
         "summary": "AB Test Data",
         "created": "2025-07-08T12:07:41.109+0530",
         "timespent": null,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=628b7d1aab91fe0070973fa6",
           "accountId": "628b7d1aab91fe0070973fa6",
@@ -138,6 +141,7 @@
         "summary": "Jun'25 month device wise data of each campaign",
         "created": "2025-07-04T18:16:15.816+0530",
         "timespent": null,
+        "duedate": "2025-07-07",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ac582aaec-f7e7-45a0-8737-08d953fcbef7",
           "accountId": "712020:c582aaec-f7e7-45a0-8737-08d953fcbef7",
@@ -184,6 +188,7 @@
         "summary": "Requirement of Power Bi Data",
         "created": "2025-07-03T19:27:18.065+0530",
         "timespent": null,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ac582aaec-f7e7-45a0-8737-08d953fcbef7",
           "accountId": "712020:c582aaec-f7e7-45a0-8737-08d953fcbef7",
@@ -230,6 +235,7 @@
         "summary": "ad hock",
         "created": "2025-07-03T18:15:32.219+0530",
         "timespent": null,
+        "duedate": "2025-07-02",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ac582aaec-f7e7-45a0-8737-08d953fcbef7",
           "accountId": "712020:c582aaec-f7e7-45a0-8737-08d953fcbef7",
@@ -276,6 +282,7 @@
         "summary": "Ad hock Task",
         "created": "2025-07-03T17:49:34.656+0530",
         "timespent": null,
+        "duedate": "2025-07-03",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=628b7d1aab91fe0070973fa6",
           "accountId": "628b7d1aab91fe0070973fa6",
@@ -322,6 +329,7 @@
         "summary": "Ad Hoc Tasks",
         "created": "2025-06-27T16:11:40.067+0530",
         "timespent": null,
+        "duedate": "2025-07-02",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ac582aaec-f7e7-45a0-8737-08d953fcbef7",
           "accountId": "712020:c582aaec-f7e7-45a0-8737-08d953fcbef7",
@@ -368,6 +376,7 @@
         "summary": "Power BI",
         "created": "2025-06-27T16:10:46.577+0530",
         "timespent": null,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ac582aaec-f7e7-45a0-8737-08d953fcbef7",
           "accountId": "712020:c582aaec-f7e7-45a0-8737-08d953fcbef7",

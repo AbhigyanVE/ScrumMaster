@@ -1,8 +1,0 @@
-[
-  {
-    "timestamp": "2025-12-10T19:52:08.516732",
-    "query": "which team members are in this project",
-    "response": "Here is a list of team members currently assigned to the project with the key 'AEOW':\n\n- Mohit Kumar\n- Praveen Soni\n- Sonia\n- Unassigned\n\nSummary:\nThere are currently three team members assigned to the project, with one issue marked as unassigned. It is important to ensure that all tasks have an assigned owner to maintain accountability and clear distribution of work.",
-    "sql_query": "SELECT DISTINCT assignee \nFROM issues \nWHERE project_key = 'AEOW';"
-  }
-]

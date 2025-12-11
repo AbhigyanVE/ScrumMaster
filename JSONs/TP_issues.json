@@ -52,6 +52,7 @@
         },
         "created": "2025-12-02T12:28:48.981+0530",
         "timespent": null,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=605aad190a9b6900719e7c99",
           "accountId": "605aad190a9b6900719e7c99",
@@ -98,6 +99,7 @@
         "summary": "Success Story -- David Barsegyan -- Currency Capital",
         "created": "2025-12-02T12:23:25.701+0530",
         "timespent": 10800,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=605aad190a9b6900719e7c99",
           "accountId": "605aad190a9b6900719e7c99",
@@ -144,6 +146,7 @@
         "summary": "Success Story -- Jeno Berta -- Berta Law Firm",
         "created": "2025-12-01T12:41:40.984+0530",
         "timespent": 10800,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=5f5b452d0b6be2006e056f42",
           "accountId": "5f5b452d0b6be2006e056f42",
@@ -229,6 +232,7 @@
         },
         "created": "2025-11-25T17:14:28.221+0530",
         "timespent": null,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=605aad190a9b6900719e7c99",
           "accountId": "605aad190a9b6900719e7c99",
@@ -275,6 +279,7 @@
         "summary": "Success Story -- Eric Wolters -- The Housesitting Company",
         "created": "2025-11-25T17:13:10.425+0530",
         "timespent": 12600,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=5f5b452d0b6be2006e056f42",
           "accountId": "5f5b452d0b6be2006e056f42",
@@ -360,6 +365,7 @@
         },
         "created": "2025-11-24T18:39:33.949+0530",
         "timespent": null,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=605aad190a9b6900719e7c99",
           "accountId": "605aad190a9b6900719e7c99",
@@ -406,6 +412,7 @@
         "summary": "Success Story -- Verneka Strom -- Lilly's on the Lake",
         "created": "2025-11-24T18:38:27.716+0530",
         "timespent": 12600,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=5f5b452d0b6be2006e056f42",
           "accountId": "5f5b452d0b6be2006e056f42",
@@ -452,6 +459,7 @@
         "summary": "Success Story - Nutri-Genetix Ltd. (Hugo Jones)",
         "created": "2025-11-04T17:22:56.908+0530",
         "timespent": 7200,
+        "duedate": "2025-11-28",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A16506829-3e43-4324-812b-710f925f21f4",
           "accountId": "712020:16506829-3e43-4324-812b-710f925f21f4",
@@ -498,6 +506,7 @@
         "summary": "Success Story - GPOPlus+",
         "created": "2025-11-03T15:02:35.812+0530",
         "timespent": null,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A16506829-3e43-4324-812b-710f925f21f4",
           "accountId": "712020:16506829-3e43-4324-812b-710f925f21f4",
@@ -544,6 +553,7 @@
         "summary": "Success Stories - Final Review (GoMommy USA)",
         "created": "2025-10-31T12:15:21.711+0530",
         "timespent": null,
+        "duedate": "2025-10-31",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A9118629a-f338-4a5a-9762-4244c0a608a8",
           "accountId": "712020:9118629a-f338-4a5a-9762-4244c0a608a8",
@@ -590,6 +600,7 @@
         "summary": "Success Stories - Final Review (Codex Media Inc.)",
         "created": "2025-10-31T12:13:14.851+0530",
         "timespent": null,
+        "duedate": "2025-10-31",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A9118629a-f338-4a5a-9762-4244c0a608a8",
           "accountId": "712020:9118629a-f338-4a5a-9762-4244c0a608a8",
@@ -636,6 +647,7 @@
         "summary": "Success Stories - Final Review (Välkommen Guide AB)",
         "created": "2025-10-31T12:11:15.498+0530",
         "timespent": null,
+        "duedate": "2025-10-31",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A9118629a-f338-4a5a-9762-4244c0a608a8",
           "accountId": "712020:9118629a-f338-4a5a-9762-4244c0a608a8",
@@ -682,6 +694,7 @@
         "summary": "Success Stories - Final Review (SKB Group)",
         "created": "2025-10-31T12:09:56.452+0530",
         "timespent": null,
+        "duedate": "2025-10-31",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A9118629a-f338-4a5a-9762-4244c0a608a8",
           "accountId": "712020:9118629a-f338-4a5a-9762-4244c0a608a8",
@@ -728,6 +741,7 @@
         "summary": "Success Stories - Final Review (MrLeopard Media Pvt. Ltd.)",
         "created": "2025-10-31T11:12:46.167+0530",
         "timespent": null,
+        "duedate": "2025-10-31",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A9118629a-f338-4a5a-9762-4244c0a608a8",
           "accountId": "712020:9118629a-f338-4a5a-9762-4244c0a608a8",
@@ -774,6 +788,7 @@
         "summary": "Success Stories - Circuit Mind",
         "created": "2025-10-30T16:43:24.387+0530",
         "timespent": null,
+        "duedate": "2025-10-31",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A16506829-3e43-4324-812b-710f925f21f4",
           "accountId": "712020:16506829-3e43-4324-812b-710f925f21f4",
@@ -820,6 +835,7 @@
         "summary": "Success Story - Priva",
         "created": "2025-10-16T11:51:40.129+0530",
         "timespent": 14400,
+        "duedate": "2025-11-28",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A9118629a-f338-4a5a-9762-4244c0a608a8",
           "accountId": "712020:9118629a-f338-4a5a-9762-4244c0a608a8",
@@ -866,6 +882,7 @@
         "summary": "Success Story - GoMommy USA LLC",
         "created": "2025-10-16T11:51:09.830+0530",
         "timespent": 10800,
+        "duedate": "2025-10-27",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A9118629a-f338-4a5a-9762-4244c0a608a8",
           "accountId": "712020:9118629a-f338-4a5a-9762-4244c0a608a8",
@@ -912,6 +929,7 @@
         "summary": "Success Story - Nightline Group (A subsidiary of UPS)",
         "created": "2025-10-16T11:50:29.096+0530",
         "timespent": 12600,
+        "duedate": "2025-11-12",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A9118629a-f338-4a5a-9762-4244c0a608a8",
           "accountId": "712020:9118629a-f338-4a5a-9762-4244c0a608a8",
@@ -997,6 +1015,7 @@
         },
         "created": "2025-10-15T16:18:00.184+0530",
         "timespent": 50400,
+        "duedate": "2025-10-30",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Aa8b16dd6-d07f-4169-8312-8193e9ca3955",
           "accountId": "712020:a8b16dd6-d07f-4169-8312-8193e9ca3955",
@@ -1043,6 +1062,7 @@
         "summary": "Success Stories - Joan Brown_Hoppa UK Limited",
         "created": "2025-10-15T16:17:07.069+0530",
         "timespent": null,
+        "duedate": "2025-10-30",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Aa8b16dd6-d07f-4169-8312-8193e9ca3955",
           "accountId": "712020:a8b16dd6-d07f-4169-8312-8193e9ca3955",
@@ -1089,6 +1109,7 @@
         "summary": "Testimonials - Videos Uploading (2017)",
         "created": "2025-10-08T14:43:42.491+0530",
         "timespent": 10800,
+        "duedate": "2025-10-08",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A9118629a-f338-4a5a-9762-4244c0a608a8",
           "accountId": "712020:9118629a-f338-4a5a-9762-4244c0a608a8",
@@ -1135,6 +1156,7 @@
         "summary": "Success Story - Contax Production Automation Ltd.",
         "created": "2025-10-07T15:36:15.264+0530",
         "timespent": 12600,
+        "duedate": "2025-11-28",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A16506829-3e43-4324-812b-710f925f21f4",
           "accountId": "712020:16506829-3e43-4324-812b-710f925f21f4",
@@ -1181,6 +1203,7 @@
         "summary": "Success Story - Transpond (MPZmail)",
         "created": "2025-10-07T15:35:50.747+0530",
         "timespent": 7200,
+        "duedate": "2025-10-16",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A9118629a-f338-4a5a-9762-4244c0a608a8",
           "accountId": "712020:9118629a-f338-4a5a-9762-4244c0a608a8",
@@ -1227,6 +1250,7 @@
         "summary": "Success Story - Scapes Designs",
         "created": "2025-10-07T15:35:27.431+0530",
         "timespent": 3600,
+        "duedate": "2025-10-21",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A9118629a-f338-4a5a-9762-4244c0a608a8",
           "accountId": "712020:9118629a-f338-4a5a-9762-4244c0a608a8",
@@ -1273,6 +1297,7 @@
         "summary": "Testimonials - Videos Uploading (2018)",
         "created": "2025-10-07T14:15:42.191+0530",
         "timespent": 7200,
+        "duedate": "2025-10-07",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=628b7d1aab91fe0070973fa6",
           "accountId": "628b7d1aab91fe0070973fa6",
@@ -1319,6 +1344,7 @@
         "summary": "Testimonials - Quotes + Uploading (2020-2021)",
         "created": "2025-09-26T14:38:31.739+0530",
         "timespent": 10800,
+        "duedate": "2025-09-26",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=628b7d1aab91fe0070973fa6",
           "accountId": "628b7d1aab91fe0070973fa6",
@@ -1365,6 +1391,7 @@
         "summary": "Testimonials - Quotes + Uploading (2021)",
         "created": "2025-09-25T20:26:47.248+0530",
         "timespent": 10800,
+        "duedate": "2025-09-25",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=628b7d1aab91fe0070973fa6",
           "accountId": "628b7d1aab91fe0070973fa6",
@@ -1411,6 +1438,7 @@
         "summary": "Testimonials - Quotes + Uploading (2021)",
         "created": "2025-09-24T19:27:25.389+0530",
         "timespent": 10800,
+        "duedate": "2025-09-24",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=628b7d1aab91fe0070973fa6",
           "accountId": "628b7d1aab91fe0070973fa6",
@@ -1457,6 +1485,7 @@
         "summary": "Testimonials -- Writing Quotes & Uploading Them",
         "created": "2025-09-23T10:26:46.269+0530",
         "timespent": 21600,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=5f5b452d0b6be2006e056f42",
           "accountId": "5f5b452d0b6be2006e056f42",
@@ -1503,6 +1532,7 @@
         "summary": "Testimonials - Quotes Uploading (2022 -2024)",
         "created": "2025-09-19T19:27:27.510+0530",
         "timespent": 9000,
+        "duedate": "2025-09-19",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=628b7d1aab91fe0070973fa6",
           "accountId": "628b7d1aab91fe0070973fa6",
@@ -1549,6 +1579,7 @@
         "summary": "Testimonials - Quotes (2022 -2024)",
         "created": "2025-09-17T18:43:59.819+0530",
         "timespent": 10800,
+        "duedate": "2025-09-17",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=628b7d1aab91fe0070973fa6",
           "accountId": "628b7d1aab91fe0070973fa6",
@@ -1634,6 +1665,7 @@
         },
         "created": "2025-09-08T16:09:40.650+0530",
         "timespent": 16200,
+        "duedate": "2025-10-30",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Aa8b16dd6-d07f-4169-8312-8193e9ca3955",
           "accountId": "712020:a8b16dd6-d07f-4169-8312-8193e9ca3955",
@@ -1680,6 +1712,7 @@
         "summary": "Testimonial Page - Bill Janes_Workforcemaps",
         "created": "2025-09-08T16:08:25.008+0530",
         "timespent": 39600,
+        "duedate": "2025-10-30",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Aa8b16dd6-d07f-4169-8312-8193e9ca3955",
           "accountId": "712020:a8b16dd6-d07f-4169-8312-8193e9ca3955",
@@ -1726,6 +1759,7 @@
         "summary": "Testimonial Page_Steve Sugden",
         "created": "2025-09-05T12:05:45.311+0530",
         "timespent": 6060,
+        "duedate": "2025-09-08",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A16506829-3e43-4324-812b-710f925f21f4",
           "accountId": "712020:16506829-3e43-4324-812b-710f925f21f4",
@@ -1811,6 +1845,7 @@
         },
         "created": "2025-09-04T19:17:19.629+0530",
         "timespent": null,
+        "duedate": "2025-09-05",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=5f5b452d0b6be2006e056f42",
           "accountId": "5f5b452d0b6be2006e056f42",
@@ -1857,6 +1892,7 @@
         "summary": "Success Story -- Howlett Farms",
         "created": "2025-09-04T19:16:13.473+0530",
         "timespent": 7200,
+        "duedate": "2025-09-05",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=5f5b452d0b6be2006e056f42",
           "accountId": "5f5b452d0b6be2006e056f42",
@@ -1903,6 +1939,7 @@
         "summary": "Uploading & Editing Client Testimonials on VE Website's Backend",
         "created": "2025-09-04T16:31:50.491+0530",
         "timespent": 21600,
+        "duedate": "2025-09-03",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Aa8b16dd6-d07f-4169-8312-8193e9ca3955",
           "accountId": "712020:a8b16dd6-d07f-4169-8312-8193e9ca3955",
@@ -1949,6 +1986,7 @@
         "summary": "Testimonial Editing & Uploading",
         "created": "2025-09-04T16:27:55.181+0530",
         "timespent": 21600,
+        "duedate": "2025-09-03",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=5f5b452d0b6be2006e056f42",
           "accountId": "5f5b452d0b6be2006e056f42",
@@ -2034,6 +2072,7 @@
         },
         "created": "2025-09-04T16:13:29.524+0530",
         "timespent": null,
+        "duedate": "2025-10-31",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=5f5b452d0b6be2006e056f42",
           "accountId": "5f5b452d0b6be2006e056f42",
@@ -2080,6 +2119,7 @@
         "summary": "Success Story -- 6 DIMENSIONS",
         "created": "2025-09-04T16:12:35.599+0530",
         "timespent": 32400,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=5f5b452d0b6be2006e056f42",
           "accountId": "5f5b452d0b6be2006e056f42",
@@ -2126,6 +2166,7 @@
         "summary": "Success Stories - Codex Media",
         "created": "2025-09-04T13:20:49.689+0530",
         "timespent": 9600,
+        "duedate": "2025-09-26",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A16506829-3e43-4324-812b-710f925f21f4",
           "accountId": "712020:16506829-3e43-4324-812b-710f925f21f4",
@@ -2172,6 +2213,7 @@
         "summary": "Success Stories - MrLeopard Media Pvt. Ltd.",
         "created": "2025-09-04T13:19:25.675+0530",
         "timespent": 1500,
+        "duedate": "2025-09-10",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A16506829-3e43-4324-812b-710f925f21f4",
           "accountId": "712020:16506829-3e43-4324-812b-710f925f21f4",
@@ -2218,6 +2260,7 @@
         "summary": "Success Stories - SKB Group",
         "created": "2025-09-04T13:12:46.147+0530",
         "timespent": 12600,
+        "duedate": "2025-09-11",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A16506829-3e43-4324-812b-710f925f21f4",
           "accountId": "712020:16506829-3e43-4324-812b-710f925f21f4",
@@ -2264,6 +2307,7 @@
         "summary": "Shaun's Video Feedback - Testimonial Project",
         "created": "2025-09-02T19:43:13.230+0530",
         "timespent": 5400,
+        "duedate": "2025-09-02",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A9118629a-f338-4a5a-9762-4244c0a608a8",
           "accountId": "712020:9118629a-f338-4a5a-9762-4244c0a608a8",
@@ -2349,6 +2393,7 @@
         },
         "created": "2025-09-02T17:27:11.284+0530",
         "timespent": 14400,
+        "duedate": "2025-10-30",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Aa8b16dd6-d07f-4169-8312-8193e9ca3955",
           "accountId": "712020:a8b16dd6-d07f-4169-8312-8193e9ca3955",
@@ -2395,6 +2440,7 @@
         "summary": "Testimonial Pages - Markus Schaefer_Mein Solar GmbH",
         "created": "2025-09-02T17:26:19.856+0530",
         "timespent": 28800,
+        "duedate": "2025-10-30",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Aa8b16dd6-d07f-4169-8312-8193e9ca3955",
           "accountId": "712020:a8b16dd6-d07f-4169-8312-8193e9ca3955",
@@ -2480,6 +2526,7 @@
         },
         "created": "2025-08-29T12:48:39.792+0530",
         "timespent": null,
+        "duedate": "2025-09-26",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A16506829-3e43-4324-812b-710f925f21f4",
           "accountId": "712020:16506829-3e43-4324-812b-710f925f21f4",
@@ -2526,6 +2573,7 @@
         "summary": "Testimonial Page - Nick Arietta_Weekndz LLC",
         "created": "2025-08-29T12:47:28.339+0530",
         "timespent": 28800,
+        "duedate": "2025-09-26",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Aa8b16dd6-d07f-4169-8312-8193e9ca3955",
           "accountId": "712020:a8b16dd6-d07f-4169-8312-8193e9ca3955",
@@ -2611,6 +2659,7 @@
         },
         "created": "2025-08-28T18:54:36.129+0530",
         "timespent": null,
+        "duedate": "2025-10-30",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=5f5b452d0b6be2006e056f42",
           "accountId": "5f5b452d0b6be2006e056f42",
@@ -2657,6 +2706,7 @@
         "summary": "Success Story -- The TEFL Academy",
         "created": "2025-08-28T18:54:08.262+0530",
         "timespent": 27000,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=5f5b452d0b6be2006e056f42",
           "accountId": "5f5b452d0b6be2006e056f42",

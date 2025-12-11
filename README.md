@@ -107,7 +107,7 @@ Then open the local URL shown in your browser (usually http://localhost:8501).
     * `Context/context_<session_id>.json`
 - Only the last 5 interactions are preserved.
 - Saying *“bye”*, *“goodbye”*, etc. clears:
-    * Context files
+    * Context files     *(only deletes the JSON file, Refer to Notes Section)*
     * Chat history
     * Session memory    *(presently facing some issues, refere to Notes Section)*
 
@@ -115,15 +115,20 @@ Then open the local URL shown in your browser (usually http://localhost:8501).
 
 <br>
 
-## CURRENTLY IN DEVELOPMENT PHASE
+## Notes
+### CURRENTLY IN DEVELOPMENT PHASE
 
 1. If any change in LLM Response is to be found, <br> 
     *For Example:* In the previous versions, when it was asked about the *"Health of a Project"*, the response was there, but now, when the same question was being asked, then it gives an `ERROR`. <br>
-    For these kind of **DISCREPANCIES** please check the **IMPORTANT RULES** section of the LLM present in `app.py` *(present in lines 557 in v3.1)*
+    For these kind of **DISCREPANCIES** please check the **IMPORTANT RULES** section of the LLM present in `app.py` *(present in lines 563 in v3.1.1)*
 2. The Response is **LIMITED**  to 600 tokens, to increase tokens *(change `max_tokens=600` to `max_tokens=1000` in `app.py`)*
 3. The logo of **NM Agent** present in the Sidebar of Streamlit cannot be fixed, it will scroll *(Streamlit Limitation)*
-4. **CURRENT BUG**:<br> 
-   When any farewell message is sent as query, then in the frontend, the chat does get cleared, also the context json is also cleared but The LLM might be extracting context from the display buffer. This is yet to be implemented correctly.
-5. The context count issue is fixed as of now.
-6. **TO DO:**<br>
+4. The context count issue is fixed as of now.
+5. Till v3.1, the deadline for an issue was not present in the database as it was not being extracted from jira. From v3.1.1 onwards, its fixed *(added `duedate` in line 22 of `extract_data.py`)*
+
+### CURRENT BUGS *(Identified)*
+6. *When any farewell message is sent as query, then in the frontend, the chat does get cleared, also the context json is also cleared but The LLM context cannot be cleared, hence, **THE CONTEXT IS NOT TRULY CLEARED**
+6.1. This bug seems to be resolved in v3.1.1 but still needs a thorough check. *(Check assets/ContextNotes.png)*
+
+7. **TO DO:**<br>
    Implement the function that when the bot is asked for how much time this issue is supposed to take, the chabot can answer it and also refer to the actual given deadline.

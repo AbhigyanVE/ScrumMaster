@@ -52,6 +52,7 @@
         },
         "created": "2025-09-12T19:12:11.463+0530",
         "timespent": null,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A7480f087-7269-4957-9e6d-ee85e73b09e2",
           "accountId": "712020:7480f087-7269-4957-9e6d-ee85e73b09e2",
@@ -137,6 +138,7 @@
         },
         "created": "2025-09-12T19:09:01.607+0530",
         "timespent": null,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A7480f087-7269-4957-9e6d-ee85e73b09e2",
           "accountId": "712020:7480f087-7269-4957-9e6d-ee85e73b09e2",
@@ -222,6 +224,7 @@
         },
         "created": "2025-09-12T19:05:55.181+0530",
         "timespent": null,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A7480f087-7269-4957-9e6d-ee85e73b09e2",
           "accountId": "712020:7480f087-7269-4957-9e6d-ee85e73b09e2",
@@ -307,6 +310,7 @@
         },
         "created": "2025-09-04T18:04:46.426+0530",
         "timespent": null,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A7480f087-7269-4957-9e6d-ee85e73b09e2",
           "accountId": "712020:7480f087-7269-4957-9e6d-ee85e73b09e2",
@@ -392,6 +396,7 @@
         },
         "created": "2025-08-27T20:18:08.851+0530",
         "timespent": 50400,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A7480f087-7269-4957-9e6d-ee85e73b09e2",
           "accountId": "712020:7480f087-7269-4957-9e6d-ee85e73b09e2",
@@ -438,6 +443,7 @@
         "summary": "AI@VE-Hire Big Data Engineers SEO Page",
         "created": "2025-06-19T19:02:40.465+0530",
         "timespent": null,
+        "duedate": "2025-06-16",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A41435bf1-7a46-4918-82dc-ba80eec20553",
           "accountId": "712020:41435bf1-7a46-4918-82dc-ba80eec20553",
@@ -484,6 +490,7 @@
         "summary": "Machine Learning Developers - SEO Page",
         "created": "2025-06-19T18:55:53.958+0530",
         "timespent": null,
+        "duedate": null,
         "assignee": null,
         "priority": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
@@ -517,6 +524,7 @@
         "summary": "Data Scientists - SEO Page",
         "created": "2025-06-19T18:55:30.005+0530",
         "timespent": null,
+        "duedate": null,
         "assignee": null,
         "priority": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
@@ -550,6 +558,7 @@
         "summary": "AI@VE-Hire Artificial Intelligence Developers SEO Page",
         "created": "2025-06-19T18:55:14.224+0530",
         "timespent": null,
+        "duedate": "2025-06-18",
         "assignee": null,
         "priority": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/2",
@@ -583,6 +592,7 @@
         "summary": "AI@VE-Hire Chatbots Developers SEO Page",
         "created": "2025-06-19T18:54:41.454+0530",
         "timespent": null,
+        "duedate": "2025-06-19",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A41435bf1-7a46-4918-82dc-ba80eec20553",
           "accountId": "712020:41435bf1-7a46-4918-82dc-ba80eec20553",
@@ -629,6 +639,7 @@
         "summary": "AI@VE-Hire Computer Vision Developers in India-Implement Feedback",
         "created": "2025-06-19T18:48:54.961+0530",
         "timespent": null,
+        "duedate": "2025-06-24",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A41435bf1-7a46-4918-82dc-ba80eec20553",
           "accountId": "712020:41435bf1-7a46-4918-82dc-ba80eec20553",
@@ -675,6 +686,7 @@
         "summary": "Content: AI@VE-Hire AI Marketing Experts SEO Page",
         "created": "2025-06-19T15:11:39.699+0530",
         "timespent": null,
+        "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=5f5b452d0b6be2006e056f42",
           "accountId": "5f5b452d0b6be2006e056f42",
@@ -721,6 +733,7 @@
         "summary": "AI@VE",
         "created": "2025-06-16T17:53:36.643+0530",
         "timespent": 100800,
+        "duedate": "2025-08-22",
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A7480f087-7269-4957-9e6d-ee85e73b09e2",
           "accountId": "712020:7480f087-7269-4957-9e6d-ee85e73b09e2",
@@ -767,6 +780,7 @@
         "summary": "Cheat Sheets - AI Domain",
         "created": "2025-05-30T13:51:33.229+0530",
         "timespent": null,
+        "duedate": null,
         "assignee": null,
         "priority": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
@@ -800,6 +814,7 @@
         "summary": "Infographics - AI Domain",
         "created": "2025-05-30T13:51:13.267+0530",
         "timespent": null,
+        "duedate": null,
         "assignee": null,
         "priority": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
@@ -833,6 +848,7 @@
         "summary": "Brochures - AI Domain",
         "created": "2025-05-30T13:51:04.380+0530",
         "timespent": null,
+        "duedate": null,
         "assignee": null,
         "priority": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
@@ -866,6 +882,7 @@
         "summary": "Service Pages - AI Domain",
         "created": "2025-05-30T13:50:35.289+0530",
         "timespent": null,
+        "duedate": null,
         "assignee": null,
         "priority": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
@@ -899,6 +916,7 @@
         "summary": "Articles/Blogs-AI Domain",
         "created": "2025-05-30T13:50:05.494+0530",
         "timespent": null,
+        "duedate": null,
         "assignee": null,
         "priority": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
@@ -932,6 +950,7 @@
         "summary": "Videos - AI Domain",
         "created": "2025-05-30T13:49:33.469+0530",
         "timespent": null,
+        "duedate": null,
         "assignee": null,
         "priority": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
