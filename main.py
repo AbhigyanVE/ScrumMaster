@@ -12,7 +12,7 @@ from functools import wraps
 # === CONFIGURATION ===
 # Time interval for the data refresh cycle (in seconds)
 # 12 hours = 12 * 60 * 60 = 43200 seconds
-REFRESH_INTERVAL_SECONDS = 120  # Set to 12 hours
+REFRESH_INTERVAL_SECONDS = 600  # Set to 10 mins
 # Use a shorter interval for initial testing (e.g., 60 seconds)
 # REFRESH_INTERVAL_SECONDS = 60 
 
