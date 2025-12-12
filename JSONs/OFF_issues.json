@@ -12,7 +12,7 @@
       "fields": {
         "summary": "Reddit & Quora",
         "created": "2025-12-08T18:38:06.811+0530",
-        "timespent": 22800,
+        "timespent": 44400,
         "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Afe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
@@ -34,7 +34,7 @@
           "name": "Medium",
           "id": "3"
         },
-        "updated": "2025-12-10T19:34:24.474+0530",
+        "updated": "2025-12-11T18:59:15.761+0530",
         "status": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10028",
           "description": "",

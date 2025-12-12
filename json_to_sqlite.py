@@ -1,7 +1,7 @@
 import sqlite3
 import json
 import os
-from datetime import datetime
+from datetime import datetime, timedelta
 
 # === CONFIGURATION ===
 JSON_FOLDER = "JSONs"  # Your folder with JSON files
@@ -43,7 +43,7 @@ def create_database():
     """)
     
     conn.commit()
-    print("✓ Database created successfully!")
+    print("[OK] Database created successfully!")
     return conn
 
 def parse_datetime(date_string):
@@ -124,10 +124,10 @@ def insert_project_data(conn, json_folder):
             
             conn.commit()
             total_issues_imported += issues_imported
-            print(f"  ✓ Imported {project_key}: {issues_imported} issues")
+            print(f"  [OK] Imported {project_key}: {issues_imported} issues")
             
         except Exception as e:
-            print(f"  ✗ Error importing {json_file}: {e}")
+            print(f"  [ER] Error importing {json_file}: {e}")
             continue
     
     print(f"\n=== Import Complete ===")
@@ -191,5 +191,5 @@ if __name__ == "__main__":
     # Close connection
     conn.close()
     
-    print("\n✓ Done! You can now use 'jira_data.db' with your chatbot.")
+    print("\n[OK] Done! You can now use 'jira_data.db' with your chatbot.")
     print(f"  Database location: {os.path.abspath(DATABASE_NAME)}")

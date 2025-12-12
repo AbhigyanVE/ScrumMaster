@@ -96,6 +96,13 @@ run_query(
     f"Efficiency metrics for {assignee_name}"
 )
 
+# Quesry 7: Test Query
+run_query(
+    f"""
+    SELECT DISTINCT assignee FROM issues WHERE project_key = 'CRO'
+    """
+)
+
 print("\n" + "="*60)
 print("Test complete! Database is working.")
 print("="*60)

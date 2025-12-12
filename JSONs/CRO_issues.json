@@ -6,6 +6,53 @@
   "issues": [
     {
       "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "14582",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14582",
+      "key": "CRO-116",
+      "fields": {
+        "summary": "case studies updation ",
+        "created": "2025-12-11T20:51:08.802+0530",
+        "timespent": 7200,
+        "duedate": null,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
+          "accountId": "712020:3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/0d95ffae99216804599d824a071e83d2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHJ-6.png",
+            "24x24": "https://secure.gravatar.com/avatar/0d95ffae99216804599d824a071e83d2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHJ-6.png",
+            "16x16": "https://secure.gravatar.com/avatar/0d95ffae99216804599d824a071e83d2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHJ-6.png",
+            "32x32": "https://secure.gravatar.com/avatar/0d95ffae99216804599d824a071e83d2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHJ-6.png"
+          },
+          "displayName": "harshit jain",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "updated": "2025-12-11T20:53:02.204+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10798",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "To Do",
+          "id": "10798",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
+            "id": 2,
+            "key": "new",
+            "colorName": "blue-gray",
+            "name": "To Do"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
       "id": "14575",
       "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14575",
       "key": "CRO-115",
@@ -59,7 +106,7 @@
       "fields": {
         "summary": "About us page research",
         "created": "2025-12-09T20:22:07.124+0530",
-        "timespent": 54000,
+        "timespent": 75600,
         "duedate": null,
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
@@ -81,7 +128,7 @@
           "name": "Medium",
           "id": "3"
         },
-        "updated": "2025-12-10T21:25:56.398+0530",
+        "updated": "2025-12-11T20:54:21.239+0530",
         "status": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10798",
           "description": "",
@@ -2525,92 +2572,6 @@
           "id": "3"
         },
         "updated": "2025-09-22T20:42:14.457+0530",
-        "status": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10800",
-          "description": "",
-          "iconUrl": "https://idealabprojects.atlassian.net/",
-          "name": "Done",
-          "id": "10800",
-          "statusCategory": {
-            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
-            "id": 3,
-            "key": "done",
-            "colorName": "green",
-            "name": "Done"
-          }
-        }
-      }
-    },
-    {
-      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
-      "id": "12668",
-      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/12668",
-      "key": "CRO-66",
-      "fields": {
-        "summary": " working on extracting data from content data and analysing types of inquiries coming on pages",
-        "parent": {
-          "id": "12666",
-          "key": "CRO-65",
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/12666",
-          "fields": {
-            "summary": "Analyse the content pages for leads quality",
-            "status": {
-              "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10800",
-              "description": "",
-              "iconUrl": "https://idealabprojects.atlassian.net/",
-              "name": "Done",
-              "id": "10800",
-              "statusCategory": {
-                "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
-                "id": 3,
-                "key": "done",
-                "colorName": "green",
-                "name": "Done"
-              }
-            },
-            "priority": {
-              "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
-              "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
-              "name": "Medium",
-              "id": "3"
-            },
-            "issuetype": {
-              "self": "https://idealabprojects.atlassian.net/rest/api/3/issuetype/10580",
-              "id": "10580",
-              "description": "A small, distinct piece of work.",
-              "iconUrl": "https://idealabprojects.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10318?size=medium",
-              "name": "Task",
-              "subtask": false,
-              "avatarId": 10318,
-              "entityId": "1192e3be-31fc-43a6-895d-0f6e847256ac",
-              "hierarchyLevel": 0
-            }
-          }
-        },
-        "created": "2025-09-22T20:39:48.367+0530",
-        "timespent": 7200,
-        "duedate": null,
-        "assignee": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
-          "accountId": "712020:3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
-          "avatarUrls": {
-            "48x48": "https://secure.gravatar.com/avatar/0d95ffae99216804599d824a071e83d2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHJ-6.png",
-            "24x24": "https://secure.gravatar.com/avatar/0d95ffae99216804599d824a071e83d2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHJ-6.png",
-            "16x16": "https://secure.gravatar.com/avatar/0d95ffae99216804599d824a071e83d2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHJ-6.png",
-            "32x32": "https://secure.gravatar.com/avatar/0d95ffae99216804599d824a071e83d2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHJ-6.png"
-          },
-          "displayName": "harshit jain",
-          "active": true,
-          "timeZone": "Asia/Calcutta",
-          "accountType": "atlassian"
-        },
-        "priority": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
-          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
-          "name": "Medium",
-          "id": "3"
-        },
-        "updated": "2025-09-22T20:40:13.065+0530",
         "status": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10800",
           "description": "",

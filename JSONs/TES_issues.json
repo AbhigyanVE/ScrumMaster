@@ -15,15 +15,15 @@
         "timespent": 28800,
         "duedate": "2025-12-11",
         "assignee": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
-          "accountId": "712020:3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A87014598-7fc2-4a58-bbc5-8ec01fc54856",
+          "accountId": "712020:87014598-7fc2-4a58-bbc5-8ec01fc54856",
           "avatarUrls": {
-            "48x48": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
-            "24x24": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
-            "16x16": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
-            "32x32": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png"
+            "48x48": "https://secure.gravatar.com/avatar/20f56106f26bf5669c2f46835ef78571?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDS-1.png",
+            "24x24": "https://secure.gravatar.com/avatar/20f56106f26bf5669c2f46835ef78571?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDS-1.png",
+            "16x16": "https://secure.gravatar.com/avatar/20f56106f26bf5669c2f46835ef78571?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDS-1.png",
+            "32x32": "https://secure.gravatar.com/avatar/20f56106f26bf5669c2f46835ef78571?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDS-1.png"
           },
-          "displayName": "Vikas Bhardwaj",
+          "displayName": "Deepakshi saini",
           "active": true,
           "timeZone": "Asia/Calcutta",
           "accountType": "atlassian"
@@ -34,7 +34,7 @@
           "name": "Medium",
           "id": "3"
         },
-        "updated": "2025-12-11T14:04:16.814+0530",
+        "updated": "2025-12-12T13:50:54.364+0530",
         "status": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10019",
           "description": "",
@@ -156,15 +156,15 @@
         "timespent": null,
         "duedate": "2025-12-05",
         "assignee": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=605aad190a9b6900719e7c99",
-          "accountId": "605aad190a9b6900719e7c99",
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A41435bf1-7a46-4918-82dc-ba80eec20553",
+          "accountId": "712020:41435bf1-7a46-4918-82dc-ba80eec20553",
           "avatarUrls": {
-            "48x48": "https://secure.gravatar.com/avatar/4f0d47d7277fe8d2b9942e49df3be561?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDM-5.png",
-            "24x24": "https://secure.gravatar.com/avatar/4f0d47d7277fe8d2b9942e49df3be561?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDM-5.png",
-            "16x16": "https://secure.gravatar.com/avatar/4f0d47d7277fe8d2b9942e49df3be561?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDM-5.png",
-            "32x32": "https://secure.gravatar.com/avatar/4f0d47d7277fe8d2b9942e49df3be561?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDM-5.png"
+            "48x48": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
+            "24x24": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
+            "16x16": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
+            "32x32": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png"
           },
-          "displayName": "Daya Mukherjee",
+          "displayName": "Praveen Soni",
           "active": true,
           "timeZone": "Asia/Calcutta",
           "accountType": "atlassian"
@@ -175,13 +175,13 @@
           "name": "Highest",
           "id": "1"
         },
-        "updated": "2025-12-11T15:58:39.636+0530",
+        "updated": "2025-12-11T17:52:04.089+0530",
         "status": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10016",
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10076",
           "description": "",
           "iconUrl": "https://idealabprojects.atlassian.net/",
-          "name": "To Do",
-          "id": "10016",
+          "name": "Implement Feedback",
+          "id": "10076",
           "statusCategory": {
             "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
             "id": 2,
@@ -289,15 +289,15 @@
         "timespent": null,
         "duedate": "2025-12-12",
         "assignee": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=605aad190a9b6900719e7c99",
-          "accountId": "605aad190a9b6900719e7c99",
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=5f75e7c0021acf0076b238e7",
+          "accountId": "5f75e7c0021acf0076b238e7",
           "avatarUrls": {
-            "48x48": "https://secure.gravatar.com/avatar/4f0d47d7277fe8d2b9942e49df3be561?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDM-5.png",
-            "24x24": "https://secure.gravatar.com/avatar/4f0d47d7277fe8d2b9942e49df3be561?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDM-5.png",
-            "16x16": "https://secure.gravatar.com/avatar/4f0d47d7277fe8d2b9942e49df3be561?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDM-5.png",
-            "32x32": "https://secure.gravatar.com/avatar/4f0d47d7277fe8d2b9942e49df3be561?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDM-5.png"
+            "48x48": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png",
+            "24x24": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png",
+            "16x16": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png",
+            "32x32": "https://secure.gravatar.com/avatar/bc893099729e574a6de79e7d80a112d0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAN-6.png"
           },
-          "displayName": "Daya Mukherjee",
+          "displayName": "Anuradha Narwal",
           "active": true,
           "timeZone": "Asia/Calcutta",
           "accountType": "atlassian"
@@ -308,13 +308,13 @@
           "name": "Medium",
           "id": "3"
         },
-        "updated": "2025-12-10T19:57:49.640+0530",
+        "updated": "2025-12-12T12:06:10.739+0530",
         "status": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10019",
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10076",
           "description": "",
           "iconUrl": "https://idealabprojects.atlassian.net/",
-          "name": "In Review",
-          "id": "10019",
+          "name": "Implement Feedback",
+          "id": "10076",
           "statusCategory": {
             "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
             "id": 2,
@@ -336,15 +336,15 @@
         "timespent": 28800,
         "duedate": "2025-12-03",
         "assignee": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=605aad190a9b6900719e7c99",
-          "accountId": "605aad190a9b6900719e7c99",
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A87014598-7fc2-4a58-bbc5-8ec01fc54856",
+          "accountId": "712020:87014598-7fc2-4a58-bbc5-8ec01fc54856",
           "avatarUrls": {
-            "48x48": "https://secure.gravatar.com/avatar/4f0d47d7277fe8d2b9942e49df3be561?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDM-5.png",
-            "24x24": "https://secure.gravatar.com/avatar/4f0d47d7277fe8d2b9942e49df3be561?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDM-5.png",
-            "16x16": "https://secure.gravatar.com/avatar/4f0d47d7277fe8d2b9942e49df3be561?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDM-5.png",
-            "32x32": "https://secure.gravatar.com/avatar/4f0d47d7277fe8d2b9942e49df3be561?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDM-5.png"
+            "48x48": "https://secure.gravatar.com/avatar/20f56106f26bf5669c2f46835ef78571?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDS-1.png",
+            "24x24": "https://secure.gravatar.com/avatar/20f56106f26bf5669c2f46835ef78571?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDS-1.png",
+            "16x16": "https://secure.gravatar.com/avatar/20f56106f26bf5669c2f46835ef78571?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDS-1.png",
+            "32x32": "https://secure.gravatar.com/avatar/20f56106f26bf5669c2f46835ef78571?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDS-1.png"
           },
-          "displayName": "Daya Mukherjee",
+          "displayName": "Deepakshi saini",
           "active": true,
           "timeZone": "Asia/Calcutta",
           "accountType": "atlassian"
@@ -355,7 +355,7 @@
           "name": "Medium",
           "id": "3"
         },
-        "updated": "2025-12-10T17:05:02.061+0530",
+        "updated": "2025-12-12T13:51:33.903+0530",
         "status": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10076",
           "description": "",
