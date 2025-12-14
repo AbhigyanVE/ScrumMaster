@@ -1,8 +1,4 @@
 {
-  "name": "Data Analytics",
-  "id": "10421",
-  "self_url": "https://idealabprojects.atlassian.net/rest/api/3/project/10421",
-  "issue_count": 9,
   "issues": [
     {
       "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
@@ -10,16 +6,162 @@
       "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11691",
       "key": "DA-9",
       "fields": {
-        "summary": "Data Requirement for Monthly Reports (Power Bi)",
-        "created": "2025-08-01T12:00:22.393+0530",
+        "statuscategorychangedate": "2025-08-01T12:00:22.573+0530",
+        "issuetype": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issuetype/10448",
+          "id": "10448",
+          "description": "A small, distinct piece of work.",
+          "iconUrl": "https://idealabprojects.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10318?size=medium",
+          "name": "Task",
+          "subtask": false,
+          "avatarId": 10318,
+          "entityId": "6a0a77e4-cc6c-49f9-bda8-5fac22e8a44e",
+          "hierarchyLevel": 0
+        },
+        "components": [],
         "timespent": null,
-        "duedate": null,
-        "assignee": null,
+        "timeoriginalestimate": null,
+        "project": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/project/10421",
+          "id": "10421",
+          "key": "DA",
+          "name": "Data Analytics",
+          "projectTypeKey": "business",
+          "simplified": true,
+          "avatarUrls": {
+            "48x48": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10408",
+            "24x24": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10408?size=small",
+            "16x16": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10408?size=xsmall",
+            "32x32": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10408?size=medium"
+          }
+        },
+        "description": {
+          "type": "doc",
+          "version": 1,
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Duration:"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "July\u201925 Month "
+                },
+                {
+                  "type": "hardBreak"
+                },
+                {
+                  "type": "text",
+                  "text": "May\u201925 to July\u201925 "
+                }
+              ]
+            }
+          ]
+        },
+        "fixVersions": [],
+        "customfield_10033": null,
+        "aggregatetimespent": null,
+        "statusCategory": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
+          "id": 2,
+          "key": "new",
+          "colorName": "blue-gray",
+          "name": "To Do"
+        },
+        "resolution": null,
+        "timetracking": {},
+        "customfield_10015": null,
+        "security": null,
+        "attachment": [],
+        "aggregatetimeestimate": null,
+        "resolutiondate": null,
+        "workratio": -1,
+        "summary": "Data Requirement for Monthly Reports (Power Bi)",
+        "watches": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/DA-9/watchers",
+          "watchCount": 1,
+          "isWatching": false
+        },
+        "lastViewed": null,
+        "creator": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A87014598-7fc2-4a58-bbc5-8ec01fc54856",
+          "accountId": "712020:87014598-7fc2-4a58-bbc5-8ec01fc54856",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/20f56106f26bf5669c2f46835ef78571?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDS-1.png",
+            "24x24": "https://secure.gravatar.com/avatar/20f56106f26bf5669c2f46835ef78571?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDS-1.png",
+            "16x16": "https://secure.gravatar.com/avatar/20f56106f26bf5669c2f46835ef78571?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDS-1.png",
+            "32x32": "https://secure.gravatar.com/avatar/20f56106f26bf5669c2f46835ef78571?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDS-1.png"
+          },
+          "displayName": "Deepakshi saini",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "subtasks": [],
+        "created": "2025-08-01T12:00:22.393+0530",
+        "reporter": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A87014598-7fc2-4a58-bbc5-8ec01fc54856",
+          "accountId": "712020:87014598-7fc2-4a58-bbc5-8ec01fc54856",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/20f56106f26bf5669c2f46835ef78571?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDS-1.png",
+            "24x24": "https://secure.gravatar.com/avatar/20f56106f26bf5669c2f46835ef78571?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDS-1.png",
+            "16x16": "https://secure.gravatar.com/avatar/20f56106f26bf5669c2f46835ef78571?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDS-1.png",
+            "32x32": "https://secure.gravatar.com/avatar/20f56106f26bf5669c2f46835ef78571?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDS-1.png"
+          },
+          "displayName": "Deepakshi saini",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "aggregateprogress": {
+          "progress": 0,
+          "total": 0
+        },
         "priority": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
           "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
           "name": "Medium",
           "id": "3"
+        },
+        "customfield_10001": null,
+        "labels": [],
+        "environment": null,
+        "customfield_10019": "0|i007tj:",
+        "timeestimate": null,
+        "aggregatetimeoriginalestimate": null,
+        "versions": [],
+        "duedate": null,
+        "progress": {
+          "progress": 0,
+          "total": 0
+        },
+        "issuelinks": [],
+        "votes": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/DA-9/votes",
+          "votes": 0,
+          "hasVoted": false
+        },
+        "comment": {
+          "comments": [],
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11691/comment",
+          "maxResults": 0,
+          "total": 0,
+          "startAt": 0
+        },
+        "assignee": null,
+        "worklog": {
+          "startAt": 0,
+          "maxResults": 20,
+          "total": 0,
+          "worklogs": []
         },
         "updated": "2025-08-01T12:02:55.705+0530",
         "status": {
@@ -44,10 +186,488 @@
       "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11312",
       "key": "DA-8",
       "fields": {
-        "summary": "O2I service page url ppc lead details for Jun'25",
-        "created": "2025-07-09T13:06:54.930+0530",
+        "statuscategorychangedate": "2025-08-21T18:34:42.876+0530",
+        "issuetype": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issuetype/10448",
+          "id": "10448",
+          "description": "A small, distinct piece of work.",
+          "iconUrl": "https://idealabprojects.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10318?size=medium",
+          "name": "Task",
+          "subtask": false,
+          "avatarId": 10318,
+          "entityId": "6a0a77e4-cc6c-49f9-bda8-5fac22e8a44e",
+          "hierarchyLevel": 0
+        },
+        "components": [],
         "timespent": null,
+        "timeoriginalestimate": null,
+        "project": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/project/10421",
+          "id": "10421",
+          "key": "DA",
+          "name": "Data Analytics",
+          "projectTypeKey": "business",
+          "simplified": true,
+          "avatarUrls": {
+            "48x48": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10408",
+            "24x24": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10408?size=small",
+            "16x16": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10408?size=xsmall",
+            "32x32": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10408?size=medium"
+          }
+        },
+        "description": null,
+        "fixVersions": [],
+        "customfield_10033": null,
+        "aggregatetimespent": null,
+        "statusCategory": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+          "id": 3,
+          "key": "done",
+          "colorName": "green",
+          "name": "Done"
+        },
+        "resolution": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/resolution/10000",
+          "id": "10000",
+          "description": "Work has been completed on this work item.",
+          "name": "Done"
+        },
+        "timetracking": {},
+        "customfield_10015": "2025-07-09",
+        "security": null,
+        "attachment": [
+          {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/attachment/11186",
+            "id": "11186",
+            "filename": "image-20250710-104301.png",
+            "author": {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A9d81cbd5-bff1-466b-8d31-4a2dd10b964e",
+              "accountId": "712020:9d81cbd5-bff1-466b-8d31-4a2dd10b964e",
+              "avatarUrls": {
+                "48x48": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
+                "24x24": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
+                "16x16": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
+                "32x32": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png"
+              },
+              "displayName": "Arin Chaudhuri",
+              "active": true,
+              "timeZone": "Asia/Calcutta",
+              "accountType": "atlassian"
+            },
+            "created": "2025-07-10T16:14:30.165+0530",
+            "size": 59348,
+            "mimeType": "image/png",
+            "content": "https://idealabprojects.atlassian.net/rest/api/3/attachment/content/11186",
+            "thumbnail": "https://idealabprojects.atlassian.net/rest/api/3/attachment/thumbnail/11186"
+          },
+          {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/attachment/11185",
+            "id": "11185",
+            "filename": "SEO urls with gclid.csv",
+            "author": {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ac582aaec-f7e7-45a0-8737-08d953fcbef7",
+              "accountId": "712020:c582aaec-f7e7-45a0-8737-08d953fcbef7",
+              "avatarUrls": {
+                "48x48": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png",
+                "24x24": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png",
+                "16x16": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png",
+                "32x32": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png"
+              },
+              "displayName": "sayeli chakraborty",
+              "active": true,
+              "timeZone": "Asia/Calcutta",
+              "accountType": "atlassian"
+            },
+            "created": "2025-07-10T15:48:50.769+0530",
+            "size": 7135,
+            "mimeType": "text/plain",
+            "content": "https://idealabprojects.atlassian.net/rest/api/3/attachment/content/11185"
+          }
+        ],
+        "aggregatetimeestimate": null,
+        "resolutiondate": "2025-08-21T18:34:42.853+0530",
+        "workratio": -1,
+        "summary": "O2I service page url ppc lead details for Jun'25",
+        "watches": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/DA-8/watchers",
+          "watchCount": 2,
+          "isWatching": false
+        },
+        "lastViewed": null,
+        "creator": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A9d81cbd5-bff1-466b-8d31-4a2dd10b964e",
+          "accountId": "712020:9d81cbd5-bff1-466b-8d31-4a2dd10b964e",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
+            "24x24": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
+            "16x16": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
+            "32x32": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png"
+          },
+          "displayName": "Arin Chaudhuri",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "subtasks": [],
+        "created": "2025-07-09T13:06:54.930+0530",
+        "reporter": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A9d81cbd5-bff1-466b-8d31-4a2dd10b964e",
+          "accountId": "712020:9d81cbd5-bff1-466b-8d31-4a2dd10b964e",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
+            "24x24": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
+            "16x16": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
+            "32x32": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png"
+          },
+          "displayName": "Arin Chaudhuri",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "aggregateprogress": {
+          "progress": 0,
+          "total": 0
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "customfield_10001": null,
+        "labels": [],
+        "environment": null,
+        "customfield_10019": "0|i005t9:",
+        "timeestimate": null,
+        "aggregatetimeoriginalestimate": null,
+        "versions": [],
         "duedate": null,
+        "progress": {
+          "progress": 0,
+          "total": 0
+        },
+        "issuelinks": [],
+        "votes": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/DA-8/votes",
+          "votes": 0,
+          "hasVoted": false
+        },
+        "comment": {
+          "comments": [
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11312/comment/14104",
+              "id": "14104",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A9d81cbd5-bff1-466b-8d31-4a2dd10b964e",
+                "accountId": "712020:9d81cbd5-bff1-466b-8d31-4a2dd10b964e",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
+                  "24x24": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
+                  "16x16": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
+                  "32x32": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png"
+                },
+                "displayName": "Arin Chaudhuri",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "body": {
+                "type": "doc",
+                "version": 1,
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Hi Sayeli as per teams chat, I have created this task."
+                      }
+                    ]
+                  }
+                ]
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A9d81cbd5-bff1-466b-8d31-4a2dd10b964e",
+                "accountId": "712020:9d81cbd5-bff1-466b-8d31-4a2dd10b964e",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
+                  "24x24": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
+                  "16x16": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
+                  "32x32": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png"
+                },
+                "displayName": "Arin Chaudhuri",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "created": "2025-07-09T13:08:16.798+0530",
+              "updated": "2025-07-09T13:08:16.798+0530",
+              "jsdPublic": true
+            },
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11312/comment/14107",
+              "id": "14107",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ac582aaec-f7e7-45a0-8737-08d953fcbef7",
+                "accountId": "712020:c582aaec-f7e7-45a0-8737-08d953fcbef7",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png",
+                  "24x24": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png",
+                  "16x16": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png",
+                  "32x32": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png"
+                },
+                "displayName": "sayeli chakraborty",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "body": {
+                "type": "doc",
+                "version": 1,
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "mention",
+                        "attrs": {
+                          "id": "712020:9d81cbd5-bff1-466b-8d31-4a2dd10b964e",
+                          "text": "@Arin Chaudhuri",
+                          "accessLevel": "",
+                          "localId": "3d7d806e-4915-474e-bc35-abc461479832"
+                        }
+                      },
+                      {
+                        "type": "text",
+                        "text": " kindly check these three sample data"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ac582aaec-f7e7-45a0-8737-08d953fcbef7",
+                "accountId": "712020:c582aaec-f7e7-45a0-8737-08d953fcbef7",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png",
+                  "24x24": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png",
+                  "16x16": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png",
+                  "32x32": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png"
+                },
+                "displayName": "sayeli chakraborty",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "created": "2025-07-09T14:14:23.995+0530",
+              "updated": "2025-07-09T14:14:23.995+0530",
+              "jsdPublic": true
+            },
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11312/comment/14108",
+              "id": "14108",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A9d81cbd5-bff1-466b-8d31-4a2dd10b964e",
+                "accountId": "712020:9d81cbd5-bff1-466b-8d31-4a2dd10b964e",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
+                  "24x24": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
+                  "16x16": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
+                  "32x32": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png"
+                },
+                "displayName": "Arin Chaudhuri",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "body": {
+                "type": "doc",
+                "version": 1,
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "mention",
+                        "attrs": {
+                          "id": "712020:c582aaec-f7e7-45a0-8737-08d953fcbef7",
+                          "text": "@sayeli chakraborty",
+                          "accessLevel": "",
+                          "localId": "577331c1-1ae5-4388-a78f-4812a87904dd"
+                        }
+                      },
+                      {
+                        "type": "text",
+                        "text": " the first url not matching from the shared data, we can have further call as discussed."
+                      }
+                    ]
+                  }
+                ]
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A9d81cbd5-bff1-466b-8d31-4a2dd10b964e",
+                "accountId": "712020:9d81cbd5-bff1-466b-8d31-4a2dd10b964e",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
+                  "24x24": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
+                  "16x16": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
+                  "32x32": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png"
+                },
+                "displayName": "Arin Chaudhuri",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "created": "2025-07-09T15:11:06.490+0530",
+              "updated": "2025-07-09T15:11:06.490+0530",
+              "jsdPublic": true
+            },
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11312/comment/14145",
+              "id": "14145",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ac582aaec-f7e7-45a0-8737-08d953fcbef7",
+                "accountId": "712020:c582aaec-f7e7-45a0-8737-08d953fcbef7",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png",
+                  "24x24": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png",
+                  "16x16": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png",
+                  "32x32": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png"
+                },
+                "displayName": "sayeli chakraborty",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "body": {
+                "type": "doc",
+                "version": 1,
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "mention",
+                        "attrs": {
+                          "id": "712020:9d81cbd5-bff1-466b-8d31-4a2dd10b964e",
+                          "text": "@Arin Chaudhuri",
+                          "accessLevel": "",
+                          "localId": "597af877-4b16-47ee-ab23-552479d9e427"
+                        }
+                      },
+                      {
+                        "type": "text",
+                        "text": " please find the attachment"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ac582aaec-f7e7-45a0-8737-08d953fcbef7",
+                "accountId": "712020:c582aaec-f7e7-45a0-8737-08d953fcbef7",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png",
+                  "24x24": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png",
+                  "16x16": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png",
+                  "32x32": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png"
+                },
+                "displayName": "sayeli chakraborty",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "created": "2025-07-10T15:49:12.117+0530",
+              "updated": "2025-07-10T15:49:12.117+0530",
+              "jsdPublic": true
+            },
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11312/comment/14146",
+              "id": "14146",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A9d81cbd5-bff1-466b-8d31-4a2dd10b964e",
+                "accountId": "712020:9d81cbd5-bff1-466b-8d31-4a2dd10b964e",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
+                  "24x24": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
+                  "16x16": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
+                  "32x32": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png"
+                },
+                "displayName": "Arin Chaudhuri",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "body": {
+                "type": "doc",
+                "version": 1,
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "mention",
+                        "attrs": {
+                          "id": "712020:c582aaec-f7e7-45a0-8737-08d953fcbef7",
+                          "text": "@sayeli chakraborty",
+                          "accessLevel": "",
+                          "localId": "7dea10fe-6a67-4f8c-8020-c098244b37eb"
+                        }
+                      },
+                      {
+                        "type": "text",
+                        "text": " below highlighted data are not matching from you dated list,"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph"
+                  },
+                  {
+                    "type": "mediaSingle",
+                    "attrs": {
+                      "layout": "align-start"
+                    },
+                    "content": [
+                      {
+                        "type": "media",
+                        "attrs": {
+                          "type": "file",
+                          "id": "c83b0c68-93ee-4216-b7d0-bb0d57198900",
+                          "alt": "image-20250710-104301.png",
+                          "collection": "",
+                          "height": 364,
+                          "width": 794
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A9d81cbd5-bff1-466b-8d31-4a2dd10b964e",
+                "accountId": "712020:9d81cbd5-bff1-466b-8d31-4a2dd10b964e",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
+                  "24x24": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
+                  "16x16": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
+                  "32x32": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png"
+                },
+                "displayName": "Arin Chaudhuri",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "created": "2025-07-10T16:14:30.971+0530",
+              "updated": "2025-07-10T16:14:30.971+0530",
+              "jsdPublic": true
+            }
+          ],
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11312/comment",
+          "maxResults": 5,
+          "total": 5,
+          "startAt": 0
+        },
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ac582aaec-f7e7-45a0-8737-08d953fcbef7",
           "accountId": "712020:c582aaec-f7e7-45a0-8737-08d953fcbef7",
@@ -62,11 +682,11 @@
           "timeZone": "Asia/Calcutta",
           "accountType": "atlassian"
         },
-        "priority": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
-          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
-          "name": "Medium",
-          "id": "3"
+        "worklog": {
+          "startAt": 0,
+          "maxResults": 20,
+          "total": 0,
+          "worklogs": []
         },
         "updated": "2025-08-21T18:34:42.875+0530",
         "status": {
@@ -91,10 +711,199 @@
       "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11293",
       "key": "DA-7",
       "fields": {
-        "summary": "AB Test Data",
-        "created": "2025-07-08T12:07:41.109+0530",
+        "statuscategorychangedate": "2025-07-08T12:08:07.037+0530",
+        "issuetype": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issuetype/10448",
+          "id": "10448",
+          "description": "A small, distinct piece of work.",
+          "iconUrl": "https://idealabprojects.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10318?size=medium",
+          "name": "Task",
+          "subtask": false,
+          "avatarId": 10318,
+          "entityId": "6a0a77e4-cc6c-49f9-bda8-5fac22e8a44e",
+          "hierarchyLevel": 0
+        },
+        "components": [],
         "timespent": null,
+        "timeoriginalestimate": null,
+        "project": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/project/10421",
+          "id": "10421",
+          "key": "DA",
+          "name": "Data Analytics",
+          "projectTypeKey": "business",
+          "simplified": true,
+          "avatarUrls": {
+            "48x48": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10408",
+            "24x24": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10408?size=small",
+            "16x16": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10408?size=xsmall",
+            "32x32": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10408?size=medium"
+          }
+        },
+        "description": null,
+        "fixVersions": [],
+        "customfield_10033": null,
+        "aggregatetimespent": null,
+        "statusCategory": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/4",
+          "id": 4,
+          "key": "indeterminate",
+          "colorName": "yellow",
+          "name": "In Progress"
+        },
+        "resolution": null,
+        "timetracking": {},
+        "customfield_10015": null,
+        "security": null,
+        "attachment": [],
+        "aggregatetimeestimate": null,
+        "resolutiondate": null,
+        "workratio": -1,
+        "summary": "AB Test Data",
+        "watches": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/DA-7/watchers",
+          "watchCount": 1,
+          "isWatching": false
+        },
+        "lastViewed": null,
+        "creator": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ac582aaec-f7e7-45a0-8737-08d953fcbef7",
+          "accountId": "712020:c582aaec-f7e7-45a0-8737-08d953fcbef7",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png",
+            "24x24": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png",
+            "16x16": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png",
+            "32x32": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png"
+          },
+          "displayName": "sayeli chakraborty",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "subtasks": [],
+        "created": "2025-07-08T12:07:41.109+0530",
+        "reporter": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ac582aaec-f7e7-45a0-8737-08d953fcbef7",
+          "accountId": "712020:c582aaec-f7e7-45a0-8737-08d953fcbef7",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png",
+            "24x24": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png",
+            "16x16": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png",
+            "32x32": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png"
+          },
+          "displayName": "sayeli chakraborty",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "aggregateprogress": {
+          "progress": 0,
+          "total": 0
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "customfield_10001": null,
+        "labels": [],
+        "environment": null,
+        "customfield_10019": "0|i006kf:",
+        "timeestimate": null,
+        "aggregatetimeoriginalestimate": null,
+        "versions": [],
         "duedate": null,
+        "progress": {
+          "progress": 0,
+          "total": 0
+        },
+        "issuelinks": [],
+        "votes": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/DA-7/votes",
+          "votes": 0,
+          "hasVoted": false
+        },
+        "comment": {
+          "comments": [
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11293/comment/14004",
+              "id": "14004",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ac582aaec-f7e7-45a0-8737-08d953fcbef7",
+                "accountId": "712020:c582aaec-f7e7-45a0-8737-08d953fcbef7",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png",
+                  "24x24": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png",
+                  "16x16": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png",
+                  "32x32": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png"
+                },
+                "displayName": "sayeli chakraborty",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "body": {
+                "type": "doc",
+                "version": 1,
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "mention",
+                        "attrs": {
+                          "id": "628b7d1aab91fe0070973fa6",
+                          "text": "@Sudhir Yadav1",
+                          "accessLevel": "",
+                          "localId": "b4adc3cf-85e9-47b2-8e18-5e00a17a0794"
+                        }
+                      },
+                      {
+                        "type": "text",
+                        "text": " & "
+                      },
+                      {
+                        "type": "mention",
+                        "attrs": {
+                          "id": "712020:74ae95c3-5c9a-4ef0-b632-b97f4d713f48",
+                          "text": "@Irfan Ahmad",
+                          "accessLevel": "",
+                          "localId": "6303de3a-8c2d-4165-9bc7-2c93e41bce3d"
+                        }
+                      },
+                      {
+                        "type": "text",
+                        "text": " please find attached the Current Status on the PPC Pages AB Test report"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ac582aaec-f7e7-45a0-8737-08d953fcbef7",
+                "accountId": "712020:c582aaec-f7e7-45a0-8737-08d953fcbef7",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png",
+                  "24x24": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png",
+                  "16x16": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png",
+                  "32x32": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png"
+                },
+                "displayName": "sayeli chakraborty",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "created": "2025-07-08T12:09:35.453+0530",
+              "updated": "2025-07-08T12:09:35.453+0530",
+              "jsdPublic": true
+            }
+          ],
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11293/comment",
+          "maxResults": 1,
+          "total": 1,
+          "startAt": 0
+        },
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=628b7d1aab91fe0070973fa6",
           "accountId": "628b7d1aab91fe0070973fa6",
@@ -109,11 +918,11 @@
           "timeZone": "Asia/Kolkata",
           "accountType": "atlassian"
         },
-        "priority": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
-          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
-          "name": "Medium",
-          "id": "3"
+        "worklog": {
+          "startAt": 0,
+          "maxResults": 20,
+          "total": 0,
+          "worklogs": []
         },
         "updated": "2025-07-08T12:09:35.453+0530",
         "status": {
@@ -138,10 +947,195 @@
       "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11283",
       "key": "DA-6",
       "fields": {
-        "summary": "Jun'25 month device wise data of each campaign",
-        "created": "2025-07-04T18:16:15.816+0530",
+        "statuscategorychangedate": "2025-08-05T13:31:29.946+0530",
+        "issuetype": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issuetype/10448",
+          "id": "10448",
+          "description": "A small, distinct piece of work.",
+          "iconUrl": "https://idealabprojects.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10318?size=medium",
+          "name": "Task",
+          "subtask": false,
+          "avatarId": 10318,
+          "entityId": "6a0a77e4-cc6c-49f9-bda8-5fac22e8a44e",
+          "hierarchyLevel": 0
+        },
+        "components": [],
         "timespent": null,
+        "timeoriginalestimate": null,
+        "project": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/project/10421",
+          "id": "10421",
+          "key": "DA",
+          "name": "Data Analytics",
+          "projectTypeKey": "business",
+          "simplified": true,
+          "avatarUrls": {
+            "48x48": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10408",
+            "24x24": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10408?size=small",
+            "16x16": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10408?size=xsmall",
+            "32x32": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10408?size=medium"
+          }
+        },
+        "description": null,
+        "fixVersions": [],
+        "customfield_10033": null,
+        "aggregatetimespent": null,
+        "statusCategory": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+          "id": 3,
+          "key": "done",
+          "colorName": "green",
+          "name": "Done"
+        },
+        "resolution": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/resolution/10000",
+          "id": "10000",
+          "description": "Work has been completed on this work item.",
+          "name": "Done"
+        },
+        "timetracking": {},
+        "customfield_10015": "2025-07-04",
+        "security": null,
+        "attachment": [],
+        "aggregatetimeestimate": null,
+        "resolutiondate": "2025-08-05T13:31:29.922+0530",
+        "workratio": -1,
+        "summary": "Jun'25 month device wise data of each campaign",
+        "watches": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/DA-6/watchers",
+          "watchCount": 1,
+          "isWatching": false
+        },
+        "lastViewed": null,
+        "creator": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A9d81cbd5-bff1-466b-8d31-4a2dd10b964e",
+          "accountId": "712020:9d81cbd5-bff1-466b-8d31-4a2dd10b964e",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
+            "24x24": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
+            "16x16": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
+            "32x32": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png"
+          },
+          "displayName": "Arin Chaudhuri",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "subtasks": [],
+        "created": "2025-07-04T18:16:15.816+0530",
+        "reporter": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A9d81cbd5-bff1-466b-8d31-4a2dd10b964e",
+          "accountId": "712020:9d81cbd5-bff1-466b-8d31-4a2dd10b964e",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
+            "24x24": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
+            "16x16": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
+            "32x32": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png"
+          },
+          "displayName": "Arin Chaudhuri",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "aggregateprogress": {
+          "progress": 0,
+          "total": 0
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "customfield_10001": null,
+        "labels": [],
+        "environment": null,
+        "customfield_10019": "0|i006i7:",
+        "timeestimate": null,
+        "aggregatetimeoriginalestimate": null,
+        "versions": [],
         "duedate": "2025-07-07",
+        "progress": {
+          "progress": 0,
+          "total": 0
+        },
+        "issuelinks": [],
+        "votes": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/DA-6/votes",
+          "votes": 0,
+          "hasVoted": false
+        },
+        "comment": {
+          "comments": [
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11283/comment/13951",
+              "id": "13951",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A9d81cbd5-bff1-466b-8d31-4a2dd10b964e",
+                "accountId": "712020:9d81cbd5-bff1-466b-8d31-4a2dd10b964e",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
+                  "24x24": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
+                  "16x16": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
+                  "32x32": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png"
+                },
+                "displayName": "Arin Chaudhuri",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "body": {
+                "type": "doc",
+                "version": 1,
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Hi "
+                      },
+                      {
+                        "type": "mention",
+                        "attrs": {
+                          "id": "712020:c582aaec-f7e7-45a0-8737-08d953fcbef7",
+                          "text": "@sayeli chakraborty",
+                          "accessLevel": "",
+                          "localId": "6f174932-768e-401e-8cf2-f3b85c66b713"
+                        }
+                      },
+                      {
+                        "type": "text",
+                        "text": " please share Jun'25 month device wise data of each campaign and also keywords data."
+                      }
+                    ]
+                  }
+                ]
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A9d81cbd5-bff1-466b-8d31-4a2dd10b964e",
+                "accountId": "712020:9d81cbd5-bff1-466b-8d31-4a2dd10b964e",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
+                  "24x24": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
+                  "16x16": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
+                  "32x32": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png"
+                },
+                "displayName": "Arin Chaudhuri",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "created": "2025-07-04T18:17:19.852+0530",
+              "updated": "2025-07-04T19:31:07.694+0530",
+              "jsdPublic": true
+            }
+          ],
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11283/comment",
+          "maxResults": 1,
+          "total": 1,
+          "startAt": 0
+        },
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ac582aaec-f7e7-45a0-8737-08d953fcbef7",
           "accountId": "712020:c582aaec-f7e7-45a0-8737-08d953fcbef7",
@@ -156,11 +1150,11 @@
           "timeZone": "Asia/Calcutta",
           "accountType": "atlassian"
         },
-        "priority": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
-          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
-          "name": "Medium",
-          "id": "3"
+        "worklog": {
+          "startAt": 0,
+          "maxResults": 20,
+          "total": 0,
+          "worklogs": []
         },
         "updated": "2025-08-05T13:31:29.946+0530",
         "status": {
@@ -185,10 +1179,641 @@
       "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11257",
       "key": "DA-5",
       "fields": {
-        "summary": "Requirement of Power Bi Data",
-        "created": "2025-07-03T19:27:18.065+0530",
+        "statuscategorychangedate": "2025-07-08T12:07:06.439+0530",
+        "issuetype": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issuetype/10448",
+          "id": "10448",
+          "description": "A small, distinct piece of work.",
+          "iconUrl": "https://idealabprojects.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10318?size=medium",
+          "name": "Task",
+          "subtask": false,
+          "avatarId": 10318,
+          "entityId": "6a0a77e4-cc6c-49f9-bda8-5fac22e8a44e",
+          "hierarchyLevel": 0
+        },
+        "components": [],
         "timespent": null,
+        "timeoriginalestimate": null,
+        "project": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/project/10421",
+          "id": "10421",
+          "key": "DA",
+          "name": "Data Analytics",
+          "projectTypeKey": "business",
+          "simplified": true,
+          "avatarUrls": {
+            "48x48": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10408",
+            "24x24": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10408?size=small",
+            "16x16": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10408?size=xsmall",
+            "32x32": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10408?size=medium"
+          }
+        },
+        "description": {
+          "type": "doc",
+          "version": 1,
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Sayeli, please share the data of PPC pages, date range mentioned below:"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "*April\u201925 to June\u201925 "
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "*June\u201925"
+                }
+              ]
+            }
+          ]
+        },
+        "fixVersions": [],
+        "customfield_10033": null,
+        "aggregatetimespent": null,
+        "statusCategory": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+          "id": 3,
+          "key": "done",
+          "colorName": "green",
+          "name": "Done"
+        },
+        "resolution": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/resolution/10000",
+          "id": "10000",
+          "description": "Work has been completed on this work item.",
+          "name": "Done"
+        },
+        "timetracking": {},
+        "customfield_10015": null,
+        "security": null,
+        "attachment": [
+          {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/attachment/11139",
+            "id": "11139",
+            "filename": "april25  to june25 ppc.csv",
+            "author": {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ac582aaec-f7e7-45a0-8737-08d953fcbef7",
+              "accountId": "712020:c582aaec-f7e7-45a0-8737-08d953fcbef7",
+              "avatarUrls": {
+                "48x48": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png",
+                "24x24": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png",
+                "16x16": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png",
+                "32x32": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png"
+              },
+              "displayName": "sayeli chakraborty",
+              "active": true,
+              "timeZone": "Asia/Calcutta",
+              "accountType": "atlassian"
+            },
+            "created": "2025-07-04T14:16:27.603+0530",
+            "size": 7163,
+            "mimeType": "text/plain",
+            "content": "https://idealabprojects.atlassian.net/rest/api/3/attachment/content/11139"
+          },
+          {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/attachment/11140",
+            "id": "11140",
+            "filename": "image-20250704-095606.png",
+            "author": {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A87014598-7fc2-4a58-bbc5-8ec01fc54856",
+              "accountId": "712020:87014598-7fc2-4a58-bbc5-8ec01fc54856",
+              "avatarUrls": {
+                "48x48": "https://secure.gravatar.com/avatar/20f56106f26bf5669c2f46835ef78571?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDS-1.png",
+                "24x24": "https://secure.gravatar.com/avatar/20f56106f26bf5669c2f46835ef78571?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDS-1.png",
+                "16x16": "https://secure.gravatar.com/avatar/20f56106f26bf5669c2f46835ef78571?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDS-1.png",
+                "32x32": "https://secure.gravatar.com/avatar/20f56106f26bf5669c2f46835ef78571?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDS-1.png"
+              },
+              "displayName": "Deepakshi saini",
+              "active": true,
+              "timeZone": "Asia/Calcutta",
+              "accountType": "atlassian"
+            },
+            "created": "2025-07-04T15:26:09.279+0530",
+            "size": 82204,
+            "mimeType": "image/png",
+            "content": "https://idealabprojects.atlassian.net/rest/api/3/attachment/content/11140",
+            "thumbnail": "https://idealabprojects.atlassian.net/rest/api/3/attachment/thumbnail/11140"
+          },
+          {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/attachment/11137",
+            "id": "11137",
+            "filename": "jan25 to jun 25 ppc pages.csv",
+            "author": {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ac582aaec-f7e7-45a0-8737-08d953fcbef7",
+              "accountId": "712020:c582aaec-f7e7-45a0-8737-08d953fcbef7",
+              "avatarUrls": {
+                "48x48": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png",
+                "24x24": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png",
+                "16x16": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png",
+                "32x32": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png"
+              },
+              "displayName": "sayeli chakraborty",
+              "active": true,
+              "timeZone": "Asia/Calcutta",
+              "accountType": "atlassian"
+            },
+            "created": "2025-07-04T14:10:20.389+0530",
+            "size": 2578937,
+            "mimeType": "text/plain",
+            "content": "https://idealabprojects.atlassian.net/rest/api/3/attachment/content/11137"
+          },
+          {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/attachment/11138",
+            "id": "11138",
+            "filename": "june 25 ppc.csv",
+            "author": {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ac582aaec-f7e7-45a0-8737-08d953fcbef7",
+              "accountId": "712020:c582aaec-f7e7-45a0-8737-08d953fcbef7",
+              "avatarUrls": {
+                "48x48": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png",
+                "24x24": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png",
+                "16x16": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png",
+                "32x32": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png"
+              },
+              "displayName": "sayeli chakraborty",
+              "active": true,
+              "timeZone": "Asia/Calcutta",
+              "accountType": "atlassian"
+            },
+            "created": "2025-07-04T14:16:27.410+0530",
+            "size": 2890,
+            "mimeType": "text/plain",
+            "content": "https://idealabprojects.atlassian.net/rest/api/3/attachment/content/11138"
+          }
+        ],
+        "aggregatetimeestimate": null,
+        "resolutiondate": "2025-07-08T12:07:06.418+0530",
+        "workratio": -1,
+        "summary": "Requirement of Power Bi Data",
+        "watches": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/DA-5/watchers",
+          "watchCount": 2,
+          "isWatching": false
+        },
+        "lastViewed": null,
+        "creator": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A87014598-7fc2-4a58-bbc5-8ec01fc54856",
+          "accountId": "712020:87014598-7fc2-4a58-bbc5-8ec01fc54856",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/20f56106f26bf5669c2f46835ef78571?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDS-1.png",
+            "24x24": "https://secure.gravatar.com/avatar/20f56106f26bf5669c2f46835ef78571?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDS-1.png",
+            "16x16": "https://secure.gravatar.com/avatar/20f56106f26bf5669c2f46835ef78571?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDS-1.png",
+            "32x32": "https://secure.gravatar.com/avatar/20f56106f26bf5669c2f46835ef78571?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDS-1.png"
+          },
+          "displayName": "Deepakshi saini",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "subtasks": [],
+        "created": "2025-07-03T19:27:18.065+0530",
+        "reporter": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A87014598-7fc2-4a58-bbc5-8ec01fc54856",
+          "accountId": "712020:87014598-7fc2-4a58-bbc5-8ec01fc54856",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/20f56106f26bf5669c2f46835ef78571?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDS-1.png",
+            "24x24": "https://secure.gravatar.com/avatar/20f56106f26bf5669c2f46835ef78571?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDS-1.png",
+            "16x16": "https://secure.gravatar.com/avatar/20f56106f26bf5669c2f46835ef78571?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDS-1.png",
+            "32x32": "https://secure.gravatar.com/avatar/20f56106f26bf5669c2f46835ef78571?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDS-1.png"
+          },
+          "displayName": "Deepakshi saini",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "aggregateprogress": {
+          "progress": 0,
+          "total": 0
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "customfield_10001": null,
+        "labels": [],
+        "environment": null,
+        "customfield_10019": "0|i005t7:",
+        "timeestimate": null,
+        "aggregatetimeoriginalestimate": null,
+        "versions": [],
         "duedate": null,
+        "progress": {
+          "progress": 0,
+          "total": 0
+        },
+        "issuelinks": [],
+        "votes": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/DA-5/votes",
+          "votes": 0,
+          "hasVoted": false
+        },
+        "comment": {
+          "comments": [
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11257/comment/13908",
+              "id": "13908",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A87014598-7fc2-4a58-bbc5-8ec01fc54856",
+                "accountId": "712020:87014598-7fc2-4a58-bbc5-8ec01fc54856",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/20f56106f26bf5669c2f46835ef78571?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDS-1.png",
+                  "24x24": "https://secure.gravatar.com/avatar/20f56106f26bf5669c2f46835ef78571?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDS-1.png",
+                  "16x16": "https://secure.gravatar.com/avatar/20f56106f26bf5669c2f46835ef78571?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDS-1.png",
+                  "32x32": "https://secure.gravatar.com/avatar/20f56106f26bf5669c2f46835ef78571?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDS-1.png"
+                },
+                "displayName": "Deepakshi saini",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "body": {
+                "type": "doc",
+                "version": 1,
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Hi "
+                      },
+                      {
+                        "type": "mention",
+                        "attrs": {
+                          "id": "712020:c582aaec-f7e7-45a0-8737-08d953fcbef7",
+                          "text": "@sayeli chakraborty",
+                          "accessLevel": "",
+                          "localId": "b214e44b-e626-4754-9405-bf8f1825ba75"
+                        }
+                      },
+                      {
+                        "type": "text",
+                        "text": " Please share the data for reports."
+                      }
+                    ]
+                  }
+                ]
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A87014598-7fc2-4a58-bbc5-8ec01fc54856",
+                "accountId": "712020:87014598-7fc2-4a58-bbc5-8ec01fc54856",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/20f56106f26bf5669c2f46835ef78571?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDS-1.png",
+                  "24x24": "https://secure.gravatar.com/avatar/20f56106f26bf5669c2f46835ef78571?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDS-1.png",
+                  "16x16": "https://secure.gravatar.com/avatar/20f56106f26bf5669c2f46835ef78571?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDS-1.png",
+                  "32x32": "https://secure.gravatar.com/avatar/20f56106f26bf5669c2f46835ef78571?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDS-1.png"
+                },
+                "displayName": "Deepakshi saini",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "created": "2025-07-03T19:28:43.357+0530",
+              "updated": "2025-07-03T19:28:43.357+0530",
+              "jsdPublic": true
+            },
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11257/comment/13925",
+              "id": "13925",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ac582aaec-f7e7-45a0-8737-08d953fcbef7",
+                "accountId": "712020:c582aaec-f7e7-45a0-8737-08d953fcbef7",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png",
+                  "24x24": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png",
+                  "16x16": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png",
+                  "32x32": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png"
+                },
+                "displayName": "sayeli chakraborty",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "body": {
+                "type": "doc",
+                "version": 1,
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Hi "
+                      },
+                      {
+                        "type": "mention",
+                        "attrs": {
+                          "id": "712020:87014598-7fc2-4a58-bbc5-8ec01fc54856",
+                          "text": "@Deepakshi saini",
+                          "accessLevel": "",
+                          "localId": "00af27d4-bb6a-46e0-82d9-430c9bd128d6"
+                        }
+                      },
+                      {
+                        "type": "text",
+                        "text": " , this is jan to june. attached. do you need any other date range?"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ac582aaec-f7e7-45a0-8737-08d953fcbef7",
+                "accountId": "712020:c582aaec-f7e7-45a0-8737-08d953fcbef7",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png",
+                  "24x24": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png",
+                  "16x16": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png",
+                  "32x32": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png"
+                },
+                "displayName": "sayeli chakraborty",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "created": "2025-07-04T14:11:51.864+0530",
+              "updated": "2025-07-04T14:11:51.864+0530",
+              "jsdPublic": true
+            },
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11257/comment/13928",
+              "id": "13928",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A87014598-7fc2-4a58-bbc5-8ec01fc54856",
+                "accountId": "712020:87014598-7fc2-4a58-bbc5-8ec01fc54856",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/20f56106f26bf5669c2f46835ef78571?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDS-1.png",
+                  "24x24": "https://secure.gravatar.com/avatar/20f56106f26bf5669c2f46835ef78571?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDS-1.png",
+                  "16x16": "https://secure.gravatar.com/avatar/20f56106f26bf5669c2f46835ef78571?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDS-1.png",
+                  "32x32": "https://secure.gravatar.com/avatar/20f56106f26bf5669c2f46835ef78571?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDS-1.png"
+                },
+                "displayName": "Deepakshi saini",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "body": {
+                "type": "doc",
+                "version": 1,
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "mention",
+                        "attrs": {
+                          "id": "712020:c582aaec-f7e7-45a0-8737-08d953fcbef7",
+                          "text": "@sayeli chakraborty",
+                          "accessLevel": ""
+                        }
+                      },
+                      {
+                        "type": "text",
+                        "text": " Yes, I have mentioned date range in description."
+                      }
+                    ]
+                  }
+                ]
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A87014598-7fc2-4a58-bbc5-8ec01fc54856",
+                "accountId": "712020:87014598-7fc2-4a58-bbc5-8ec01fc54856",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/20f56106f26bf5669c2f46835ef78571?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDS-1.png",
+                  "24x24": "https://secure.gravatar.com/avatar/20f56106f26bf5669c2f46835ef78571?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDS-1.png",
+                  "16x16": "https://secure.gravatar.com/avatar/20f56106f26bf5669c2f46835ef78571?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDS-1.png",
+                  "32x32": "https://secure.gravatar.com/avatar/20f56106f26bf5669c2f46835ef78571?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDS-1.png"
+                },
+                "displayName": "Deepakshi saini",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "created": "2025-07-04T14:15:06.878+0530",
+              "updated": "2025-07-04T14:15:06.878+0530",
+              "jsdPublic": true
+            },
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11257/comment/13929",
+              "id": "13929",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ac582aaec-f7e7-45a0-8737-08d953fcbef7",
+                "accountId": "712020:c582aaec-f7e7-45a0-8737-08d953fcbef7",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png",
+                  "24x24": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png",
+                  "16x16": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png",
+                  "32x32": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png"
+                },
+                "displayName": "sayeli chakraborty",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "body": {
+                "type": "doc",
+                "version": 1,
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "mention",
+                        "attrs": {
+                          "id": "712020:87014598-7fc2-4a58-bbc5-8ec01fc54856",
+                          "text": "@Deepakshi saini",
+                          "accessLevel": "",
+                          "localId": "7a0c027a-2e1f-45a2-ac95-28128fa5fe83"
+                        }
+                      },
+                      {
+                        "type": "text",
+                        "text": " other two date rnage data uploaded. kindly check"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ac582aaec-f7e7-45a0-8737-08d953fcbef7",
+                "accountId": "712020:c582aaec-f7e7-45a0-8737-08d953fcbef7",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png",
+                  "24x24": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png",
+                  "16x16": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png",
+                  "32x32": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png"
+                },
+                "displayName": "sayeli chakraborty",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "created": "2025-07-04T14:17:00.572+0530",
+              "updated": "2025-07-04T14:17:00.572+0530",
+              "jsdPublic": true
+            },
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11257/comment/13930",
+              "id": "13930",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A87014598-7fc2-4a58-bbc5-8ec01fc54856",
+                "accountId": "712020:87014598-7fc2-4a58-bbc5-8ec01fc54856",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/20f56106f26bf5669c2f46835ef78571?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDS-1.png",
+                  "24x24": "https://secure.gravatar.com/avatar/20f56106f26bf5669c2f46835ef78571?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDS-1.png",
+                  "16x16": "https://secure.gravatar.com/avatar/20f56106f26bf5669c2f46835ef78571?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDS-1.png",
+                  "32x32": "https://secure.gravatar.com/avatar/20f56106f26bf5669c2f46835ef78571?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDS-1.png"
+                },
+                "displayName": "Deepakshi saini",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "body": {
+                "type": "doc",
+                "version": 1,
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "mention",
+                        "attrs": {
+                          "id": "712020:c582aaec-f7e7-45a0-8737-08d953fcbef7",
+                          "text": "@sayeli chakraborty",
+                          "accessLevel": ""
+                        }
+                      },
+                      {
+                        "type": "text",
+                        "text": " Thank you"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A87014598-7fc2-4a58-bbc5-8ec01fc54856",
+                "accountId": "712020:87014598-7fc2-4a58-bbc5-8ec01fc54856",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/20f56106f26bf5669c2f46835ef78571?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDS-1.png",
+                  "24x24": "https://secure.gravatar.com/avatar/20f56106f26bf5669c2f46835ef78571?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDS-1.png",
+                  "16x16": "https://secure.gravatar.com/avatar/20f56106f26bf5669c2f46835ef78571?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDS-1.png",
+                  "32x32": "https://secure.gravatar.com/avatar/20f56106f26bf5669c2f46835ef78571?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDS-1.png"
+                },
+                "displayName": "Deepakshi saini",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "created": "2025-07-04T15:20:58.882+0530",
+              "updated": "2025-07-04T15:20:58.882+0530",
+              "jsdPublic": true
+            },
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11257/comment/13931",
+              "id": "13931",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A87014598-7fc2-4a58-bbc5-8ec01fc54856",
+                "accountId": "712020:87014598-7fc2-4a58-bbc5-8ec01fc54856",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/20f56106f26bf5669c2f46835ef78571?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDS-1.png",
+                  "24x24": "https://secure.gravatar.com/avatar/20f56106f26bf5669c2f46835ef78571?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDS-1.png",
+                  "16x16": "https://secure.gravatar.com/avatar/20f56106f26bf5669c2f46835ef78571?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDS-1.png",
+                  "32x32": "https://secure.gravatar.com/avatar/20f56106f26bf5669c2f46835ef78571?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDS-1.png"
+                },
+                "displayName": "Deepakshi saini",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "body": {
+                "type": "doc",
+                "version": 1,
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Hi "
+                      },
+                      {
+                        "type": "mention",
+                        "attrs": {
+                          "id": "712020:c582aaec-f7e7-45a0-8737-08d953fcbef7",
+                          "text": "@sayeli chakraborty",
+                          "accessLevel": "",
+                          "localId": "d95aa9f8-55ba-4e9d-9c7e-4ea9f6ffa8d6"
+                        }
+                      },
+                      {
+                        "type": "text",
+                        "text": " The data you have shared is incorrect, I want all PPC pages data of date range not specific (Get started). "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "mediaSingle",
+                    "attrs": {
+                      "layout": "align-start"
+                    },
+                    "content": [
+                      {
+                        "type": "media",
+                        "attrs": {
+                          "type": "file",
+                          "id": "0f43f7eb-4880-45b7-91f2-c68652c48055",
+                          "alt": "image-20250704-095606.png",
+                          "collection": "",
+                          "height": 624,
+                          "width": 1402
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A87014598-7fc2-4a58-bbc5-8ec01fc54856",
+                "accountId": "712020:87014598-7fc2-4a58-bbc5-8ec01fc54856",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/20f56106f26bf5669c2f46835ef78571?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDS-1.png",
+                  "24x24": "https://secure.gravatar.com/avatar/20f56106f26bf5669c2f46835ef78571?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDS-1.png",
+                  "16x16": "https://secure.gravatar.com/avatar/20f56106f26bf5669c2f46835ef78571?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDS-1.png",
+                  "32x32": "https://secure.gravatar.com/avatar/20f56106f26bf5669c2f46835ef78571?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDS-1.png"
+                },
+                "displayName": "Deepakshi saini",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "created": "2025-07-04T15:26:10.066+0530",
+              "updated": "2025-07-04T15:26:10.066+0530",
+              "jsdPublic": true
+            }
+          ],
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11257/comment",
+          "maxResults": 6,
+          "total": 6,
+          "startAt": 0
+        },
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ac582aaec-f7e7-45a0-8737-08d953fcbef7",
           "accountId": "712020:c582aaec-f7e7-45a0-8737-08d953fcbef7",
@@ -203,11 +1828,11 @@
           "timeZone": "Asia/Calcutta",
           "accountType": "atlassian"
         },
-        "priority": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
-          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
-          "name": "Medium",
-          "id": "3"
+        "worklog": {
+          "startAt": 0,
+          "maxResults": 20,
+          "total": 0,
+          "worklogs": []
         },
         "updated": "2025-07-08T12:07:06.438+0530",
         "status": {
@@ -232,10 +1857,215 @@
       "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11253",
       "key": "DA-4",
       "fields": {
-        "summary": "ad hock",
-        "created": "2025-07-03T18:15:32.219+0530",
+        "statuscategorychangedate": "2025-07-03T18:16:25.811+0530",
+        "issuetype": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issuetype/10448",
+          "id": "10448",
+          "description": "A small, distinct piece of work.",
+          "iconUrl": "https://idealabprojects.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10318?size=medium",
+          "name": "Task",
+          "subtask": false,
+          "avatarId": 10318,
+          "entityId": "6a0a77e4-cc6c-49f9-bda8-5fac22e8a44e",
+          "hierarchyLevel": 0
+        },
+        "components": [],
         "timespent": null,
+        "timeoriginalestimate": null,
+        "project": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/project/10421",
+          "id": "10421",
+          "key": "DA",
+          "name": "Data Analytics",
+          "projectTypeKey": "business",
+          "simplified": true,
+          "avatarUrls": {
+            "48x48": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10408",
+            "24x24": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10408?size=small",
+            "16x16": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10408?size=xsmall",
+            "32x32": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10408?size=medium"
+          }
+        },
+        "description": null,
+        "fixVersions": [],
+        "customfield_10033": null,
+        "aggregatetimespent": null,
+        "statusCategory": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+          "id": 3,
+          "key": "done",
+          "colorName": "green",
+          "name": "Done"
+        },
+        "resolution": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/resolution/10000",
+          "id": "10000",
+          "description": "Work has been completed on this work item.",
+          "name": "Done"
+        },
+        "timetracking": {},
+        "customfield_10015": "2025-06-26",
+        "security": null,
+        "attachment": [
+          {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/attachment/11130",
+            "id": "11130",
+            "filename": "Testimonial address mapping.csv",
+            "author": {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ac582aaec-f7e7-45a0-8737-08d953fcbef7",
+              "accountId": "712020:c582aaec-f7e7-45a0-8737-08d953fcbef7",
+              "avatarUrls": {
+                "48x48": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png",
+                "24x24": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png",
+                "16x16": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png",
+                "32x32": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png"
+              },
+              "displayName": "sayeli chakraborty",
+              "active": true,
+              "timeZone": "Asia/Calcutta",
+              "accountType": "atlassian"
+            },
+            "created": "2025-07-03T18:16:16.084+0530",
+            "size": 62976,
+            "mimeType": "text/plain",
+            "content": "https://idealabprojects.atlassian.net/rest/api/3/attachment/content/11130"
+          }
+        ],
+        "aggregatetimeestimate": null,
+        "resolutiondate": "2025-07-03T18:16:25.782+0530",
+        "workratio": -1,
+        "summary": "ad hock",
+        "watches": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/DA-4/watchers",
+          "watchCount": 1,
+          "isWatching": false
+        },
+        "lastViewed": null,
+        "creator": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ac582aaec-f7e7-45a0-8737-08d953fcbef7",
+          "accountId": "712020:c582aaec-f7e7-45a0-8737-08d953fcbef7",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png",
+            "24x24": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png",
+            "16x16": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png",
+            "32x32": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png"
+          },
+          "displayName": "sayeli chakraborty",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "subtasks": [],
+        "created": "2025-07-03T18:15:32.219+0530",
+        "reporter": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ac582aaec-f7e7-45a0-8737-08d953fcbef7",
+          "accountId": "712020:c582aaec-f7e7-45a0-8737-08d953fcbef7",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png",
+            "24x24": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png",
+            "16x16": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png",
+            "32x32": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png"
+          },
+          "displayName": "sayeli chakraborty",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "aggregateprogress": {
+          "progress": 0,
+          "total": 0
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "customfield_10001": null,
+        "labels": [],
+        "environment": null,
+        "customfield_10019": "0|i006bj:",
+        "timeestimate": null,
+        "aggregatetimeoriginalestimate": null,
+        "versions": [],
         "duedate": "2025-07-02",
+        "progress": {
+          "progress": 0,
+          "total": 0
+        },
+        "issuelinks": [],
+        "votes": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/DA-4/votes",
+          "votes": 0,
+          "hasVoted": false
+        },
+        "comment": {
+          "comments": [
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11253/comment/13894",
+              "id": "13894",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ac582aaec-f7e7-45a0-8737-08d953fcbef7",
+                "accountId": "712020:c582aaec-f7e7-45a0-8737-08d953fcbef7",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png",
+                  "24x24": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png",
+                  "16x16": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png",
+                  "32x32": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png"
+                },
+                "displayName": "sayeli chakraborty",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "body": {
+                "type": "doc",
+                "version": 1,
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "mention",
+                        "attrs": {
+                          "id": "628b7d1aab91fe0070973fa6",
+                          "text": "@Sudhir Yadav1",
+                          "accessLevel": "",
+                          "localId": "f1dbc6b5-5970-47ec-abc7-89fe580759e1"
+                        }
+                      },
+                      {
+                        "type": "text",
+                        "text": " Please check the data"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ac582aaec-f7e7-45a0-8737-08d953fcbef7",
+                "accountId": "712020:c582aaec-f7e7-45a0-8737-08d953fcbef7",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png",
+                  "24x24": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png",
+                  "16x16": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png",
+                  "32x32": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png"
+                },
+                "displayName": "sayeli chakraborty",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "created": "2025-07-03T18:16:50.962+0530",
+              "updated": "2025-07-03T18:16:50.962+0530",
+              "jsdPublic": true
+            }
+          ],
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11253/comment",
+          "maxResults": 1,
+          "total": 1,
+          "startAt": 0
+        },
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ac582aaec-f7e7-45a0-8737-08d953fcbef7",
           "accountId": "712020:c582aaec-f7e7-45a0-8737-08d953fcbef7",
@@ -250,11 +2080,11 @@
           "timeZone": "Asia/Calcutta",
           "accountType": "atlassian"
         },
-        "priority": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
-          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
-          "name": "Medium",
-          "id": "3"
+        "worklog": {
+          "startAt": 0,
+          "maxResults": 20,
+          "total": 0,
+          "worklogs": []
         },
         "updated": "2025-07-03T18:16:50.962+0530",
         "status": {
@@ -279,10 +2109,219 @@
       "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11251",
       "key": "DA-3",
       "fields": {
-        "summary": "Ad hock Task",
-        "created": "2025-07-03T17:49:34.656+0530",
+        "statuscategorychangedate": "2025-07-03T17:51:20.110+0530",
+        "issuetype": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issuetype/10448",
+          "id": "10448",
+          "description": "A small, distinct piece of work.",
+          "iconUrl": "https://idealabprojects.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10318?size=medium",
+          "name": "Task",
+          "subtask": false,
+          "avatarId": 10318,
+          "entityId": "6a0a77e4-cc6c-49f9-bda8-5fac22e8a44e",
+          "hierarchyLevel": 0
+        },
+        "components": [],
         "timespent": null,
+        "timeoriginalestimate": null,
+        "project": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/project/10421",
+          "id": "10421",
+          "key": "DA",
+          "name": "Data Analytics",
+          "projectTypeKey": "business",
+          "simplified": true,
+          "avatarUrls": {
+            "48x48": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10408",
+            "24x24": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10408?size=small",
+            "16x16": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10408?size=xsmall",
+            "32x32": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10408?size=medium"
+          }
+        },
+        "description": null,
+        "fixVersions": [],
+        "customfield_10033": null,
+        "aggregatetimespent": null,
+        "statusCategory": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+          "id": 3,
+          "key": "done",
+          "colorName": "green",
+          "name": "Done"
+        },
+        "resolution": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/resolution/10000",
+          "id": "10000",
+          "description": "Work has been completed on this work item.",
+          "name": "Done"
+        },
+        "timetracking": {},
+        "customfield_10015": "2025-07-02",
+        "security": null,
+        "attachment": [
+          {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/attachment/11129",
+            "id": "11129",
+            "filename": "campaign june 2025.csv",
+            "author": {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ac582aaec-f7e7-45a0-8737-08d953fcbef7",
+              "accountId": "712020:c582aaec-f7e7-45a0-8737-08d953fcbef7",
+              "avatarUrls": {
+                "48x48": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png",
+                "24x24": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png",
+                "16x16": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png",
+                "32x32": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png"
+              },
+              "displayName": "sayeli chakraborty",
+              "active": true,
+              "timeZone": "Asia/Calcutta",
+              "accountType": "atlassian"
+            },
+            "created": "2025-07-03T17:49:46.194+0530",
+            "size": 3012,
+            "mimeType": "text/plain",
+            "content": "https://idealabprojects.atlassian.net/rest/api/3/attachment/content/11129"
+          }
+        ],
+        "aggregatetimeestimate": null,
+        "resolutiondate": "2025-07-03T17:51:20.082+0530",
+        "workratio": -1,
+        "summary": "Ad hock Task",
+        "watches": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/DA-3/watchers",
+          "watchCount": 1,
+          "isWatching": false
+        },
+        "lastViewed": null,
+        "creator": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ac582aaec-f7e7-45a0-8737-08d953fcbef7",
+          "accountId": "712020:c582aaec-f7e7-45a0-8737-08d953fcbef7",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png",
+            "24x24": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png",
+            "16x16": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png",
+            "32x32": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png"
+          },
+          "displayName": "sayeli chakraborty",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "subtasks": [],
+        "created": "2025-07-03T17:49:34.656+0530",
+        "reporter": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ac582aaec-f7e7-45a0-8737-08d953fcbef7",
+          "accountId": "712020:c582aaec-f7e7-45a0-8737-08d953fcbef7",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png",
+            "24x24": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png",
+            "16x16": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png",
+            "32x32": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png"
+          },
+          "displayName": "sayeli chakraborty",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "aggregateprogress": {
+          "progress": 0,
+          "total": 0
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "customfield_10001": null,
+        "labels": [],
+        "environment": null,
+        "customfield_10019": "0|i006b3:",
+        "timeestimate": null,
+        "aggregatetimeoriginalestimate": null,
+        "versions": [],
         "duedate": "2025-07-03",
+        "progress": {
+          "progress": 0,
+          "total": 0
+        },
+        "issuelinks": [],
+        "votes": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/DA-3/votes",
+          "votes": 0,
+          "hasVoted": false
+        },
+        "comment": {
+          "comments": [
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11251/comment/13892",
+              "id": "13892",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ac582aaec-f7e7-45a0-8737-08d953fcbef7",
+                "accountId": "712020:c582aaec-f7e7-45a0-8737-08d953fcbef7",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png",
+                  "24x24": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png",
+                  "16x16": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png",
+                  "32x32": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png"
+                },
+                "displayName": "sayeli chakraborty",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "body": {
+                "type": "doc",
+                "version": 1,
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Requirement by PPC Team "
+                      },
+                      {
+                        "type": "mention",
+                        "attrs": {
+                          "id": "712020:9d81cbd5-bff1-466b-8d31-4a2dd10b964e",
+                          "text": "@Arin Chaudhuri",
+                          "accessLevel": "",
+                          "localId": "22d91b8c-4f0b-4393-ba75-9082237cb80b"
+                        }
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  }
+                ]
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ac582aaec-f7e7-45a0-8737-08d953fcbef7",
+                "accountId": "712020:c582aaec-f7e7-45a0-8737-08d953fcbef7",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png",
+                  "24x24": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png",
+                  "16x16": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png",
+                  "32x32": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png"
+                },
+                "displayName": "sayeli chakraborty",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "created": "2025-07-03T17:51:12.172+0530",
+              "updated": "2025-07-03T17:51:12.172+0530",
+              "jsdPublic": true
+            }
+          ],
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11251/comment",
+          "maxResults": 1,
+          "total": 1,
+          "startAt": 0
+        },
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=628b7d1aab91fe0070973fa6",
           "accountId": "628b7d1aab91fe0070973fa6",
@@ -297,11 +2336,11 @@
           "timeZone": "Asia/Kolkata",
           "accountType": "atlassian"
         },
-        "priority": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
-          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
-          "name": "Medium",
-          "id": "3"
+        "worklog": {
+          "startAt": 0,
+          "maxResults": 20,
+          "total": 0,
+          "worklogs": []
         },
         "updated": "2025-07-03T17:51:30.267+0530",
         "status": {
@@ -326,10 +2365,219 @@
       "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11167",
       "key": "DA-2",
       "fields": {
-        "summary": "Ad Hoc Tasks",
-        "created": "2025-06-27T16:11:40.067+0530",
+        "statuscategorychangedate": "2025-07-03T17:48:33.365+0530",
+        "issuetype": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issuetype/10448",
+          "id": "10448",
+          "description": "A small, distinct piece of work.",
+          "iconUrl": "https://idealabprojects.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10318?size=medium",
+          "name": "Task",
+          "subtask": false,
+          "avatarId": 10318,
+          "entityId": "6a0a77e4-cc6c-49f9-bda8-5fac22e8a44e",
+          "hierarchyLevel": 0
+        },
+        "components": [],
         "timespent": null,
+        "timeoriginalestimate": null,
+        "project": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/project/10421",
+          "id": "10421",
+          "key": "DA",
+          "name": "Data Analytics",
+          "projectTypeKey": "business",
+          "simplified": true,
+          "avatarUrls": {
+            "48x48": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10408",
+            "24x24": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10408?size=small",
+            "16x16": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10408?size=xsmall",
+            "32x32": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10408?size=medium"
+          }
+        },
+        "description": null,
+        "fixVersions": [],
+        "customfield_10033": null,
+        "aggregatetimespent": null,
+        "statusCategory": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+          "id": 3,
+          "key": "done",
+          "colorName": "green",
+          "name": "Done"
+        },
+        "resolution": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/resolution/10000",
+          "id": "10000",
+          "description": "Work has been completed on this work item.",
+          "name": "Done"
+        },
+        "timetracking": {},
+        "customfield_10015": "2025-07-01",
+        "security": null,
+        "attachment": [
+          {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/attachment/11128",
+            "id": "11128",
+            "filename": "jan25 to jun 25 ppc pages.csv",
+            "author": {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ac582aaec-f7e7-45a0-8737-08d953fcbef7",
+              "accountId": "712020:c582aaec-f7e7-45a0-8737-08d953fcbef7",
+              "avatarUrls": {
+                "48x48": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png",
+                "24x24": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png",
+                "16x16": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png",
+                "32x32": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png"
+              },
+              "displayName": "sayeli chakraborty",
+              "active": true,
+              "timeZone": "Asia/Calcutta",
+              "accountType": "atlassian"
+            },
+            "created": "2025-07-03T17:47:49.809+0530",
+            "size": 2578937,
+            "mimeType": "text/plain",
+            "content": "https://idealabprojects.atlassian.net/rest/api/3/attachment/content/11128"
+          }
+        ],
+        "aggregatetimeestimate": null,
+        "resolutiondate": "2025-07-03T17:48:33.343+0530",
+        "workratio": -1,
+        "summary": "Ad Hoc Tasks",
+        "watches": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/DA-2/watchers",
+          "watchCount": 2,
+          "isWatching": false
+        },
+        "lastViewed": null,
+        "creator": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=628b7d1aab91fe0070973fa6",
+          "accountId": "628b7d1aab91fe0070973fa6",
+          "avatarUrls": {
+            "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/48",
+            "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/24",
+            "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/16",
+            "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/32"
+          },
+          "displayName": "Sudhir Yadav1",
+          "active": true,
+          "timeZone": "Asia/Kolkata",
+          "accountType": "atlassian"
+        },
+        "subtasks": [],
+        "created": "2025-06-27T16:11:40.067+0530",
+        "reporter": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=628b7d1aab91fe0070973fa6",
+          "accountId": "628b7d1aab91fe0070973fa6",
+          "avatarUrls": {
+            "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/48",
+            "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/24",
+            "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/16",
+            "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/32"
+          },
+          "displayName": "Sudhir Yadav1",
+          "active": true,
+          "timeZone": "Asia/Kolkata",
+          "accountType": "atlassian"
+        },
+        "aggregateprogress": {
+          "progress": 0,
+          "total": 0
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "customfield_10001": null,
+        "labels": [],
+        "environment": null,
+        "customfield_10019": "0|i005tj:",
+        "timeestimate": null,
+        "aggregatetimeoriginalestimate": null,
+        "versions": [],
         "duedate": "2025-07-02",
+        "progress": {
+          "progress": 0,
+          "total": 0
+        },
+        "issuelinks": [],
+        "votes": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/DA-2/votes",
+          "votes": 0,
+          "hasVoted": false
+        },
+        "comment": {
+          "comments": [
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11167/comment/13891",
+              "id": "13891",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ac582aaec-f7e7-45a0-8737-08d953fcbef7",
+                "accountId": "712020:c582aaec-f7e7-45a0-8737-08d953fcbef7",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png",
+                  "24x24": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png",
+                  "16x16": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png",
+                  "32x32": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png"
+                },
+                "displayName": "sayeli chakraborty",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "body": {
+                "type": "doc",
+                "version": 1,
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Requirement of PPC Team. "
+                      },
+                      {
+                        "type": "mention",
+                        "attrs": {
+                          "id": "712020:87014598-7fc2-4a58-bbc5-8ec01fc54856",
+                          "text": "@Deepakshi saini",
+                          "accessLevel": "",
+                          "localId": "6da67b3b-f835-43f7-96db-58c3093f9cca"
+                        }
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  }
+                ]
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ac582aaec-f7e7-45a0-8737-08d953fcbef7",
+                "accountId": "712020:c582aaec-f7e7-45a0-8737-08d953fcbef7",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png",
+                  "24x24": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png",
+                  "16x16": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png",
+                  "32x32": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png"
+                },
+                "displayName": "sayeli chakraborty",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "created": "2025-07-03T17:48:43.106+0530",
+              "updated": "2025-07-03T17:48:43.106+0530",
+              "jsdPublic": true
+            }
+          ],
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11167/comment",
+          "maxResults": 1,
+          "total": 1,
+          "startAt": 0
+        },
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ac582aaec-f7e7-45a0-8737-08d953fcbef7",
           "accountId": "712020:c582aaec-f7e7-45a0-8737-08d953fcbef7",
@@ -344,11 +2592,11 @@
           "timeZone": "Asia/Calcutta",
           "accountType": "atlassian"
         },
-        "priority": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
-          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
-          "name": "Medium",
-          "id": "3"
+        "worklog": {
+          "startAt": 0,
+          "maxResults": 20,
+          "total": 0,
+          "worklogs": []
         },
         "updated": "2025-07-03T17:48:43.280+0530",
         "status": {
@@ -373,10 +2621,200 @@
       "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11166",
       "key": "DA-1",
       "fields": {
-        "summary": "Power BI",
-        "created": "2025-06-27T16:10:46.577+0530",
+        "statuscategorychangedate": "2025-07-03T17:46:25.027+0530",
+        "issuetype": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issuetype/10448",
+          "id": "10448",
+          "description": "A small, distinct piece of work.",
+          "iconUrl": "https://idealabprojects.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10318?size=medium",
+          "name": "Task",
+          "subtask": false,
+          "avatarId": 10318,
+          "entityId": "6a0a77e4-cc6c-49f9-bda8-5fac22e8a44e",
+          "hierarchyLevel": 0
+        },
+        "components": [],
         "timespent": null,
+        "timeoriginalestimate": null,
+        "project": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/project/10421",
+          "id": "10421",
+          "key": "DA",
+          "name": "Data Analytics",
+          "projectTypeKey": "business",
+          "simplified": true,
+          "avatarUrls": {
+            "48x48": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10408",
+            "24x24": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10408?size=small",
+            "16x16": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10408?size=xsmall",
+            "32x32": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10408?size=medium"
+          }
+        },
+        "description": {
+          "type": "doc",
+          "version": 1,
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "All power Bi Reports updated in this sheet. It will be always IP Process State"
+                }
+              ]
+            }
+          ]
+        },
+        "fixVersions": [],
+        "customfield_10033": null,
+        "aggregatetimespent": null,
+        "statusCategory": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/4",
+          "id": 4,
+          "key": "indeterminate",
+          "colorName": "yellow",
+          "name": "In Progress"
+        },
+        "resolution": null,
+        "timetracking": {},
+        "customfield_10015": null,
+        "security": null,
+        "attachment": [],
+        "aggregatetimeestimate": null,
+        "resolutiondate": null,
+        "workratio": -1,
+        "summary": "Power BI",
+        "watches": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/DA-1/watchers",
+          "watchCount": 2,
+          "isWatching": false
+        },
+        "lastViewed": null,
+        "creator": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=628b7d1aab91fe0070973fa6",
+          "accountId": "628b7d1aab91fe0070973fa6",
+          "avatarUrls": {
+            "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/48",
+            "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/24",
+            "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/16",
+            "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/32"
+          },
+          "displayName": "Sudhir Yadav1",
+          "active": true,
+          "timeZone": "Asia/Kolkata",
+          "accountType": "atlassian"
+        },
+        "subtasks": [],
+        "created": "2025-06-27T16:10:46.577+0530",
+        "reporter": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=628b7d1aab91fe0070973fa6",
+          "accountId": "628b7d1aab91fe0070973fa6",
+          "avatarUrls": {
+            "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/48",
+            "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/24",
+            "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/16",
+            "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/32"
+          },
+          "displayName": "Sudhir Yadav1",
+          "active": true,
+          "timeZone": "Asia/Kolkata",
+          "accountType": "atlassian"
+        },
+        "aggregateprogress": {
+          "progress": 0,
+          "total": 0
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "customfield_10001": null,
+        "labels": [],
+        "environment": null,
+        "customfield_10019": "0|i005tb:",
+        "timeestimate": null,
+        "aggregatetimeoriginalestimate": null,
+        "versions": [],
         "duedate": null,
+        "progress": {
+          "progress": 0,
+          "total": 0
+        },
+        "issuelinks": [],
+        "votes": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/DA-1/votes",
+          "votes": 0,
+          "hasVoted": false
+        },
+        "comment": {
+          "comments": [
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11166/comment/13890",
+              "id": "13890",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ac582aaec-f7e7-45a0-8737-08d953fcbef7",
+                "accountId": "712020:c582aaec-f7e7-45a0-8737-08d953fcbef7",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png",
+                  "24x24": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png",
+                  "16x16": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png",
+                  "32x32": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png"
+                },
+                "displayName": "sayeli chakraborty",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "body": {
+                "type": "doc",
+                "version": 1,
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "mention",
+                        "attrs": {
+                          "id": "628b7d1aab91fe0070973fa6",
+                          "text": "@Sudhir Yadav1",
+                          "accessLevel": "",
+                          "localId": "1660db60-f38c-4378-a1a9-76229ebf5478"
+                        }
+                      },
+                      {
+                        "type": "text",
+                        "text": " attached the link"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ac582aaec-f7e7-45a0-8737-08d953fcbef7",
+                "accountId": "712020:c582aaec-f7e7-45a0-8737-08d953fcbef7",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png",
+                  "24x24": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png",
+                  "16x16": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png",
+                  "32x32": "https://secure.gravatar.com/avatar/e7c51d584fdabb933b798a390eb0476d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSC-6.png"
+                },
+                "displayName": "sayeli chakraborty",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "created": "2025-07-03T17:47:03.004+0530",
+              "updated": "2025-07-03T17:47:03.004+0530",
+              "jsdPublic": true
+            }
+          ],
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11166/comment",
+          "maxResults": 1,
+          "total": 1,
+          "startAt": 0
+        },
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ac582aaec-f7e7-45a0-8737-08d953fcbef7",
           "accountId": "712020:c582aaec-f7e7-45a0-8737-08d953fcbef7",
@@ -391,11 +2829,11 @@
           "timeZone": "Asia/Calcutta",
           "accountType": "atlassian"
         },
-        "priority": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
-          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
-          "name": "Medium",
-          "id": "3"
+        "worklog": {
+          "startAt": 0,
+          "maxResults": 20,
+          "total": 0,
+          "worklogs": []
         },
         "updated": "2025-07-03T19:51:36.862+0530",
         "status": {
@@ -414,5 +2852,6 @@
         }
       }
     }
-  ]
+  ],
+  "isLast": true
 }
