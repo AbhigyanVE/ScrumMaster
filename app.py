@@ -711,7 +711,7 @@ def main():
         st.markdown("## 🤖 AI Scrum Master Agent")
     with col2:
         st.markdown(
-            "<p style='text-align: right; font-size: 20px; margin-top: 18px;'><b>Version 3.1.1</b></p>",
+            "<p style='text-align: right; font-size: 20px; margin-top: 18px;'><b>Version 3.2</b></p>",
             unsafe_allow_html=True
         )
     st.markdown("*Your intelligent Agile assistant with context-aware reasoning*")

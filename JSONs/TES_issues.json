@@ -2,6 +2,275 @@
   "issues": [
     {
       "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "14617",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14617",
+      "key": "TES-182",
+      "fields": {
+        "statuscategorychangedate": "2025-12-15T11:33:22.070+0530",
+        "issuetype": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issuetype/10008",
+          "id": "10008",
+          "description": "A small, distinct piece of work.",
+          "iconUrl": "https://idealabprojects.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10318?size=medium",
+          "name": "Task",
+          "subtask": false,
+          "avatarId": 10318,
+          "entityId": "d699efe4-9b05-4d52-995d-1e5205d6cc14",
+          "hierarchyLevel": 0
+        },
+        "components": [],
+        "timespent": null,
+        "timeoriginalestimate": null,
+        "project": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/project/10003",
+          "id": "10003",
+          "key": "TES",
+          "name": "PPC Landing Pages & Ads",
+          "projectTypeKey": "business",
+          "simplified": true,
+          "avatarUrls": {
+            "48x48": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10424",
+            "24x24": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10424?size=small",
+            "16x16": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10424?size=xsmall",
+            "32x32": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10424?size=medium"
+          }
+        },
+        "description": {
+          "type": "doc",
+          "version": 1,
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Content Draft: "
+                },
+                {
+                  "type": "inlineCard",
+                  "attrs": {
+                    "url": "https://vemp.sharepoint.com/:w:/s/Trackers-IdeaLabTeam/EYvOrJoYm2pDmR4E_iyVZXMBNENiLUtHIIS1ICvdDMv2WA?e=jBdald&CID=5cf9b657-cd3a-0871-1aae-c920a05ac79b"
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " "
+                },
+                {
+                  "type": "hardBreak"
+                },
+                {
+                  "type": "text",
+                  "text": "Figma link: "
+                },
+                {
+                  "type": "inlineCard",
+                  "attrs": {
+                    "url": "https://www.figma.com/proto/b7j2hqVzGChBUXFZ6nKGpH/Hire-Freelancer-India---PPC-Page?page-id=0%3A1&node-id=16-312&p=f&viewport=-951%2C-637%2C0.5&t=SwedA3fQcyTPLJC5-8&scaling=scale-down-width&content-scaling=fixed&starting-point-node-id=16%3A312&hide-ui=1"
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " "
+                }
+              ]
+            }
+          ]
+        },
+        "fixVersions": [],
+        "customfield_10033": null,
+        "aggregatetimespent": null,
+        "statusCategory": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
+          "id": 2,
+          "key": "new",
+          "colorName": "blue-gray",
+          "name": "To Do"
+        },
+        "resolution": null,
+        "timetracking": {},
+        "customfield_10015": null,
+        "security": null,
+        "attachment": [],
+        "aggregatetimeestimate": null,
+        "resolutiondate": null,
+        "workratio": -1,
+        "summary": "Development: Hire Freelancer India PPC Page ",
+        "watches": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/TES-182/watchers",
+          "watchCount": 1,
+          "isWatching": false
+        },
+        "lastViewed": null,
+        "creator": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A87014598-7fc2-4a58-bbc5-8ec01fc54856",
+          "accountId": "712020:87014598-7fc2-4a58-bbc5-8ec01fc54856",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/20f56106f26bf5669c2f46835ef78571?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDS-1.png",
+            "24x24": "https://secure.gravatar.com/avatar/20f56106f26bf5669c2f46835ef78571?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDS-1.png",
+            "16x16": "https://secure.gravatar.com/avatar/20f56106f26bf5669c2f46835ef78571?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDS-1.png",
+            "32x32": "https://secure.gravatar.com/avatar/20f56106f26bf5669c2f46835ef78571?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDS-1.png"
+          },
+          "displayName": "Deepakshi saini",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "subtasks": [],
+        "created": "2025-12-15T11:33:21.783+0530",
+        "customfield_10021": null,
+        "reporter": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A87014598-7fc2-4a58-bbc5-8ec01fc54856",
+          "accountId": "712020:87014598-7fc2-4a58-bbc5-8ec01fc54856",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/20f56106f26bf5669c2f46835ef78571?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDS-1.png",
+            "24x24": "https://secure.gravatar.com/avatar/20f56106f26bf5669c2f46835ef78571?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDS-1.png",
+            "16x16": "https://secure.gravatar.com/avatar/20f56106f26bf5669c2f46835ef78571?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDS-1.png",
+            "32x32": "https://secure.gravatar.com/avatar/20f56106f26bf5669c2f46835ef78571?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDS-1.png"
+          },
+          "displayName": "Deepakshi saini",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "aggregateprogress": {
+          "progress": 0,
+          "total": 0
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "customfield_10001": null,
+        "labels": [],
+        "environment": null,
+        "customfield_10019": "0|i00dkv:",
+        "timeestimate": null,
+        "aggregatetimeoriginalestimate": null,
+        "versions": [],
+        "duedate": null,
+        "progress": {
+          "progress": 0,
+          "total": 0
+        },
+        "issuelinks": [],
+        "votes": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/TES-182/votes",
+          "votes": 0,
+          "hasVoted": false
+        },
+        "comment": {
+          "comments": [
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14617/comment/19138",
+              "id": "19138",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A87014598-7fc2-4a58-bbc5-8ec01fc54856",
+                "accountId": "712020:87014598-7fc2-4a58-bbc5-8ec01fc54856",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/20f56106f26bf5669c2f46835ef78571?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDS-1.png",
+                  "24x24": "https://secure.gravatar.com/avatar/20f56106f26bf5669c2f46835ef78571?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDS-1.png",
+                  "16x16": "https://secure.gravatar.com/avatar/20f56106f26bf5669c2f46835ef78571?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDS-1.png",
+                  "32x32": "https://secure.gravatar.com/avatar/20f56106f26bf5669c2f46835ef78571?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDS-1.png"
+                },
+                "displayName": "Deepakshi saini",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "body": {
+                "type": "doc",
+                "version": 1,
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Hi "
+                      },
+                      {
+                        "type": "mention",
+                        "attrs": {
+                          "id": "712020:3ca97815-9cd0-469f-ab3f-a8b1afc2de2d",
+                          "text": "@Vidhu Mishra",
+                          "accessLevel": "",
+                          "localId": "6a27eb92-f32c-403c-9351-80575333fb91"
+                        }
+                      },
+                      {
+                        "type": "text",
+                        "text": " Please create this page. "
+                      }
+                    ]
+                  }
+                ]
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A87014598-7fc2-4a58-bbc5-8ec01fc54856",
+                "accountId": "712020:87014598-7fc2-4a58-bbc5-8ec01fc54856",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/20f56106f26bf5669c2f46835ef78571?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDS-1.png",
+                  "24x24": "https://secure.gravatar.com/avatar/20f56106f26bf5669c2f46835ef78571?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDS-1.png",
+                  "16x16": "https://secure.gravatar.com/avatar/20f56106f26bf5669c2f46835ef78571?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDS-1.png",
+                  "32x32": "https://secure.gravatar.com/avatar/20f56106f26bf5669c2f46835ef78571?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDS-1.png"
+                },
+                "displayName": "Deepakshi saini",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "created": "2025-12-15T11:34:44.895+0530",
+              "updated": "2025-12-15T11:34:44.895+0530",
+              "jsdPublic": true
+            }
+          ],
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14617/comment",
+          "maxResults": 1,
+          "total": 1,
+          "startAt": 0
+        },
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3ca97815-9cd0-469f-ab3f-a8b1afc2de2d",
+          "accountId": "712020:3ca97815-9cd0-469f-ab3f-a8b1afc2de2d",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/d6bc588e482c27e8bccceb77c6992a83?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVM-4.png",
+            "24x24": "https://secure.gravatar.com/avatar/d6bc588e482c27e8bccceb77c6992a83?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVM-4.png",
+            "16x16": "https://secure.gravatar.com/avatar/d6bc588e482c27e8bccceb77c6992a83?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVM-4.png",
+            "32x32": "https://secure.gravatar.com/avatar/d6bc588e482c27e8bccceb77c6992a83?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVM-4.png"
+          },
+          "displayName": "Vidhu Mishra",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "worklog": {
+          "startAt": 0,
+          "maxResults": 20,
+          "total": 0,
+          "worklogs": []
+        },
+        "updated": "2025-12-15T11:34:48.358+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10016",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "To Do",
+          "id": "10016",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
+            "id": 2,
+            "key": "new",
+            "colorName": "blue-gray",
+            "name": "To Do"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
       "id": "14553",
       "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14553",
       "key": "TES-181",
@@ -72508,814 +72777,8 @@
           }
         }
       }
-    },
-    {
-      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
-      "id": "10355",
-      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/10355",
-      "key": "TES-76",
-      "fields": {
-        "statuscategorychangedate": "2025-04-22T16:01:57.157+0530",
-        "issuetype": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/issuetype/10008",
-          "id": "10008",
-          "description": "A small, distinct piece of work.",
-          "iconUrl": "https://idealabprojects.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10318?size=medium",
-          "name": "Task",
-          "subtask": false,
-          "avatarId": 10318,
-          "entityId": "d699efe4-9b05-4d52-995d-1e5205d6cc14",
-          "hierarchyLevel": 0
-        },
-        "components": [],
-        "timespent": null,
-        "timeoriginalestimate": null,
-        "project": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/project/10003",
-          "id": "10003",
-          "key": "TES",
-          "name": "PPC Landing Pages & Ads",
-          "projectTypeKey": "business",
-          "simplified": true,
-          "avatarUrls": {
-            "48x48": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10424",
-            "24x24": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10424?size=small",
-            "16x16": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10424?size=xsmall",
-            "32x32": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10424?size=medium"
-          }
-        },
-        "description": {
-          "type": "doc",
-          "version": 1,
-          "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "VA PPC page version 1: "
-                },
-                {
-                  "type": "inlineCard",
-                  "attrs": {
-                    "url": "https://www.figma.com/proto/RKiDz674er5jhAmJUdvWVg/VA-Page?page-id=5752%3A2831&node-id=15771-6408&viewport=-1316%2C78%2C0.04&t=VObDHdLKWWon85qn-8&scaling=scale-down-width&content-scaling=fixed&starting-point-node-id=15771%3A6408&hide-ui=1"
-                  }
-                },
-                {
-                  "type": "text",
-                  "text": " "
-                }
-              ]
-            }
-          ]
-        },
-        "fixVersions": [],
-        "customfield_10033": null,
-        "aggregatetimespent": null,
-        "statusCategory": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
-          "id": 3,
-          "key": "done",
-          "colorName": "green",
-          "name": "Done"
-        },
-        "resolution": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/resolution/10000",
-          "id": "10000",
-          "description": "Work has been completed on this work item.",
-          "name": "Done"
-        },
-        "timetracking": {},
-        "customfield_10015": null,
-        "security": null,
-        "attachment": [],
-        "aggregatetimeestimate": null,
-        "resolutiondate": "2025-04-22T16:01:57.131+0530",
-        "workratio": -1,
-        "summary": "Development of VA PPC Page V1 (Sanjay's Design)",
-        "watches": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/TES-76/watchers",
-          "watchCount": 2,
-          "isWatching": false
-        },
-        "lastViewed": null,
-        "creator": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=628b7d1aab91fe0070973fa6",
-          "accountId": "628b7d1aab91fe0070973fa6",
-          "avatarUrls": {
-            "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/48",
-            "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/24",
-            "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/16",
-            "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/32"
-          },
-          "displayName": "Sudhir Yadav1",
-          "active": true,
-          "timeZone": "Asia/Kolkata",
-          "accountType": "atlassian"
-        },
-        "subtasks": [
-          {
-            "id": "10443",
-            "key": "TES-77",
-            "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/10443",
-            "fields": {
-              "summary": "Discussion with designer",
-              "status": {
-                "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10018",
-                "description": "",
-                "iconUrl": "https://idealabprojects.atlassian.net/",
-                "name": "Done",
-                "id": "10018",
-                "statusCategory": {
-                  "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
-                  "id": 3,
-                  "key": "done",
-                  "colorName": "green",
-                  "name": "Done"
-                }
-              },
-              "priority": {
-                "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
-                "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
-                "name": "Medium",
-                "id": "3"
-              },
-              "issuetype": {
-                "self": "https://idealabprojects.atlassian.net/rest/api/3/issuetype/10009",
-                "id": "10009",
-                "description": "A small piece of work that's part of a larger task.",
-                "iconUrl": "https://idealabprojects.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10316?size=medium",
-                "name": "Sub-task",
-                "subtask": true,
-                "avatarId": 10316,
-                "entityId": "b70b501f-1ad9-4a8c-b736-0b0cd896f477",
-                "hierarchyLevel": -1
-              }
-            }
-          },
-          {
-            "id": "10446",
-            "key": "TES-80",
-            "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/10446",
-            "fields": {
-              "summary": "Testing by tester",
-              "status": {
-                "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10018",
-                "description": "",
-                "iconUrl": "https://idealabprojects.atlassian.net/",
-                "name": "Done",
-                "id": "10018",
-                "statusCategory": {
-                  "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
-                  "id": 3,
-                  "key": "done",
-                  "colorName": "green",
-                  "name": "Done"
-                }
-              },
-              "priority": {
-                "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
-                "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
-                "name": "Medium",
-                "id": "3"
-              },
-              "issuetype": {
-                "self": "https://idealabprojects.atlassian.net/rest/api/3/issuetype/10009",
-                "id": "10009",
-                "description": "A small piece of work that's part of a larger task.",
-                "iconUrl": "https://idealabprojects.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10316?size=medium",
-                "name": "Sub-task",
-                "subtask": true,
-                "avatarId": 10316,
-                "entityId": "b70b501f-1ad9-4a8c-b736-0b0cd896f477",
-                "hierarchyLevel": -1
-              }
-            }
-          },
-          {
-            "id": "10447",
-            "key": "TES-81",
-            "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/10447",
-            "fields": {
-              "summary": "Review by Designer",
-              "status": {
-                "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10018",
-                "description": "",
-                "iconUrl": "https://idealabprojects.atlassian.net/",
-                "name": "Done",
-                "id": "10018",
-                "statusCategory": {
-                  "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
-                  "id": 3,
-                  "key": "done",
-                  "colorName": "green",
-                  "name": "Done"
-                }
-              },
-              "priority": {
-                "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
-                "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
-                "name": "Medium",
-                "id": "3"
-              },
-              "issuetype": {
-                "self": "https://idealabprojects.atlassian.net/rest/api/3/issuetype/10009",
-                "id": "10009",
-                "description": "A small piece of work that's part of a larger task.",
-                "iconUrl": "https://idealabprojects.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10316?size=medium",
-                "name": "Sub-task",
-                "subtask": true,
-                "avatarId": 10316,
-                "entityId": "b70b501f-1ad9-4a8c-b736-0b0cd896f477",
-                "hierarchyLevel": -1
-              }
-            }
-          },
-          {
-            "id": "10445",
-            "key": "TES-79",
-            "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/10445",
-            "fields": {
-              "summary": "Uploading on staging site",
-              "status": {
-                "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10018",
-                "description": "",
-                "iconUrl": "https://idealabprojects.atlassian.net/",
-                "name": "Done",
-                "id": "10018",
-                "statusCategory": {
-                  "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
-                  "id": 3,
-                  "key": "done",
-                  "colorName": "green",
-                  "name": "Done"
-                }
-              },
-              "priority": {
-                "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
-                "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
-                "name": "Medium",
-                "id": "3"
-              },
-              "issuetype": {
-                "self": "https://idealabprojects.atlassian.net/rest/api/3/issuetype/10009",
-                "id": "10009",
-                "description": "A small piece of work that's part of a larger task.",
-                "iconUrl": "https://idealabprojects.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10316?size=medium",
-                "name": "Sub-task",
-                "subtask": true,
-                "avatarId": 10316,
-                "entityId": "b70b501f-1ad9-4a8c-b736-0b0cd896f477",
-                "hierarchyLevel": -1
-              }
-            }
-          },
-          {
-            "id": "10449",
-            "key": "TES-83",
-            "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/10449",
-            "fields": {
-              "summary": "Review by PPC & CRO Team",
-              "status": {
-                "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10018",
-                "description": "",
-                "iconUrl": "https://idealabprojects.atlassian.net/",
-                "name": "Done",
-                "id": "10018",
-                "statusCategory": {
-                  "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
-                  "id": 3,
-                  "key": "done",
-                  "colorName": "green",
-                  "name": "Done"
-                }
-              },
-              "priority": {
-                "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
-                "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
-                "name": "Medium",
-                "id": "3"
-              },
-              "issuetype": {
-                "self": "https://idealabprojects.atlassian.net/rest/api/3/issuetype/10009",
-                "id": "10009",
-                "description": "A small piece of work that's part of a larger task.",
-                "iconUrl": "https://idealabprojects.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10316?size=medium",
-                "name": "Sub-task",
-                "subtask": true,
-                "avatarId": 10316,
-                "entityId": "b70b501f-1ad9-4a8c-b736-0b0cd896f477",
-                "hierarchyLevel": -1
-              }
-            }
-          },
-          {
-            "id": "10452",
-            "key": "TES-85",
-            "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/10452",
-            "fields": {
-              "summary": "Upload on Live Server & Share URL with PPC Team",
-              "status": {
-                "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10018",
-                "description": "",
-                "iconUrl": "https://idealabprojects.atlassian.net/",
-                "name": "Done",
-                "id": "10018",
-                "statusCategory": {
-                  "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
-                  "id": 3,
-                  "key": "done",
-                  "colorName": "green",
-                  "name": "Done"
-                }
-              },
-              "priority": {
-                "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
-                "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
-                "name": "Medium",
-                "id": "3"
-              },
-              "issuetype": {
-                "self": "https://idealabprojects.atlassian.net/rest/api/3/issuetype/10009",
-                "id": "10009",
-                "description": "A small piece of work that's part of a larger task.",
-                "iconUrl": "https://idealabprojects.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10316?size=medium",
-                "name": "Sub-task",
-                "subtask": true,
-                "avatarId": 10316,
-                "entityId": "b70b501f-1ad9-4a8c-b736-0b0cd896f477",
-                "hierarchyLevel": -1
-              }
-            }
-          },
-          {
-            "id": "10523",
-            "key": "TES-86",
-            "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/10523",
-            "fields": {
-              "summary": "Review by Designer",
-              "status": {
-                "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10018",
-                "description": "",
-                "iconUrl": "https://idealabprojects.atlassian.net/",
-                "name": "Done",
-                "id": "10018",
-                "statusCategory": {
-                  "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
-                  "id": 3,
-                  "key": "done",
-                  "colorName": "green",
-                  "name": "Done"
-                }
-              },
-              "priority": {
-                "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
-                "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
-                "name": "Medium",
-                "id": "3"
-              },
-              "issuetype": {
-                "self": "https://idealabprojects.atlassian.net/rest/api/3/issuetype/10009",
-                "id": "10009",
-                "description": "A small piece of work that's part of a larger task.",
-                "iconUrl": "https://idealabprojects.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10316?size=medium",
-                "name": "Sub-task",
-                "subtask": true,
-                "avatarId": 10316,
-                "entityId": "b70b501f-1ad9-4a8c-b736-0b0cd896f477",
-                "hierarchyLevel": -1
-              }
-            }
-          },
-          {
-            "id": "10448",
-            "key": "TES-82",
-            "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/10448",
-            "fields": {
-              "summary": "Review by Writer",
-              "status": {
-                "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10018",
-                "description": "",
-                "iconUrl": "https://idealabprojects.atlassian.net/",
-                "name": "Done",
-                "id": "10018",
-                "statusCategory": {
-                  "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
-                  "id": 3,
-                  "key": "done",
-                  "colorName": "green",
-                  "name": "Done"
-                }
-              },
-              "priority": {
-                "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
-                "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
-                "name": "Medium",
-                "id": "3"
-              },
-              "issuetype": {
-                "self": "https://idealabprojects.atlassian.net/rest/api/3/issuetype/10009",
-                "id": "10009",
-                "description": "A small piece of work that's part of a larger task.",
-                "iconUrl": "https://idealabprojects.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10316?size=medium",
-                "name": "Sub-task",
-                "subtask": true,
-                "avatarId": 10316,
-                "entityId": "b70b501f-1ad9-4a8c-b736-0b0cd896f477",
-                "hierarchyLevel": -1
-              }
-            }
-          }
-        ],
-        "created": "2025-03-28T20:34:04.153+0530",
-        "customfield_10021": null,
-        "reporter": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=628b7d1aab91fe0070973fa6",
-          "accountId": "628b7d1aab91fe0070973fa6",
-          "avatarUrls": {
-            "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/48",
-            "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/24",
-            "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/16",
-            "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/32"
-          },
-          "displayName": "Sudhir Yadav1",
-          "active": true,
-          "timeZone": "Asia/Kolkata",
-          "accountType": "atlassian"
-        },
-        "aggregateprogress": {
-          "progress": 0,
-          "total": 0
-        },
-        "priority": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
-          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
-          "name": "Medium",
-          "id": "3"
-        },
-        "customfield_10001": null,
-        "labels": [],
-        "environment": null,
-        "customfield_10019": "0|i001x7:",
-        "timeestimate": null,
-        "aggregatetimeoriginalestimate": null,
-        "versions": [],
-        "duedate": "2025-05-02",
-        "progress": {
-          "progress": 0,
-          "total": 0
-        },
-        "issuelinks": [],
-        "votes": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/TES-76/votes",
-          "votes": 0,
-          "hasVoted": false
-        },
-        "comment": {
-          "comments": [
-            {
-              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/10355/comment/11100",
-              "id": "11100",
-              "author": {
-                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=628b7d1aab91fe0070973fa6",
-                "accountId": "628b7d1aab91fe0070973fa6",
-                "avatarUrls": {
-                  "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/48",
-                  "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/24",
-                  "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/16",
-                  "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/32"
-                },
-                "displayName": "Sudhir Yadav1",
-                "active": true,
-                "timeZone": "Asia/Kolkata",
-                "accountType": "atlassian"
-              },
-              "body": {
-                "type": "doc",
-                "version": 1,
-                "content": [
-                  {
-                    "type": "paragraph",
-                    "content": [
-                      {
-                        "type": "text",
-                        "text": "Hi "
-                      },
-                      {
-                        "type": "mention",
-                        "attrs": {
-                          "id": "712020:3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
-                          "text": "@Vikas Bhardwaj",
-                          "accessLevel": "",
-                          "localId": "8359020a-0bcd-4258-bd60-8bf00c50e8e9"
-                        }
-                      },
-                      {
-                        "type": "text",
-                        "text": " , Please start working on version 1 of the VA PPC page from tomorrow:"
-                      }
-                    ]
-                  },
-                  {
-                    "type": "paragraph",
-                    "content": [
-                      {
-                        "type": "text",
-                        "text": "VA PPC page version 1:"
-                      },
-                      {
-                        "type": "inlineCard",
-                        "attrs": {
-                          "url": "https://www.figma.com/proto/RKiDz674er5jhAmJUdvWVg/VA-Page?page-id=5752%3A2831&node-id=15771-6408&viewport=-1316%2C78%2C0.04&t=VObDHdLKWWon85qn-8&scaling=scale-down-width&content-scaling=fixed&starting-point-node-id=15771%3A6408&hide-ui=1"
-                        }
-                      },
-                      {
-                        "type": "text",
-                        "text": " "
-                      }
-                    ]
-                  }
-                ]
-              },
-              "updateAuthor": {
-                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=628b7d1aab91fe0070973fa6",
-                "accountId": "628b7d1aab91fe0070973fa6",
-                "avatarUrls": {
-                  "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/48",
-                  "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/24",
-                  "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/16",
-                  "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/32"
-                },
-                "displayName": "Sudhir Yadav1",
-                "active": true,
-                "timeZone": "Asia/Kolkata",
-                "accountType": "atlassian"
-              },
-              "created": "2025-04-07T20:21:40.362+0530",
-              "updated": "2025-04-07T20:21:40.362+0530",
-              "jsdPublic": true
-            },
-            {
-              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/10355/comment/11943",
-              "id": "11943",
-              "author": {
-                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=628b7d1aab91fe0070973fa6",
-                "accountId": "628b7d1aab91fe0070973fa6",
-                "avatarUrls": {
-                  "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/48",
-                  "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/24",
-                  "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/16",
-                  "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/32"
-                },
-                "displayName": "Sudhir Yadav1",
-                "active": true,
-                "timeZone": "Asia/Kolkata",
-                "accountType": "atlassian"
-              },
-              "body": {
-                "type": "doc",
-                "version": 1,
-                "content": [
-                  {
-                    "type": "paragraph",
-                    "content": [
-                      {
-                        "type": "text",
-                        "text": "Hi "
-                      },
-                      {
-                        "type": "mention",
-                        "attrs": {
-                          "id": "712020:87014598-7fc2-4a58-bbc5-8ec01fc54856",
-                          "text": "@Deepakshi saini",
-                          "accessLevel": "",
-                          "localId": "bf3df645-d768-4d8f-91a6-822746d69aed"
-                        }
-                      },
-                      {
-                        "type": "text",
-                        "text": " "
-                      },
-                      {
-                        "type": "mention",
-                        "attrs": {
-                          "id": "712020:9d81cbd5-bff1-466b-8d31-4a2dd10b964e",
-                          "text": "@Arin Chaudhuri",
-                          "accessLevel": "",
-                          "localId": "a88c6939-f4c3-47b9-90fe-5815b1a73823"
-                        }
-                      },
-                      {
-                        "type": "text",
-                        "text": " Here is the page URL: "
-                      },
-                      {
-                        "type": "inlineCard",
-                        "attrs": {
-                          "url": "https://www.virtualemployee.com/da/virtual-assistant-one/"
-                        }
-                      },
-                      {
-                        "type": "text",
-                        "text": " "
-                      }
-                    ]
-                  }
-                ]
-              },
-              "updateAuthor": {
-                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=628b7d1aab91fe0070973fa6",
-                "accountId": "628b7d1aab91fe0070973fa6",
-                "avatarUrls": {
-                  "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/48",
-                  "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/24",
-                  "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/16",
-                  "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/32"
-                },
-                "displayName": "Sudhir Yadav1",
-                "active": true,
-                "timeZone": "Asia/Kolkata",
-                "accountType": "atlassian"
-              },
-              "created": "2025-05-02T13:28:24.473+0530",
-              "updated": "2025-05-02T13:29:06.367+0530",
-              "jsdPublic": true
-            },
-            {
-              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/10355/comment/11976",
-              "id": "11976",
-              "author": {
-                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A9d81cbd5-bff1-466b-8d31-4a2dd10b964e",
-                "accountId": "712020:9d81cbd5-bff1-466b-8d31-4a2dd10b964e",
-                "avatarUrls": {
-                  "48x48": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
-                  "24x24": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
-                  "16x16": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
-                  "32x32": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png"
-                },
-                "displayName": "Arin Chaudhuri",
-                "active": true,
-                "timeZone": "Asia/Calcutta",
-                "accountType": "atlassian"
-              },
-              "body": {
-                "type": "doc",
-                "version": 1,
-                "content": [
-                  {
-                    "type": "paragraph",
-                    "content": [
-                      {
-                        "type": "mention",
-                        "attrs": {
-                          "id": "628b7d1aab91fe0070973fa6",
-                          "text": "@Sudhir Yadav1",
-                          "accessLevel": "",
-                          "localId": "d2aa4852-b93c-4f4c-ae51-bbc2bc5e11d1"
-                        }
-                      },
-                      {
-                        "type": "text",
-                        "text": " sir, noted, will discuss with "
-                      },
-                      {
-                        "type": "mention",
-                        "attrs": {
-                          "id": "5f75e7c0021acf0076b238e7",
-                          "text": "@Anuradha Narwal",
-                          "accessLevel": "",
-                          "localId": "86012eb8-ac0f-4b16-9b6e-870662e3f377"
-                        }
-                      },
-                      {
-                        "type": "text",
-                        "text": " ma\u2019am to update in campaign or A/B test."
-                      }
-                    ]
-                  }
-                ]
-              },
-              "updateAuthor": {
-                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A9d81cbd5-bff1-466b-8d31-4a2dd10b964e",
-                "accountId": "712020:9d81cbd5-bff1-466b-8d31-4a2dd10b964e",
-                "avatarUrls": {
-                  "48x48": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
-                  "24x24": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
-                  "16x16": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
-                  "32x32": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png"
-                },
-                "displayName": "Arin Chaudhuri",
-                "active": true,
-                "timeZone": "Asia/Calcutta",
-                "accountType": "atlassian"
-              },
-              "created": "2025-05-03T12:07:14.902+0530",
-              "updated": "2025-05-03T12:07:14.902+0530",
-              "jsdPublic": true
-            },
-            {
-              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/10355/comment/12007",
-              "id": "12007",
-              "author": {
-                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A9d81cbd5-bff1-466b-8d31-4a2dd10b964e",
-                "accountId": "712020:9d81cbd5-bff1-466b-8d31-4a2dd10b964e",
-                "avatarUrls": {
-                  "48x48": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
-                  "24x24": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
-                  "16x16": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
-                  "32x32": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png"
-                },
-                "displayName": "Arin Chaudhuri",
-                "active": true,
-                "timeZone": "Asia/Calcutta",
-                "accountType": "atlassian"
-              },
-              "body": {
-                "type": "doc",
-                "version": 1,
-                "content": [
-                  {
-                    "type": "paragraph",
-                    "content": [
-                      {
-                        "type": "mention",
-                        "attrs": {
-                          "id": "628b7d1aab91fe0070973fa6",
-                          "text": "@Sudhir Yadav1",
-                          "accessLevel": "",
-                          "localId": "4f3f39ab-04cd-4e67-81ab-fdb76510dde3"
-                        }
-                      },
-                      {
-                        "type": "text",
-                        "text": " sir, as per discussion with Anuradha\u00a0ma'am, Deepakshi will setup multivariant A/B test."
-                      }
-                    ]
-                  }
-                ]
-              },
-              "updateAuthor": {
-                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A9d81cbd5-bff1-466b-8d31-4a2dd10b964e",
-                "accountId": "712020:9d81cbd5-bff1-466b-8d31-4a2dd10b964e",
-                "avatarUrls": {
-                  "48x48": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
-                  "24x24": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
-                  "16x16": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
-                  "32x32": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png"
-                },
-                "displayName": "Arin Chaudhuri",
-                "active": true,
-                "timeZone": "Asia/Calcutta",
-                "accountType": "atlassian"
-              },
-              "created": "2025-05-05T13:28:04.340+0530",
-              "updated": "2025-05-05T13:28:04.340+0530",
-              "jsdPublic": true
-            }
-          ],
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/10355/comment",
-          "maxResults": 4,
-          "total": 4,
-          "startAt": 0
-        },
-        "assignee": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
-          "accountId": "712020:3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
-          "avatarUrls": {
-            "48x48": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
-            "24x24": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
-            "16x16": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
-            "32x32": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png"
-          },
-          "displayName": "Vikas Bhardwaj",
-          "active": true,
-          "timeZone": "Asia/Calcutta",
-          "accountType": "atlassian"
-        },
-        "worklog": {
-          "startAt": 0,
-          "maxResults": 20,
-          "total": 0,
-          "worklogs": []
-        },
-        "updated": "2025-07-23T17:34:56.456+0530",
-        "status": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10018",
-          "description": "",
-          "iconUrl": "https://idealabprojects.atlassian.net/",
-          "name": "Done",
-          "id": "10018",
-          "statusCategory": {
-            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
-            "id": 3,
-            "key": "done",
-            "colorName": "green",
-            "name": "Done"
-          }
-        }
-      }
     }
   ],
-  "nextPageToken": "ChUjU3RyaW5nJlZFVlQlSW50Jk56WT0QZBjhhvTksTMiI3Byb2plY3QgPSAiUFBDIExhbmRpbmcgUGFnZXMgJiBBZHMiKgJbXQ==",
+  "nextPageToken": "ChUjU3RyaW5nJlZFVlQlSW50Jk56Yz0QZBin2q6HsjMiI3Byb2plY3QgPSAiUFBDIExhbmRpbmcgUGFnZXMgJiBBZHMiKgJbXQ==",
   "isLast": false
 }

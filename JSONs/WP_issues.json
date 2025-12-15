@@ -275,7 +275,31 @@
         "timetracking": {},
         "customfield_10015": "2025-12-11",
         "security": null,
-        "attachment": [],
+        "attachment": [
+          {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/attachment/13775",
+            "id": "13775",
+            "filename": "financial-and-account-faq.zip",
+            "author": {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
+              "accountId": "712020:3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
+              "avatarUrls": {
+                "48x48": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
+                "24x24": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
+                "16x16": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
+                "32x32": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png"
+              },
+              "displayName": "Vikas Bhardwaj",
+              "active": true,
+              "timeZone": "Asia/Calcutta",
+              "accountType": "atlassian"
+            },
+            "created": "2025-12-15T10:38:22.339+0530",
+            "size": 26518,
+            "mimeType": "application/zip",
+            "content": "https://idealabprojects.atlassian.net/rest/api/3/attachment/content/13775"
+          }
+        ],
         "aggregatetimeestimate": null,
         "resolutiondate": null,
         "workratio": -1,
@@ -408,11 +432,194 @@
               "created": "2025-12-11T10:28:55.063+0530",
               "updated": "2025-12-11T10:28:55.063+0530",
               "jsdPublic": true
+            },
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14576/comment/19136",
+              "id": "19136",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
+                "accountId": "712020:3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
+                  "24x24": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
+                  "16x16": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
+                  "32x32": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png"
+                },
+                "displayName": "Vikas Bhardwaj",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "body": {
+                "type": "doc",
+                "version": 1,
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "mention",
+                        "attrs": {
+                          "id": "628b7d1aab91fe0070973fa6",
+                          "text": "@Sudhir Yadav1",
+                          "accessLevel": "",
+                          "localId": "9735f752-0936-4573-bf1e-30f6f5dc0f7b"
+                        }
+                      },
+                      {
+                        "type": "text",
+                        "text": " , "
+                      },
+                      {
+                        "type": "mention",
+                        "attrs": {
+                          "id": "712020:b3fb05f7-bcf9-4f26-a159-e1c927917fdf",
+                          "text": "@Mrityunjay Kumar",
+                          "accessLevel": "",
+                          "localId": "0855398b-3d6c-42fd-bfa3-a7a94bdd44ee"
+                        }
+                      },
+                      {
+                        "type": "text",
+                        "text": " , FAQs New html has been done."
+                      },
+                      {
+                        "type": "hardBreak"
+                      },
+                      {
+                        "type": "text",
+                        "text": "Attached files for faqs new."
+                      },
+                      {
+                        "type": "hardBreak"
+                      },
+                      {
+                        "type": "mediaInline",
+                        "attrs": {
+                          "id": "7c1c05b3-15f1-4d2e-9a65-bbe9666704e3",
+                          "collection": "",
+                          "type": "file"
+                        }
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  }
+                ]
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
+                "accountId": "712020:3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
+                  "24x24": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
+                  "16x16": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
+                  "32x32": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png"
+                },
+                "displayName": "Vikas Bhardwaj",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "created": "2025-12-15T10:38:23.754+0530",
+              "updated": "2025-12-15T10:38:23.754+0530",
+              "jsdPublic": true
+            },
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14576/comment/19139",
+              "id": "19139",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
+                "accountId": "712020:3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
+                  "24x24": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
+                  "16x16": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
+                  "32x32": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png"
+                },
+                "displayName": "Vikas Bhardwaj",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "body": {
+                "type": "doc",
+                "version": 1,
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "mention",
+                        "attrs": {
+                          "id": "628b7d1aab91fe0070973fa6",
+                          "text": "@Sudhir Yadav1",
+                          "accessLevel": "",
+                          "localId": "d9906238-b28c-443c-bf57-be766c4ae470"
+                        }
+                      },
+                      {
+                        "type": "text",
+                        "text": " , "
+                      },
+                      {
+                        "type": "mention",
+                        "attrs": {
+                          "id": "712020:b3fb05f7-bcf9-4f26-a159-e1c927917fdf",
+                          "text": "@Mrityunjay Kumar",
+                          "accessLevel": "",
+                          "localId": "4b389124-6258-4190-b88e-8f5615f08e70"
+                        }
+                      },
+                      {
+                        "type": "text",
+                        "text": " , "
+                      },
+                      {
+                        "type": "hardBreak"
+                      },
+                      {
+                        "type": "text",
+                        "text": "stag URL: "
+                      },
+                      {
+                        "type": "inlineCard",
+                        "attrs": {
+                          "url": "https://stag.virtualemployee.com/financial-and-account-faqs/bookkeeping"
+                        }
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  }
+                ]
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
+                "accountId": "712020:3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
+                  "24x24": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
+                  "16x16": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
+                  "32x32": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png"
+                },
+                "displayName": "Vikas Bhardwaj",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "created": "2025-12-15T11:42:57.369+0530",
+              "updated": "2025-12-15T11:42:57.369+0530",
+              "jsdPublic": true
             }
           ],
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14576/comment",
-          "maxResults": 1,
-          "total": 1,
+          "maxResults": 3,
+          "total": 3,
           "startAt": 0
         },
         "assignee": {
@@ -435,7 +642,7 @@
           "total": 0,
           "worklogs": []
         },
-        "updated": "2025-12-11T10:29:09.767+0530",
+        "updated": "2025-12-15T11:42:57.369+0530",
         "status": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10100",
           "description": "This work item is being actively worked on at the moment by the assignee.",
@@ -35350,6 +35557,6 @@
       }
     }
   ],
-  "nextPageToken": "ChUjU3RyaW5nJlYxQT0lSW50Jk5qTT0QZBjMqvTksTMiGXByb2plY3QgPSAiV2Vic2l0ZSBQYWdlcyIqAltd",
+  "nextPageToken": "ChUjU3RyaW5nJlYxQT0lSW50Jk5qTT0QZBiHgq-HsjMiGXByb2plY3QgPSAiV2Vic2l0ZSBQYWdlcyIqAltd",
   "isLast": false
 }

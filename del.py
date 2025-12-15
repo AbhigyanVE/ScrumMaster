@@ -34,7 +34,7 @@ jql = f'project = "{PROJECT_NAME}"'
 # -----------------------------------
 all_issues = []
 start_at = 0
-max_results = 5000
+max_results = 5001
 
 while True:
     params = {
