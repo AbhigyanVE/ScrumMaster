@@ -50,3 +50,6 @@ github.html
 # ---- DB Files ----
 # *.db
 *.sqlite3
+
+# ---- JSONs Folder ----
+JSONs/

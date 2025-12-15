@@ -25,7 +25,7 @@ print(f"Connecting to Jira at: {JIRA_BASE_URL}...\n")
 # -----------------------------------
 projects_url = f"{JIRA_BASE_URL}/rest/api/3/project/search"
 
-print("--- Step 1: Fetching All Projects ---")
+print("--- STEP 1: Fetching All Projects ---")
 
 projects_response = requests.get(
     projects_url,
@@ -51,7 +51,7 @@ os.makedirs(output_dir, exist_ok=True)
 # -----------------------------------
 # STEP 2: FETCH ISSUES PER PROJECT
 # -----------------------------------
-print("--- Step 2: Fetching Issues per Project ---")
+print("--- STEP 2: Fetching Issues per Project ---\n")
 
 total_issues_saved = 0
 projects_processed = 0
@@ -99,13 +99,13 @@ for proj in projects:
     with open(filepath, "w", encoding="utf-8") as f:
         json.dump(data, f, indent=2)
 
-    print(f"  -> Saved {count} issues for {proj_key} to {filepath}\n")
+    print(f"  -> Saved {count} issues for {proj_key} to {filepath}")
 
 
 # -----------------------------------
 # FINAL SUMMARY
 # -----------------------------------
-print("--- Save Complete ---")
+print("\n--- SAVE COMPLETE ---")
 print(f"Successfully saved data for {projects_processed} out of {len(projects)} projects.")
 print(f"Total issues extracted and saved: {total_issues_saved}")
 print(f"Total issues found across all projects: {total_issues_saved}\n")
