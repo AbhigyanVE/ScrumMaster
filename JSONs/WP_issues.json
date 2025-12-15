@@ -248,7 +248,7 @@
           "hierarchyLevel": 0
         },
         "components": [],
-        "timespent": null,
+        "timespent": 28800,
         "timeoriginalestimate": null,
         "project": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/project/10023",
@@ -267,7 +267,7 @@
         "description": null,
         "fixVersions": [],
         "customfield_10033": null,
-        "aggregatetimespent": null,
+        "aggregatetimespent": 28800,
         "statusCategory": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/4",
           "id": 4,
@@ -276,7 +276,12 @@
           "name": "In Progress"
         },
         "resolution": null,
-        "timetracking": {},
+        "timetracking": {
+          "remainingEstimate": "0m",
+          "timeSpent": "1d",
+          "remainingEstimateSeconds": 0,
+          "timeSpentSeconds": 28800
+        },
         "customfield_10015": "2025-12-11",
         "security": null,
         "attachment": [
@@ -304,7 +309,7 @@
             "content": "https://idealabprojects.atlassian.net/rest/api/3/attachment/content/13775"
           }
         ],
-        "aggregatetimeestimate": null,
+        "aggregatetimeestimate": 0,
         "resolutiondate": null,
         "workratio": -1,
         "summary": "FAQs New HTML (as per LayerOne)",
@@ -346,8 +351,9 @@
           "accountType": "atlassian"
         },
         "aggregateprogress": {
-          "progress": 0,
-          "total": 0
+          "progress": 28800,
+          "total": 28800,
+          "percent": 100
         },
         "priority": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
@@ -359,13 +365,14 @@
         "labels": [],
         "environment": null,
         "customfield_10019": "0|i00div:",
-        "timeestimate": null,
+        "timeestimate": 0,
         "aggregatetimeoriginalestimate": null,
         "versions": [],
         "duedate": "2025-12-16",
         "progress": {
-          "progress": 0,
-          "total": 0
+          "progress": 28800,
+          "total": 28800,
+          "percent": 100
         },
         "issuelinks": [],
         "votes": {
@@ -643,10 +650,64 @@
         "worklog": {
           "startAt": 0,
           "maxResults": 20,
-          "total": 0,
-          "worklogs": []
+          "total": 1,
+          "worklogs": [
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14576/worklog/13586",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
+                "accountId": "712020:3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
+                  "24x24": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
+                  "16x16": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
+                  "32x32": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png"
+                },
+                "displayName": "Vikas Bhardwaj",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
+                "accountId": "712020:3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
+                  "24x24": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
+                  "16x16": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
+                  "32x32": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png"
+                },
+                "displayName": "Vikas Bhardwaj",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "comment": {
+                "type": "doc",
+                "version": 1,
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "HTML development, make responsive, js functionality"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "created": "2025-12-15T19:00:52.321+0530",
+              "updated": "2025-12-15T19:00:52.321+0530",
+              "started": "2025-12-15T10:00:00.000+0530",
+              "timeSpent": "1d",
+              "timeSpentSeconds": 28800,
+              "id": "13586",
+              "issueId": "14576"
+            }
+          ]
         },
-        "updated": "2025-12-15T11:42:57.369+0530",
+        "updated": "2025-12-15T19:00:52.344+0530",
         "status": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10100",
           "description": "This work item is being actively worked on at the moment by the assignee.",

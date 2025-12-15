@@ -2,8 +2,275 @@
   "name": "Apps & AI Agent",
   "id": "10619",
   "key": "NAS",
-  "issue_count": 14,
+  "issue_count": 15,
   "issues": [
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "14619",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14619",
+      "key": "NAS-16",
+      "fields": {
+        "statuscategorychangedate": "2025-12-15T19:55:59.229+0530",
+        "issuetype": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issuetype/10646",
+          "id": "10646",
+          "description": "A small, distinct piece of work.",
+          "iconUrl": "https://idealabprojects.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10318?size=medium",
+          "name": "Task",
+          "subtask": false,
+          "avatarId": 10318,
+          "entityId": "95ddd3dd-2ae4-4eb9-a20f-3cbdd575dd3d",
+          "hierarchyLevel": 0
+        },
+        "components": [],
+        "timespent": 18000,
+        "timeoriginalestimate": null,
+        "project": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/project/10619",
+          "id": "10619",
+          "key": "NAS",
+          "name": "Apps & AI Agent",
+          "projectTypeKey": "business",
+          "simplified": true,
+          "avatarUrls": {
+            "48x48": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10411",
+            "24x24": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10411?size=small",
+            "16x16": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10411?size=xsmall",
+            "32x32": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10411?size=medium"
+          }
+        },
+        "description": null,
+        "fixVersions": [],
+        "customfield_10033": null,
+        "aggregatetimespent": 18000,
+        "statusCategory": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+          "id": 3,
+          "key": "done",
+          "colorName": "green",
+          "name": "Done"
+        },
+        "resolution": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/resolution/10000",
+          "id": "10000",
+          "description": "Work has been completed on this work item.",
+          "name": "Done"
+        },
+        "timetracking": {
+          "remainingEstimate": "0m",
+          "timeSpent": "5h",
+          "remainingEstimateSeconds": 0,
+          "timeSpentSeconds": 18000
+        },
+        "customfield_10015": "2025-12-15",
+        "security": null,
+        "attachment": [],
+        "aggregatetimeestimate": 0,
+        "resolutiondate": "2025-12-15T19:55:59.211+0530",
+        "workratio": -1,
+        "summary": "VE's AI Content Tool Testing",
+        "watches": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/NAS-16/watchers",
+          "watchCount": 1,
+          "isWatching": false
+        },
+        "lastViewed": null,
+        "creator": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A9118629a-f338-4a5a-9762-4244c0a608a8",
+          "accountId": "712020:9118629a-f338-4a5a-9762-4244c0a608a8",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/1ec1580bbcb02bd480d7b38c0cdf0a15?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKG-3.png",
+            "24x24": "https://secure.gravatar.com/avatar/1ec1580bbcb02bd480d7b38c0cdf0a15?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKG-3.png",
+            "16x16": "https://secure.gravatar.com/avatar/1ec1580bbcb02bd480d7b38c0cdf0a15?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKG-3.png",
+            "32x32": "https://secure.gravatar.com/avatar/1ec1580bbcb02bd480d7b38c0cdf0a15?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKG-3.png"
+          },
+          "displayName": "Koyel Ghosh",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "subtasks": [],
+        "created": "2025-12-15T19:54:55.729+0530",
+        "reporter": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A9118629a-f338-4a5a-9762-4244c0a608a8",
+          "accountId": "712020:9118629a-f338-4a5a-9762-4244c0a608a8",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/1ec1580bbcb02bd480d7b38c0cdf0a15?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKG-3.png",
+            "24x24": "https://secure.gravatar.com/avatar/1ec1580bbcb02bd480d7b38c0cdf0a15?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKG-3.png",
+            "16x16": "https://secure.gravatar.com/avatar/1ec1580bbcb02bd480d7b38c0cdf0a15?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKG-3.png",
+            "32x32": "https://secure.gravatar.com/avatar/1ec1580bbcb02bd480d7b38c0cdf0a15?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKG-3.png"
+          },
+          "displayName": "Koyel Ghosh",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "aggregateprogress": {
+          "progress": 18000,
+          "total": 18000,
+          "percent": 100
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "customfield_10001": null,
+        "labels": [
+          "testing"
+        ],
+        "environment": null,
+        "customfield_10019": "0|i00dlb:",
+        "timeestimate": 0,
+        "aggregatetimeoriginalestimate": null,
+        "versions": [],
+        "duedate": "2025-12-15",
+        "progress": {
+          "progress": 18000,
+          "total": 18000,
+          "percent": 100
+        },
+        "issuelinks": [],
+        "votes": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/NAS-16/votes",
+          "votes": 0,
+          "hasVoted": false
+        },
+        "comment": {
+          "comments": [
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14619/comment/19152",
+              "id": "19152",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A9118629a-f338-4a5a-9762-4244c0a608a8",
+                "accountId": "712020:9118629a-f338-4a5a-9762-4244c0a608a8",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/1ec1580bbcb02bd480d7b38c0cdf0a15?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKG-3.png",
+                  "24x24": "https://secure.gravatar.com/avatar/1ec1580bbcb02bd480d7b38c0cdf0a15?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKG-3.png",
+                  "16x16": "https://secure.gravatar.com/avatar/1ec1580bbcb02bd480d7b38c0cdf0a15?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKG-3.png",
+                  "32x32": "https://secure.gravatar.com/avatar/1ec1580bbcb02bd480d7b38c0cdf0a15?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKG-3.png"
+                },
+                "displayName": "Koyel Ghosh",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "body": {
+                "type": "doc",
+                "version": 1,
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Content tool testing + meeting with team + developers"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A9118629a-f338-4a5a-9762-4244c0a608a8",
+                "accountId": "712020:9118629a-f338-4a5a-9762-4244c0a608a8",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/1ec1580bbcb02bd480d7b38c0cdf0a15?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKG-3.png",
+                  "24x24": "https://secure.gravatar.com/avatar/1ec1580bbcb02bd480d7b38c0cdf0a15?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKG-3.png",
+                  "16x16": "https://secure.gravatar.com/avatar/1ec1580bbcb02bd480d7b38c0cdf0a15?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKG-3.png",
+                  "32x32": "https://secure.gravatar.com/avatar/1ec1580bbcb02bd480d7b38c0cdf0a15?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKG-3.png"
+                },
+                "displayName": "Koyel Ghosh",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "created": "2025-12-15T19:56:03.699+0530",
+              "updated": "2025-12-15T19:56:03.699+0530",
+              "jsdPublic": true
+            }
+          ],
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14619/comment",
+          "maxResults": 1,
+          "total": 1,
+          "startAt": 0
+        },
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A9118629a-f338-4a5a-9762-4244c0a608a8",
+          "accountId": "712020:9118629a-f338-4a5a-9762-4244c0a608a8",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/1ec1580bbcb02bd480d7b38c0cdf0a15?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKG-3.png",
+            "24x24": "https://secure.gravatar.com/avatar/1ec1580bbcb02bd480d7b38c0cdf0a15?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKG-3.png",
+            "16x16": "https://secure.gravatar.com/avatar/1ec1580bbcb02bd480d7b38c0cdf0a15?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKG-3.png",
+            "32x32": "https://secure.gravatar.com/avatar/1ec1580bbcb02bd480d7b38c0cdf0a15?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKG-3.png"
+          },
+          "displayName": "Koyel Ghosh",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "worklog": {
+          "startAt": 0,
+          "maxResults": 20,
+          "total": 1,
+          "worklogs": [
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14619/worklog/13588",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A9118629a-f338-4a5a-9762-4244c0a608a8",
+                "accountId": "712020:9118629a-f338-4a5a-9762-4244c0a608a8",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/1ec1580bbcb02bd480d7b38c0cdf0a15?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKG-3.png",
+                  "24x24": "https://secure.gravatar.com/avatar/1ec1580bbcb02bd480d7b38c0cdf0a15?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKG-3.png",
+                  "16x16": "https://secure.gravatar.com/avatar/1ec1580bbcb02bd480d7b38c0cdf0a15?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKG-3.png",
+                  "32x32": "https://secure.gravatar.com/avatar/1ec1580bbcb02bd480d7b38c0cdf0a15?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKG-3.png"
+                },
+                "displayName": "Koyel Ghosh",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A9118629a-f338-4a5a-9762-4244c0a608a8",
+                "accountId": "712020:9118629a-f338-4a5a-9762-4244c0a608a8",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/1ec1580bbcb02bd480d7b38c0cdf0a15?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKG-3.png",
+                  "24x24": "https://secure.gravatar.com/avatar/1ec1580bbcb02bd480d7b38c0cdf0a15?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKG-3.png",
+                  "16x16": "https://secure.gravatar.com/avatar/1ec1580bbcb02bd480d7b38c0cdf0a15?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKG-3.png",
+                  "32x32": "https://secure.gravatar.com/avatar/1ec1580bbcb02bd480d7b38c0cdf0a15?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKG-3.png"
+                },
+                "displayName": "Koyel Ghosh",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "created": "2025-12-15T19:55:50.016+0530",
+              "updated": "2025-12-15T19:55:50.016+0530",
+              "started": "2025-12-15T14:55:40.861+0530",
+              "timeSpent": "5h",
+              "timeSpentSeconds": 18000,
+              "id": "13588",
+              "issueId": "14619"
+            }
+          ]
+        },
+        "updated": "2025-12-15T19:56:03.699+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10833",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "Done",
+          "id": "10833",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
+          }
+        }
+      }
+    },
     {
       "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
       "id": "14584",
@@ -722,7 +989,7 @@
           "hierarchyLevel": 0
         },
         "components": [],
-        "timespent": 15600,
+        "timespent": 24600,
         "timeoriginalestimate": null,
         "project": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/project/10619",
@@ -741,7 +1008,7 @@
         "description": null,
         "fixVersions": [],
         "customfield_10033": null,
-        "aggregatetimespent": 15600,
+        "aggregatetimespent": 24600,
         "statusCategory": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/4",
           "id": 4,
@@ -752,9 +1019,9 @@
         "resolution": null,
         "timetracking": {
           "remainingEstimate": "0m",
-          "timeSpent": "4h 20m",
+          "timeSpent": "6h 50m",
           "remainingEstimateSeconds": 0,
-          "timeSpentSeconds": 15600
+          "timeSpentSeconds": 24600
         },
         "customfield_10015": null,
         "security": null,
@@ -800,8 +1067,8 @@
           "accountType": "atlassian"
         },
         "aggregateprogress": {
-          "progress": 15600,
-          "total": 15600,
+          "progress": 24600,
+          "total": 24600,
           "percent": 100
         },
         "priority": {
@@ -819,8 +1086,8 @@
         "versions": [],
         "duedate": null,
         "progress": {
-          "progress": 15600,
-          "total": 15600,
+          "progress": 24600,
+          "total": 24600,
           "percent": 100
         },
         "issuelinks": [],
@@ -947,11 +1214,61 @@
               "created": "2025-12-12T17:37:35.988+0530",
               "updated": "2025-12-12T17:37:35.988+0530",
               "jsdPublic": true
+            },
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14567/comment/19151",
+              "id": "19151",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=5f5b452d0b6be2006e056f42",
+                "accountId": "5f5b452d0b6be2006e056f42",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/ac349e4c40001706bb2da2a486357fc0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-5.png",
+                  "24x24": "https://secure.gravatar.com/avatar/ac349e4c40001706bb2da2a486357fc0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-5.png",
+                  "16x16": "https://secure.gravatar.com/avatar/ac349e4c40001706bb2da2a486357fc0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-5.png",
+                  "32x32": "https://secure.gravatar.com/avatar/ac349e4c40001706bb2da2a486357fc0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-5.png"
+                },
+                "displayName": "sonia",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "body": {
+                "type": "doc",
+                "version": 1,
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Tested the tool on Dec 15 for 2.5h"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=5f5b452d0b6be2006e056f42",
+                "accountId": "5f5b452d0b6be2006e056f42",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/ac349e4c40001706bb2da2a486357fc0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-5.png",
+                  "24x24": "https://secure.gravatar.com/avatar/ac349e4c40001706bb2da2a486357fc0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-5.png",
+                  "16x16": "https://secure.gravatar.com/avatar/ac349e4c40001706bb2da2a486357fc0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-5.png",
+                  "32x32": "https://secure.gravatar.com/avatar/ac349e4c40001706bb2da2a486357fc0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-5.png"
+                },
+                "displayName": "sonia",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "created": "2025-12-15T19:12:55.560+0530",
+              "updated": "2025-12-15T19:12:55.560+0530",
+              "jsdPublic": true
             }
           ],
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14567/comment",
-          "maxResults": 2,
-          "total": 2,
+          "maxResults": 3,
+          "total": 3,
           "startAt": 0
         },
         "assignee": {
@@ -971,7 +1288,7 @@
         "worklog": {
           "startAt": 0,
           "maxResults": 20,
-          "total": 3,
+          "total": 4,
           "worklogs": [
             {
               "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14567/worklog/13504",
@@ -1086,10 +1403,48 @@
               "timeSpentSeconds": 5400,
               "id": "13533",
               "issueId": "14567"
+            },
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14567/worklog/13587",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=5f5b452d0b6be2006e056f42",
+                "accountId": "5f5b452d0b6be2006e056f42",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/ac349e4c40001706bb2da2a486357fc0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-5.png",
+                  "24x24": "https://secure.gravatar.com/avatar/ac349e4c40001706bb2da2a486357fc0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-5.png",
+                  "16x16": "https://secure.gravatar.com/avatar/ac349e4c40001706bb2da2a486357fc0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-5.png",
+                  "32x32": "https://secure.gravatar.com/avatar/ac349e4c40001706bb2da2a486357fc0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-5.png"
+                },
+                "displayName": "sonia",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=5f5b452d0b6be2006e056f42",
+                "accountId": "5f5b452d0b6be2006e056f42",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/ac349e4c40001706bb2da2a486357fc0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-5.png",
+                  "24x24": "https://secure.gravatar.com/avatar/ac349e4c40001706bb2da2a486357fc0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-5.png",
+                  "16x16": "https://secure.gravatar.com/avatar/ac349e4c40001706bb2da2a486357fc0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-5.png",
+                  "32x32": "https://secure.gravatar.com/avatar/ac349e4c40001706bb2da2a486357fc0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-5.png"
+                },
+                "displayName": "sonia",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "created": "2025-12-15T19:13:10.329+0530",
+              "updated": "2025-12-15T19:13:10.329+0530",
+              "started": "2025-12-15T16:39:41.946+0530",
+              "timeSpent": "2h 30m",
+              "timeSpentSeconds": 9000,
+              "id": "13587",
+              "issueId": "14567"
             }
           ]
         },
-        "updated": "2025-12-12T17:37:43.950+0530",
+        "updated": "2025-12-15T19:13:10.343+0530",
         "status": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10832",
           "description": "",

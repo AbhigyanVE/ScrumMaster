@@ -44,24 +44,23 @@ projects = projects_data.get("values", [])
 print(f"Found {len(projects)} projects.\n")
 
 # -----------------------------------
-# PREPARE OUTPUT FOLDER
+# PREPARE OUTPUT FOLDER (WINDOWS SAFE)
 # -----------------------------------
 output_dir = "JSONs"
 
-# FIX: Delete the existing folder and its contents before recreating it.
 if os.path.exists(output_dir):
     print(f"Cleaning up existing folder: {output_dir}")
-    try:
-        shutil.rmtree(output_dir)
-        time.sleep(100)
-        print("[OK] Folder deleted.")
-    except Exception as e:
-        print(f"[ERROR] Could not delete {output_dir}: {e}")
-        # Optionally exit if cleanup fails, as results will be unreliable
-        # sys.exit(1)
+    for filename in os.listdir(output_dir):
+        file_path = os.path.join(output_dir, filename)
+        try:
+            if os.path.isfile(file_path):
+                os.remove(file_path)
+        except Exception as e:
+            print(f"[ERROR] Could not delete {file_path}: {e}")
+else:
+    os.makedirs(output_dir)
 
-# Now, recreate the empty directory
-os.makedirs(output_dir, exist_ok=True)
+print("[OK] Output folder ready.\n")
 
 # -----------------------------------
 # STEP 2: FETCH ISSUES PER PROJECT
