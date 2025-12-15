@@ -1,4 +1,8 @@
 {
+  "name": "AI First Optimization VE.com",
+  "id": "10256",
+  "key": "AFSP",
+  "issue_count": 95,
   "issues": [
     {
       "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
@@ -181,7 +185,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am, This is domain FAQ page and it will go on our website under resource section."
+                        "text": " Ma’am, This is domain FAQ page and it will go on our website under resource section."
                       }
                     ]
                   },
@@ -240,7 +244,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Where\u2019s the document???"
+                        "text": "Where’s the document???"
                       }
                     ]
                   }
@@ -298,7 +302,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am, here is the link."
+                        "text": " Ma’am, here is the link."
                       }
                     ]
                   },
@@ -2138,7 +2142,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am pls review"
+                        "text": " Ma’am pls review"
                       }
                     ]
                   }
@@ -2589,7 +2593,7 @@
       "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14561",
       "key": "AFSP-84",
       "fields": {
-        "statuscategorychangedate": "2025-12-09T18:59:11.573+0530",
+        "statuscategorychangedate": "2025-12-15T13:50:07.981+0530",
         "issuetype": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issuetype/10283",
           "id": "10283",
@@ -2602,7 +2606,7 @@
           "hierarchyLevel": 0
         },
         "components": [],
-        "timespent": 25200,
+        "timespent": 27000,
         "timeoriginalestimate": null,
         "project": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/project/10256",
@@ -2621,20 +2625,25 @@
         "description": null,
         "fixVersions": [],
         "customfield_10033": null,
-        "aggregatetimespent": 25200,
+        "aggregatetimespent": 27000,
         "statusCategory": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
-          "id": 2,
-          "key": "new",
-          "colorName": "blue-gray",
-          "name": "To Do"
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+          "id": 3,
+          "key": "done",
+          "colorName": "green",
+          "name": "Done"
         },
-        "resolution": null,
+        "resolution": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/resolution/10000",
+          "id": "10000",
+          "description": "Work has been completed on this work item.",
+          "name": "Done"
+        },
         "timetracking": {
           "remainingEstimate": "0m",
-          "timeSpent": "7h",
+          "timeSpent": "7h 30m",
           "remainingEstimateSeconds": 0,
-          "timeSpentSeconds": 25200
+          "timeSpentSeconds": 27000
         },
         "customfield_10015": "2025-12-09",
         "security": null,
@@ -2665,7 +2674,7 @@
           }
         ],
         "aggregatetimeestimate": 0,
-        "resolutiondate": null,
+        "resolutiondate": "2025-12-15T13:50:07.957+0530",
         "workratio": -1,
         "summary": "FAQs (VA Sub Domain - Real Estate VA)",
         "watches": {
@@ -2705,8 +2714,8 @@
           "accountType": "atlassian"
         },
         "aggregateprogress": {
-          "progress": 25200,
-          "total": 25200,
+          "progress": 27000,
+          "total": 27000,
           "percent": 100
         },
         "priority": {
@@ -2726,8 +2735,8 @@
         "versions": [],
         "duedate": "2025-12-16",
         "progress": {
-          "progress": 25200,
-          "total": 25200,
+          "progress": 27000,
+          "total": 27000,
           "percent": 100
         },
         "issuelinks": [],
@@ -2878,7 +2887,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am, Pls review it."
+                        "text": " Ma’am, Pls review it."
                       }
                     ]
                   }
@@ -2937,7 +2946,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " , I stopped at Q17 as most of the answers are very robotic. The Can and Do questions must be answered with a Yes or No. Many don't even answer the question but seem to be off target entirely. Pls run this through ChatGPT again. Ask it to prefix \"Yes\" or \"No\u201d (not likely) wherever needed. Read every answer again. "
+                        "text": " , I stopped at Q17 as most of the answers are very robotic. The Can and Do questions must be answered with a Yes or No. Many don't even answer the question but seem to be off target entirely. Pls run this through ChatGPT again. Ask it to prefix \"Yes\" or \"No” (not likely) wherever needed. Read every answer again. "
                       }
                     ]
                   }
@@ -2996,7 +3005,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Pls work on the FAQs again as per Daya Ma\u2019am feedback."
+                        "text": " Pls work on the FAQs again as per Daya Ma’am feedback."
                       }
                     ]
                   }
@@ -3059,7 +3068,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am, I have made the modifications. Please review - "
+                        "text": " ma’am, I have made the modifications. Please review - "
                       },
                       {
                         "type": "text",
@@ -3207,11 +3216,74 @@
               "created": "2025-12-15T12:40:11.131+0530",
               "updated": "2025-12-15T12:40:11.131+0530",
               "jsdPublic": true
+            },
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14561/comment/19141",
+              "id": "19141",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A41435bf1-7a46-4918-82dc-ba80eec20553",
+                "accountId": "712020:41435bf1-7a46-4918-82dc-ba80eec20553",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
+                  "24x24": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
+                  "16x16": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
+                  "32x32": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png"
+                },
+                "displayName": "Praveen Soni",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "body": {
+                "type": "doc",
+                "version": 1,
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Thanks "
+                      },
+                      {
+                        "type": "mention",
+                        "attrs": {
+                          "id": "712020:9118629a-f338-4a5a-9762-4244c0a608a8",
+                          "text": "@Koyel Ghosh",
+                          "accessLevel": "",
+                          "localId": "95987db4-a195-439a-880c-57e7a6b2f53f"
+                        }
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  }
+                ]
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A41435bf1-7a46-4918-82dc-ba80eec20553",
+                "accountId": "712020:41435bf1-7a46-4918-82dc-ba80eec20553",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
+                  "24x24": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
+                  "16x16": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
+                  "32x32": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png"
+                },
+                "displayName": "Praveen Soni",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "created": "2025-12-15T13:49:50.655+0530",
+              "updated": "2025-12-15T13:49:50.655+0530",
+              "jsdPublic": true
             }
           ],
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14561/comment",
-          "maxResults": 7,
-          "total": 7,
+          "maxResults": 8,
+          "total": 8,
           "startAt": 0
         },
         "assignee": {
@@ -3231,7 +3303,7 @@
         "worklog": {
           "startAt": 0,
           "maxResults": 20,
-          "total": 4,
+          "total": 5,
           "worklogs": [
             {
               "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14561/worklog/13491",
@@ -3384,22 +3456,60 @@
               "timeSpentSeconds": 1800,
               "id": "13576",
               "issueId": "14561"
+            },
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14561/worklog/13577",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A41435bf1-7a46-4918-82dc-ba80eec20553",
+                "accountId": "712020:41435bf1-7a46-4918-82dc-ba80eec20553",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
+                  "24x24": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
+                  "16x16": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
+                  "32x32": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png"
+                },
+                "displayName": "Praveen Soni",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A41435bf1-7a46-4918-82dc-ba80eec20553",
+                "accountId": "712020:41435bf1-7a46-4918-82dc-ba80eec20553",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
+                  "24x24": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
+                  "16x16": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
+                  "32x32": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png"
+                },
+                "displayName": "Praveen Soni",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "created": "2025-12-15T13:49:56.873+0530",
+              "updated": "2025-12-15T13:49:56.873+0530",
+              "started": "2025-12-15T13:19:53.320+0530",
+              "timeSpent": "30m",
+              "timeSpentSeconds": 1800,
+              "id": "13577",
+              "issueId": "14561"
             }
           ]
         },
-        "updated": "2025-12-15T12:40:11.131+0530",
+        "updated": "2025-12-15T13:50:07.981+0530",
         "status": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10702",
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10470",
           "description": "",
           "iconUrl": "https://idealabprojects.atlassian.net/",
-          "name": "In Review",
-          "id": "10702",
+          "name": "Done",
+          "id": "10470",
           "statusCategory": {
-            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
-            "id": 2,
-            "key": "new",
-            "colorName": "blue-gray",
-            "name": "To Do"
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
           }
         }
       }
@@ -3610,7 +3720,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " plz review the revamped Medical Imaging Expert SEO Page \u2013 "
+                        "text": " plz review the revamped Medical Imaging Expert SEO Page – "
                       },
                       {
                         "type": "text",
@@ -3743,7 +3853,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am. Plz review this revamped SEO page; i have changed the content of the entire page \u2013 "
+                        "text": " ma’am. Plz review this revamped SEO page; i have changed the content of the entire page – "
                       },
                       {
                         "type": "text",
@@ -3875,7 +3985,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am. As per your and Abhishek\u2019s feedback on the Medical Imaging SEO page, i have incorporated the changes. Plz review.-- "
+                        "text": " ma’am. As per your and Abhishek’s feedback on the Medical Imaging SEO page, i have incorporated the changes. Plz review.-- "
                       },
                       {
                         "type": "text",
@@ -4013,7 +4123,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Here is the link to the uploaded page \u2013 "
+                        "text": " Here is the link to the uploaded page – "
                       },
                       {
                         "type": "inlineCard",
@@ -4323,7 +4433,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "link to revamped page \u2013 "
+                        "text": "link to revamped page – "
                       },
                       {
                         "type": "text",
@@ -5478,7 +5588,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am, pls review it."
+                        "text": " Ma’am, pls review it."
                       }
                     ]
                   }
@@ -6246,7 +6356,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am, pls review\u2026"
+                        "text": " Ma’am, pls review…"
                       }
                     ]
                   }
@@ -6296,7 +6406,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Reviewed\u2026but quite a lot of oversights and misses\u2026..hoping these wpnt be repeated across the rest of the pages. "
+                        "text": "Reviewed…but quite a lot of oversights and misses…..hoping these wpnt be repeated across the rest of the pages. "
                       }
                     ]
                   }
@@ -7024,11 +7134,11 @@
                       },
                       {
                         "type": "text",
-                        "text": " Plz review SEO page \u2013 "
+                        "text": " Plz review SEO page – "
                       },
                       {
                         "type": "text",
-                        "text": "SEO Page\u2014Hire Medical Biller (revamp)",
+                        "text": "SEO Page—Hire Medical Biller (revamp)",
                         "marks": [
                           {
                             "type": "link",
@@ -7099,11 +7209,11 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am. Plz review this revamped SEO page; i have changed the content of the entire page \u2013 "
+                        "text": " ma’am. Plz review this revamped SEO page; i have changed the content of the entire page – "
                       },
                       {
                         "type": "text",
-                        "text": "SEO Page\u2014Hire Medical Biller (revamp).docx",
+                        "text": "SEO Page—Hire Medical Biller (revamp).docx",
                         "marks": [
                           {
                             "type": "link",
@@ -7548,11 +7658,11 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "SEO page link \u2013 "
+                        "text": "SEO page link – "
                       },
                       {
                         "type": "text",
-                        "text": "SEO Page\u2014Hire Medical Biller (revamp)",
+                        "text": "SEO Page—Hire Medical Biller (revamp)",
                         "marks": [
                           {
                             "type": "link",
@@ -8065,7 +8175,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am, Please review it."
+                        "text": " Ma’am, Please review it."
                       }
                     ]
                   }
@@ -9261,11 +9371,11 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am, please review - "
+                        "text": " ma’am, please review - "
                       },
                       {
                         "type": "text",
-                        "text": "High-Value Web Article (AIO) - Real Estate (VA) -\u00a0The Real Estate VA Mistakes That Quietly Break Workflows (And How Teams Fix Them)",
+                        "text": "High-Value Web Article (AIO) - Real Estate (VA) - The Real Estate VA Mistakes That Quietly Break Workflows (And How Teams Fix Them)",
                         "marks": [
                           {
                             "type": "link",
@@ -9724,11 +9834,11 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am, please review - "
+                        "text": " ma’am, please review - "
                       },
                       {
                         "type": "text",
-                        "text": "High-Value Web Article (AIO) - Real Estate (VA) -\u00a0The Real Estate VA Hiring Guide - Roles, Screening, Pricing, and the First 30 Days",
+                        "text": "High-Value Web Article (AIO) - Real Estate (VA) - The Real Estate VA Hiring Guide - Roles, Screening, Pricing, and the First 30 Days",
                         "marks": [
                           {
                             "type": "link",
@@ -10203,7 +10313,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "High-Value Web Article (AIO) - Real Estate (VA) -\u00a0The Complete Real Estate VA Task and SOP Library for Predictable, Clean Operations",
+                        "text": "High-Value Web Article (AIO) - Real Estate (VA) - The Complete Real Estate VA Task and SOP Library for Predictable, Clean Operations",
                         "marks": [
                           {
                             "type": "link",
@@ -10778,7 +10888,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "High-Value Web Article (AIO) - Real Estate (VA) -\u00a0How Real Estate VAs Keep Lead-to-Close Systems Moving Without Breakdown.docx",
+                        "text": "High-Value Web Article (AIO) - Real Estate (VA) - How Real Estate VAs Keep Lead-to-Close Systems Moving Without Breakdown.docx",
                         "marks": [
                           {
                             "type": "link",
@@ -10879,11 +10989,11 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am, please review - "
+                        "text": " ma’am, please review - "
                       },
                       {
                         "type": "text",
-                        "text": "High-Value Web Article (AIO) - Real Estate (VA) -\u00a0How Real Estate VAs Keep Lead-to-Close Systems Moving Without Breakdown.docx",
+                        "text": "High-Value Web Article (AIO) - Real Estate (VA) - How Real Estate VAs Keep Lead-to-Close Systems Moving Without Breakdown.docx",
                         "marks": [
                           {
                             "type": "link",
@@ -11423,7 +11533,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "High-Value Web Article (AIO) -\u00a0The\u00a0Real Estate VA Role Map\u00a0Every\u00a0Team Will Need Going Forward.docx",
+                        "text": "High-Value Web Article (AIO) - The Real Estate VA Role Map Every Team Will Need Going Forward.docx",
                         "marks": [
                           {
                             "type": "link",
@@ -11650,11 +11760,11 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am, please review - "
+                        "text": " ma’am, please review - "
                       },
                       {
                         "type": "text",
-                        "text": "High-Value Article (AIO) -\u00a0The\u00a0Real Estate VA Role Map\u00a0Every\u00a0Team Will Need Going Forward.docx",
+                        "text": "High-Value Article (AIO) - The Real Estate VA Role Map Every Team Will Need Going Forward.docx",
                         "marks": [
                           {
                             "type": "link",
@@ -12441,7 +12551,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am, pls review."
+                        "text": " Ma’am, pls review."
                       }
                     ]
                   }
@@ -12585,7 +12695,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am, I have implemented the changes. Please review - "
+                        "text": " ma’am, I have implemented the changes. Please review - "
                       },
                       {
                         "type": "text",
@@ -13025,7 +13135,7 @@
                 },
                 {
                   "type": "text",
-                  "text": " ma\u2019am, "
+                  "text": " ma’am, "
                 },
                 {
                   "type": "mention",
@@ -13234,7 +13344,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Thank you ma\u2019am"
+                        "text": " Thank you ma’am"
                       }
                     ]
                   }
@@ -13397,7 +13507,7 @@
                 },
                 {
                   "type": "text",
-                  "text": " ma\u2019am, "
+                  "text": " ma’am, "
                 },
                 {
                   "type": "mention",
@@ -13773,7 +13883,7 @@
         "aggregatetimeestimate": null,
         "resolutiondate": null,
         "workratio": -1,
-        "summary": "Long Form Article (AIO): Are You Doing the VA\u2019s Job in Your Own Business Without Realizing It? ",
+        "summary": "Long Form Article (AIO): Are You Doing the VA’s Job in Your Own Business Without Realizing It? ",
         "watches": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/AFSP-62/watchers",
           "watchCount": 2,
@@ -13889,7 +13999,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "AIO_Are You Doing the VA\u2019s Job",
+                        "text": "AIO_Are You Doing the VA’s Job",
                         "marks": [
                           {
                             "type": "link",
@@ -13923,7 +14033,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " problem leaders face\u2026not tasks, but the unowned work they end up doing themselves. It uses our 150+ interview analysis as the backbone, brings in clear logic around behavior (adaptability, reliability, ownership), and positions VE as the only partner that can reliably take that role off a leader\u2019s plate."
+                        "text": " problem leaders face…not tasks, but the unowned work they end up doing themselves. It uses our 150+ interview analysis as the backbone, brings in clear logic around behavior (adaptability, reliability, ownership), and positions VE as the only partner that can reliably take that role off a leader’s plate."
                       }
                     ]
                   },
@@ -13932,7 +14042,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "My intention is to continue building this as a long-form series in the VA domain\u2026each piece going deeper into the invisible work leaders absorb, the psychology behind delegation, the operational leverage VAs create. "
+                        "text": "My intention is to continue building this as a long-form series in the VA domain…each piece going deeper into the invisible work leaders absorb, the psychology behind delegation, the operational leverage VAs create. "
                       },
                       {
                         "type": "hardBreak"
@@ -14264,7 +14374,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "Long Form Blog (VA Domain) -\u00a0Why Most Virtual Assistant Partnerships Fail (and How to Build One That Lasts)",
+                        "text": "Long Form Blog (VA Domain) - Why Most Virtual Assistant Partnerships Fail (and How to Build One That Lasts)",
                         "marks": [
                           {
                             "type": "link",
@@ -14389,7 +14499,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "Long Form Blog (VA Domain) -\u00a0Why Most Virtual Assistant Partnerships Fail (and How to Build One That Lasts).docx",
+                        "text": "Long Form Blog (VA Domain) - Why Most Virtual Assistant Partnerships Fail (and How to Build One That Lasts).docx",
                         "marks": [
                           {
                             "type": "link",
@@ -14447,7 +14557,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "looks fine\u2026 pls add originality AI snapshot\u2026 and it should pass in lite model."
+                        "text": "looks fine… pls add originality AI snapshot… and it should pass in lite model."
                       }
                     ]
                   }
@@ -14590,7 +14700,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am, Pls review it."
+                        "text": " Ma’am, Pls review it."
                       }
                     ]
                   }
@@ -14956,7 +15066,7 @@
                 },
                 {
                   "type": "text",
-                  "text": " ma\u2019am, "
+                  "text": " ma’am, "
                 },
                 {
                   "type": "mention",
@@ -15014,7 +15124,7 @@
         "aggregatetimeestimate": 0,
         "resolutiondate": null,
         "workratio": -1,
-        "summary": "High Value Website Blog - Choosing Between Remote Staffing and Freelancers: What\u2019s Better for Long-Term Growth? ",
+        "summary": "High Value Website Blog - Choosing Between Remote Staffing and Freelancers: What’s Better for Long-Term Growth? ",
         "watches": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/AFSP-60/watchers",
           "watchCount": 3,
@@ -15182,7 +15292,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am - Feedback Implemented. Please review:"
+                        "text": " Ma’am - Feedback Implemented. Please review:"
                       },
                       {
                         "type": "hardBreak"
@@ -15192,7 +15302,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "High-value Blog -\u00a0Choosing Between Remote Staffing and Freelancers - What\u2019s Better for Long-Term Growth.docx",
+                        "text": "High-value Blog - Choosing Between Remote Staffing and Freelancers - What’s Better for Long-Term Growth.docx",
                         "marks": [
                           {
                             "type": "link",
@@ -15259,7 +15369,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " , again I would have to say this: apply your intelligence independent of what Chatgpt throws up. Too much fluff, repetition and not enough based on actual inside knowledge of the VE business model or the VE \u00a0VPs. The last para is very weak,"
+                        "text": " , again I would have to say this: apply your intelligence independent of what Chatgpt throws up. Too much fluff, repetition and not enough based on actual inside knowledge of the VE business model or the VE  VPs. The last para is very weak,"
                       }
                     ]
                   }
@@ -15588,7 +15698,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "High-value Blog -\u00a0Choosing Between Remote Staffing and Freelancers - What\u2019s Better for Long-Term Growth.docx",
+                        "text": "High-value Blog - Choosing Between Remote Staffing and Freelancers - What’s Better for Long-Term Growth.docx",
                         "marks": [
                           {
                             "type": "link",
@@ -15842,7 +15952,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Topic: Choosing Between Remote Staffing and Freelancers: What\u2019s Better for Long-Term Growth?"
+                  "text": "Topic: Choosing Between Remote Staffing and Freelancers: What’s Better for Long-Term Growth?"
                 }
               ]
             },
@@ -15851,7 +15961,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Create a neutral, fact-based comparison page on Remote Staffing vs Freelancing. Start with a 40\u201360 word TL;DR followed by 3\u20134 bullet takeaways. Use H2s written as questions, each answered in 2\u20133 clear sentences. Include short definitions of both models and a clean HTML comparison table covering cost, control, continuity, relationship, scalability, and data security. Add a 5\u20137 question FAQ section with FAQPage schema, using 40\u201360 word answers. Keep the tone objective, concise, and non-promotional. Use short paragraphs, bullet points, simple language, and end with an updated timestamp."
+                  "text": "Create a neutral, fact-based comparison page on Remote Staffing vs Freelancing. Start with a 40–60 word TL;DR followed by 3–4 bullet takeaways. Use H2s written as questions, each answered in 2–3 clear sentences. Include short definitions of both models and a clean HTML comparison table covering cost, control, continuity, relationship, scalability, and data security. Add a 5–7 question FAQ section with FAQPage schema, using 40–60 word answers. Keep the tone objective, concise, and non-promotional. Use short paragraphs, bullet points, simple language, and end with an updated timestamp."
                 }
               ]
             }
@@ -15941,7 +16051,7 @@
             "key": "AFSP-60",
             "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/13967",
             "fields": {
-              "summary": "High Value Website Blog - Choosing Between Remote Staffing and Freelancers: What\u2019s Better for Long-Term Growth? ",
+              "summary": "High Value Website Blog - Choosing Between Remote Staffing and Freelancers: What’s Better for Long-Term Growth? ",
               "status": {
                 "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10703",
                 "description": "",
@@ -16391,7 +16501,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am, pls review it."
+                        "text": " ma’am, pls review it."
                       }
                     ]
                   }
@@ -17500,7 +17610,7 @@
                         },
                         {
                           "type": "text",
-                          "text": " 2000\u20132500 words "
+                          "text": " 2000–2500 words "
                         }
                       ]
                     }
@@ -17583,7 +17693,7 @@
                       "content": [
                         {
                           "type": "text",
-                          "text": "One 60\u201380 word summary (direct answer)."
+                          "text": "One 60–80 word summary (direct answer)."
                         }
                       ]
                     }
@@ -17597,7 +17707,7 @@
                       "content": [
                         {
                           "type": "text",
-                          "text": "Under it, 3\u20135 bullets highlighting top picks (e.g., best for cost, best for US overlap, best for fast onboarding)."
+                          "text": "Under it, 3–5 bullets highlighting top picks (e.g., best for cost, best for US overlap, best for fast onboarding)."
                         }
                       ]
                     }
@@ -17702,7 +17812,7 @@
                 },
                 {
                   "type": "text",
-                  "text": "Provide a short checklist (6\u20138 points) on factors US businesses should consider: budget, skills, timezone, onboarding speed, security, support, experience."
+                  "text": "Provide a short checklist (6–8 points) on factors US businesses should consider: budget, skills, timezone, onboarding speed, security, support, experience."
                 },
                 {
                   "type": "hardBreak"
@@ -17771,7 +17881,7 @@
                 },
                 {
                   "type": "text",
-                  "text": "Add 5\u20137 FAQs with 40\u201360 word answers. Use Q&A style. Questions should cover pricing, US hours, tasks, contracts, onboarding."
+                  "text": "Add 5–7 FAQs with 40–60 word answers. Use Q&A style. Questions should cover pricing, US hours, tasks, contracts, onboarding."
                 }
               ]
             },
@@ -17980,7 +18090,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "Website Blog -\u00a0 Best Virtual Assistant Companies for US Businesses (2025).docx",
+                        "text": "Website Blog -  Best Virtual Assistant Companies for US Businesses (2025).docx",
                         "marks": [
                           {
                             "type": "link",
@@ -18726,7 +18836,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "Long Form Blog -\u00a0The Trust Architecture - How High-Performing Companies Build Accountability in Remote Teams",
+                        "text": "Long Form Blog - The Trust Architecture - How High-Performing Companies Build Accountability in Remote Teams",
                         "marks": [
                           {
                             "type": "link",
@@ -18793,7 +18903,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am, PLease review it."
+                        "text": " Ma’am, PLease review it."
                       }
                     ]
                   }
@@ -18862,7 +18972,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "Here\u2019s the feedback:"
+                        "text": "Here’s the feedback:"
                       },
                       {
                         "type": "hardBreak"
@@ -18872,7 +18982,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "This piece is intelligent, well-researched and strategically framed \u2014 but it over-explains a strong idea instead of sharpening it into something formidable.",
+                        "text": "This piece is intelligent, well-researched and strategically framed — but it over-explains a strong idea instead of sharpening it into something formidable.",
                         "marks": [
                           {
                             "type": "strong"
@@ -18907,7 +19017,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "This is an ambitious, conceptually strong piece that tries to position \u201ctrust\u201d as a structural, engineered system rather than a soft cultural by-product. That direction is correct \u2014 and valuable."
+                        "text": "This is an ambitious, conceptually strong piece that tries to position “trust” as a structural, engineered system rather than a soft cultural by-product. That direction is correct — and valuable."
                       }
                     ]
                   },
@@ -19047,7 +19157,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "This is powerful positioning and aligns well with Shaun-style strategic framing. The idea that proximity-based trust is obsolete is one of the piece\u2019s strongest intellectual anchors."
+                        "text": "This is powerful positioning and aligns well with Shaun-style strategic framing. The idea that proximity-based trust is obsolete is one of the piece’s strongest intellectual anchors."
                       }
                     ]
                   },
@@ -19179,7 +19289,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Using MIT Sloan and Stanford research adds authority \u2014 but these references are currently "
+                        "text": "Using MIT Sloan and Stanford research adds authority — but these references are currently "
                       },
                       {
                         "type": "text",
@@ -19216,7 +19326,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "The VE section is clear and confident. It does not feel aggressively promotional, and retains a \u201ccase-based justification\u201d tone rather than sales copy. This is a positive."
+                        "text": "The VE section is clear and confident. It does not feel aggressively promotional, and retains a “case-based justification” tone rather than sales copy. This is a positive."
                       }
                     ]
                   },
@@ -19351,7 +19461,7 @@
                             "content": [
                               {
                                 "type": "text",
-                                "text": "\u201cWhy Trust Collapses\u201d"
+                                "text": "“Why Trust Collapses”"
                               }
                             ]
                           }
@@ -19365,7 +19475,7 @@
                             "content": [
                               {
                                 "type": "text",
-                                "text": "\u201cPsychology of Modern Trust\u201d"
+                                "text": "“Psychology of Modern Trust”"
                               }
                             ]
                           }
@@ -19379,7 +19489,7 @@
                             "content": [
                               {
                                 "type": "text",
-                                "text": "\u201cAccountability Gap\u201d"
+                                "text": "“Accountability Gap”"
                               }
                             ]
                           }
@@ -19393,7 +19503,7 @@
                             "content": [
                               {
                                 "type": "text",
-                                "text": "\u201cTrust Architecture\u201d"
+                                "text": "“Trust Architecture”"
                               }
                             ]
                           }
@@ -19407,7 +19517,7 @@
                             "content": [
                               {
                                 "type": "text",
-                                "text": "\u201cProof Layer\u201d"
+                                "text": "“Proof Layer”"
                               }
                             ]
                           }
@@ -19421,7 +19531,7 @@
                             "content": [
                               {
                                 "type": "text",
-                                "text": "\u201cClosing Insight\u201d"
+                                "text": "“Closing Insight”"
                               }
                             ]
                           }
@@ -19434,7 +19544,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "The reader already understands the argument halfway through \u2014 the latter sections mostly reinforce rather than expand."
+                        "text": "The reader already understands the argument halfway through — the latter sections mostly reinforce rather than expand."
                       }
                     ]
                   },
@@ -19480,7 +19590,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "The piece is ~30\u201340% longer than necessary for the insight it delivers."
+                        "text": "The piece is ~30–40% longer than necessary for the insight it delivers."
                       }
                     ]
                   },
@@ -19534,7 +19644,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "For Shaun\u2019s lens:"
+                        "text": "For Shaun’s lens:"
                       }
                     ]
                   },
@@ -19605,7 +19715,7 @@
                             "content": [
                               {
                                 "type": "text",
-                                "text": "\u201cNature doesn\u2019t tolerate vacuums\u201d"
+                                "text": "“Nature doesn’t tolerate vacuums”"
                               }
                             ]
                           }
@@ -19619,7 +19729,7 @@
                             "content": [
                               {
                                 "type": "text",
-                                "text": "\u201carchitected trust\u201d"
+                                "text": "“architected trust”"
                               }
                             ]
                           }
@@ -19633,7 +19743,7 @@
                             "content": [
                               {
                                 "type": "text",
-                                "text": "\u201cinherited reflex\u201d"
+                                "text": "“inherited reflex”"
                               }
                             ]
                           }
@@ -19647,7 +19757,7 @@
                             "content": [
                               {
                                 "type": "text",
-                                "text": "\u201coperating system of trust\u201d"
+                                "text": "“operating system of trust”"
                               }
                             ]
                           }
@@ -19773,7 +19883,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "VE\u2019s section is solid but slightly too long and late in the piece."
+                        "text": "VE’s section is solid but slightly too long and late in the piece."
                       }
                     ]
                   },
@@ -19818,7 +19928,7 @@
                             "content": [
                               {
                                 "type": "text",
-                                "text": "Midway through \u201cPsychology of Modern Trust\u201d"
+                                "text": "Midway through “Psychology of Modern Trust”"
                               }
                             ]
                           }
@@ -19914,7 +20024,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Cut 25\u201330% without losing meaning."
+                        "text": "Cut 25–30% without losing meaning."
                       }
                     ]
                   },
@@ -19961,7 +20071,7 @@
                           },
                           {
                             "type": "text",
-                            "text": "sharper cause \u2192 effect logic"
+                            "text": "sharper cause → effect logic"
                           }
                         ]
                       }
@@ -20673,7 +20783,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am, Please review it."
+                        "text": " Ma’am, Please review it."
                       }
                     ]
                   }
@@ -20796,7 +20906,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am - Feedback implemented:"
+                        "text": " Ma’am - Feedback implemented:"
                       },
                       {
                         "type": "hardBreak"
@@ -21531,7 +21641,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "Long Form Blog (VA Domain) -\u00a0What the Next Generation of Virtual Assistants Will Actually Do in 2026.docx",
+                        "text": "Long Form Blog (VA Domain) - What the Next Generation of Virtual Assistants Will Actually Do in 2026.docx",
                         "marks": [
                           {
                             "type": "link",
@@ -21589,7 +21699,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "looks fine\u2026 pls add originality AI snapshot\u2026 and it should pass in lite model."
+                        "text": "looks fine… pls add originality AI snapshot… and it should pass in lite model."
                       }
                     ]
                   }
@@ -21732,7 +21842,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am, Pls review it."
+                        "text": " Ma’am, Pls review it."
                       }
                     ]
                   }
@@ -22036,7 +22146,7 @@
         "aggregatetimeestimate": 0,
         "resolutiondate": null,
         "workratio": -1,
-        "summary": "Blog (AIO Optimization) - How India and the US Became \u201cLegally Wed\u201d",
+        "summary": "Blog (AIO Optimization) - How India and the US Became “Legally Wed”",
         "watches": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/AFSP-47/watchers",
           "watchCount": 4,
@@ -22151,7 +22261,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "Blog (AIO Optimization) - How India and the US Became \u201cLegally Wed\u201d",
+                        "text": "Blog (AIO Optimization) - How India and the US Became “Legally Wed”",
                         "marks": [
                           {
                             "type": "link",
@@ -22340,7 +22450,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am, Please review it."
+                        "text": " Ma’am, Please review it."
                       }
                     ]
                   }
@@ -22784,7 +22894,7 @@
         "aggregatetimeestimate": 0,
         "resolutiondate": null,
         "workratio": -1,
-        "summary": "Blog (AIO Optimization) - How outsourcing has the power to make \u201cMADE IN USA\u201d a success again",
+        "summary": "Blog (AIO Optimization) - How outsourcing has the power to make “MADE IN USA” a success again",
         "watches": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/AFSP-46/watchers",
           "watchCount": 4,
@@ -22899,7 +23009,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "Blog (AIO Optimization) - How outsourcing has the power to make \u201cMADE IN USA\u201d a success again",
+                        "text": "Blog (AIO Optimization) - How outsourcing has the power to make “MADE IN USA” a success again",
                         "marks": [
                           {
                             "type": "link",
@@ -23084,7 +23194,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am, Please review it."
+                        "text": " Ma’am, Please review it."
                       }
                     ]
                   }
@@ -23566,7 +23676,7 @@
         "aggregatetimeestimate": 0,
         "resolutiondate": null,
         "workratio": -1,
-        "summary": "Blog (AIO Optimization) - Why America\u2019s Hinterland is Looking Towards India\u2019s Metros",
+        "summary": "Blog (AIO Optimization) - Why America’s Hinterland is Looking Towards India’s Metros",
         "watches": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/AFSP-45/watchers",
           "watchCount": 4,
@@ -23681,7 +23791,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "Blog (AIO Optimization) - Why America\u2019s Hinterland is Looking Towards India\u2019s Metros",
+                        "text": "Blog (AIO Optimization) - Why America’s Hinterland is Looking Towards India’s Metros",
                         "marks": [
                           {
                             "type": "link",
@@ -23866,7 +23976,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am, Please review it."
+                        "text": " Ma’am, Please review it."
                       }
                     ]
                   }
@@ -24526,7 +24636,7 @@
         "aggregatetimeestimate": 0,
         "resolutiondate": null,
         "workratio": -1,
-        "summary": "Blog (AIO Optimized) - Here\u2019s why Virtual Employee Model is safer than Project Outsourcing",
+        "summary": "Blog (AIO Optimized) - Here’s why Virtual Employee Model is safer than Project Outsourcing",
         "watches": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/AFSP-44/watchers",
           "watchCount": 4,
@@ -24638,7 +24748,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "Blog (AIO Optimized) -\u00a0Here\u2019s why Virtual Employee Model is safer than Project Outsourcing",
+                        "text": "Blog (AIO Optimized) - Here’s why Virtual Employee Model is safer than Project Outsourcing",
                         "marks": [
                           {
                             "type": "link",
@@ -24768,7 +24878,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am, Please review it."
+                        "text": " Ma’am, Please review it."
                       }
                     ]
                   }
@@ -25268,7 +25378,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "Blog (AIO Optimized) -\u00a0How Project Outsourcing Can Be More Advantageous than Hiring Virtual Employees.docx",
+                        "text": "Blog (AIO Optimized) - How Project Outsourcing Can Be More Advantageous than Hiring Virtual Employees.docx",
                         "marks": [
                           {
                             "type": "link",
@@ -25398,7 +25508,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am, Please review it."
+                        "text": " Ma’am, Please review it."
                       }
                     ]
                   }
@@ -26074,7 +26184,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am, Please review it."
+                        "text": " Ma’am, Please review it."
                       }
                     ]
                   }
@@ -26826,7 +26936,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am, Please review it."
+                        "text": " Ma’am, Please review it."
                       }
                     ]
                   }
@@ -27389,7 +27499,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "Blog (AIO Optimized) -\u00a0The 3 Different Types of Offshore Outsourcing Companies",
+                        "text": "Blog (AIO Optimized) - The 3 Different Types of Offshore Outsourcing Companies",
                         "marks": [
                           {
                             "type": "link",
@@ -27578,7 +27688,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am, Please review it."
+                        "text": " Ma’am, Please review it."
                       }
                     ]
                   }
@@ -28128,7 +28238,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "Blog (AIO Optimized) -\u00a0How Outsourcing Can Help You Overcome Opportunity Cost Cognitive Biases",
+                        "text": "Blog (AIO Optimized) - How Outsourcing Can Help You Overcome Opportunity Cost Cognitive Biases",
                         "marks": [
                           {
                             "type": "link",
@@ -28195,7 +28305,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am, Please review it."
+                        "text": " Ma’am, Please review it."
                       }
                     ]
                   }
@@ -28580,7 +28690,7 @@
         "aggregatetimeestimate": 0,
         "resolutiondate": null,
         "workratio": -1,
-        "summary": "Blog (AIO Optimized) - How Outsourcing will \u2018Protect Your Will-Power\u2019",
+        "summary": "Blog (AIO Optimized) - How Outsourcing will ‘Protect Your Will-Power’",
         "watches": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/AFSP-38/watchers",
           "watchCount": 4,
@@ -28695,7 +28805,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "Blog (AIO Optimized) - How Outsourcing will \u2018Protect Your Will-Power\u2019",
+                        "text": "Blog (AIO Optimized) - How Outsourcing will ‘Protect Your Will-Power’",
                         "marks": [
                           {
                             "type": "link",
@@ -28884,7 +28994,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am, Please review it."
+                        "text": " Ma’am, Please review it."
                       }
                     ]
                   }
@@ -29442,7 +29552,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am, Please review the AI Category Page written by Tanumoy."
+                        "text": " Ma’am, Please review the AI Category Page written by Tanumoy."
                       }
                     ]
                   },
@@ -29922,7 +30032,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "Blog (AIO Optimized) -\u00a0Why RFPs are a Terrible Way to Outsource",
+                        "text": "Blog (AIO Optimized) - Why RFPs are a Terrible Way to Outsource",
                         "marks": [
                           {
                             "type": "link",
@@ -30098,7 +30208,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am, Please review it."
+                        "text": " Ma’am, Please review it."
                       }
                     ]
                   }
@@ -30630,7 +30740,7 @@
         "aggregatetimeestimate": 0,
         "resolutiondate": null,
         "workratio": -1,
-        "summary": "Blog (AIO Optimized) - How Client\u2019s Mindset is behind Most Offshoring Failures",
+        "summary": "Blog (AIO Optimized) - How Client’s Mindset is behind Most Offshoring Failures",
         "watches": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/AFSP-35/watchers",
           "watchCount": 4,
@@ -30745,7 +30855,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "Blog (AIO Optimized) -\u00a0How Client\u2019s Mindset is behind Most Offshoring Failures",
+                        "text": "Blog (AIO Optimized) - How Client’s Mindset is behind Most Offshoring Failures",
                         "marks": [
                           {
                             "type": "link",
@@ -30921,7 +31031,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am, Please review it."
+                        "text": " Ma’am, Please review it."
                       }
                     ]
                   }
@@ -31345,7 +31455,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "Blog (AIO Optimized) -\u00a0Why GDPR Compliance is Critical for Trust in Outsourcing and Remote Staffing.docx",
+                        "text": "Blog (AIO Optimized) - Why GDPR Compliance is Critical for Trust in Outsourcing and Remote Staffing.docx",
                         "marks": [
                           {
                             "type": "link",
@@ -31521,7 +31631,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am, please review it."
+                        "text": " Ma’am, please review it."
                       }
                     ]
                   }
@@ -32083,7 +32193,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "Blog (AIO Optimized) -\u00a0Why Hiring Only in the US and NOT Outsourcing Can SLOW Down the US Economy",
+                        "text": "Blog (AIO Optimized) - Why Hiring Only in the US and NOT Outsourcing Can SLOW Down the US Economy",
                         "marks": [
                           {
                             "type": "link",
@@ -32259,7 +32369,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am, Please review it."
+                        "text": " Ma’am, Please review it."
                       }
                     ]
                   }
@@ -32309,7 +32419,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "good to go but take care of a major goof up and repetition in the beginning\u2026.these things hould not happen"
+                        "text": "good to go but take care of a major goof up and repetition in the beginning….these things hould not happen"
                       }
                     ]
                   }
@@ -32822,7 +32932,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "Blog (AIO Optimized) -\u00a0The Race for Global Talent - The Divergence Between MNCs and SMEs",
+                        "text": "Blog (AIO Optimized) - The Race for Global Talent - The Divergence Between MNCs and SMEs",
                         "marks": [
                           {
                             "type": "link",
@@ -33011,7 +33121,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am, Please review it."
+                        "text": " Ma’am, Please review it."
                       }
                     ]
                   }
@@ -33111,7 +33221,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "The TL DR Is identical for another blog (Blog (AIO Optimized) -\u00a0Why Hiring Only in the US and NOT Outsourcing Can SLOW Down the US Economy)\u2026.which one is for which?????"
+                        "text": "The TL DR Is identical for another blog (Blog (AIO Optimized) - Why Hiring Only in the US and NOT Outsourcing Can SLOW Down the US Economy)….which one is for which?????"
                       }
                     ]
                   }
@@ -33807,7 +33917,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am, Please review it."
+                        "text": " Ma’am, Please review it."
                       }
                     ]
                   }
@@ -34520,7 +34630,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am, Please review it."
+                        "text": " Ma’am, Please review it."
                       }
                     ]
                   }
@@ -37024,7 +37134,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "\u00a0"
+                        "text": " "
                       }
                     ]
                   },
@@ -37103,7 +37213,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "\u00a0"
+                        "text": " "
                       }
                     ]
                   }
@@ -37205,7 +37315,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "\u00a0"
+                        "text": " "
                       }
                     ]
                   },
@@ -37214,7 +37324,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "\u00a0"
+                        "text": " "
                       }
                     ]
                   },
@@ -37263,7 +37373,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " outsource accounting services india\u2003\u2003"
+                        "text": " outsource accounting services india  "
                       },
                       {
                         "type": "hardBreak"
@@ -37300,7 +37410,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "\u00a0"
+                        "text": " "
                       }
                     ]
                   }
@@ -37658,7 +37768,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "\u00a0, ",
+                        "text": " , ",
                         "marks": [
                           {
                             "type": "em"
@@ -37667,7 +37777,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "Segments vs Signals infographic\u00a0"
+                        "text": "Segments vs Signals infographic "
                       }
                     ]
                   },
@@ -37682,7 +37792,7 @@
                             "content": [
                               {
                                 "type": "text",
-                                "text": "Brand examples (Amazon, Netflix)\u00a0"
+                                "text": "Brand examples (Amazon, Netflix) "
                               }
                             ]
                           }
@@ -37701,7 +37811,7 @@
                             "content": [
                               {
                                 "type": "text",
-                                "text": "Feedback loop flowchart\u00a0"
+                                "text": "Feedback loop flowchart "
                               }
                             ]
                           }
@@ -37720,7 +37830,7 @@
                             "content": [
                               {
                                 "type": "text",
-                                "text": "Emotional AI concept (emotion wheel)\u00a0"
+                                "text": "Emotional AI concept (emotion wheel) "
                               }
                             ]
                           }
@@ -37739,7 +37849,7 @@
                             "content": [
                               {
                                 "type": "text",
-                                "text": "Final \u201cAI-native checklist\u201d\u00a0"
+                                "text": "Final “AI-native checklist” "
                               }
                             ]
                           }
@@ -37797,7 +37907,7 @@
                               },
                               {
                                 "type": "text",
-                                "text": "\u00a0"
+                                "text": " "
                               }
                             ]
                           }
@@ -38302,7 +38412,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " , here\u2019s Part 2 of the same guide"
+                        "text": " , here’s Part 2 of the same guide"
                       },
                       {
                         "type": "hardBreak"
@@ -39460,7 +39570,7 @@
                                 "content": [
                                   {
                                     "type": "text",
-                                    "text": "hire a developer\u00a0"
+                                    "text": "hire a developer "
                                   }
                                 ]
                               }
@@ -39489,7 +39599,7 @@
                                 "content": [
                                   {
                                     "type": "text",
-                                    "text": "hire dedicated developers\u00a0"
+                                    "text": "hire dedicated developers "
                                   }
                                 ]
                               }
@@ -39518,7 +39628,7 @@
                                 "content": [
                                   {
                                     "type": "text",
-                                    "text": "hire dedicated developers in India\u00a0"
+                                    "text": "hire dedicated developers in India "
                                   }
                                 ]
                               }
@@ -39547,7 +39657,7 @@
                                 "content": [
                                   {
                                     "type": "text",
-                                    "text": "hire developer India\u00a0"
+                                    "text": "hire developer India "
                                   }
                                 ]
                               }
@@ -39576,7 +39686,7 @@
                                 "content": [
                                   {
                                     "type": "text",
-                                    "text": "hire remote developers India\u00a0"
+                                    "text": "hire remote developers India "
                                   }
                                 ]
                               }
@@ -39634,7 +39744,7 @@
                                 "content": [
                                   {
                                     "type": "text",
-                                    "text": "hire team of developers\u00a0"
+                                    "text": "hire team of developers "
                                   }
                                 ]
                               }
@@ -39663,7 +39773,7 @@
                                 "content": [
                                   {
                                     "type": "text",
-                                    "text": "hire coders India\u00a0"
+                                    "text": "hire coders India "
                                   }
                                 ]
                               }
@@ -39692,7 +39802,7 @@
                                 "content": [
                                   {
                                     "type": "text",
-                                    "text": "hire expert developer\u00a0"
+                                    "text": "hire expert developer "
                                   }
                                 ]
                               }
@@ -39721,7 +39831,7 @@
                                 "content": [
                                   {
                                     "type": "text",
-                                    "text": "hire Indian programmers\u00a0"
+                                    "text": "hire Indian programmers "
                                   }
                                 ]
                               }
@@ -40280,7 +40390,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am - Please review SEO page\u2019s content."
+                        "text": " Ma’am - Please review SEO page’s content."
                       }
                     ]
                   }
@@ -40670,7 +40780,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am, pls review it."
+                        "text": " Ma’am, pls review it."
                       }
                     ]
                   }
@@ -41211,7 +41321,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am, Please review it."
+                        "text": " Ma’am, Please review it."
                       }
                     ]
                   }
@@ -41320,7 +41430,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "feedback added. there seems to be an issue with the zoom visibility of the doc\u2026have shared with Koyel.  "
+                        "text": "feedback added. there seems to be an issue with the zoom visibility of the doc…have shared with Koyel.  "
                       }
                     ]
                   }
@@ -41511,7 +41621,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am - Please review \u201cHire Data Entry Page\u201d."
+                        "text": " Ma’am - Please review “Hire Data Entry Page”."
                       }
                     ]
                   },
@@ -42274,7 +42384,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am - Please review it."
+                        "text": " Ma’am - Please review it."
                       }
                     ]
                   }
@@ -42579,7 +42689,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am, Kindly review this page and share your valuable feedback. You have already reviewed this page in content phase."
+                        "text": " Ma’am, Kindly review this page and share your valuable feedback. You have already reviewed this page in content phase."
                       }
                     ]
                   },
@@ -42672,7 +42782,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am, Requesting you to review this page as we have to made it live."
+                        "text": " Ma’am, Requesting you to review this page as we have to made it live."
                       }
                     ]
                   }
@@ -43337,7 +43447,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am - Please review it."
+                        "text": " Ma’am - Please review it."
                       }
                     ]
                   }
@@ -43697,7 +43807,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am - Please review the page. All changes has been implemented."
+                        "text": " Ma’am - Please review the page. All changes has been implemented."
                       },
                       {
                         "type": "hardBreak"
@@ -44073,7 +44183,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Optimizing SEO Pages (Excel Expert) with AI-first Approach\u00a0"
+                        "text": "Optimizing SEO Pages (Excel Expert) with AI-first Approach "
                       },
                       {
                         "type": "hardBreak"
@@ -44087,7 +44197,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "Completed on-page optimization, added meta tags, schema markup, internal links, and alt tags for key assets\u00a0"
+                        "text": "Completed on-page optimization, added meta tags, schema markup, internal links, and alt tags for key assets "
                       },
                       {
                         "type": "hardBreak"
@@ -45696,7 +45806,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am - Please review it."
+                        "text": " Ma’am - Please review it."
                       }
                     ]
                   }
@@ -45850,7 +45960,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am - I have implemented the feedback. Please review:"
+                        "text": " Ma’am - I have implemented the feedback. Please review:"
                       },
                       {
                         "type": "hardBreak"
@@ -46193,7 +46303,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am,"
+                        "text": " Ma’am,"
                       },
                       {
                         "type": "hardBreak"
@@ -46907,7 +47017,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "\u274c "
+                        "text": "❌ "
                       },
                       {
                         "type": "text",
@@ -46958,7 +47068,7 @@
                                       },
                                       {
                                         "type": "text",
-                                        "text": "\u201chire AutoCAD designers\u201d",
+                                        "text": "“hire AutoCAD designers”",
                                         "marks": [
                                           {
                                             "type": "em"
@@ -47020,7 +47130,7 @@
                                       },
                                       {
                                         "type": "text",
-                                        "text": ", etc. are used, but hierarchy isn\u2019t clear."
+                                        "text": ", etc. are used, but hierarchy isn’t clear."
                                       }
                                     ]
                                   }
@@ -47058,7 +47168,7 @@
                                     "content": [
                                       {
                                         "type": "text",
-                                        "text": "\u201cVE\u201d is mentioned in 30+ places. As per Irfan Sir\u2019s mandate, it should only appear: "
+                                        "text": "“VE” is mentioned in 30+ places. As per Irfan Sir’s mandate, it should only appear: "
                                       }
                                     ]
                                   },
@@ -47119,7 +47229,7 @@
                                     "content": [
                                       {
                                         "type": "text",
-                                        "text": "Everywhere else, refer to \u201cyour offshore team\u201d / \u201cIndia-based CAD designers\u201d / \u201coffshore drafting partner\u201d."
+                                        "text": "Everywhere else, refer to “your offshore team” / “India-based CAD designers” / “offshore drafting partner”."
                                       }
                                     ]
                                   }
@@ -47300,7 +47410,7 @@
                                     "content": [
                                       {
                                         "type": "text",
-                                        "text": "\u201cWhy VE is better than freelancers\u201d and \u201cWhy VE is better than other AutoCAD outsourcing companies\u201d are overlapping. Can be merged."
+                                        "text": "“Why VE is better than freelancers” and “Why VE is better than other AutoCAD outsourcing companies” are overlapping. Can be merged."
                                       }
                                     ]
                                   }
@@ -47314,7 +47424,7 @@
                                     "content": [
                                       {
                                         "type": "text",
-                                        "text": "\u201cWhy Outsource CAD to India\u201d feels like it\u2019s repeating from above."
+                                        "text": "“Why Outsource CAD to India” feels like it’s repeating from above."
                                       }
                                     ]
                                   }
@@ -47331,7 +47441,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "\u00a0"
+                        "text": " "
                       }
                     ]
                   },
@@ -47343,7 +47453,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "\u26a0\ufe0f Services Section"
+                        "text": "⚠️ Services Section"
                       }
                     ]
                   },
@@ -47399,7 +47509,7 @@
                             "content": [
                               {
                                 "type": "text",
-                                "text": "Standardize description length to ~35\u201340 words."
+                                "text": "Standardize description length to ~35–40 words."
                               }
                             ]
                           }
@@ -47441,7 +47551,7 @@
                           },
                           {
                             "type": "text",
-                            "text": " \u201cOur architectural CAD designers create floor plans, elevations, and sections mapped to local codes using AutoCAD Architecture.\u201d"
+                            "text": " “Our architectural CAD designers create floor plans, elevations, and sections mapped to local codes using AutoCAD Architecture.”"
                           }
                         ]
                       }
@@ -47467,7 +47577,7 @@
                           },
                           {
                             "type": "text",
-                            "text": " \u201cReduce permit delays by hiring CAD experts who build floor plans, elevations, and sections aligned to city codes using AutoCAD Architecture\u2014ensuring faster approvals and fewer rejections.\u201d"
+                            "text": " “Reduce permit delays by hiring CAD experts who build floor plans, elevations, and sections aligned to city codes using AutoCAD Architecture—ensuring faster approvals and fewer rejections.”"
                           }
                         ]
                       },
@@ -47476,7 +47586,7 @@
                         "content": [
                           {
                             "type": "text",
-                            "text": "\u00a0"
+                            "text": " "
                           }
                         ]
                       }
@@ -47487,7 +47597,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "\u00a0"
+                        "text": " "
                       }
                     ]
                   },
@@ -47499,7 +47609,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "\u26a0\ufe0f FAQ Section"
+                        "text": "⚠️ FAQ Section"
                       }
                     ]
                   },
@@ -47514,7 +47624,7 @@
                             "content": [
                               {
                                 "type": "text",
-                                "text": "Too many \u201cVE\u201d mentions."
+                                "text": "Too many “VE” mentions."
                               }
                             ]
                           }
@@ -47528,7 +47638,7 @@
                             "content": [
                               {
                                 "type": "text",
-                                "text": "Schema-unfriendly phrasing like \u201cYes, when you hire\u2026\u201d"
+                                "text": "Schema-unfriendly phrasing like “Yes, when you hire…”"
                               }
                             ]
                           }
@@ -47602,7 +47712,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "\u00a0"
+                        "text": " "
                       }
                     ]
                   },
@@ -47677,7 +47787,7 @@
                                     "content": [
                                       {
                                         "type": "text",
-                                        "text": "Cleaner subheadings (e.g., \u201cWhen Should You Hire AutoCAD Designers?\u201d vs \u201cHire AutoCAD Designer in India Who Doesn\u2019t Just Draft\u2026\u201d)."
+                                        "text": "Cleaner subheadings (e.g., “When Should You Hire AutoCAD Designers?” vs “Hire AutoCAD Designer in India Who Doesn’t Just Draft…”)."
                                       }
                                     ]
                                   }
@@ -47711,7 +47821,7 @@
                         "content": [
                           {
                             "type": "text",
-                            "text": "\u201cHiring AutoCAD designers in India gives you cost-effective, code-aligned drafting that integrates directly into your existing stack and build cycles.\u201d"
+                            "text": "“Hiring AutoCAD designers in India gives you cost-effective, code-aligned drafting that integrates directly into your existing stack and build cycles.”"
                           }
                         ]
                       },
@@ -47720,7 +47830,7 @@
                         "content": [
                           {
                             "type": "text",
-                            "text": "\u00a0"
+                            "text": " "
                           }
                         ]
                       }
@@ -47731,7 +47841,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "\u00a0"
+                        "text": " "
                       }
                     ]
                   },
@@ -47746,7 +47856,7 @@
                             "content": [
                               {
                                 "type": "text",
-                                "text": "\u2705 Reduce \u201cVE\u201d mentions throughout the page\u2014limit to branding-specific blocks only."
+                                "text": "✅ Reduce “VE” mentions throughout the page—limit to branding-specific blocks only."
                               }
                             ]
                           }
@@ -47760,7 +47870,7 @@
                             "content": [
                               {
                                 "type": "text",
-                                "text": "\u2705 Rewrite the content-heavy section with cleaner headers, tighter paragraphs, and clearer keyword placement."
+                                "text": "✅ Rewrite the content-heavy section with cleaner headers, tighter paragraphs, and clearer keyword placement."
                               }
                             ]
                           }
@@ -47774,7 +47884,7 @@
                             "content": [
                               {
                                 "type": "text",
-                                "text": "\u2705 Standardize service descriptions to 35\u201340 words. Always start with the outcome."
+                                "text": "✅ Standardize service descriptions to 35–40 words. Always start with the outcome."
                               }
                             ]
                           }
@@ -47788,7 +47898,7 @@
                             "content": [
                               {
                                 "type": "text",
-                                "text": "\u2705 Fix FAQs to be schema-ready, domain-first, and phrased as user questions."
+                                "text": "✅ Fix FAQs to be schema-ready, domain-first, and phrased as user questions."
                               }
                             ]
                           }
@@ -47802,7 +47912,7 @@
                             "content": [
                               {
                                 "type": "text",
-                                "text": "\u2705 Merge the overlapping benefit sections and tighten narrative flow."
+                                "text": "✅ Merge the overlapping benefit sections and tighten narrative flow."
                               }
                             ]
                           }
@@ -47815,7 +47925,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "\u00a0"
+                        "text": " "
                       }
                     ]
                   }
@@ -47937,7 +48047,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am, pls review it."
+                        "text": " ma’am, pls review it."
                       }
                     ]
                   }
@@ -48335,7 +48445,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am, Kindly review the AutoCAD designer SEO page and share your valuable feedback. You already reviewed this page in content phase."
+                        "text": " Ma’am, Kindly review the AutoCAD designer SEO page and share your valuable feedback. You already reviewed this page in content phase."
                       }
                     ]
                   },
@@ -48576,7 +48686,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Optimizing SEO Pages (AutoCAD) with AI-first Approach\u00a0"
+                        "text": "Optimizing SEO Pages (AutoCAD) with AI-first Approach "
                       },
                       {
                         "type": "hardBreak"
@@ -48590,7 +48700,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "Completed on-page optimization, added meta tags, schema markup, internal links, and alt tags for key assets\u00a0"
+                        "text": "Completed on-page optimization, added meta tags, schema markup, internal links, and alt tags for key assets "
                       },
                       {
                         "type": "hardBreak"
@@ -48956,7 +49066,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Please work on Software Developer SEO page page. I\u2019ll share the keywords shortly."
+                        "text": " Please work on Software Developer SEO page page. I’ll share the keywords shortly."
                       }
                     ]
                   }
@@ -49096,7 +49206,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am - Please review SEO page\u2019s content."
+                        "text": " Ma’am - Please review SEO page’s content."
                       }
                     ]
                   }
@@ -49286,7 +49396,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am - Please review the page. All changes has been implemented."
+                        "text": " Ma’am - Please review the page. All changes has been implemented."
                       },
                       {
                         "type": "hardBreak"
@@ -49486,7 +49596,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Pls work on the page as per Daya Ma\u2019am feedback."
+                        "text": " Pls work on the page as per Daya Ma’am feedback."
                       }
                     ]
                   }
@@ -50071,7 +50181,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am - Please review and share your valuable feedback:"
+                        "text": " Ma’am - Please review and share your valuable feedback:"
                       },
                       {
                         "type": "hardBreak"
@@ -50610,7 +50720,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am,"
+                        "text": " Ma’am,"
                       }
                     ]
                   },
@@ -51543,7 +51653,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am - Please review it."
+                        "text": " Ma’am - Please review it."
                       }
                     ]
                   }
@@ -51942,7 +52052,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am, Please review the visual feedback and HTML link and share your valuable feedbck."
+                        "text": " Ma’am, Please review the visual feedback and HTML link and share your valuable feedbck."
                       },
                       {
                         "type": "hardBreak"
@@ -52803,7 +52913,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am - Please review it."
+                        "text": " Ma’am - Please review it."
                       }
                     ]
                   }
@@ -52930,7 +53040,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "My bad, this was Abhishek\u2019s. Dont know whats happening guys\u2026\u2026the recent files shared by Koyel and now this one by Abshiehk\u2026..the visibility even at full 100% is as though 25%\u2026.."
+                        "text": "My bad, this was Abhishek’s. Dont know whats happening guys……the recent files shared by Koyel and now this one by Abshiehk…..the visibility even at full 100% is as though 25%….."
                       }
                     ]
                   }
@@ -53102,7 +53212,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am - Please review the page. All changes has been implemented."
+                        "text": " Ma’am - Please review the page. All changes has been implemented."
                       },
                       {
                         "type": "hardBreak"
@@ -53266,7 +53376,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am & "
+                        "text": " Ma’am & "
                       },
                       {
                         "type": "mention",
@@ -53360,7 +53470,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am, We have made all the required changes suggested by you. Please have a look."
+                        "text": " Ma’am, We have made all the required changes suggested by you. Please have a look."
                       }
                     ]
                   },
@@ -53384,7 +53494,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Note: I have raised \u201cContent Heavy\u201d formatting issues to developer and it will be fixed soon."
+                        "text": "Note: I have raised “Content Heavy” formatting issues to developer and it will be fixed soon."
                       }
                     ]
                   }
@@ -53443,7 +53553,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " major tech glitches. Resource section, the one above it plus content heavy sections - all gone\u2026only headlines and CTA which is not clickable or expandable\u2026 Please fix this and resend for final review. "
+                        "text": " major tech glitches. Resource section, the one above it plus content heavy sections - all gone…only headlines and CTA which is not clickable or expandable… Please fix this and resend for final review. "
                       }
                     ]
                   }
@@ -53502,7 +53612,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am, its fixed now. The issue with the overall template and developer fixed it. Please re-check the live URL."
+                        "text": " Ma’am, its fixed now. The issue with the overall template and developer fixed it. Please re-check the live URL."
                       },
                       {
                         "type": "hardBreak"
@@ -54962,7 +55072,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am - Please Review:"
+                        "text": " Ma’am - Please Review:"
                       }
                     ]
                   },
@@ -55171,7 +55281,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am - Please review the page. All changes has been implemented."
+                        "text": " Ma’am - Please review the page. All changes has been implemented."
                       },
                       {
                         "type": "hardBreak"
@@ -55236,7 +55346,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Daya Ma\u2019am - Updated this change."
+                        "text": "Daya Ma’am - Updated this change."
                       }
                     ]
                   },
@@ -55358,7 +55468,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Ok, Ma\u2019am."
+                        "text": "Ok, Ma’am."
                       }
                     ]
                   }
@@ -56178,7 +56288,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am - Please review:"
+                        "text": " Ma’am - Please review:"
                       },
                       {
                         "type": "hardBreak"
@@ -56404,7 +56514,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am - Please review the page. All changes has been implemented."
+                        "text": " Ma’am - Please review the page. All changes has been implemented."
                       }
                     ]
                   },
@@ -57729,7 +57839,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Sir - Here\u2019s the web article:"
+                        "text": " Sir - Here’s the web article:"
                       },
                       {
                         "type": "hardBreak"
@@ -58179,6 +58289,5 @@
         }
       }
     }
-  ],
-  "isLast": true
+  ]
 }

@@ -1,4 +1,8 @@
 {
+  "name": "AI Ecosystem on Website",
+  "id": "10223",
+  "key": "AEOW",
+  "issue_count": 19,
   "issues": [
     {
       "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
@@ -186,7 +190,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Hello Daya Ma\u2019am,"
+                        "text": "Hello Daya Ma’am,"
                       },
                       {
                         "type": "hardBreak"
@@ -282,7 +286,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "video is the star of this page. Just added a few comments, esp regarding one line in Sheela\u2019s script. Pls get back on this. "
+                        "text": "video is the star of this page. Just added a few comments, esp regarding one line in Sheela’s script. Pls get back on this. "
                       }
                     ]
                   }
@@ -535,7 +539,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Hello Daya Ma\u2019am,"
+                        "text": "Hello Daya Ma’am,"
                       },
                       {
                         "type": "hardBreak"
@@ -897,7 +901,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Hello Daya Ma\u2019am,"
+                        "text": "Hello Daya Ma’am,"
                       },
                       {
                         "type": "hardBreak"
@@ -1259,7 +1263,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "  Ma\u2019am,"
+                        "text": "  Ma’am,"
                       }
                     ]
                   },
@@ -1268,7 +1272,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "According to Shaun\u2019s feedback on the AI@VE page, I have updated this page and also created two dedicated pages \u2013 one for "
+                        "text": "According to Shaun’s feedback on the AI@VE page, I have updated this page and also created two dedicated pages – one for "
                       },
                       {
                         "type": "text",
@@ -1385,7 +1389,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "\u00a0"
+                        "text": " "
                       },
                       {
                         "type": "text",
@@ -1419,7 +1423,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "\u00a0"
+                        "text": " "
                       },
                       {
                         "type": "text",
@@ -1500,7 +1504,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "I have reviewed the AI@VE anchor page and frankly, it falls short of expectations. Apart from the sleek banner there\u2019s nothing that\u2019s very explicit or AI-driven. "
+                        "text": "I have reviewed the AI@VE anchor page and frankly, it falls short of expectations. Apart from the sleek banner there’s nothing that’s very explicit or AI-driven. "
                       },
                       {
                         "type": "hardBreak"
@@ -3191,7 +3195,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ). The following is the doc with the changes \u2013 "
+                        "text": " ). The following is the doc with the changes – "
                       },
                       {
                         "type": "text",
@@ -3325,7 +3329,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Have made changes in the doc; plz review \u2013 "
+                        "text": " Have made changes in the doc; plz review – "
                       },
                       {
                         "type": "text",
@@ -5314,6 +5318,5 @@
         }
       }
     }
-  ],
-  "isLast": true
+  ]
 }

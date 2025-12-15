@@ -2,6 +2,7 @@ import sqlite3
 import json
 import os
 from datetime import datetime, timedelta
+import sys
 
 # === CONFIGURATION ===
 JSON_FOLDER = "JSONs"  # Your folder with JSON files
@@ -10,7 +11,18 @@ DATABASE_NAME = "jira_data.db"  # This will be created
 def create_database():
     """Creates the SQLite database and tables"""
     print("Creating database and tables...")
-    
+
+    # FIX: Delete the old database file if it exists
+    if os.path.exists(DATABASE_NAME):
+        print(f"Cleaning up existing database: {DATABASE_NAME}")
+        try:
+            os.remove(DATABASE_NAME)
+            print("  [OK] Database file deleted.")
+        except Exception as e:
+            print(f"[ERROR] Could not delete {DATABASE_NAME}. Please check permissions or if the file is open: {e}")
+            # Exit the program if the critical file cannot be deleted
+            sys.exit(1)
+        
     # Connect to SQLite (creates file if doesn't exist)
     conn = sqlite3.connect(DATABASE_NAME)
     cursor = conn.cursor()
@@ -25,7 +37,7 @@ def create_database():
         )
     """)
     
-    # Create Issues table
+    # Create Issues table with duedate
     cursor.execute("""
         CREATE TABLE IF NOT EXISTS issues (
             issue_key TEXT PRIMARY KEY,
@@ -36,6 +48,7 @@ def create_database():
             priority TEXT,
             created TEXT,
             updated TEXT,
+            duedate TEXT,
             time_spent INTEGER,
             parent_key TEXT,
             FOREIGN KEY (project_key) REFERENCES projects(project_key)
@@ -43,7 +56,7 @@ def create_database():
     """)
     
     conn.commit()
-    print("[OK] Database created successfully!")
+    print("  [OK] Database created successfully!")
     return conn
 
 def parse_datetime(date_string):
@@ -52,7 +65,11 @@ def parse_datetime(date_string):
         return None
     try:
         # Jira format: 2024-01-15T10:30:45.123+0000
-        return date_string.split('T')[0]  # Just get the date part
+        # Or just date: 2024-01-15
+        if 'T' in date_string:
+            return date_string.split('T')[0]  # Get date part
+        else:
+            return date_string  # Already just a date
     except:
         return None
 
@@ -80,7 +97,7 @@ def insert_project_data(conn, json_folder):
                 project_data = json.load(f)
             
             # Extract project info
-            project_key = json_file.replace('_issues.json', '')
+            project_key = project_data.get('key') or json_file.replace('_issues.json', '')
             project_name = project_data.get('name', 'Unknown')
             project_id = project_data.get('id', '')
             issue_count = project_data.get('issue_count', 0)
@@ -108,6 +125,7 @@ def insert_project_data(conn, json_folder):
                 priority = priority_obj.get('name', 'None') if priority_obj else 'None'
                 created = parse_datetime(fields.get('created'))
                 updated = parse_datetime(fields.get('updated'))
+                duedate = parse_datetime(fields.get('duedate'))  # NEW: Extract duedate
                 time_spent = fields.get('timespent', 0) or 0
                 parent_obj = fields.get('parent')
                 parent_key = parent_obj.get('key') if parent_obj else None
@@ -115,10 +133,10 @@ def insert_project_data(conn, json_folder):
                 cursor.execute("""
                     INSERT OR REPLACE INTO issues 
                     (issue_key, project_key, summary, status, assignee, priority, 
-                     created, updated, time_spent, parent_key)
-                    VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+                     created, updated, duedate, time_spent, parent_key)
+                    VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
                 """, (issue_key, project_key, summary, status, assignee, priority,
-                      created, updated, time_spent, parent_key))
+                      created, updated, duedate, time_spent, parent_key))
                 
                 issues_imported += 1
             
@@ -159,13 +177,13 @@ def show_sample_data(conn):
     # Show some issues
     print("\n--- Sample Issues ---")
     cursor.execute("""
-        SELECT issue_key, summary, status, assignee 
+        SELECT issue_key, summary, status, assignee, duedate 
         FROM issues 
         LIMIT 5
     """)
     for row in cursor.fetchall():
         print(f"  {row[0]}: {row[1][:50]}...")
-        print(f"    Status: {row[2]}, Assignee: {row[3]}")
+        print(f"    Status: {row[2]}, Assignee: {row[3]}, Due: {row[4] or 'Not set'}")
 
 # === MAIN EXECUTION ===
 if __name__ == "__main__":

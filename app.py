@@ -443,9 +443,11 @@ def get_db_schema():
     - priority (TEXT) - values like: 'High', 'Medium', 'Low', 'Critical', etc.
     - created (TEXT) - date in format YYYY-MM-DD
     - updated (TEXT) - date in format YYYY-MM-DD
-    - duedate (TEXT) - date in format YYYY-MM-DD
+    - duedate (TEXT) - due date in format YYYY-MM-DD (CAN BE NULL if not set)
     - time_spent (INTEGER) - time in seconds
     - parent_key (TEXT) - parent issue key if this is a subtask
+    
+    IMPORTANT: When querying duedate, ALWAYS check if it is NULL. If duedate IS NULL, explicitly state "No due date set" in your response.
     """
     return schema
 
@@ -573,6 +575,8 @@ IMPORTANT RULES:
 10. Use GROUP BY for aggregations
 11. Use COUNT, SUM for metrics
 12. PAY ATTENTION TO CONTEXT: If user says "those", "that project", "these issues", refer to the context above to understand what they mean
+13. For duedate/deadline queries: ALWAYS SELECT duedate column. If result is NULL, tell user "No due date set"
+14. NEVER substitute updated date for duedate - they are different fields
 
 EXAMPLE for project health (SINGLE QUERY):
 SELECT 

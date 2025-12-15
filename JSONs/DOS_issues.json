@@ -1,4 +1,8 @@
 {
+  "name": "Dossier",
+  "id": "10388",
+  "key": "DOS",
+  "issue_count": 1,
   "issues": [
     {
       "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
@@ -556,6 +560,5 @@
         }
       }
     }
-  ],
-  "isLast": true
+  ]
 }

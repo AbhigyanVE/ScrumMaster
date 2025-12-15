@@ -1,4 +1,8 @@
 {
+  "name": "Billion Words Website (1B)",
+  "id": "10520",
+  "key": "BWW",
+  "issue_count": 100,
   "issues": [
     {
       "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
@@ -593,7 +597,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am, Please check: "
+                        "text": " ma’am, Please check: "
                       },
                       {
                         "type": "inlineCard",
@@ -693,7 +697,7 @@
           "key": "BWW-147",
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/13054",
           "fields": {
-            "summary": "1B Project (Medium Article) - Emotion-Responsive UI: Interfaces That Shift Based on Users\u2019 Mood or Context",
+            "summary": "1B Project (Medium Article) - Emotion-Responsive UI: Interfaces That Shift Based on Users’ Mood or Context",
             "status": {
               "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10767",
               "description": "",
@@ -861,7 +865,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Where\u2019s the article and who is the writer????"
+                        "text": "Where’s the article and who is the writer????"
                       }
                     ]
                   }
@@ -919,7 +923,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am I have mentioned everything. don\u2019t know why information are not updated. Please check below ma\u2019am. "
+                        "text": " ma’am I have mentioned everything. don’t know why information are not updated. Please check below ma’am. "
                       },
                       {
                         "type": "hardBreak"
@@ -998,7 +1002,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "feedback added\u2026.a bit off track here and there but overall some very compelling sections."
+                        "text": "feedback added….a bit off track here and there but overall some very compelling sections."
                       }
                     ]
                   }
@@ -1220,7 +1224,7 @@
                 },
                 {
                   "type": "text",
-                  "text": " ma\u2019am, "
+                  "text": " ma’am, "
                 },
                 {
                   "type": "mention",
@@ -1384,7 +1388,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " , its alright except for the intro\u2026.that somehow felt all over the place. "
+                        "text": " , its alright except for the intro….that somehow felt all over the place. "
                       }
                     ]
                   }
@@ -1966,7 +1970,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "Medium Article - (Web Design)\u00a0 Invisible UX - Designing for AI Navigation",
+                        "text": "Medium Article - (Web Design)  Invisible UX - Designing for AI Navigation",
                         "marks": [
                           {
                             "type": "link",
@@ -2474,7 +2478,7 @@
         "aggregatetimeestimate": 0,
         "resolutiondate": "2025-11-04T16:56:14.365+0530",
         "workratio": -1,
-        "summary": "1B Project (Medium Article) - Emotion-Responsive UI: Interfaces That Shift Based on Users\u2019 Mood or Context",
+        "summary": "1B Project (Medium Article) - Emotion-Responsive UI: Interfaces That Shift Based on Users’ Mood or Context",
         "watches": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/BWW-147/watchers",
           "watchCount": 1,
@@ -2628,7 +2632,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "Medium Article - (Web Design) Emotion-Responsive UI - Interfaces That Shift Based on Users\u2019 Mood or Context",
+                        "text": "Medium Article - (Web Design) Emotion-Responsive UI - Interfaces That Shift Based on Users’ Mood or Context",
                         "marks": [
                           {
                             "type": "link",
@@ -2960,7 +2964,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "Medium Article -\u00a0(Web Design)Generative Design Systems- Websites That Sketch Themselves Based on Brand DNA.docx",
+                        "text": "Medium Article - (Web Design)Generative Design Systems- Websites That Sketch Themselves Based on Brand DNA.docx",
                         "marks": [
                           {
                             "type": "link",
@@ -3170,7 +3174,7 @@
                 },
                 {
                   "type": "text",
-                  "text": " ma\u2019am, "
+                  "text": " ma’am, "
                 },
                 {
                   "type": "mention",
@@ -3543,7 +3547,7 @@
                 },
                 {
                   "type": "text",
-                  "text": " ma\u2019am, "
+                  "text": " ma’am, "
                 },
                 {
                   "type": "mention",
@@ -3920,7 +3924,7 @@
                 },
                 {
                   "type": "text",
-                  "text": "ma\u2019am , "
+                  "text": "ma’am , "
                 },
                 {
                   "type": "mention",
@@ -4080,7 +4084,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " , the intro is too weak and garbled and isn\u2019t clear at all. The rest seems okayish but I didn't get till there. Pls fix the first few paras. And see if the title can be changed. The original suggested title was easier to follow. "
+                        "text": " , the intro is too weak and garbled and isn’t clear at all. The rest seems okayish but I didn't get till there. Pls fix the first few paras. And see if the title can be changed. The original suggested title was easier to follow. "
                       }
                     ]
                   }
@@ -4143,7 +4147,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am. I have made changes to the article head as well as to the intro. Plz review \u2013 "
+                        "text": " ma’am. I have made changes to the article head as well as to the intro. Plz review – "
                       },
                       {
                         "type": "text",
@@ -4852,7 +4856,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Article link \u2013 "
+                        "text": "Article link – "
                       },
                       {
                         "type": "text",
@@ -5066,7 +5070,7 @@
                 },
                 {
                   "type": "text",
-                  "text": " ma\u2019am, "
+                  "text": " ma’am, "
                 },
                 {
                   "type": "mention",
@@ -5267,7 +5271,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Aren\u2019t we adding any VE insight inside Medium articles? "
+                        "text": "Aren’t we adding any VE insight inside Medium articles? "
                       }
                     ]
                   }
@@ -5488,7 +5492,7 @@
                 },
                 {
                   "type": "text",
-                  "text": " ma\u2019am, "
+                  "text": " ma’am, "
                 },
                 {
                   "type": "mention",
@@ -5706,7 +5710,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "Medium Article - (Web Designer) -\u00a0Spatial Web Design - Building for the AR Cloud and Mixed Reality Browsers.docx",
+                        "text": "Medium Article - (Web Designer) - Spatial Web Design - Building for the AR Cloud and Mixed Reality Browsers.docx",
                         "marks": [
                           {
                             "type": "link",
@@ -5877,7 +5881,7 @@
                 },
                 {
                   "type": "text",
-                  "text": " ma\u2019am, "
+                  "text": " ma’am, "
                 },
                 {
                   "type": "mention",
@@ -6369,7 +6373,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Maa\u2019m please review this . Written by Abhishek"
+                        "text": " Maa’m please review this . Written by Abhishek"
                       }
                     ]
                   },
@@ -6625,7 +6629,7 @@
                 },
                 {
                   "type": "text",
-                  "text": " Ma\u2019am, "
+                  "text": " Ma’am, "
                 },
                 {
                   "type": "mention",
@@ -7230,7 +7234,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " maa\u2019m please review this, written by koyel"
+                        "text": " maa’m please review this, written by koyel"
                       }
                     ]
                   }
@@ -8903,7 +8907,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "Don\u2019t use "
+                        "text": "Don’t use "
                       },
                       {
                         "type": "text",
@@ -8922,7 +8926,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "\u00a0directly. Use some term or words or a sentence to connect the case study."
+                        "text": " directly. Use some term or words or a sentence to connect the case study."
                       }
                     ]
                   }
@@ -9042,7 +9046,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Thank you. Now it\u2019s okay"
+                        "text": " Thank you. Now it’s okay"
                       }
                     ]
                   }
@@ -9610,7 +9614,7 @@
                 },
                 {
                   "type": "text",
-                  "text": " ma\u2019am, "
+                  "text": " ma’am, "
                 },
                 {
                   "type": "mention",
@@ -11402,7 +11406,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "Medium Article - (Web Designer) -\u00a0Spatial Web Design - Building for the AR Cloud and Mixed Reality Browsers",
+                        "text": "Medium Article - (Web Designer) - Spatial Web Design - Building for the AR Cloud and Mixed Reality Browsers",
                         "marks": [
                           {
                             "type": "link",
@@ -12567,7 +12571,7 @@
                 },
                 {
                   "type": "text",
-                  "text": " ma\u2019am, "
+                  "text": " ma’am, "
                 },
                 {
                   "type": "mention",
@@ -12871,7 +12875,7 @@
           "key": "BWW-115",
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/12618",
           "fields": {
-            "summary": "1B Project (Medium Article) - Knowledge Graph Warfare: Outranking Competitors Inside Google\u2019s Brain",
+            "summary": "1B Project (Medium Article) - Knowledge Graph Warfare: Outranking Competitors Inside Google’s Brain",
             "status": {
               "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10767",
               "description": "",
@@ -12944,7 +12948,7 @@
                 },
                 {
                   "type": "text",
-                  "text": " ma\u2019am, "
+                  "text": " ma’am, "
                 },
                 {
                   "type": "mention",
@@ -13002,7 +13006,7 @@
         "aggregatetimeestimate": null,
         "resolutiondate": "2025-09-29T12:17:35.753+0530",
         "workratio": -1,
-        "summary": "Medium Article - Knowledge Graph Warfare: Outranking Competitors Inside Google\u2019s Brain ",
+        "summary": "Medium Article - Knowledge Graph Warfare: Outranking Competitors Inside Google’s Brain ",
         "watches": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/BWW-122/watchers",
           "watchCount": 3,
@@ -13675,7 +13679,7 @@
           "key": "BWW-118",
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/12632",
           "fields": {
-            "summary": "Medium Article--AI-Powered Design Workflows: India\u2019s Advantage in Faster, Smarter Web Creation",
+            "summary": "Medium Article--AI-Powered Design Workflows: India’s Advantage in Faster, Smarter Web Creation",
             "status": {
               "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10767",
               "description": "",
@@ -13748,7 +13752,7 @@
                 },
                 {
                   "type": "text",
-                  "text": " ma\u2019am, "
+                  "text": " ma’am, "
                 },
                 {
                   "type": "mention",
@@ -13806,7 +13810,7 @@
         "aggregatetimeestimate": null,
         "resolutiondate": "2025-09-29T12:36:46.580+0530",
         "workratio": -1,
-        "summary": "Medium Article - What Makes India\u2019s 5.8m Tech Talent the Engine of AI-First Web Design? ",
+        "summary": "Medium Article - What Makes India’s 5.8m Tech Talent the Engine of AI-First Web Design? ",
         "watches": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/BWW-120/watchers",
           "watchCount": 2,
@@ -13989,7 +13993,7 @@
           "key": "BWW-118",
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/12632",
           "fields": {
-            "summary": "Medium Article--AI-Powered Design Workflows: India\u2019s Advantage in Faster, Smarter Web Creation",
+            "summary": "Medium Article--AI-Powered Design Workflows: India’s Advantage in Faster, Smarter Web Creation",
             "status": {
               "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10767",
               "description": "",
@@ -14069,7 +14073,7 @@
         "aggregatetimeestimate": 0,
         "resolutiondate": "2025-09-19T16:14:18.692+0530",
         "workratio": -1,
-        "summary": "Review Medium Article--AI-Powered Design Workflows: India\u2019s Advantage in Faster, Smarter Web Creation",
+        "summary": "Review Medium Article--AI-Powered Design Workflows: India’s Advantage in Faster, Smarter Web Creation",
         "watches": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/BWW-119/watchers",
           "watchCount": 2,
@@ -14177,7 +14181,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Plz review the following Medium article \u2013 "
+                        "text": " Plz review the following Medium article – "
                       },
                       {
                         "type": "inlineCard",
@@ -14421,7 +14425,7 @@
         "aggregatetimeestimate": 0,
         "resolutiondate": "2025-09-29T15:42:42.801+0530",
         "workratio": -1,
-        "summary": "Medium Article--AI-Powered Design Workflows: India\u2019s Advantage in Faster, Smarter Web Creation",
+        "summary": "Medium Article--AI-Powered Design Workflows: India’s Advantage in Faster, Smarter Web Creation",
         "watches": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/BWW-118/watchers",
           "watchCount": 1,
@@ -14448,7 +14452,7 @@
             "key": "BWW-119",
             "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/12634",
             "fields": {
-              "summary": "Review Medium Article--AI-Powered Design Workflows: India\u2019s Advantage in Faster, Smarter Web Creation",
+              "summary": "Review Medium Article--AI-Powered Design Workflows: India’s Advantage in Faster, Smarter Web Creation",
               "status": {
                 "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10767",
                 "description": "",
@@ -14487,7 +14491,7 @@
             "key": "BWW-120",
             "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/12636",
             "fields": {
-              "summary": "Medium Article - What Makes India\u2019s 5.8m Tech Talent the Engine of AI-First Web Design? ",
+              "summary": "Medium Article - What Makes India’s 5.8m Tech Talent the Engine of AI-First Web Design? ",
               "status": {
                 "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10767",
                 "description": "",
@@ -14746,7 +14750,7 @@
                 },
                 {
                   "type": "text",
-                  "text": " ma\u2019am, "
+                  "text": " ma’am, "
                 },
                 {
                   "type": "mention",
@@ -15117,7 +15121,7 @@
                 },
                 {
                   "type": "text",
-                  "text": " ma\u2019am, "
+                  "text": " ma’am, "
                 },
                 {
                   "type": "mention",
@@ -15468,7 +15472,7 @@
         "aggregatetimeestimate": 0,
         "resolutiondate": "2025-09-20T13:42:09.410+0530",
         "workratio": -1,
-        "summary": "1B Project (Medium Article) - Knowledge Graph Warfare: Outranking Competitors Inside Google\u2019s Brain",
+        "summary": "1B Project (Medium Article) - Knowledge Graph Warfare: Outranking Competitors Inside Google’s Brain",
         "watches": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/BWW-115/watchers",
           "watchCount": 2,
@@ -15495,7 +15499,7 @@
             "key": "BWW-122",
             "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/12649",
             "fields": {
-              "summary": "Medium Article - Knowledge Graph Warfare: Outranking Competitors Inside Google\u2019s Brain ",
+              "summary": "Medium Article - Knowledge Graph Warfare: Outranking Competitors Inside Google’s Brain ",
               "status": {
                 "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10767",
                 "description": "",
@@ -16354,7 +16358,7 @@
                 },
                 {
                   "type": "text",
-                  "text": " ma\u2019am, "
+                  "text": " ma’am, "
                 },
                 {
                   "type": "mention",
@@ -16839,7 +16843,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " maa\u2019m please review this (written by Abhishek)"
+                        "text": " maa’m please review this (written by Abhishek)"
                       }
                     ]
                   },
@@ -17953,7 +17957,7 @@
                 },
                 {
                   "type": "text",
-                  "text": "  ma\u2019am, "
+                  "text": "  ma’am, "
                 },
                 {
                   "type": "mention",
@@ -18257,7 +18261,7 @@
           "key": "BWW-103",
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/12586",
           "fields": {
-            "summary": "Review Medium Article -- Automating Admin vs Automating Engagement: The Hidden Gap AI Can\u2019t Close in Social Media",
+            "summary": "Review Medium Article -- Automating Admin vs Automating Engagement: The Hidden Gap AI Can’t Close in Social Media",
             "status": {
               "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10767",
               "description": "",
@@ -18330,7 +18334,7 @@
                 },
                 {
                   "type": "text",
-                  "text": " ma\u2019am, "
+                  "text": " ma’am, "
                 },
                 {
                   "type": "mention",
@@ -18388,7 +18392,7 @@
         "aggregatetimeestimate": null,
         "resolutiondate": "2025-09-29T19:11:07.354+0530",
         "workratio": -1,
-        "summary": "Medium Article - Why Your Social Media Bot Can Schedule the Party But Can\u2019t Dance at It ",
+        "summary": "Medium Article - Why Your Social Media Bot Can Schedule the Party But Can’t Dance at It ",
         "watches": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/BWW-108/watchers",
           "watchCount": 2,
@@ -18644,7 +18648,7 @@
                 },
                 {
                   "type": "text",
-                  "text": " ma\u2019am, "
+                  "text": " ma’am, "
                 },
                 {
                   "type": "mention",
@@ -19764,7 +19768,7 @@
           "key": "BWW-103",
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/12586",
           "fields": {
-            "summary": "Review Medium Article -- Automating Admin vs Automating Engagement: The Hidden Gap AI Can\u2019t Close in Social Media",
+            "summary": "Review Medium Article -- Automating Admin vs Automating Engagement: The Hidden Gap AI Can’t Close in Social Media",
             "status": {
               "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10767",
               "description": "",
@@ -19844,7 +19848,7 @@
         "aggregatetimeestimate": 0,
         "resolutiondate": "2025-09-16T16:47:58.400+0530",
         "workratio": -1,
-        "summary": "Review Medium Article -- Automating Admin vs Automating Engagement: The Hidden Gap AI Can\u2019t Close in Social Media",
+        "summary": "Review Medium Article -- Automating Admin vs Automating Engagement: The Hidden Gap AI Can’t Close in Social Media",
         "watches": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/BWW-104/watchers",
           "watchCount": 2,
@@ -19952,7 +19956,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Plz review the following Medium article \u2013 "
+                        "text": " Plz review the following Medium article – "
                       },
                       {
                         "type": "inlineCard",
@@ -20191,7 +20195,7 @@
         "aggregatetimeestimate": 0,
         "resolutiondate": "2025-10-06T19:40:13.743+0530",
         "workratio": -1,
-        "summary": "Review Medium Article -- Automating Admin vs Automating Engagement: The Hidden Gap AI Can\u2019t Close in Social Media",
+        "summary": "Review Medium Article -- Automating Admin vs Automating Engagement: The Hidden Gap AI Can’t Close in Social Media",
         "watches": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/BWW-103/watchers",
           "watchCount": 1,
@@ -20218,7 +20222,7 @@
             "key": "BWW-104",
             "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/12588",
             "fields": {
-              "summary": "Review Medium Article -- Automating Admin vs Automating Engagement: The Hidden Gap AI Can\u2019t Close in Social Media",
+              "summary": "Review Medium Article -- Automating Admin vs Automating Engagement: The Hidden Gap AI Can’t Close in Social Media",
               "status": {
                 "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10767",
                 "description": "",
@@ -20257,7 +20261,7 @@
             "key": "BWW-108",
             "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/12598",
             "fields": {
-              "summary": "Medium Article - Why Your Social Media Bot Can Schedule the Party But Can\u2019t Dance at It ",
+              "summary": "Medium Article - Why Your Social Media Bot Can Schedule the Party But Can’t Dance at It ",
               "status": {
                 "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10767",
                 "description": "",
@@ -20365,7 +20369,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Article link \u2013 "
+                        "text": "Article link – "
                       },
                       {
                         "type": "inlineCard",
@@ -20500,7 +20504,7 @@
           "key": "BWW-88",
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/12421",
           "fields": {
-            "summary": "1B Project (Medium Article) - Why Fortune 500s Are Building \u2018India-First\u2019 Tech Teams Before Expanding Globally",
+            "summary": "1B Project (Medium Article) - Why Fortune 500s Are Building ‘India-First’ Tech Teams Before Expanding Globally",
             "status": {
               "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10767",
               "description": "",
@@ -20573,7 +20577,7 @@
                 },
                 {
                   "type": "text",
-                  "text": " ma\u2019am, "
+                  "text": " ma’am, "
                 },
                 {
                   "type": "mention",
@@ -20625,7 +20629,7 @@
         "aggregatetimeestimate": null,
         "resolutiondate": "2025-09-12T19:37:47.617+0530",
         "workratio": -1,
-        "summary": "Medium Spoke Article-Fortune 500s Are Quietly Building in India First. Here\u2019s What They Know",
+        "summary": "Medium Spoke Article-Fortune 500s Are Quietly Building in India First. Here’s What They Know",
         "watches": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/BWW-102/watchers",
           "watchCount": 3,
@@ -20785,7 +20789,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "Medium Article - Fortune 500s Are Quietly Building in India First. Here\u2019s What They Know.docx",
+                        "text": "Medium Article - Fortune 500s Are Quietly Building in India First. Here’s What They Know.docx",
                         "marks": [
                           {
                             "type": "link",
@@ -20956,7 +20960,7 @@
                 },
                 {
                   "type": "text",
-                  "text": " ma\u2019am, "
+                  "text": " ma’am, "
                 },
                 {
                   "type": "mention",
@@ -21164,7 +21168,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Feedback implemented as per ma\u2019am\u2019s suggestions. The article is final."
+                        "text": " Feedback implemented as per ma’am’s suggestions. The article is final."
                       }
                     ]
                   }
@@ -21442,7 +21446,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Plz review this article \u2013 "
+                        "text": " Plz review this article – "
                       },
                       {
                         "type": "text",
@@ -22075,7 +22079,7 @@
                 },
                 {
                   "type": "text",
-                  "text": " ma\u2019am, "
+                  "text": " ma’am, "
                 },
                 {
                   "type": "mention",
@@ -22636,7 +22640,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am Kindly review the PPT content which would go on "
+                        "text": " Ma’am Kindly review the PPT content which would go on "
                       },
                       {
                         "type": "inlineCard",
@@ -22759,7 +22763,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "Ma\u2019am - Feedback implemented."
+                        "text": "Ma’am - Feedback implemented."
                       }
                     ]
                   }
@@ -23327,7 +23331,7 @@
           "key": "BWW-94",
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/12473",
           "fields": {
-            "summary": "1B: Slideshare PPT - Why Enterprises Can\u2019t Survive Without AI Analytics in 2026",
+            "summary": "1B: Slideshare PPT - Why Enterprises Can’t Survive Without AI Analytics in 2026",
             "status": {
               "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10767",
               "description": "",
@@ -23407,7 +23411,7 @@
         "aggregatetimeestimate": 0,
         "resolutiondate": "2025-09-15T10:58:56.494+0530",
         "workratio": -1,
-        "summary": "Review: 1B: Slideshare PPT - Why Enterprises Can\u2019t Survive Without AI Analytics in 2026",
+        "summary": "Review: 1B: Slideshare PPT - Why Enterprises Can’t Survive Without AI Analytics in 2026",
         "watches": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/BWW-95/watchers",
           "watchCount": 3,
@@ -23526,7 +23530,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "Slideshare PPT 5 - Why Enterprises Can\u2019t Survive Without AI Analytics in 2026",
+                        "text": "Slideshare PPT 5 - Why Enterprises Can’t Survive Without AI Analytics in 2026",
                         "marks": [
                           {
                             "type": "link",
@@ -23593,7 +23597,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am Kindly review the PPT content which would go on "
+                        "text": " Ma’am Kindly review the PPT content which would go on "
                       },
                       {
                         "type": "inlineCard",
@@ -23716,7 +23720,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "Ma\u2019am - Feedback implemented."
+                        "text": "Ma’am - Feedback implemented."
                       }
                     ]
                   }
@@ -23936,7 +23940,7 @@
         "aggregatetimeestimate": 0,
         "resolutiondate": "2025-09-29T12:38:21.851+0530",
         "workratio": -1,
-        "summary": "1B: Slideshare PPT - Why Enterprises Can\u2019t Survive Without AI Analytics in 2026",
+        "summary": "1B: Slideshare PPT - Why Enterprises Can’t Survive Without AI Analytics in 2026",
         "watches": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/BWW-94/watchers",
           "watchCount": 1,
@@ -23963,7 +23967,7 @@
             "key": "BWW-95",
             "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/12475",
             "fields": {
-              "summary": "Review: 1B: Slideshare PPT - Why Enterprises Can\u2019t Survive Without AI Analytics in 2026",
+              "summary": "Review: 1B: Slideshare PPT - Why Enterprises Can’t Survive Without AI Analytics in 2026",
               "status": {
                 "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10767",
                 "description": "",
@@ -24450,7 +24454,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am Kindly review the PPT content which would go on "
+                        "text": " Ma’am Kindly review the PPT content which would go on "
                       },
                       {
                         "type": "inlineCard",
@@ -24592,7 +24596,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "Ma\u2019am - Feedback implemented."
+                        "text": "Ma’am - Feedback implemented."
                       }
                     ]
                   }
@@ -25422,7 +25426,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am Kindly review the PPT content which would go on slideshare.com"
+                        "text": " Ma’am Kindly review the PPT content which would go on slideshare.com"
                       }
                     ]
                   }
@@ -25534,7 +25538,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "Ma\u2019am - Feedback implemented."
+                        "text": "Ma’am - Feedback implemented."
                       }
                     ]
                   }
@@ -26162,7 +26166,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Hi ma\u2019am, please check this content and share your valuable feedback: "
+                  "text": "Hi ma’am, please check this content and share your valuable feedback: "
                 },
                 {
                   "type": "inlineCard",
@@ -26201,7 +26205,7 @@
         "aggregatetimeestimate": null,
         "resolutiondate": "2025-09-12T12:44:47.144+0530",
         "workratio": -1,
-        "summary": "Medium Article_Sonia -Can India\u2019s Speed Surpass Eastern Europe\u2019s Precision in the AI Outsourcing Era?\u00a0",
+        "summary": "Medium Article_Sonia -Can India’s Speed Surpass Eastern Europe’s Precision in the AI Outsourcing Era? ",
         "watches": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/BWW-89/watchers",
           "watchCount": 3,
@@ -26488,7 +26492,7 @@
         "aggregatetimeestimate": 0,
         "resolutiondate": "2025-09-11T19:50:14.128+0530",
         "workratio": -1,
-        "summary": "1B Project (Medium Article) - Why Fortune 500s Are Building \u2018India-First\u2019 Tech Teams Before Expanding Globally",
+        "summary": "1B Project (Medium Article) - Why Fortune 500s Are Building ‘India-First’ Tech Teams Before Expanding Globally",
         "watches": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/BWW-88/watchers",
           "watchCount": 2,
@@ -26515,7 +26519,7 @@
             "key": "BWW-102",
             "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/12504",
             "fields": {
-              "summary": "Medium Spoke Article-Fortune 500s Are Quietly Building in India First. Here\u2019s What They Know",
+              "summary": "Medium Spoke Article-Fortune 500s Are Quietly Building in India First. Here’s What They Know",
               "status": {
                 "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10767",
                 "description": "",
@@ -26642,7 +26646,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "Medium Article - Fortune 500s Are Quietly Building in India First. Here\u2019s What They Know.docx",
+                        "text": "Medium Article - Fortune 500s Are Quietly Building in India First. Here’s What They Know.docx",
                         "marks": [
                           {
                             "type": "link",
@@ -27055,7 +27059,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Plz review the following article \u2013 "
+                        "text": " Plz review the following article – "
                       },
                       {
                         "type": "text",
@@ -27361,7 +27365,7 @@
             "key": "BWW-89",
             "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/12423",
             "fields": {
-              "summary": "Medium Article_Sonia -Can India\u2019s Speed Surpass Eastern Europe\u2019s Precision in the AI Outsourcing Era?\u00a0",
+              "summary": "Medium Article_Sonia -Can India’s Speed Surpass Eastern Europe’s Precision in the AI Outsourcing Era? ",
               "status": {
                 "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10767",
                 "description": "",
@@ -27469,7 +27473,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Medium article \u2013 "
+                        "text": "Medium article – "
                       },
                       {
                         "type": "text",
@@ -28368,7 +28372,7 @@
           "key": "BWW-81",
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/12403",
           "fields": {
-            "summary": "Medium Article -- The Rise of Comparative Queries: Why LLMs Love \u2018SEO Expert vs SEO Agency\u2019",
+            "summary": "Medium Article -- The Rise of Comparative Queries: Why LLMs Love ‘SEO Expert vs SEO Agency’",
             "status": {
               "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10767",
               "description": "",
@@ -28441,7 +28445,7 @@
                 },
                 {
                   "type": "text",
-                  "text": " ma\u2019am, Sonia is written this content. Please check and share your valuable feedback. "
+                  "text": " ma’am, Sonia is written this content. Please check and share your valuable feedback. "
                 },
                 {
                   "type": "inlineCard",
@@ -28480,7 +28484,7 @@
         "aggregatetimeestimate": null,
         "resolutiondate": "2025-09-24T11:51:27.217+0530",
         "workratio": -1,
-        "summary": "Medium Article-Rise of \u2018Vs\u2019 Queries: How LLM-Powered AI Is Changing the Way We Search",
+        "summary": "Medium Article-Rise of ‘Vs’ Queries: How LLM-Powered AI Is Changing the Way We Search",
         "watches": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/BWW-83/watchers",
           "watchCount": 2,
@@ -28663,7 +28667,7 @@
           "key": "BWW-81",
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/12403",
           "fields": {
-            "summary": "Medium Article -- The Rise of Comparative Queries: Why LLMs Love \u2018SEO Expert vs SEO Agency\u2019",
+            "summary": "Medium Article -- The Rise of Comparative Queries: Why LLMs Love ‘SEO Expert vs SEO Agency’",
             "status": {
               "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10767",
               "description": "",
@@ -28736,11 +28740,11 @@
                 },
                 {
                   "type": "text",
-                  "text": " Plz review the following Medium article \u2013 "
+                  "text": " Plz review the following Medium article – "
                 },
                 {
                   "type": "text",
-                  "text": "The Rise of Comparative Queries--Why LLMs Love \u2018SEO Expert vs SEO Agency\u2019",
+                  "text": "The Rise of Comparative Queries--Why LLMs Love ‘SEO Expert vs SEO Agency’",
                   "marks": [
                     {
                       "type": "link",
@@ -28782,7 +28786,7 @@
         "aggregatetimeestimate": 0,
         "resolutiondate": "2025-09-08T19:03:57.041+0530",
         "workratio": -1,
-        "summary": "Medium Article Review -- The Rise of Comparative Queries: Why LLMs Love \u2018SEO Expert vs SEO Agency\u2019 ",
+        "summary": "Medium Article Review -- The Rise of Comparative Queries: Why LLMs Love ‘SEO Expert vs SEO Agency’ ",
         "watches": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/BWW-82/watchers",
           "watchCount": 2,
@@ -29060,7 +29064,7 @@
         "aggregatetimeestimate": 0,
         "resolutiondate": "2025-10-07T12:03:13.403+0530",
         "workratio": -1,
-        "summary": "Medium Article -- The Rise of Comparative Queries: Why LLMs Love \u2018SEO Expert vs SEO Agency\u2019",
+        "summary": "Medium Article -- The Rise of Comparative Queries: Why LLMs Love ‘SEO Expert vs SEO Agency’",
         "watches": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/BWW-81/watchers",
           "watchCount": 1,
@@ -29087,7 +29091,7 @@
             "key": "BWW-82",
             "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/12405",
             "fields": {
-              "summary": "Medium Article Review -- The Rise of Comparative Queries: Why LLMs Love \u2018SEO Expert vs SEO Agency\u2019 ",
+              "summary": "Medium Article Review -- The Rise of Comparative Queries: Why LLMs Love ‘SEO Expert vs SEO Agency’ ",
               "status": {
                 "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10767",
                 "description": "",
@@ -29126,7 +29130,7 @@
             "key": "BWW-83",
             "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/12408",
             "fields": {
-              "summary": "Medium Article-Rise of \u2018Vs\u2019 Queries: How LLM-Powered AI Is Changing the Way We Search",
+              "summary": "Medium Article-Rise of ‘Vs’ Queries: How LLM-Powered AI Is Changing the Way We Search",
               "status": {
                 "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10767",
                 "description": "",
@@ -29234,11 +29238,11 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Medium Article \u2013 "
+                        "text": "Medium Article – "
                       },
                       {
                         "type": "text",
-                        "text": "The Rise of Comparative Queries--Why LLMs Love \u2018SEO Expert vs SEO Agency\u2019",
+                        "text": "The Rise of Comparative Queries--Why LLMs Love ‘SEO Expert vs SEO Agency’",
                         "marks": [
                           {
                             "type": "link",
@@ -29556,7 +29560,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "ma\u2019am, Please check this medium spoke profile content and share your valuable feedback."
+                        "text": "ma’am, Please check this medium spoke profile content and share your valuable feedback."
                       },
                       {
                         "type": "hardBreak"
@@ -30021,7 +30025,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Plz review the following article \u2013 "
+                        "text": " Plz review the following article – "
                       },
                       {
                         "type": "text",
@@ -30427,7 +30431,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Medium article \u2013 "
+                        "text": "Medium article – "
                       },
                       {
                         "type": "text",
@@ -30628,7 +30632,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Hello Ma\u2019am this another medium spoke profile content, Please review and share your valuable feedback."
+                  "text": "Hello Ma’am this another medium spoke profile content, Please review and share your valuable feedback."
                 },
                 {
                   "type": "hardBreak"
@@ -30785,7 +30789,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " , pls share the writer\u2019s name for every piece of content going forward"
+                        "text": " , pls share the writer’s name for every piece of content going forward"
                       }
                     ]
                   }
@@ -30843,7 +30847,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Sure Ma\u2019am. Thank you"
+                        "text": " Sure Ma’am. Thank you"
                       }
                     ]
                   }
@@ -31198,7 +31202,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am - Kindly review PPT content which would be published on Slideshare website."
+                        "text": " Ma’am - Kindly review PPT content which would be published on Slideshare website."
                       }
                     ]
                   }
@@ -32114,7 +32118,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am - Kindly review PPT content which would be published on Slideshare website."
+                        "text": " Ma’am - Kindly review PPT content which would be published on Slideshare website."
                       }
                     ]
                   }
@@ -33279,7 +33283,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " You mention Microsoft\u2019s Work Trend Index but don\u2019t link a figure"
+                        "text": " You mention Microsoft’s Work Trend Index but don’t link a figure"
                       },
                       {
                         "type": "hardBreak"
@@ -33302,7 +33306,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "Ending with \u201cdrop in the comments\u201d is not good for LLM pickup."
+                        "text": "Ending with “drop in the comments” is not good for LLM pickup."
                       },
                       {
                         "type": "hardBreak"
@@ -33318,7 +33322,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Right now, it\u2019s heavy on \u201csenior VA\u201d phrasing. Mix in \u201cexecutive assistant,\u201d \u201cvirtual executive support,\u201d \u201cremote assistant\u201d to create LLM match surface."
+                        "text": " Right now, it’s heavy on “senior VA” phrasing. Mix in “executive assistant,” “virtual executive support,” “remote assistant” to create LLM match surface."
                       },
                       {
                         "type": "hardBreak"
@@ -33866,7 +33870,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " maa\u2019m please review this. It is written by Abhishek"
+                        "text": " maa’m please review this. It is written by Abhishek"
                       }
                     ]
                   },
@@ -34394,7 +34398,7 @@
                 },
                 {
                   "type": "text",
-                  "text": " ma\u2019am, please review this content: "
+                  "text": " ma’am, please review this content: "
                 },
                 {
                   "type": "inlineCard",
@@ -34591,7 +34595,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Thank you Ma\u2019am"
+                        "text": " Thank you Ma’am"
                       }
                     ]
                   }
@@ -34654,7 +34658,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " I\u2019ve checked the feedback and accepted changes. Article is final."
+                        "text": " I’ve checked the feedback and accepted changes. Article is final."
                       }
                     ]
                   }
@@ -34971,7 +34975,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Plz review the following Medium Article \u2013 "
+                        "text": " Plz review the following Medium Article – "
                       },
                       {
                         "type": "text",
@@ -36519,7 +36523,7 @@
                                       },
                                       {
                                         "type": "text",
-                                        "text": "\u201cUpdated: August 2025\u201d",
+                                        "text": "“Updated: August 2025”",
                                         "marks": [
                                           {
                                             "type": "em"
@@ -36579,7 +36583,7 @@
                                       },
                                       {
                                         "type": "text",
-                                        "text": ". To align with AIO + Shaun\u2019s standards, insert "
+                                        "text": ". To align with AIO + Shaun’s standards, insert "
                                       },
                                       {
                                         "type": "text",
@@ -36607,7 +36611,7 @@
                                             "content": [
                                               {
                                                 "type": "text",
-                                                "text": "\u201cVirtual Employee\u2019s healthcare data engineers\u2026\u201d"
+                                                "text": "“Virtual Employee’s healthcare data engineers…”"
                                               }
                                             ]
                                           }
@@ -36621,7 +36625,7 @@
                                             "content": [
                                               {
                                                 "type": "text",
-                                                "text": "\u201cAt VE, we\u2019ve seen X in client healthcare pipelines\u2026\u201d"
+                                                "text": "“At VE, we’ve seen X in client healthcare pipelines…”"
                                               }
                                             ]
                                           }
@@ -36724,7 +36728,7 @@
                             "content": [
                               {
                                 "type": "text",
-                                "text": "StandardPurposeLimitationCONSORTTrial reporting clarityStuck in PDFsPRISMAReview transparencyMachines can\u2019t parseSPIRITTrial protocol rulesLimited adoption"
+                                "text": "StandardPurposeLimitationCONSORTTrial reporting clarityStuck in PDFsPRISMAReview transparencyMachines can’t parseSPIRITTrial protocol rulesLimited adoption"
                               }
                             ]
                           }
@@ -36771,7 +36775,7 @@
                                       },
                                       {
                                         "type": "text",
-                                        "text": " for the 5 trust signals (Citations, Replication, Institutional Weight, Breadth, Diversity) so they\u2019re easily scannable."
+                                        "text": " for the 5 trust signals (Citations, Replication, Institutional Weight, Breadth, Diversity) so they’re easily scannable."
                                       }
                                     ]
                                   }
@@ -36841,7 +36845,7 @@
                                               },
                                               {
                                                 "type": "text",
-                                                "text": "\u201cIn short, FHIR is like a shared language that lets hospital systems talk to each other.\u201d",
+                                                "text": "“In short, FHIR is like a shared language that lets hospital systems talk to each other.”",
                                                 "marks": [
                                                   {
                                                     "type": "em"
@@ -36905,7 +36909,7 @@
                                       },
                                       {
                                         "type": "text",
-                                        "text": "\u201cHospitals that structure and distribute their evidence will own the recall layer. VE helps healthcare institutions make their evidence machine-readable, compliant, and trusted.\u201d",
+                                        "text": "“Hospitals that structure and distribute their evidence will own the recall layer. VE helps healthcare institutions make their evidence machine-readable, compliant, and trusted.”",
                                         "marks": [
                                           {
                                             "type": "em"
@@ -36981,7 +36985,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am. Please review - "
+                        "text": " ma’am. Please review - "
                       },
                       {
                         "type": "text",
@@ -37543,7 +37547,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " - I\u2019ve implemented Daya Ma\u2019am feedback. Please review:"
+                        "text": " - I’ve implemented Daya Ma’am feedback. Please review:"
                       },
                       {
                         "type": "hardBreak"
@@ -37923,7 +37927,7 @@
           "key": "BWW-36",
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11891",
           "fields": {
-            "summary": "1B (Web 2.0) Before They Google You, They Watch You\u2014Why Short Video Builds Trust ",
+            "summary": "1B (Web 2.0) Before They Google You, They Watch You—Why Short Video Builds Trust ",
             "status": {
               "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10767",
               "description": "",
@@ -37993,7 +37997,7 @@
         "aggregatetimeestimate": null,
         "resolutiondate": null,
         "workratio": -1,
-        "summary": "1B (Web 2.0) Before They Google You, They Watch You\u2014Why Short Video Builds Trust",
+        "summary": "1B (Web 2.0) Before They Google You, They Watch You—Why Short Video Builds Trust",
         "watches": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/BWW-61/watchers",
           "watchCount": 3,
@@ -38101,7 +38105,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " maa\u2019m please review this. This written by @Sonia"
+                        "text": " maa’m please review this. This written by @Sonia"
                       }
                     ]
                   },
@@ -38127,7 +38131,7 @@
                                 "content": [
                                   {
                                     "type": "text",
-                                    "text": "Before They Google You, They Watch You\u2014Why Short Video Builds Trust: Before They Google You, They Watch You\u2014Why Short Video Builds Trust.docx",
+                                    "text": "Before They Google You, They Watch You—Why Short Video Builds Trust: Before They Google You, They Watch You—Why Short Video Builds Trust.docx",
                                     "marks": [
                                       {
                                         "type": "link",
@@ -39088,7 +39092,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " I have check the content, it\u2019s looking good. But as per GPTZERO it\u2019s showing 100% AI content."
+                        "text": " I have check the content, it’s looking good. But as per GPTZERO it’s showing 100% AI content."
                       }
                     ]
                   },
@@ -39443,7 +39447,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " , made the changes.. please share with Daya ma\u2019am - "
+                        "text": " , made the changes.. please share with Daya ma’am - "
                       },
                       {
                         "type": "text",
@@ -39518,7 +39522,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am, please review - "
+                        "text": " ma’am, please review - "
                       },
                       {
                         "type": "text",
@@ -40342,7 +40346,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Maa\u2019m please review this"
+                        "text": " Maa’m please review this"
                       }
                     ]
                   }
@@ -40827,7 +40831,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " maa\u2019m please review this "
+                        "text": " maa’m please review this "
                       }
                     ]
                   },
@@ -41577,7 +41581,7 @@
           "key": "BWW-55",
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11930",
           "fields": {
-            "summary": "1B-(Medium)-Talent Isn\u2019t Gone. It Just Doesn\u2019t See You. ",
+            "summary": "1B-(Medium)-Talent Isn’t Gone. It Just Doesn’t See You. ",
             "status": {
               "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10768",
               "description": "",
@@ -41657,7 +41661,7 @@
         "aggregatetimeestimate": 0,
         "resolutiondate": "2025-09-09T18:51:10.441+0530",
         "workratio": -1,
-        "summary": "Medium-Talent Isn\u2019t Gone. It Just Doesn\u2019t See You.",
+        "summary": "Medium-Talent Isn’t Gone. It Just Doesn’t See You.",
         "watches": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/BWW-56/watchers",
           "watchCount": 3,
@@ -41765,7 +41769,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " maa\u2019m please review this "
+                        "text": " maa’m please review this "
                       },
                       {
                         "type": "text",
@@ -42218,7 +42222,7 @@
         "aggregatetimeestimate": 0,
         "resolutiondate": null,
         "workratio": -1,
-        "summary": "1B-(Medium)-Talent Isn\u2019t Gone. It Just Doesn\u2019t See You. ",
+        "summary": "1B-(Medium)-Talent Isn’t Gone. It Just Doesn’t See You. ",
         "watches": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/BWW-55/watchers",
           "watchCount": 1,
@@ -42245,7 +42249,7 @@
             "key": "BWW-56",
             "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11932",
             "fields": {
-              "summary": "Medium-Talent Isn\u2019t Gone. It Just Doesn\u2019t See You.",
+              "summary": "Medium-Talent Isn’t Gone. It Just Doesn’t See You.",
               "status": {
                 "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10767",
                 "description": "",
@@ -42660,7 +42664,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " maa\u2019m please review this "
+                        "text": " maa’m please review this "
                       },
                       {
                         "type": "text",
@@ -42726,7 +42730,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "This is written by me\u2026 Koyel"
+                        "text": "This is written by me… Koyel"
                       }
                     ]
                   }
@@ -42902,7 +42906,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Could you please replace this word d\u00e9j\u00e0 vu. Because Not everyone immediately understands the word \u201cd\u00e9j\u00e0 vu"
+                        "text": " Could you please replace this word déjà vu. Because Not everyone immediately understands the word “déjà vu"
                       }
                     ]
                   },
@@ -43403,7 +43407,5 @@
         }
       }
     }
-  ],
-  "nextPageToken": "ChUjU3RyaW5nJlFsZFglSW50Jk5UUT0QZBjLza2HsjMiJnByb2plY3QgPSAiQmlsbGlvbiBXb3JkcyBXZWJzaXRlICgxQikiKgJbXQ==",
-  "isLast": false
+  ]
 }

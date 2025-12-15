@@ -1,4 +1,8 @@
 {
+  "name": "PPC Pages Rework (2024)",
+  "id": "10020",
+  "key": "PPR",
+  "issue_count": 100,
   "issues": [
     {
       "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
@@ -1217,7 +1221,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " \u00a0"
+                        "text": "  "
                       },
                       {
                         "type": "hardBreak"
@@ -1230,7 +1234,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " \u00a0"
+                        "text": "  "
                       },
                       {
                         "type": "hardBreak"
@@ -1609,7 +1613,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "we can\u2019t change the logo color, text color can be white."
+                        "text": "we can’t change the logo color, text color can be white."
                       },
                       {
                         "type": "hardBreak"
@@ -1674,7 +1678,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Blue logo will not work for dark background. This is done by developer with designer\u2019s involvement. if you have such kind of guidelines, please share. "
+                        "text": " Blue logo will not work for dark background. This is done by developer with designer’s involvement. if you have such kind of guidelines, please share. "
                       }
                     ]
                   }
@@ -1795,7 +1799,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Please change this too. can\u2019t change the logo color, text color can be white"
+                        "text": " Please change this too. can’t change the logo color, text color can be white"
                       },
                       {
                         "type": "hardBreak"
@@ -2543,7 +2547,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " - Here\u2019s the content for the tech-stack section as requested:"
+                        "text": " - Here’s the content for the tech-stack section as requested:"
                       },
                       {
                         "type": "hardBreak"
@@ -3823,7 +3827,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am, Please review the URL, as we need to make it live in campaign."
+                        "text": " Ma’am, Please review the URL, as we need to make it live in campaign."
                       }
                     ]
                   }
@@ -4317,7 +4321,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "  Mam, all the requested changes have been made. I\u2019ve attached the screenshots for reference. Moving this task to \u2018Done\u2019."
+                        "text": "  Mam, all the requested changes have been made. I’ve attached the screenshots for reference. Moving this task to ‘Done’."
                       },
                       {
                         "type": "hardBreak"
@@ -4483,7 +4487,7 @@
                 },
                 {
                   "type": "text",
-                  "text": " \u00a0"
+                  "text": "  "
                 }
               ]
             },
@@ -4498,7 +4502,7 @@
                 },
                 {
                   "type": "text",
-                  "text": " \u00a0"
+                  "text": "  "
                 }
               ]
             }
@@ -4803,7 +4807,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "  Ma\u2019am,  These are three URLs that were created earlier. We need to make one page live in the campaign, so I request you to review these URLs and approve one page that we can use."
+                        "text": "  Ma’am,  These are three URLs that were created earlier. We need to make one page live in the campaign, so I request you to review these URLs and approve one page that we can use."
                       }
                     ]
                   },
@@ -4831,7 +4835,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " \u00a0"
+                        "text": "  "
                       }
                     ]
                   },
@@ -4846,7 +4850,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " \u00a0"
+                        "text": "  "
                       }
                     ]
                   }
@@ -5076,7 +5080,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "lots of edits\u2026.."
+                        "text": "lots of edits….."
                       },
                       {
                         "type": "hardBreak"
@@ -5276,7 +5280,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "The changes have been made, and now moving this task to \u201cDone\u201c"
+                        "text": "The changes have been made, and now moving this task to “Done“"
                       }
                     ]
                   }
@@ -6755,7 +6759,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " mam, all the requested changes have been made. I\u2019ve attached the screenshots for reference. Moving this task to \u2018Done\u2019."
+                        "text": " mam, all the requested changes have been made. I’ve attached the screenshots for reference. Moving this task to ‘Done’."
                       },
                       {
                         "type": "hardBreak"
@@ -8552,7 +8556,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am, regarding the sub-heading under \u201cResources,\u201d as discussed on the call, we haven\u2019t included case studies since we\u2019re not providing them currently."
+                        "text": " Ma’am, regarding the sub-heading under “Resources,” as discussed on the call, we haven’t included case studies since we’re not providing them currently."
                       }
                     ]
                   }
@@ -10786,7 +10790,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "  Mam, all changes are done which have shared by you, now I am moving this task into \u201cDone\u201c."
+                        "text": "  Mam, all changes are done which have shared by you, now I am moving this task into “Done“."
                       }
                     ]
                   },
@@ -11331,7 +11335,7 @@
                       "content": [
                         {
                           "type": "text",
-                          "text": "\u00a0footer section space issue"
+                          "text": " footer section space issue"
                         }
                       ]
                     }
@@ -12433,7 +12437,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "  Mam, all changes are done as suggested by you. Now I am moving this task into \u201cDone\u201c"
+                        "text": "  Mam, all changes are done as suggested by you. Now I am moving this task into “Done“"
                       }
                     ]
                   }
@@ -12638,7 +12642,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "As suggested by Shaun Sir, we need to add a new service \u2014 "
+                  "text": "As suggested by Shaun Sir, we need to add a new service — "
                 },
                 {
                   "type": "text",
@@ -12651,7 +12655,7 @@
                 },
                 {
                   "type": "text",
-                  "text": "\u00a0\u2014 across our landing pages. I am attaching a list of pages that require updates."
+                  "text": " — across our landing pages. I am attaching a list of pages that require updates."
                 }
               ]
             },
@@ -12694,7 +12698,7 @@
                 },
                 {
                   "type": "text",
-                  "text": "\u00a0"
+                  "text": " "
                 }
               ]
             }
@@ -13540,7 +13544,7 @@
                 },
                 {
                   "type": "text",
-                  "text": "Ensure that the \"Hire [Designation]\" text aligns with the respective domain\u2014similar to how it was done on the Data Analyst page."
+                  "text": "Ensure that the \"Hire [Designation]\" text aligns with the respective domain—similar to how it was done on the Data Analyst page."
                 }
               ]
             },
@@ -13549,7 +13553,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Change:\u00a0"
+                  "text": "Change: "
                 }
               ]
             },
@@ -13567,7 +13571,7 @@
                 },
                 {
                   "type": "text",
-                  "text": "\u201cDomain\u201c"
+                  "text": "“Domain“"
                 }
               ]
             },
@@ -13816,7 +13820,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " , As Daya Ma'am and I discussed regarding the Lead Form VPs content, the second point needs to be updated according to the domain. I am attaching a sheet containing all the live URLs. Please add the content that should be edited on each page. For example, if the page is for a Data Analyst, the second VP will be: \u2018Work 1 Week with your hired Data Analyst.\u2019"
+                        "text": " , As Daya Ma'am and I discussed regarding the Lead Form VPs content, the second point needs to be updated according to the domain. I am attaching a sheet containing all the live URLs. Please add the content that should be edited on each page. For example, if the page is for a Data Analyst, the second VP will be: ‘Work 1 Week with your hired Data Analyst.’"
                       },
                       {
                         "type": "hardBreak"
@@ -14867,7 +14871,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Please have a look of daya mam\u2019s feedback."
+                        "text": " Please have a look of daya mam’s feedback."
                       }
                     ]
                   }
@@ -14930,7 +14934,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Please look the daya mam\u2019s comment. "
+                        "text": " Please look the daya mam’s comment. "
                       }
                     ]
                   }
@@ -15482,7 +15486,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Page link:\u00a0",
+                  "text": "Page link: ",
                   "marks": [
                     {
                       "type": "strong"
@@ -15506,7 +15510,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Feedback:\u00a0",
+                  "text": "Feedback: ",
                   "marks": [
                     {
                       "type": "strong"
@@ -15661,7 +15665,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "\u00a0"
+                        "text": " "
                       }
                     ]
                   }
@@ -15711,7 +15715,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "added comments\u2026recurring issue\u2026only UK clients being used, no US clients\u2026."
+                        "text": "added comments…recurring issue…only UK clients being used, no US clients…."
                       }
                     ]
                   }
@@ -15822,7 +15826,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Page link:\u00a0",
+                  "text": "Page link: ",
                   "marks": [
                     {
                       "type": "strong"
@@ -16155,7 +16159,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Page link:\u00a0",
+                  "text": "Page link: ",
                   "marks": [
                     {
                       "type": "strong"
@@ -16179,7 +16183,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Feedback:\u00a0",
+                  "text": "Feedback: ",
                   "marks": [
                     {
                       "type": "strong"
@@ -16438,7 +16442,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Page link:\u00a0",
+                  "text": "Page link: ",
                   "marks": [
                     {
                       "type": "strong"
@@ -16462,7 +16466,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Feedback:\u00a0",
+                  "text": "Feedback: ",
                   "marks": [
                     {
                       "type": "strong"
@@ -16769,7 +16773,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Page link:\u00a0",
+                  "text": "Page link: ",
                   "marks": [
                     {
                       "type": "strong"
@@ -16793,7 +16797,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Feedback:\u00a0",
+                  "text": "Feedback: ",
                   "marks": [
                     {
                       "type": "strong"
@@ -17102,7 +17106,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Page link:\u00a0",
+                  "text": "Page link: ",
                   "marks": [
                     {
                       "type": "strong"
@@ -17126,7 +17130,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Feedback:\u00a0",
+                  "text": "Feedback: ",
                   "marks": [
                     {
                       "type": "strong"
@@ -17433,7 +17437,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Page link:\u00a0 ",
+                  "text": "Page link:  ",
                   "marks": [
                     {
                       "type": "strong"
@@ -17653,7 +17657,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "only see Koyel\u2019s edits and that too regarding a KW. There are issues here which I had corrected. Cant see a single one of them. "
+                        "text": "only see Koyel’s edits and that too regarding a KW. There are issues here which I had corrected. Cant see a single one of them. "
                       },
                       {
                         "type": "hardBreak"
@@ -17783,7 +17787,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Page link:\u00a0",
+                  "text": "Page link: ",
                   "marks": [
                     {
                       "type": "strong"
@@ -17807,7 +17811,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Feedback:\u00a0",
+                  "text": "Feedback: ",
                   "marks": [
                     {
                       "type": "strong"
@@ -18051,7 +18055,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Page link:\u00a0",
+                  "text": "Page link: ",
                   "marks": [
                     {
                       "type": "strong"
@@ -18075,7 +18079,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Feedback:\u00a0 ",
+                  "text": "Feedback:  ",
                   "marks": [
                     {
                       "type": "strong"
@@ -18271,7 +18275,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Lots of missed edits and fresh errors introduced\u2026\u2026this circus needs to end. "
+                        "text": "Lots of missed edits and fresh errors introduced……this circus needs to end. "
                       }
                     ]
                   }
@@ -18382,7 +18386,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Page link:\u00a0",
+                  "text": "Page link: ",
                   "marks": [
                     {
                       "type": "strong"
@@ -18653,7 +18657,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Lots of issues\u2026.all these pages were never reviewed post Review\u2026.."
+                        "text": "Lots of issues….all these pages were never reviewed post Review….."
                       },
                       {
                         "type": "hardBreak"
@@ -18809,7 +18813,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Page link:\u00a0",
+                  "text": "Page link: ",
                   "marks": [
                     {
                       "type": "strong"
@@ -19031,7 +19035,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "WERE THE SERVICES CHECKED???? NOT A SINGLE EDIT HAS BEEN DONE. KINDLY TAKE THIS UP SERIOUSLY WITH VIKAS. ITS WASTING EVERYONE\u2019S TIME. "
+                        "text": "WERE THE SERVICES CHECKED???? NOT A SINGLE EDIT HAS BEEN DONE. KINDLY TAKE THIS UP SERIOUSLY WITH VIKAS. ITS WASTING EVERYONE’S TIME. "
                       },
                       {
                         "type": "hardBreak"
@@ -19048,7 +19052,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "That\u2019s not all. Further down the page, after Koyel gave the edits, he has not done this. THIS IS SERIOUS OVERSIGHT TEAM."
+                        "text": "That’s not all. Further down the page, after Koyel gave the edits, he has not done this. THIS IS SERIOUS OVERSIGHT TEAM."
                       },
                       {
                         "type": "hardBreak"
@@ -19325,7 +19329,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Page link:\u00a0",
+                  "text": "Page link: ",
                   "marks": [
                     {
                       "type": "strong"
@@ -19349,7 +19353,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Feedback:\u00a0",
+                  "text": "Feedback: ",
                   "marks": [
                     {
                       "type": "strong"
@@ -19932,11 +19936,11 @@
                       },
                       {
                         "type": "text",
-                        "text": " Please update the headline and sub-headline, koyel mentioned in figma. and please change the CTA text of Lead form \u201cStart Your Free Trial\u201c and along with \u201c"
+                        "text": " Please update the headline and sub-headline, koyel mentioned in figma. and please change the CTA text of Lead form “Start Your Free Trial“ and along with “"
                       },
                       {
                         "type": "text",
-                        "text": "Your Free Trial Benefits\u201d",
+                        "text": "Your Free Trial Benefits”",
                         "marks": [
                           {
                             "type": "strong"
@@ -20646,7 +20650,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " , just remove \u2018and\u2019 from the subheadline in Banner. will be more impactful."
+                        "text": " , just remove ‘and’ from the subheadline in Banner. will be more impactful."
                       },
                       {
                         "type": "hardBreak"
@@ -20724,7 +20728,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Mam, all changes are done as suggested by you. Now I am moving this task into \u201cDone\u201c"
+                        "text": " Mam, all changes are done as suggested by you. Now I am moving this task into “Done“"
                       }
                     ]
                   }
@@ -21003,7 +21007,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Page link:\u00a0",
+                  "text": "Page link: ",
                   "marks": [
                     {
                       "type": "strong"
@@ -21027,7 +21031,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Feedback:\u00a0",
+                  "text": "Feedback: ",
                   "marks": [
                     {
                       "type": "strong"
@@ -21042,7 +21046,7 @@
                 },
                 {
                   "type": "text",
-                  "text": " \u00a0"
+                  "text": "  "
                 }
               ]
             },
@@ -21198,7 +21202,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "Please have a look at the feedback provided by Daya Ma\u2019am and do the needful."
+                        "text": "Please have a look at the feedback provided by Daya Ma’am and do the needful."
                       }
                     ]
                   }
@@ -21503,7 +21507,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Page link:\u00a0",
+                  "text": "Page link: ",
                   "marks": [
                     {
                       "type": "strong"
@@ -21527,7 +21531,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Feedback:\u00a0",
+                  "text": "Feedback: ",
                   "marks": [
                     {
                       "type": "strong"
@@ -21896,7 +21900,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Page link:\u00a0",
+                  "text": "Page link: ",
                   "marks": [
                     {
                       "type": "strong"
@@ -21920,7 +21924,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Feedback:\u00a0",
+                  "text": "Feedback: ",
                   "marks": [
                     {
                       "type": "strong"
@@ -21944,7 +21948,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Change:\u00a0",
+                  "text": "Change: ",
                   "marks": [
                     {
                       "type": "strong"
@@ -22311,7 +22315,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Page link:\u00a0",
+                  "text": "Page link: ",
                   "marks": [
                     {
                       "type": "strong"
@@ -22335,7 +22339,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Feedback:\u00a0 ",
+                  "text": "Feedback:  ",
                   "marks": [
                     {
                       "type": "strong"
@@ -22359,7 +22363,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Change:\u00a0",
+                  "text": "Change: ",
                   "marks": [
                     {
                       "type": "strong"
@@ -22686,7 +22690,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Page link:\u00a0",
+                  "text": "Page link: ",
                   "marks": [
                     {
                       "type": "strong"
@@ -22710,7 +22714,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Feedback:\u00a0 ",
+                  "text": "Feedback:  ",
                   "marks": [
                     {
                       "type": "strong"
@@ -22734,7 +22738,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Change:\u00a0UX/UI content needs to change ",
+                  "text": "Change: UX/UI content needs to change ",
                   "marks": [
                     {
                       "type": "strong"
@@ -23071,7 +23075,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Page link:\u00a0",
+                  "text": "Page link: ",
                   "marks": [
                     {
                       "type": "strong"
@@ -23095,7 +23099,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Feedback:\u00a0",
+                  "text": "Feedback: ",
                   "marks": [
                     {
                       "type": "strong"
@@ -23119,7 +23123,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Change:\u00a0",
+                  "text": "Change: ",
                   "marks": [
                     {
                       "type": "strong"
@@ -23832,7 +23836,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "\u00a0"
+                  "text": " "
                 }
               ]
             },
@@ -24339,7 +24343,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "\u00a0"
+                  "text": " "
                 }
               ]
             },
@@ -24357,7 +24361,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "*Remove resource surnames\u00a0"
+                  "text": "*Remove resource surnames "
                 }
               ]
             },
@@ -24366,7 +24370,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "*Change images to professionals\u00a0"
+                  "text": "*Change images to professionals "
                 }
               ]
             },
@@ -24375,7 +24379,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "*Remove the pricing model section\u00a0"
+                  "text": "*Remove the pricing model section "
                 }
               ]
             }
@@ -24913,7 +24917,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "*Remove YouTube linking; In Featured Inn section logo\u2019s."
+                  "text": "*Remove YouTube linking; In Featured Inn section logo’s."
                 }
               ]
             }
@@ -25782,7 +25786,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Additionally, there is another column named \u201cCase Study\u201d where I have identified 3 pages. In these cases, the resource name and the name mentioned in the case study should not be the same, as it may create confusion for users."
+                  "text": "Additionally, there is another column named “Case Study” where I have identified 3 pages. In these cases, the resource name and the name mentioned in the case study should not be the same, as it may create confusion for users."
                 },
                 {
                   "type": "hardBreak"
@@ -26164,7 +26168,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Ankita\u2019s Doc: "
+                  "text": "Ankita’s Doc: "
                 },
                 {
                   "type": "inlineCard",
@@ -26696,7 +26700,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "All changes are completed, now moving this task to \u201cDone\u201c and approved by Daya mam."
+                        "text": "All changes are completed, now moving this task to “Done“ and approved by Daya mam."
                       }
                     ]
                   }
@@ -26845,7 +26849,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Ankita\u2019s Doc: "
+                  "text": "Ankita’s Doc: "
                 },
                 {
                   "type": "inlineCard",
@@ -27061,7 +27065,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " I am attaching three video links of client testimonials. I want the quotes of each client\u2019s to add in our page. "
+                        "text": " I am attaching three video links of client testimonials. I want the quotes of each client’s to add in our page. "
                       },
                       {
                         "type": "hardBreak"
@@ -27533,7 +27537,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "All the changes are completed, now I am moving this task into \u201cDone\u201c"
+                        "text": "All the changes are completed, now I am moving this task into “Done“"
                       }
                     ]
                   }
@@ -27682,7 +27686,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Ankita\u2019s Doc: "
+                  "text": "Ankita’s Doc: "
                 },
                 {
                   "type": "text",
@@ -28118,7 +28122,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "Need expert back-end developers? Our team builds scalable, high-performing apps with multi-language support, seamless integrations, and AI-driven automation\u2014ensuring your platform runs smoothly and delivers a personalized user experience."
+                        "text": "Need expert back-end developers? Our team builds scalable, high-performing apps with multi-language support, seamless integrations, and AI-driven automation—ensuring your platform runs smoothly and delivers a personalized user experience."
                       }
                     ]
                   }
@@ -28226,7 +28230,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "All changes are completed, now moving this task to \u201cDone\u201c and approved by Daya mam."
+                        "text": "All changes are completed, now moving this task to “Done“ and approved by Daya mam."
                       }
                     ]
                   }
@@ -28375,7 +28379,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Ankita\u2019s Doc: "
+                  "text": "Ankita’s Doc: "
                 },
                 {
                   "type": "text",
@@ -28807,7 +28811,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Mam, all surnames are removed from the page. Now I am moving this task into \u201cdone\u201c"
+                        "text": " Mam, all surnames are removed from the page. Now I am moving this task into “done“"
                       }
                     ]
                   }
@@ -28956,7 +28960,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Ankita\u2019s Doc: "
+                  "text": "Ankita’s Doc: "
                 },
                 {
                   "type": "text",
@@ -29645,7 +29649,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "All changes are completed, now moving this task to \u201cDone\u201c and approved by Daya mam."
+                        "text": "All changes are completed, now moving this task to “Done“ and approved by Daya mam."
                       }
                     ]
                   }
@@ -29794,7 +29798,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Ankita\u2019s Doc: "
+                  "text": "Ankita’s Doc: "
                 },
                 {
                   "type": "text",
@@ -30347,7 +30351,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "\ud83c\udf81"
+                        "text": "🎁"
                       },
                       {
                         "type": "text",
@@ -30736,7 +30740,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "All changes are completed, now moving this task to \u201cDone\u201c and approved by Daya mam."
+                        "text": "All changes are completed, now moving this task to “Done“ and approved by Daya mam."
                       }
                     ]
                   }
@@ -30885,7 +30889,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Ankita\u2019s Doc: "
+                  "text": "Ankita’s Doc: "
                 },
                 {
                   "type": "inlineCard",
@@ -32212,7 +32216,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Found some misses too\u2026..shared edits on Paint"
+                        "text": "Found some misses too…..shared edits on Paint"
                       },
                       {
                         "type": "hardBreak"
@@ -32854,7 +32858,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "As discussed with Sudhir Sir, The changes were already implemented. So I am moving this task into \u201cDone\u201c"
+                        "text": "As discussed with Sudhir Sir, The changes were already implemented. So I am moving this task into “Done“"
                       }
                     ]
                   }
@@ -33003,7 +33007,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Ankita\u2019s Doc: "
+                  "text": "Ankita’s Doc: "
                 },
                 {
                   "type": "inlineCard",
@@ -33319,7 +33323,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " please make the change. remove the word \u201ccompany\u201c"
+                        "text": " please make the change. remove the word “company“"
                       }
                     ]
                   },
@@ -33509,7 +33513,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "All 3 are UK clients\u2026..should I even have to point this out even now????"
+                        "text": "All 3 are UK clients…..should I even have to point this out even now????"
                       }
                     ]
                   },
@@ -33863,7 +33867,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Ankita\u2019s doc: "
+                  "text": "Ankita’s doc: "
                 },
                 {
                   "type": "inlineCard",
@@ -34335,7 +34339,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "As soon as you fill out the form, our latest AI-powered functionality - Go Live - kicks in. Within seconds, you will get to interact with one of our Client Account Managers (CAM) who will understand your requirements in further detail and personally guide you to the next steps. It\u2019s quick, effortless and you could get started right away!",
+                        "text": "As soon as you fill out the form, our latest AI-powered functionality - Go Live - kicks in. Within seconds, you will get to interact with one of our Client Account Managers (CAM) who will understand your requirements in further detail and personally guide you to the next steps. It’s quick, effortless and you could get started right away!",
                         "marks": [
                           {
                             "type": "strong"
@@ -34482,7 +34486,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "As soon as you fill out the form, our latest AI-powered functionality - Go Live - kicks in. Within seconds, you will get to interact with one of our Client Account Managers (CAM) who will understand your requirements in further detail and personally guide you to the next steps. It\u2019s quick, effortless and you could get started right away!",
+                        "text": "As soon as you fill out the form, our latest AI-powered functionality - Go Live - kicks in. Within seconds, you will get to interact with one of our Client Account Managers (CAM) who will understand your requirements in further detail and personally guide you to the next steps. It’s quick, effortless and you could get started right away!",
                         "marks": [
                           {
                             "type": "strong"
@@ -35048,7 +35052,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Ankita\u2019s Doc: "
+                  "text": "Ankita’s Doc: "
                 },
                 {
                   "type": "inlineCard",
@@ -35383,7 +35387,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Mam, all changes have been made, and the last feedback has also been implemented. I am now moving this task to \u201cDone.\u201d"
+                        "text": " Mam, all changes have been made, and the last feedback has also been implemented. I am now moving this task to “Done.”"
                       }
                     ]
                   },
@@ -35551,7 +35555,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Ankita\u2019s doc: "
+                  "text": "Ankita’s doc: "
                 },
                 {
                   "type": "inlineCard",
@@ -36128,7 +36132,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "\u2705 "
+                        "text": "✅ "
                       },
                       {
                         "type": "text",
@@ -36193,7 +36197,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "\u2705 "
+                        "text": "✅ "
                       },
                       {
                         "type": "text",
@@ -36258,7 +36262,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "\u2705 "
+                        "text": "✅ "
                       },
                       {
                         "type": "text",
@@ -36323,7 +36327,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "\u2705 "
+                        "text": "✅ "
                       },
                       {
                         "type": "text",
@@ -36388,7 +36392,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "\u2705 "
+                        "text": "✅ "
                       },
                       {
                         "type": "text",
@@ -36907,7 +36911,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "All changes are completed, now moving this task to \u201cDone\u201c"
+                        "text": "All changes are completed, now moving this task to “Done“"
                       }
                     ]
                   }
@@ -37056,7 +37060,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Ankita\u2019s doc: "
+                  "text": "Ankita’s doc: "
                 },
                 {
                   "type": "inlineCard",
@@ -37680,7 +37684,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Mam, all changes have been made, and the last feedback has also been implemented. I am now moving this task to \u201cDone.\u201d"
+                        "text": " Mam, all changes have been made, and the last feedback has also been implemented. I am now moving this task to “Done.”"
                       }
                     ]
                   },
@@ -38339,7 +38343,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Mam, all changes have been made, and the last feedback has also been implemented. I am now moving this task to \u201cDone.\u201d"
+                        "text": " Mam, all changes have been made, and the last feedback has also been implemented. I am now moving this task to “Done.”"
                       }
                     ]
                   }
@@ -38488,7 +38492,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Ankita\u2019s feedback: "
+                  "text": "Ankita’s feedback: "
                 },
                 {
                   "type": "inlineCard",
@@ -38954,7 +38958,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Mam, all changes have been made, and the last feedback has also been implemented. I am now moving this task to \u201cDone.\u201d"
+                        "text": " Mam, all changes have been made, and the last feedback has also been implemented. I am now moving this task to “Done.”"
                       }
                     ]
                   }
@@ -39150,7 +39154,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Ankita\u2019s doc: "
+                  "text": "Ankita’s doc: "
                 },
                 {
                   "type": "text",
@@ -39891,7 +39895,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Mam, all changes have been made, and the last feedback has also been implemented. I am now moving this task to \u201cDone.\u201d"
+                        "text": " Mam, all changes have been made, and the last feedback has also been implemented. I am now moving this task to “Done.”"
                       }
                     ]
                   },
@@ -40057,7 +40061,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Ankita\u2019s doc: "
+                  "text": "Ankita’s doc: "
                 },
                 {
                   "type": "inlineCard",
@@ -40548,7 +40552,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Updated, only the testimonial\u2019s designation is pending. "
+                        "text": " Updated, only the testimonial’s designation is pending. "
                       }
                     ]
                   }
@@ -41793,7 +41797,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " please assign a designer to create the banner for \u2018Kearney Data.\u2019 Koyel has attached the document above."
+                        "text": " please assign a designer to create the banner for ‘Kearney Data.’ Koyel has attached the document above."
                       }
                     ]
                   },
@@ -42186,7 +42190,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "All the changes are completed, now I am moving this task into \u201cDone\u201c"
+                        "text": "All the changes are completed, now I am moving this task into “Done“"
                       }
                     ]
                   }
@@ -42344,7 +42348,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Ankita\u2019s doc: "
+                  "text": "Ankita’s doc: "
                 },
                 {
                   "type": "text",
@@ -42792,7 +42796,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Please make \u201cF\u201c capital in free word. "
+                        "text": " Please make “F“ capital in free word. "
                       }
                     ]
                   },
@@ -43027,7 +43031,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Ankita\u2019s doc: "
+                  "text": "Ankita’s doc: "
                 },
                 {
                   "type": "inlineCard",
@@ -43631,7 +43635,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "  Mam, all changes have been made, and the last feedback has also been implemented. I am now moving this task to \u201cDone.\u201d"
+                        "text": "  Mam, all changes have been made, and the last feedback has also been implemented. I am now moving this task to “Done.”"
                       }
                     ]
                   },
@@ -43811,7 +43815,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Ankita\u2019s Doc: "
+                  "text": "Ankita’s Doc: "
                 },
                 {
                   "type": "inlineCard",
@@ -44598,7 +44602,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Mam, all changes have been made, and the last feedback has also been implemented. I am now moving this task to \u201cDone.\u201d"
+                        "text": " Mam, all changes have been made, and the last feedback has also been implemented. I am now moving this task to “Done.”"
                       },
                       {
                         "type": "hardBreak"
@@ -45439,7 +45443,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "  Mam, all changes have been made, and the last feedback has also been implemented. I am now moving this task to \u201cDone.\u201d"
+                        "text": "  Mam, all changes have been made, and the last feedback has also been implemented. I am now moving this task to “Done.”"
                       }
                     ]
                   },
@@ -45635,7 +45639,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Ankita\u2019s Doc: "
+                  "text": "Ankita’s Doc: "
                 },
                 {
                   "type": "inlineCard",
@@ -45955,7 +45959,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Hi Ma'am, this page is from Live List.  Earlier, you had shared your feedback, and Ankita has made the required changes. I\u2019ve attached the updated document to the list. You may now review the live pages along with the implemented feedback."
+                  "text": "Hi Ma'am, this page is from Live List.  Earlier, you had shared your feedback, and Ankita has made the required changes. I’ve attached the updated document to the list. You may now review the live pages along with the implemented feedback."
                 }
               ]
             },
@@ -46015,7 +46019,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Ankita\u2019s doc: ",
+                  "text": "Ankita’s doc: ",
                   "marks": [
                     {
                       "type": "strong"
@@ -46677,7 +46681,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Hi Ma'am, this page is from Live List.  Earlier, you had shared your feedback, and Ankita has made the required changes. I\u2019ve attached the updated document to the list. You may now review the live pages along with the implemented feedback."
+                  "text": "Hi Ma'am, this page is from Live List.  Earlier, you had shared your feedback, and Ankita has made the required changes. I’ve attached the updated document to the list. You may now review the live pages along with the implemented feedback."
                 }
               ]
             },
@@ -46737,7 +46741,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Ankita\u2019s doc: ",
+                  "text": "Ankita’s doc: ",
                   "marks": [
                     {
                       "type": "strong"
@@ -47122,7 +47126,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Hi Ma'am, this page is from Live List.  Earlier, you had shared your feedback, and Ankita has made the required changes. I\u2019ve attached the updated document to the list. You may now review the live pages along with the implemented feedback."
+                  "text": "Hi Ma'am, this page is from Live List.  Earlier, you had shared your feedback, and Ankita has made the required changes. I’ve attached the updated document to the list. You may now review the live pages along with the implemented feedback."
                 }
               ]
             },
@@ -47187,7 +47191,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Ankita\u2019s Doc:",
+                  "text": "Ankita’s Doc:",
                   "marks": [
                     {
                       "type": "strong"
@@ -47960,7 +47964,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Mam, all changes have been made, and the last feedback has also been implemented. I am now moving this task to \u201cDone.\u201d"
+                        "text": " Mam, all changes have been made, and the last feedback has also been implemented. I am now moving this task to “Done.”"
                       }
                     ]
                   },
@@ -48314,7 +48318,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Added comments on Paint. Another really old, outdated and poor page\u2026."
+                        "text": "Added comments on Paint. Another really old, outdated and poor page…."
                       },
                       {
                         "type": "hardBreak"
@@ -48637,7 +48641,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "  Mam, all changes have been made, and the last feedback has also been implemented. I am now moving this task to \u201cDone.\u201d"
+                        "text": "  Mam, all changes have been made, and the last feedback has also been implemented. I am now moving this task to “Done.”"
                       }
                     ]
                   }
@@ -49550,7 +49554,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "We have decided to share 5 pages at a time, once Koyel confirms. In total, there are 22 technical pages where the services need to be updated\u2014these were part of the 2024 backlog and are still pending, once I got the updated services then developer will implement. "
+                  "text": "We have decided to share 5 pages at a time, once Koyel confirms. In total, there are 22 technical pages where the services need to be updated—these were part of the 2024 backlog and are still pending, once I got the updated services then developer will implement. "
                 }
               ]
             },
@@ -50267,7 +50271,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am, please review the changes in Figma. Once approved, "
+                        "text": " ma’am, please review the changes in Figma. Once approved, "
                       },
                       {
                         "type": "mention",
@@ -50816,7 +50820,7 @@
                 },
                 {
                   "type": "text",
-                  "text": "Ankita (the writer) has made the necessary changes, and all the feedback shared by you has been implemented on this page. I\u2019m attaching the figma Link feedback along with the Live URL for your review."
+                  "text": "Ankita (the writer) has made the necessary changes, and all the feedback shared by you has been implemented on this page. I’m attaching the figma Link feedback along with the Live URL for your review."
                 }
               ]
             },
@@ -51141,7 +51145,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "good to go, just change the spelling to \u2018payroll\u2019 in Lisa Clarinet\u2019s case study. have added comment"
+                        "text": "good to go, just change the spelling to ‘payroll’ in Lisa Clarinet’s case study. have added comment"
                       }
                     ]
                   }
@@ -51609,7 +51613,7 @@
                 },
                 {
                   "type": "text",
-                  "text": "Ankita (the writer) has made the necessary changes, and all the feedback shared by you has been implemented on this page. I\u2019m attaching the Paint feedback along with the Live URL for your review."
+                  "text": "Ankita (the writer) has made the necessary changes, and all the feedback shared by you has been implemented on this page. I’m attaching the Paint feedback along with the Live URL for your review."
                 }
               ]
             },
@@ -53149,7 +53153,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Putting this on hold. The issue highlighted by Daya ma\u2019am will be resolved then this project will be re-initiated."
+                        "text": "Putting this on hold. The issue highlighted by Daya ma’am will be resolved then this project will be re-initiated."
                       }
                     ]
                   }
@@ -54245,7 +54249,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Hi Daya mam,\u00a0"
+                  "text": "Hi Daya mam, "
                 }
               ]
             },
@@ -54254,7 +54258,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "As discussed over the call, I\u2019m sharing 10 live pages for your review. Based on the data, I\u2019m preparing heatmap reports for these URLs and their respective data. As I continue working on the reports, I\u2019ll keep sharing them with you. I aim to complete all of them by Tuesday."
+                  "text": "As discussed over the call, I’m sharing 10 live pages for your review. Based on the data, I’m preparing heatmap reports for these URLs and their respective data. As I continue working on the reports, I’ll keep sharing them with you. I aim to complete all of them by Tuesday."
                 }
               ]
             },
@@ -55117,7 +55121,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "9 heatmaps have been attached. The remaining one, 'Legal Website,' has not been created as it hasn\u2019t received enough traffic for a heatmap to be generated."
+                        "text": "9 heatmaps have been attached. The remaining one, 'Legal Website,' has not been created as it hasn’t received enough traffic for a heatmap to be generated."
                       }
                     ]
                   }
@@ -62033,7 +62037,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Hi Daya Mam,\u00a0"
+                  "text": "Hi Daya Mam, "
                 },
                 {
                   "type": "hardBreak"
@@ -62348,7 +62352,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " , till the reviewed services don\u2019t get uploaded, the review is paused. I have edited these services multiple times in the past and still the old, unedited services are there on the tech pages. "
+                        "text": " , till the reviewed services don’t get uploaded, the review is paused. I have edited these services multiple times in the past and still the old, unedited services are there on the tech pages. "
                       }
                     ]
                   }
@@ -62586,7 +62590,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Hi Daya Ma'am,\u00a0"
+                        "text": "Hi Daya Ma'am, "
                       }
                     ]
                   },
@@ -62791,7 +62795,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am kindly re-review, so that we can made it live on campaign"
+                        "text": " ma’am kindly re-review, so that we can made it live on campaign"
                       }
                     ]
                   }
@@ -63500,7 +63504,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Sir, these 8 pages are reworks of live pages based on the feedback shared by Daya Ma'am. They are not related to the 'Top IT Pages' task \u2014 that is a separate assignment. Koyel needs to work on the 8 pages listed in the Live URL sheet."
+                        "text": " Sir, these 8 pages are reworks of live pages based on the feedback shared by Daya Ma'am. They are not related to the 'Top IT Pages' task — that is a separate assignment. Koyel needs to work on the 8 pages listed in the Live URL sheet."
                       }
                     ]
                   }
@@ -63563,7 +63567,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " as clarified by Deepakshi these changes are to be done in the live ppc pages as per feedback from Daya ma\u2019am, hence added the pages: Hire Developer & Hire Elite Developers to the list. Changed the due date to 9th Apr to accommodate the effort for these two pages."
+                        "text": " as clarified by Deepakshi these changes are to be done in the live ppc pages as per feedback from Daya ma’am, hence added the pages: Hire Developer & Hire Elite Developers to the list. Changed the due date to 9th Apr to accommodate the effort for these two pages."
                       }
                     ]
                   }
@@ -63626,7 +63630,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " - I have implemented the feedback in all the PPC Pages except the OUTSOURCE DEVELOPMENT page (ma\u2019am suggested not to work on the page as of now)"
+                        "text": " - I have implemented the feedback in all the PPC Pages except the OUTSOURCE DEVELOPMENT page (ma’am suggested not to work on the page as of now)"
                       }
                     ]
                   },
@@ -63845,7 +63849,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "  Start work on these URLs, they comes under \u201cChanges after daya mam feedback\u201d sheet. "
+                        "text": "  Start work on these URLs, they comes under “Changes after daya mam feedback” sheet. "
                       },
                       {
                         "type": "hardBreak"
@@ -66166,7 +66170,5 @@
         }
       }
     }
-  ],
-  "nextPageToken": "ChUjU3RyaW5nJlVGQlMlSW50Jk1URT0QZBinp66HsjMiI3Byb2plY3QgPSAiUFBDIFBhZ2VzIFJld29yayAoMjAyNCkiKgJbXQ==",
-  "isLast": false
+  ]
 }

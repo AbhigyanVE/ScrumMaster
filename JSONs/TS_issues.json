@@ -1,4 +1,8 @@
 {
+  "name": "Technical SEO",
+  "id": "10718",
+  "key": "TS",
+  "issue_count": 3,
   "issues": [
     {
       "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
@@ -220,7 +224,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " , We are getting \u201c17 issues with broken internal JavaScript and CSS files\u201d on our virtual employee website. Please look into this and resolve it. I m attaching excel for the details."
+                        "text": " , We are getting “17 issues with broken internal JavaScript and CSS files” on our virtual employee website. Please look into this and resolve it. I m attaching excel for the details."
                       }
                     ]
                   },
@@ -796,7 +800,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "On desktop, the largest contentful paint getting loaded in 24.7 seconds, that huge\u2026"
+                        "text": "On desktop, the largest contentful paint getting loaded in 24.7 seconds, that huge…"
                       }
                     ]
                   }
@@ -975,7 +979,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " You can verify this by checking other video-based websites as well \u2014 for example, platforms like YouTube or Vimeo also experience higher LCP times due to video content. Still, I will try to improve the performance where possible."
+                        "text": " You can verify this by checking other video-based websites as well — for example, platforms like YouTube or Vimeo also experience higher LCP times due to video content. Still, I will try to improve the performance where possible."
                       }
                     ]
                   }
@@ -1045,7 +1049,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "Let\u2019s ensure we achieve whatever improvement is possible within those constraints. Please update once implemented."
+                        "text": "Let’s ensure we achieve whatever improvement is possible within those constraints. Please update once implemented."
                       }
                     ]
                   }
@@ -1693,6 +1697,5 @@
         }
       }
     }
-  ],
-  "isLast": true
+  ]
 }

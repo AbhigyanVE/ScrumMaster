@@ -1,4 +1,8 @@
 {
+  "name": "External Reviewers",
+  "id": "10422",
+  "key": "ER",
+  "issue_count": 9,
   "issues": [
     {
       "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
@@ -796,7 +800,7 @@
         "aggregatetimeestimate": 0,
         "resolutiondate": null,
         "workratio": -1,
-        "summary": "Android App Development Brochure \u2013 Freelancer Feedback Update",
+        "summary": "Android App Development Brochure – Freelancer Feedback Update",
         "watches": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/ER-7/watchers",
           "watchCount": 1,
@@ -891,7 +895,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Today, I reconnected with the freelancer after reviewing their initial feedback on the Android App Development brochure. While they kept the structure intact, they missed providing any real critique \u2014 no comments, edits, or suggestions on content, tone, or CTA."
+                        "text": "Today, I reconnected with the freelancer after reviewing their initial feedback on the Android App Development brochure. While they kept the structure intact, they missed providing any real critique — no comments, edits, or suggestions on content, tone, or CTA."
                       }
                     ]
                   },
@@ -900,7 +904,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "I clearly explained what\u2019s needed:"
+                        "text": "I clearly explained what’s needed:"
                       }
                     ]
                   },
@@ -1258,7 +1262,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " As part of building the Robotics Engineering talent pool, I\u2019ve shortlisted three expert freelancers from Upwork based on their proven skills in ROS/ROS2, automation, and robotic system design."
+                        "text": " As part of building the Robotics Engineering talent pool, I’ve shortlisted three expert freelancers from Upwork based on their proven skills in ROS/ROS2, automation, and robotic system design."
                       },
                       {
                         "type": "hardBreak"
@@ -1666,7 +1670,7 @@
                               },
                               {
                                 "type": "text",
-                                "text": " \u2013 Expert in ROS, Gazebo, CAD, and automation"
+                                "text": " – Expert in ROS, Gazebo, CAD, and automation"
                               }
                             ]
                           }
@@ -1689,7 +1693,7 @@
                               },
                               {
                                 "type": "text",
-                                "text": " \u2013 Specializes in ROS/ROS2, autonomous navigation, and computer vision"
+                                "text": " – Specializes in ROS/ROS2, autonomous navigation, and computer vision"
                               }
                             ]
                           }
@@ -1712,7 +1716,7 @@
                               },
                               {
                                 "type": "text",
-                                "text": " \u2013 Experienced in robotics prototyping and product design"
+                                "text": " – Experienced in robotics prototyping and product design"
                               }
                             ]
                           }
@@ -1907,7 +1911,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "External Review Project \u2013 Work Log [Date]",
+                        "text": "External Review Project – Work Log [Date]",
                         "marks": [
                           {
                             "type": "strong"
@@ -1949,7 +1953,7 @@
                               },
                               {
                                 "type": "text",
-                                "text": " \u2013 Machine Learning, Cybersecurity, and Robotics \u2013 across multiple platforms."
+                                "text": " – Machine Learning, Cybersecurity, and Robotics – across multiple platforms."
                               }
                             ]
                           }
@@ -2115,7 +2119,7 @@
                               },
                               {
                                 "type": "text",
-                                "text": " \u2013 PhD AI, Prof., CV/NLP/ML expert, 10+ yrs R&D \u2013 Strong academic + applied AI fit."
+                                "text": " – PhD AI, Prof., CV/NLP/ML expert, 10+ yrs R&D – Strong academic + applied AI fit."
                               }
                             ]
                           }
@@ -2138,7 +2142,7 @@
                               },
                               {
                                 "type": "text",
-                                "text": " \u2013 Sr. Data Scientist (6+ yrs), CV/NLP/ML, GCP \u2013 Strong applied AI background."
+                                "text": " – Sr. Data Scientist (6+ yrs), CV/NLP/ML, GCP – Strong applied AI background."
                               }
                             ]
                           }
@@ -2161,7 +2165,7 @@
                               },
                               {
                                 "type": "text",
-                                "text": " \u2013 PhD, AI+IoT, network security \u2013 Good IoT/AI mix."
+                                "text": " – PhD, AI+IoT, network security – Good IoT/AI mix."
                               }
                             ]
                           }
@@ -2184,7 +2188,7 @@
                               },
                               {
                                 "type": "text",
-                                "text": " \u2013 PhD CS, 15+ yrs AI/ML tools \u2013 Enterprise-grade AI expertise."
+                                "text": " – PhD CS, 15+ yrs AI/ML tools – Enterprise-grade AI expertise."
                               }
                             ]
                           }
@@ -2207,7 +2211,7 @@
                               },
                               {
                                 "type": "text",
-                                "text": " \u2013 PhD NLP, 7+ yrs R&D, 9+ yrs coding \u2013 Ideal for LLM/NLP reviews."
+                                "text": " – PhD NLP, 7+ yrs R&D, 9+ yrs coding – Ideal for LLM/NLP reviews."
                               }
                             ]
                           }
@@ -2252,7 +2256,7 @@
                               },
                               {
                                 "type": "text",
-                                "text": " \u2013 ML Dev (LLM, CV, RL, Analytics) \u2013 Full modern AI stack."
+                                "text": " – ML Dev (LLM, CV, RL, Analytics) – Full modern AI stack."
                               }
                             ]
                           }
@@ -2275,7 +2279,7 @@
                               },
                               {
                                 "type": "text",
-                                "text": " \u2013 CV/AI Engineer, team lead \u2013 Strong applied CV focus."
+                                "text": " – CV/AI Engineer, team lead – Strong applied CV focus."
                               }
                             ]
                           }
@@ -2443,7 +2447,7 @@
                             "content": [
                               {
                                 "type": "text",
-                                "text": "Followed up with freelancers who haven\u2019t responded yet."
+                                "text": "Followed up with freelancers who haven’t responded yet."
                               }
                             ]
                           }
@@ -3688,7 +3692,7 @@
                               },
                               {
                                 "type": "text",
-                                "text": " with the Machine Learning freelancer, ensuring they align with our project plan and the freelancer\u2019s domain expertise."
+                                "text": " with the Machine Learning freelancer, ensuring they align with our project plan and the freelancer’s domain expertise."
                               }
                             ]
                           }
@@ -3815,7 +3819,7 @@
                               },
                               {
                                 "type": "text",
-                                "text": "10\u201315 domain-specific questions with sample answers",
+                                "text": "10–15 domain-specific questions with sample answers",
                                 "marks": [
                                   {
                                     "type": "strong"
@@ -3837,7 +3841,7 @@
                               },
                               {
                                 "type": "text",
-                                "text": " with freelancers. These questions are aligned with each freelancer\u2019s area of expertise to ensure meaningful and insightful discussions."
+                                "text": " with freelancers. These questions are aligned with each freelancer’s area of expertise to ensure meaningful and insightful discussions."
                               }
                             ]
                           }
@@ -4237,7 +4241,7 @@
                               },
                               {
                                 "type": "text",
-                                "text": " \u2013 $85/hr \u2013 Expert in Azure, DevSecOps, and incident response"
+                                "text": " – $85/hr – Expert in Azure, DevSecOps, and incident response"
                               },
                               {
                                 "type": "hardBreak"
@@ -4273,7 +4277,7 @@
                               },
                               {
                                 "type": "text",
-                                "text": " \u2013 $150/hr \u2013 Specializes in threat mitigation and enterprise system security"
+                                "text": " – $150/hr – Specializes in threat mitigation and enterprise system security"
                               },
                               {
                                 "type": "hardBreak"
@@ -4309,7 +4313,7 @@
                               },
                               {
                                 "type": "text",
-                                "text": " \u2013 $50/hr \u2013 Focused on cloud security, compliance (ISO 27001, SOC2, GDPR), and network architecture"
+                                "text": " – $50/hr – Focused on cloud security, compliance (ISO 27001, SOC2, GDPR), and network architecture"
                               },
                               {
                                 "type": "hardBreak"
@@ -4689,7 +4693,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Hi\u00a0smariti, here is the updated Android App Development brochure content, get this reviewed by external reviewer on priority."
+                        "text": "Hi smariti, here is the updated Android App Development brochure content, get this reviewed by external reviewer on priority."
                       },
                       {
                         "type": "mediaInline",
@@ -4817,7 +4821,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "I\u2019ve successfully completed the task of getting the Android App Development brochure reviewed by an external expert."
+                        "text": "I’ve successfully completed the task of getting the Android App Development brochure reviewed by an external expert."
                       }
                     ]
                   },
@@ -5362,6 +5366,5 @@
         }
       }
     }
-  ],
-  "isLast": true
+  ]
 }

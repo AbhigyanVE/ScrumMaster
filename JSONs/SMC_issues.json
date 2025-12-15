@@ -1,5 +1,173 @@
 {
+  "name": "Social Media",
+  "id": "10012",
+  "key": "SMC",
+  "issue_count": 100,
   "issues": [
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "14618",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14618",
+      "key": "SMC-130",
+      "fields": {
+        "statuscategorychangedate": "2025-12-15T14:20:57.340+0530",
+        "issuetype": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issuetype/10026",
+          "id": "10026",
+          "description": "A small, distinct piece of work.",
+          "iconUrl": "https://idealabprojects.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10318?size=medium",
+          "name": "Task",
+          "subtask": false,
+          "avatarId": 10318,
+          "entityId": "fd8f0029-77ea-43d8-8924-e25f96a0ea73",
+          "hierarchyLevel": 0
+        },
+        "components": [],
+        "timespent": null,
+        "timeoriginalestimate": null,
+        "project": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/project/10012",
+          "id": "10012",
+          "key": "SMC",
+          "name": "Social Media",
+          "projectTypeKey": "business",
+          "simplified": true,
+          "avatarUrls": {
+            "48x48": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10412",
+            "24x24": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10412?size=small",
+            "16x16": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10412?size=xsmall",
+            "32x32": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10412?size=medium"
+          }
+        },
+        "description": null,
+        "fixVersions": [],
+        "customfield_10033": null,
+        "aggregatetimespent": null,
+        "statusCategory": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/4",
+          "id": 4,
+          "key": "indeterminate",
+          "colorName": "yellow",
+          "name": "In Progress"
+        },
+        "resolution": null,
+        "timetracking": {},
+        "customfield_10015": "2025-12-15",
+        "security": null,
+        "attachment": [],
+        "aggregatetimeestimate": null,
+        "resolutiondate": null,
+        "workratio": -1,
+        "summary": "Episodes under 2 minutes - Video Prototype",
+        "watches": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/SMC-130/watchers",
+          "watchCount": 1,
+          "isWatching": false
+        },
+        "lastViewed": null,
+        "creator": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ac44ad097-e9a1-497e-b0ea-7b115363695d",
+          "accountId": "712020:c44ad097-e9a1-497e-b0ea-7b115363695d",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+            "24x24": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+            "16x16": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+            "32x32": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png"
+          },
+          "displayName": "Harvesh Anand",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "subtasks": [],
+        "created": "2025-12-15T14:20:52.264+0530",
+        "customfield_10021": null,
+        "reporter": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ac44ad097-e9a1-497e-b0ea-7b115363695d",
+          "accountId": "712020:c44ad097-e9a1-497e-b0ea-7b115363695d",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+            "24x24": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+            "16x16": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+            "32x32": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png"
+          },
+          "displayName": "Harvesh Anand",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "aggregateprogress": {
+          "progress": 0,
+          "total": 0
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/2",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/high_new.svg",
+          "name": "High",
+          "id": "2"
+        },
+        "customfield_10001": null,
+        "labels": [],
+        "environment": null,
+        "customfield_10019": "0|i00dl3:",
+        "timeestimate": null,
+        "aggregatetimeoriginalestimate": null,
+        "versions": [],
+        "duedate": "2025-12-16",
+        "progress": {
+          "progress": 0,
+          "total": 0
+        },
+        "issuelinks": [],
+        "votes": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/SMC-130/votes",
+          "votes": 0,
+          "hasVoted": false
+        },
+        "comment": {
+          "comments": [],
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14618/comment",
+          "maxResults": 0,
+          "total": 0,
+          "startAt": 0
+        },
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ac44ad097-e9a1-497e-b0ea-7b115363695d",
+          "accountId": "712020:c44ad097-e9a1-497e-b0ea-7b115363695d",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+            "24x24": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+            "16x16": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+            "32x32": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png"
+          },
+          "displayName": "Harvesh Anand",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "worklog": {
+          "startAt": 0,
+          "maxResults": 20,
+          "total": 0,
+          "worklogs": []
+        },
+        "updated": "2025-12-15T14:21:09.013+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10048",
+          "description": "This work item is being actively worked on at the moment by the assignee.",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "In Progress",
+          "id": "10048",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/4",
+            "id": 4,
+            "key": "indeterminate",
+            "colorName": "yellow",
+            "name": "In Progress"
+          }
+        }
+      }
+    },
     {
       "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
       "id": "14494",
@@ -47,7 +215,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Work Description (Teckvalley \u2013 Instagram Page)",
+                  "text": "Work Description (Teckvalley – Instagram Page)",
                   "marks": [
                     {
                       "type": "strong"
@@ -1225,7 +1393,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "Why you shouldn\u2019t treat people equally_1.mp4",
+                        "text": "Why you shouldn’t treat people equally_1.mp4",
                         "marks": [
                           {
                             "type": "link",
@@ -2429,7 +2597,7 @@
         "aggregatetimeestimate": null,
         "resolutiondate": "2025-09-18T10:24:25.764+0530",
         "workratio": -1,
-        "summary": "Publishing Dimbl\u2019s Founder & CEO Video on LinkedIn & Facebook ",
+        "summary": "Publishing Dimbl’s Founder & CEO Video on LinkedIn & Facebook ",
         "watches": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/SMC-121/watchers",
           "watchCount": 1,
@@ -2523,7 +2691,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Publishing Dimbl\u2019s Founder & CEO Video on LinkedIn & Facebook along with the testimonial page "
+                        "text": "Publishing Dimbl’s Founder & CEO Video on LinkedIn & Facebook along with the testimonial page "
                       }
                     ]
                   },
@@ -3331,7 +3499,7 @@
         "aggregatetimeestimate": null,
         "resolutiondate": "2025-09-18T10:17:46.962+0530",
         "workratio": -1,
-        "summary": "YouTube Video Content \u2013 5 Videos",
+        "summary": "YouTube Video Content – 5 Videos",
         "watches": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/SMC-117/watchers",
           "watchCount": 3,
@@ -3425,7 +3593,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "I\u2019ve attached the Word document with 5 YouTube video content drafts (titles, descriptions, thumbnail text, and tags). "
+                        "text": "I’ve attached the Word document with 5 YouTube video content drafts (titles, descriptions, thumbnail text, and tags). "
                       },
                       {
                         "type": "hardBreak"
@@ -3445,7 +3613,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am\u2019s review and approval before publishing."
+                        "text": " Ma’am’s review and approval before publishing."
                       },
                       {
                         "type": "hardBreak"
@@ -3523,7 +3691,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am, Shoaib has written the video title and description of the client competition videos recevied this year. Kindly have a look and share your feedback."
+                        "text": " ma’am, Shoaib has written the video title and description of the client competition videos recevied this year. Kindly have a look and share your feedback."
                       },
                       {
                         "type": "hardBreak"
@@ -3542,7 +3710,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " always assign the task to the reviewer, in this case Daya ma\u2019am else it will not show in here task list and whenever giving a new task do give the background, making it easier for ma\u2019am to review."
+                        "text": " always assign the task to the reviewer, in this case Daya ma’am else it will not show in here task list and whenever giving a new task do give the background, making it easier for ma’am to review."
                       }
                     ]
                   }
@@ -3703,11 +3871,11 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "\ud83c\udfac "
+                  "text": "🎬 "
                 },
                 {
                   "type": "text",
-                  "text": "Reel 2 \u2013 Why Hire from India?",
+                  "text": "Reel 2 – Why Hire from India?",
                   "marks": [
                     {
                       "type": "strong"
@@ -3733,7 +3901,7 @@
                 },
                 {
                   "type": "text",
-                  "text": "[10:37] Cost advantage, yes\u2014but more importantly, adaptability and work ethic."
+                  "text": "[10:37] Cost advantage, yes—but more importantly, adaptability and work ethic."
                 },
                 {
                   "type": "hardBreak"
@@ -3747,14 +3915,14 @@
                 },
                 {
                   "type": "text",
-                  "text": "[11:27] And with AI rising, the key is using it to amplify\u2014not replace\u2014their skills."
+                  "text": "[11:27] And with AI rising, the key is using it to amplify—not replace—their skills."
                 },
                 {
                   "type": "hardBreak"
                 },
                 {
                   "type": "text",
-                  "text": "[12:17] That\u2019s how India stays relevant on the global stage."
+                  "text": "[12:17] That’s how India stays relevant on the global stage."
                 }
               ]
             }
@@ -4524,7 +4692,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "LinkedIn \u2013 "
+                        "text": "LinkedIn – "
                       },
                       {
                         "type": "text",
@@ -6413,7 +6581,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "I\u2019ve designed the thumbnail for the podcast, written the YouTube description, title, and tags, and published the podcast on YouTube."
+                        "text": "I’ve designed the thumbnail for the podcast, written the YouTube description, title, and tags, and published the podcast on YouTube."
                       },
                       {
                         "type": "hardBreak"
@@ -7621,7 +7789,7 @@
                               },
                               {
                                 "type": "text",
-                                "text": "\u2003- Duration: "
+                                "text": " - Duration: "
                               },
                               {
                                 "type": "text",
@@ -7637,14 +7805,14 @@
                               },
                               {
                                 "type": "text",
-                                "text": "\u2003- Participants: Irfan Sir & Social Media Team"
+                                "text": " - Participants: Irfan Sir & Social Media Team"
                               },
                               {
                                 "type": "hardBreak"
                               },
                               {
                                 "type": "text",
-                                "text": "\u2003- Agenda: Discussed upcoming AI-focused content, VE brand alignment, and strategic improvements for Instagram and LinkedIn posts."
+                                "text": " - Agenda: Discussed upcoming AI-focused content, VE brand alignment, and strategic improvements for Instagram and LinkedIn posts."
                               }
                             ]
                           }
@@ -7670,7 +7838,7 @@
                               },
                               {
                                 "type": "text",
-                                "text": "\u2003- Duration: "
+                                "text": " - Duration: "
                               },
                               {
                                 "type": "text",
@@ -7686,7 +7854,7 @@
                               },
                               {
                                 "type": "text",
-                                "text": "\u2003- Agenda: Reviewed recent post performance, received detailed feedback, and discussed next steps for refining content quality and visual appeal."
+                                "text": " - Agenda: Reviewed recent post performance, received detailed feedback, and discussed next steps for refining content quality and visual appeal."
                               }
                             ]
                           }
@@ -8003,7 +8171,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "he best content doesn\u2019t always win. The most felt content does.",
+                        "text": "he best content doesn’t always win. The most felt content does.",
                         "marks": [
                           {
                             "type": "em"
@@ -8018,7 +8186,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "Also optimized and boosted the post as an ad \u2014 targeting engagement-focused audiences for maximum reach and impact.",
+                        "text": "Also optimized and boosted the post as an ad — targeting engagement-focused audiences for maximum reach and impact.",
                         "marks": [
                           {
                             "type": "strong"
@@ -8324,7 +8492,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "please fill the spending details monthwise sine Jan\u201925: "
+                        "text": "please fill the spending details monthwise sine Jan’25: "
                       },
                       {
                         "type": "text",
@@ -8968,7 +9136,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "\ud83c\udfac Final 35s Podcast Reel Script (timestamp: ~3:16\u20134:28)"
+                        "text": "🎬 Final 35s Podcast Reel Script (timestamp: ~3:16–4:28)"
                       }
                     ]
                   },
@@ -8977,14 +9145,14 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "\u23f1\ufe0f\u2009[3:16 \u2013 3:24]"
+                        "text": "⏱️ [3:16 – 3:24]"
                       },
                       {
                         "type": "hardBreak"
                       },
                       {
                         "type": "text",
-                        "text": "\ud83c\udf99\ufe0f Atisham:"
+                        "text": "🎙️ Atisham:"
                       },
                       {
                         "type": "hardBreak"
@@ -9000,21 +9168,21 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "\u23f1\ufe0f\u2009[3:24 \u2013 3:31]"
+                        "text": "⏱️ [3:24 – 3:31]"
                       },
                       {
                         "type": "hardBreak"
                       },
                       {
                         "type": "text",
-                        "text": "\ud83c\udf99\ufe0f Atisham:"
+                        "text": "🎙️ Atisham:"
                       },
                       {
                         "type": "hardBreak"
                       },
                       {
                         "type": "text",
-                        "text": "\"You know these people like they are quite busy\u2026 they are time pressed\u2026 they don\u2019t get time to do their things by their own.\""
+                        "text": "\"You know these people like they are quite busy… they are time pressed… they don’t get time to do their things by their own.\""
                       }
                     ]
                   },
@@ -9023,14 +9191,14 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "\u23f1\ufe0f\u2009[3:31 \u2013 3:38]"
+                        "text": "⏱️ [3:31 – 3:38]"
                       },
                       {
                         "type": "hardBreak"
                       },
                       {
                         "type": "text",
-                        "text": "\ud83c\udf99\ufe0f Atisham:"
+                        "text": "🎙️ Atisham:"
                       },
                       {
                         "type": "hardBreak"
@@ -9046,14 +9214,14 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "\u23f1\ufe0f\u2009[3:38 \u2013 3:47]"
+                        "text": "⏱️ [3:38 – 3:47]"
                       },
                       {
                         "type": "hardBreak"
                       },
                       {
                         "type": "text",
-                        "text": "\ud83c\udf99\ufe0f Atisham:"
+                        "text": "🎙️ Atisham:"
                       },
                       {
                         "type": "hardBreak"
@@ -9069,14 +9237,14 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "\u23f1\ufe0f\u2009[3:47 \u2013 3:52]"
+                        "text": "⏱️ [3:47 – 3:52]"
                       },
                       {
                         "type": "hardBreak"
                       },
                       {
                         "type": "text",
-                        "text": "\ud83c\udf99\ufe0f Atisham:"
+                        "text": "🎙️ Atisham:"
                       },
                       {
                         "type": "hardBreak"
@@ -9092,14 +9260,14 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "\u23f1\ufe0f\u2009[3:52 \u2013 4:03]"
+                        "text": "⏱️ [3:52 – 4:03]"
                       },
                       {
                         "type": "hardBreak"
                       },
                       {
                         "type": "text",
-                        "text": "\ud83c\udf99\ufe0f Atisham:"
+                        "text": "🎙️ Atisham:"
                       },
                       {
                         "type": "hardBreak"
@@ -9115,21 +9283,21 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "\u23f1\ufe0f\u2009[4:03 \u2013 4:11]"
+                        "text": "⏱️ [4:03 – 4:11]"
                       },
                       {
                         "type": "hardBreak"
                       },
                       {
                         "type": "text",
-                        "text": "\ud83c\udf99\ufe0f Atisham:"
+                        "text": "🎙️ Atisham:"
                       },
                       {
                         "type": "hardBreak"
                       },
                       {
                         "type": "text",
-                        "text": "\"And we got him a VA. The person who understands his business, who understands his client\u2019s needs and his own working style.\""
+                        "text": "\"And we got him a VA. The person who understands his business, who understands his client’s needs and his own working style.\""
                       }
                     ]
                   },
@@ -9138,14 +9306,14 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "\u23f1\ufe0f\u2009[4:11 \u2013 4:20]"
+                        "text": "⏱️ [4:11 – 4:20]"
                       },
                       {
                         "type": "hardBreak"
                       },
                       {
                         "type": "text",
-                        "text": "\ud83c\udf99\ufe0f Atisham:"
+                        "text": "🎙️ Atisham:"
                       },
                       {
                         "type": "hardBreak"
@@ -9161,21 +9329,21 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "\u23f1\ufe0f\u2009[4:20 \u2013 4:28]"
+                        "text": "⏱️ [4:20 – 4:28]"
                       },
                       {
                         "type": "hardBreak"
                       },
                       {
                         "type": "text",
-                        "text": "\ud83c\udf99\ufe0f Atisham:"
+                        "text": "🎙️ Atisham:"
                       },
                       {
                         "type": "hardBreak"
                       },
                       {
                         "type": "text",
-                        "text": "\"And not only this, like she started syncing all the platforms\u2026 and then started doing the scheduling and everything.\""
+                        "text": "\"And not only this, like she started syncing all the platforms… and then started doing the scheduling and everything.\""
                       }
                     ]
                   }
@@ -10072,7 +10240,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Abhishek Koiri \u00b7 Anindya Saha \u00b7 Dollma Dasgupta \u00b7 Gayatri Ujjwal Gadhave \u00b7 Hitesh Patel \u00b7 J Prateek Kundu \u00b7 Rohit Kumar \u00b7 Rocky Das \u00b7 Sahana Khatoon \u00b7 Suchismita Mishra \u00b7 Vishal Mansaram Chouhan \u00b7 Yugandhara Ramesh Dhamdhere"
+                        "text": "Abhishek Koiri · Anindya Saha · Dollma Dasgupta · Gayatri Ujjwal Gadhave · Hitesh Patel · J Prateek Kundu · Rohit Kumar · Rocky Das · Sahana Khatoon · Suchismita Mishra · Vishal Mansaram Chouhan · Yugandhara Ramesh Dhamdhere"
                       }
                     ]
                   },
@@ -10510,7 +10678,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "On Friday and Monday, I followed up with employees I had previously contacted for GMB reviews \u2014 requesting updates and screenshots where applicable. I also connected with new employees to request fresh reviews."
+                        "text": "On Friday and Monday, I followed up with employees I had previously contacted for GMB reviews — requesting updates and screenshots where applicable. I also connected with new employees to request fresh reviews."
                       }
                     ]
                   },
@@ -10519,7 +10687,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "After that, I continued with regular GMB tasks \u2014 monitoring review activity, responding to feedback, and posting updates to maintain our brand presence."
+                        "text": "After that, I continued with regular GMB tasks — monitoring review activity, responding to feedback, and posting updates to maintain our brand presence."
                       }
                     ]
                   }
@@ -10569,7 +10737,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "I continued with regular GMB tasks \u2014 monitoring review activity, responding to feedback, and posting updates to maintain our brand presence. Connected with new employees to guide them on posting reviews on GMB\u2014 explained the process clearly, including rating, writing a positive comment, and sharing a screenshot."
+                        "text": "I continued with regular GMB tasks — monitoring review activity, responding to feedback, and posting updates to maintain our brand presence. Connected with new employees to guide them on posting reviews on GMB— explained the process clearly, including rating, writing a positive comment, and sharing a screenshot."
                       }
                     ]
                   }
@@ -11274,7 +11442,7 @@
                               },
                               {
                                 "type": "text",
-                                "text": "3\u20134 positive responses",
+                                "text": "3–4 positive responses",
                                 "marks": [
                                   {
                                     "type": "strong"
@@ -14313,7 +14481,7 @@
         "aggregatetimeestimate": 0,
         "resolutiondate": null,
         "workratio": -1,
-        "summary": "Instagram Post Design \u2013 People at VE + virtualemployee_india",
+        "summary": "Instagram Post Design – People at VE + virtualemployee_india",
         "watches": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/SMC-92/watchers",
           "watchCount": 1,
@@ -14409,7 +14577,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "I\u2019m currently designing a "
+                        "text": "I’m currently designing a "
                       },
                       {
                         "type": "text",
@@ -14445,7 +14613,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "Simultaneously, I\u2019ve started working on a "
+                        "text": "Simultaneously, I’ve started working on a "
                       },
                       {
                         "type": "text",
@@ -14642,7 +14810,7 @@
                                       },
                                       {
                                         "type": "text",
-                                        "text": " \u2013 Covers the latest updates in Google\u2019s AI Mode and their relevance for local businesses and content workflows."
+                                        "text": " – Covers the latest updates in Google’s AI Mode and their relevance for local businesses and content workflows."
                                       }
                                     ]
                                   }
@@ -14678,7 +14846,7 @@
                                       },
                                       {
                                         "type": "text",
-                                        "text": " \u2013 Highlights underrated but powerful AI tools transforming how brands create and scale content."
+                                        "text": " – Highlights underrated but powerful AI tools transforming how brands create and scale content."
                                       }
                                     ]
                                   }
@@ -14705,7 +14873,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "Ad Optimization \u2013 ",
+                        "text": "Ad Optimization – ",
                         "marks": [
                           {
                             "type": "strong"
@@ -14880,7 +15048,7 @@
                               },
                               {
                                 "type": "text",
-                                "text": " \u2013 Finalized and published. Focused on team spirit and internal culture."
+                                "text": " – Finalized and published. Focused on team spirit and internal culture."
                               }
                             ]
                           }
@@ -14903,7 +15071,7 @@
                               },
                               {
                                 "type": "text",
-                                "text": " \u2013 Completed. Highlighted how Google\u2019s AI updates impact local search and content discovery."
+                                "text": " – Completed. Highlighted how Google’s AI updates impact local search and content discovery."
                               }
                             ]
                           }
@@ -14967,7 +15135,7 @@
                               },
                               {
                                 "type": "text",
-                                "text": "\u2192 Covers recent feature updates and their relevance for content teams and local businesses."
+                                "text": "→ Covers recent feature updates and their relevance for content teams and local businesses."
                               }
                             ]
                           }
@@ -15006,7 +15174,7 @@
                               },
                               {
                                 "type": "text",
-                                "text": "\u2192 Highlights underrated AI tools reshaping how brands produce, optimize, and scale content."
+                                "text": "→ Highlights underrated AI tools reshaping how brands produce, optimize, and scale content."
                               }
                             ]
                           }
@@ -15036,7 +15204,7 @@
                               },
                               {
                                 "type": "text",
-                                "text": "\u2192 Began working on a "
+                                "text": "→ Began working on a "
                               },
                               {
                                 "type": "text",
@@ -15157,7 +15325,7 @@
                               },
                               {
                                 "type": "text",
-                                "text": "tomorrow\u2019s upcoming Instagram post",
+                                "text": "tomorrow’s upcoming Instagram post",
                                 "marks": [
                                   {
                                     "type": "strong"
@@ -15218,7 +15386,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "3. Humans of VE \u2013 Outreach",
+                        "text": "3. Humans of VE – Outreach",
                         "marks": [
                           {
                             "type": "strong"
@@ -15332,7 +15500,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Instagram \u2013 @virtualemployee_india",
+                        "text": "Instagram – @virtualemployee_india",
                         "marks": [
                           {
                             "type": "strong"
@@ -15379,7 +15547,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Instagram \u2013 @peopleatve",
+                        "text": "Instagram – @peopleatve",
                         "marks": [
                           {
                             "type": "strong"
@@ -15500,7 +15668,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "Zuckerberg Says AI Is Evolving \u2014 Alone",
+                        "text": "Zuckerberg Says AI Is Evolving — Alone",
                         "marks": [
                           {
                             "type": "strong"
@@ -15612,7 +15780,7 @@
                             "content": [
                               {
                                 "type": "text",
-                                "text": "Instagram Carousel Post \u2013 AI Related",
+                                "text": "Instagram Carousel Post – AI Related",
                                 "marks": [
                                   {
                                     "type": "strong"
@@ -15667,7 +15835,7 @@
                             "content": [
                               {
                                 "type": "text",
-                                "text": "People at VE \u2013 Reel",
+                                "text": "People at VE – Reel",
                                 "marks": [
                                   {
                                     "type": "strong"
@@ -16015,7 +16183,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Instagram Carousel Post \u2013 AI Related",
+                        "text": "Instagram Carousel Post – AI Related",
                         "marks": [
                           {
                             "type": "strong"
@@ -16127,7 +16295,7 @@
                               },
                               {
                                 "type": "text",
-                                "text": "Google\u2019s NotebookLM upgrade",
+                                "text": "Google’s NotebookLM upgrade",
                                 "marks": [
                                   {
                                     "type": "strong"
@@ -16819,7 +16987,7 @@
         "aggregatetimeestimate": 0,
         "resolutiondate": "2025-07-30T18:38:39.161+0530",
         "workratio": -1,
-        "summary": "Instagram Reel Ad \u2013 \u201cWorried AI Will Take Your Job?",
+        "summary": "Instagram Reel Ad – “Worried AI Will Take Your Job?",
         "watches": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/SMC-91/watchers",
           "watchCount": 1,
@@ -17307,7 +17475,7 @@
         "aggregatetimeestimate": 0,
         "resolutiondate": "2025-07-30T17:21:41.368+0530",
         "workratio": -1,
-        "summary": "Carousal Post: \u201cUK Hiring Reforms 2025\u201d",
+        "summary": "Carousal Post: “UK Hiring Reforms 2025”",
         "watches": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/SMC-90/watchers",
           "watchCount": 1,
@@ -17403,7 +17571,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "I have created this post to spotlight the rising cost of local hiring due to UK\u2019s 2025 reforms."
+                        "text": "I have created this post to spotlight the rising cost of local hiring due to UK’s 2025 reforms."
                       },
                       {
                         "type": "hardBreak"
@@ -17732,7 +17900,7 @@
         "aggregatetimeestimate": 0,
         "resolutiondate": "2025-07-30T17:18:28.238+0530",
         "workratio": -1,
-        "summary": "Post: \u201cInstagram is Now Google-Searchable\u201d",
+        "summary": "Post: “Instagram is Now Google-Searchable”",
         "watches": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/SMC-89/watchers",
           "watchCount": 1,
@@ -18123,7 +18291,7 @@
         "aggregatetimeestimate": 0,
         "resolutiondate": "2025-07-30T17:15:55.165+0530",
         "workratio": -1,
-        "summary": "Post: \u201cUsing AI is No Longer Optional\u201d \u2013 Microsoft",
+        "summary": "Post: “Using AI is No Longer Optional” – Microsoft",
         "watches": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/SMC-88/watchers",
           "watchCount": 1,
@@ -18219,14 +18387,14 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "I have created this post to reflect how Microsoft\u2019s AI mandate signals a broader shift in how businesses must adopt AI at the core."
+                        "text": "I have created this post to reflect how Microsoft’s AI mandate signals a broader shift in how businesses must adopt AI at the core."
                       },
                       {
                         "type": "hardBreak"
                       },
                       {
                         "type": "text",
-                        "text": "The content emphasizes how Virtual Employee is already leveraging AI in hiring, planning, and client delivery \u2014 not as an add-on, but as a foundational shift."
+                        "text": "The content emphasizes how Virtual Employee is already leveraging AI in hiring, planning, and client delivery — not as an add-on, but as a foundational shift."
                       }
                     ]
                   },
@@ -18514,7 +18682,7 @@
         "aggregatetimeestimate": 0,
         "resolutiondate": "2025-07-30T17:01:19.238+0530",
         "workratio": -1,
-        "summary": "Created Instagram Content Post \u2013 LLM Era: Real Answers Over SEO",
+        "summary": "Created Instagram Content Post – LLM Era: Real Answers Over SEO",
         "watches": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/SMC-87/watchers",
           "watchCount": 1,
@@ -18617,7 +18785,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "The focus is no longer on keyword stuffing or backlinks \u2014 it\u2019s on "
+                        "text": "The focus is no longer on keyword stuffing or backlinks — it’s on "
                       },
                       {
                         "type": "text",
@@ -18886,7 +19054,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Google\u2019s AI Mode \u2013 Shift from rankings to relevance"
+                  "text": "Google’s AI Mode – Shift from rankings to relevance"
                 }
               ]
             }
@@ -18920,7 +19088,7 @@
           {
             "self": "https://idealabprojects.atlassian.net/rest/api/3/attachment/11430",
             "id": "11430",
-            "filename": "Google\u2019s AI Mode debuts in India \u2014 no app, no wait. Just answers. (1).png",
+            "filename": "Google’s AI Mode debuts in India — no app, no wait. Just answers. (1).png",
             "author": {
               "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ab3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
               "accountId": "712020:b3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
@@ -18945,7 +19113,7 @@
         "aggregatetimeestimate": 0,
         "resolutiondate": "2025-07-30T16:54:09.308+0530",
         "workratio": -1,
-        "summary": "Google\u2019s AI Mode post creates using CANVA",
+        "summary": "Google’s AI Mode post creates using CANVA",
         "watches": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/SMC-86/watchers",
           "watchCount": 1,
@@ -19041,7 +19209,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "I\u2019ve created this post to highlight how "
+                        "text": "I’ve created this post to highlight how "
                       },
                       {
                         "type": "text",
@@ -19061,7 +19229,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "It\u2019s no longer just about ranking \u2014 it\u2019s about becoming the answer LLMs choose to show."
+                        "text": "It’s no longer just about ranking — it’s about becoming the answer LLMs choose to show."
                       },
                       {
                         "type": "hardBreak"
@@ -19110,7 +19278,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "After receiving feedback, I made necessary revisions \u2014 adding another "
+                        "text": "After receiving feedback, I made necessary revisions — adding another "
                       },
                       {
                         "type": "text",
@@ -19141,7 +19309,7 @@
                         "attrs": {
                           "type": "file",
                           "id": "1406cdcd-6a06-422d-94b4-931961e24b76",
-                          "alt": "Google\u2019s AI Mode debuts in India \u2014 no app, no wait. Just answers. (1).png",
+                          "alt": "Google’s AI Mode debuts in India — no app, no wait. Just answers. (1).png",
                           "collection": "",
                           "height": 1013,
                           "width": 810
@@ -19358,7 +19526,7 @@
         "aggregatetimeestimate": 0,
         "resolutiondate": "2025-07-30T16:36:34.059+0530",
         "workratio": -1,
-        "summary": "Instagram Reel Ad \u2013 Client Loyalty Story (Hurricane)",
+        "summary": "Instagram Reel Ad – Client Loyalty Story (Hurricane)",
         "watches": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/SMC-85/watchers",
           "watchCount": 1,
@@ -19454,7 +19622,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "We have promoted a reel showcasing a powerful client story \u2014 how VE continued to deliver during a hurricane when everything else failed. The message highlights "
+                        "text": "We have promoted a reel showcasing a powerful client story — how VE continued to deliver during a hurricane when everything else failed. The message highlights "
                       },
                       {
                         "type": "text",
@@ -19764,7 +19932,7 @@
         "aggregatetimeestimate": 0,
         "resolutiondate": "2025-07-30T16:26:24.583+0530",
         "workratio": -1,
-        "summary": "Instagram Reel Ad \u2013 Everyone\u2019s a Creator Now ",
+        "summary": "Instagram Reel Ad – Everyone’s a Creator Now ",
         "watches": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/SMC-84/watchers",
           "watchCount": 1,
@@ -19873,7 +20041,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " \u2014 where every post is a performance and attention is the new currency."
+                        "text": " — where every post is a performance and attention is the new currency."
                       }
                     ]
                   },
@@ -21301,7 +21469,7 @@
                             "content": [
                               {
                                 "type": "text",
-                                "text": "Maintained and updated VE\u2019s Glassdoor page."
+                                "text": "Maintained and updated VE’s Glassdoor page."
                               }
                             ]
                           }
@@ -21558,7 +21726,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Post that, I continued with regular day-to-day Glassdoor activities \u2014 including monitoring new reviews, preparing responses, and keeping our employer branding consistent and active."
+                        "text": "Post that, I continued with regular day-to-day Glassdoor activities — including monitoring new reviews, preparing responses, and keeping our employer branding consistent and active."
                       }
                     ]
                   }
@@ -21608,7 +21776,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Connected with new employees to guide them on posting reviews on Glassdoor \u2014 explained the process clearly, including rating, writing a positive comment, and sharing a screenshot.",
+                        "text": "Connected with new employees to guide them on posting reviews on Glassdoor — explained the process clearly, including rating, writing a positive comment, and sharing a screenshot.",
                         "marks": [
                           {
                             "type": "strong"
@@ -22272,7 +22440,7 @@
                               },
                               {
                                 "type": "text",
-                                "text": "3\u20134 positive responses",
+                                "text": "3–4 positive responses",
                                 "marks": [
                                   {
                                     "type": "strong"
@@ -25504,7 +25672,7 @@
                               },
                               {
                                 "type": "text",
-                                "text": " \u2013 Focused on company branding, service highlights, and thought leadership."
+                                "text": " – Focused on company branding, service highlights, and thought leadership."
                               }
                             ]
                           }
@@ -25527,7 +25695,7 @@
                               },
                               {
                                 "type": "text",
-                                "text": " \u2013 Focused on showcasing internal culture, team engagement, and behind-the-scenes content."
+                                "text": " – Focused on showcasing internal culture, team engagement, and behind-the-scenes content."
                               }
                             ]
                           }
@@ -28176,7 +28344,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Instagram Reel Ad Performance \u2013 "
+                  "text": "Instagram Reel Ad Performance – "
                 },
                 {
                   "type": "text",
@@ -28310,7 +28478,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "We promoted the \u201cGo Live\u201d reel on Instagram to highlight our instant execution model and positioning shift from traditional hiring to "
+                        "text": "We promoted the “Go Live” reel on Instagram to highlight our instant execution model and positioning shift from traditional hiring to "
                       },
                       {
                         "type": "text",
@@ -28332,7 +28500,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "The reel message focused on eliminating delays, discovery calls, and fluff \u2014 showcasing how "
+                        "text": "The reel message focused on eliminating delays, discovery calls, and fluff — showcasing how "
                       },
                       {
                         "type": "text",
@@ -28539,7 +28707,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "\u201cGo Live\u201d Instagram reel",
+                        "text": "“Go Live” Instagram reel",
                         "marks": [
                           {
                             "type": "strong"
@@ -28652,7 +28820,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "\u201cThe best content doesn\u2019t always win. The most felt content does.\u201d",
+                        "text": "“The best content doesn’t always win. The most felt content does.”",
                         "marks": [
                           {
                             "type": "em"
@@ -28672,7 +28840,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "\u2705 Campaign Objective:"
+                        "text": "✅ Campaign Objective:"
                       }
                     ]
                   },
@@ -28696,7 +28864,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "\ud83c\udfaf Target Audience:"
+                        "text": "🎯 Target Audience:"
                       }
                     ]
                   },
@@ -28727,7 +28895,7 @@
                               },
                               {
                                 "type": "text",
-                                "text": "Age: 22\u201340"
+                                "text": "Age: 22–40"
                               },
                               {
                                 "type": "hardBreak"
@@ -28790,7 +28958,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "\ud83c\udf0d Target Locations:"
+                        "text": "🌍 Target Locations:"
                       }
                     ]
                   },
@@ -28908,7 +29076,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Instagram Ad Campaign \u2013 Work Log [Date]",
+                        "text": "Instagram Ad Campaign – Work Log [Date]",
                         "marks": [
                           {
                             "type": "strong"
@@ -28968,7 +29136,7 @@
                                     "content": [
                                       {
                                         "type": "text",
-                                        "text": "\"AI isn\u2019t buying your pitch. It\u2019s measuring your proof.\"",
+                                        "text": "\"AI isn’t buying your pitch. It’s measuring your proof.\"",
                                         "marks": [
                                           {
                                             "type": "strong"
@@ -28977,7 +29145,7 @@
                                       },
                                       {
                                         "type": "text",
-                                        "text": " \u2013 Focused on showing that AI values results over hype, targeting audiences interested in hiring, performance, and data-driven execution."
+                                        "text": " – Focused on showing that AI values results over hype, targeting audiences interested in hiring, performance, and data-driven execution."
                                       }
                                     ]
                                   }
@@ -28991,7 +29159,7 @@
                                     "content": [
                                       {
                                         "type": "text",
-                                        "text": "\"Go Live \u2013 Execution on Demand\"",
+                                        "text": "\"Go Live – Execution on Demand\"",
                                         "marks": [
                                           {
                                             "type": "strong"
@@ -29000,7 +29168,7 @@
                                       },
                                       {
                                         "type": "text",
-                                        "text": " \u2013 Highlighted our instant execution model, eliminating delays and sales fluff, aimed at decision-makers who value speed and action."
+                                        "text": " – Highlighted our instant execution model, eliminating delays and sales fluff, aimed at decision-makers who value speed and action."
                                       }
                                     ]
                                   }
@@ -29210,7 +29378,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "\u201cGo live.\u201d",
+                        "text": "“Go live.”",
                         "marks": [
                           {
                             "type": "em"
@@ -29230,7 +29398,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "\u2705 Campaign Objective:"
+                        "text": "✅ Campaign Objective:"
                       }
                     ]
                   },
@@ -29254,7 +29422,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "\ud83c\udfaf Target Audience:"
+                        "text": "🎯 Target Audience:"
                       }
                     ]
                   },
@@ -29285,7 +29453,7 @@
                               },
                               {
                                 "type": "text",
-                                "text": "Age: 22\u201340"
+                                "text": "Age: 22–40"
                               },
                               {
                                 "type": "hardBreak"
@@ -30161,7 +30329,7 @@
                 },
                 {
                   "type": "text",
-                  "text": " Headcount doesn\u2019t equal value. Skill-velocity and adaptability do."
+                  "text": " Headcount doesn’t equal value. Skill-velocity and adaptability do."
                 },
                 {
                   "type": "hardBreak"
@@ -30193,7 +30361,7 @@
                 },
                 {
                   "type": "text",
-                  "text": " VE\u2019s team structures deliver skill density, not bloated payrolls."
+                  "text": " VE’s team structures deliver skill density, not bloated payrolls."
                 }
               ]
             }
@@ -30367,7 +30535,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Why India is Quietly Becoming the World\u2019s Operating System",
+                  "text": "Why India is Quietly Becoming the World’s Operating System",
                   "marks": [
                     {
                       "type": "strong"
@@ -30388,7 +30556,7 @@
                 },
                 {
                   "type": "text",
-                  "text": " India isn\u2019t a talent pool. It\u2019s infrastructure. And it\u2019s everywhere."
+                  "text": " India isn’t a talent pool. It’s infrastructure. And it’s everywhere."
                 },
                 {
                   "type": "hardBreak"
@@ -30420,7 +30588,7 @@
                 },
                 {
                   "type": "text",
-                  "text": " Position VE as a trusted interface into India\u2019s rising influence."
+                  "text": " Position VE as a trusted interface into India’s rising influence."
                 }
               ]
             }
@@ -30647,7 +30815,7 @@
                 },
                 {
                   "type": "text",
-                  "text": " Highlight VE\u2019s focus on matching domain-specific skills + continuous learning."
+                  "text": " Highlight VE’s focus on matching domain-specific skills + continuous learning."
                 }
               ]
             }
@@ -30858,7 +31026,7 @@
                 },
                 {
                   "type": "text",
-                  "text": " Everyone\u2019s discussing AI but not how to operationalize it."
+                  "text": " Everyone’s discussing AI but not how to operationalize it."
                 },
                 {
                   "type": "hardBreak"
@@ -31069,7 +31237,7 @@
                 },
                 {
                   "type": "text",
-                  "text": " Tangible cost-benefit comparison that leads into VE\u2019s free trial offering."
+                  "text": " Tangible cost-benefit comparison that leads into VE’s free trial offering."
                 },
                 {
                   "type": "hardBreak"
@@ -31101,7 +31269,7 @@
                 },
                 {
                   "type": "text",
-                  "text": " Make VE\u2019s model look smarter, safer, and more accountable."
+                  "text": " Make VE’s model look smarter, safer, and more accountable."
                 }
               ]
             }
@@ -31694,7 +31862,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "What Silicon Valley Got Wrong About Hiring \u2013 And What India Got Right",
+                  "text": "What Silicon Valley Got Wrong About Hiring – And What India Got Right",
                   "marks": [
                     {
                       "type": "strong"
@@ -31715,7 +31883,7 @@
                 },
                 {
                   "type": "text",
-                  "text": " Challenge US/EU hiring assumptions and highlight India\u2019s operational and technical advantage."
+                  "text": " Challenge US/EU hiring assumptions and highlight India’s operational and technical advantage."
                 },
                 {
                   "type": "hardBreak"
@@ -31958,7 +32126,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " it\u2019s a nice piece of content. Informative and data-driven. I have 2-3 points to share:"
+                        "text": " it’s a nice piece of content. Informative and data-driven. I have 2-3 points to share:"
                       }
                     ]
                   },
@@ -31976,7 +32144,7 @@
                             "content": [
                               {
                                 "type": "text",
-                                "text": "Let\u2019s keep it more informative and less promotional."
+                                "text": "Let’s keep it more informative and less promotional."
                               }
                             ]
                           }
@@ -31990,7 +32158,7 @@
                             "content": [
                               {
                                 "type": "text",
-                                "text": "Avoid using \u201cVE\u201d in the copy since we\u2019re posting this from the VE page."
+                                "text": "Avoid using “VE” in the copy since we’re posting this from the VE page."
                               }
                             ]
                           }
@@ -32018,7 +32186,7 @@
                             "content": [
                               {
                                 "type": "text",
-                                "text": "Let\u2019s skip a CTA here. Instead, you can end with a suggestions or tips to follow for the reader."
+                                "text": "Let’s skip a CTA here. Instead, you can end with a suggestions or tips to follow for the reader."
                               }
                             ]
                           }
@@ -34854,7 +35022,7 @@
                       },
                       {
                         "type": "text",
-                        "text": ", Please edit the Client Competition 2024 videos. While editing, kindly check for any audio issues and correct them as needed. Here\u2019s the folder containing the list of videos and the raw footage: "
+                        "text": ", Please edit the Client Competition 2024 videos. While editing, kindly check for any audio issues and correct them as needed. Here’s the folder containing the list of videos and the raw footage: "
                       },
                       {
                         "type": "text",
@@ -35061,7 +35229,7 @@
         "aggregatetimeestimate": null,
         "resolutiondate": "2025-05-23T19:19:42.569+0530",
         "workratio": -1,
-        "summary": "Week 3 Task: Video\u201cData, Privacy, and AI: What Clients Should Know\u201d",
+        "summary": "Week 3 Task: Video“Data, Privacy, and AI: What Clients Should Know”",
         "watches": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/SMC-35/watchers",
           "watchCount": 1,
@@ -35168,7 +35336,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "Edited_VideoScript_Data, Privacy, and AI What Clients Should Know\u201d.docx",
+                        "text": "Edited_VideoScript_Data, Privacy, and AI What Clients Should Know”.docx",
                         "marks": [
                           {
                             "type": "link",
@@ -35326,7 +35494,7 @@
         "aggregatetimeestimate": null,
         "resolutiondate": "2025-05-27T19:22:18.342+0530",
         "workratio": -1,
-        "summary": "Carousel: \u201cGDPR + AI: A 1-Min Explainer\u201d-- Abhishek & Mohit",
+        "summary": "Carousel: “GDPR + AI: A 1-Min Explainer”-- Abhishek & Mohit",
         "watches": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/SMC-34/watchers",
           "watchCount": 1,
@@ -35433,7 +35601,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Sir - Here\u2019s the AI + GDPR social media post along with the images designed by Amit Kumar12 and reviewed by Mohit:"
+                        "text": " Sir - Here’s the AI + GDPR social media post along with the images designed by Amit Kumar12 and reviewed by Mohit:"
                       },
                       {
                         "type": "hardBreak"
@@ -35622,7 +35790,7 @@
         "aggregatetimeestimate": null,
         "resolutiondate": "2025-05-27T19:41:12.075+0530",
         "workratio": -1,
-        "summary": "Post - Vidha \u2013 AI Virtual Assistant",
+        "summary": "Post - Vidha – AI Virtual Assistant",
         "watches": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/SMC-33/watchers",
           "watchCount": 1,
@@ -35761,7 +35929,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "Social Media Content -\u00a0ViDHA - VE\u2019s Virtual Digital Human Assistant.docx",
+                        "text": "Social Media Content - ViDHA - VE’s Virtual Digital Human Assistant.docx",
                         "marks": [
                           {
                             "type": "link",
@@ -36064,7 +36232,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "Social Media Content -\u00a0Every Project Manager Deserves These AI Upgrades.docx",
+                        "text": "Social Media Content - Every Project Manager Deserves These AI Upgrades.docx",
                         "marks": [
                           {
                             "type": "link",
@@ -36747,259 +36915,6 @@
           }
         }
       }
-    },
-    {
-      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
-      "id": "10532",
-      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/10532",
-      "key": "SMC-28",
-      "fields": {
-        "statuscategorychangedate": "2025-04-18T17:10:42.539+0530",
-        "issuetype": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/issuetype/10026",
-          "id": "10026",
-          "description": "A small, distinct piece of work.",
-          "iconUrl": "https://idealabprojects.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10318?size=medium",
-          "name": "Task",
-          "subtask": false,
-          "avatarId": 10318,
-          "entityId": "fd8f0029-77ea-43d8-8924-e25f96a0ea73",
-          "hierarchyLevel": 0
-        },
-        "components": [],
-        "timespent": null,
-        "timeoriginalestimate": null,
-        "project": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/project/10012",
-          "id": "10012",
-          "key": "SMC",
-          "name": "Social Media",
-          "projectTypeKey": "business",
-          "simplified": true,
-          "avatarUrls": {
-            "48x48": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10412",
-            "24x24": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10412?size=small",
-            "16x16": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10412?size=xsmall",
-            "32x32": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10412?size=medium"
-          }
-        },
-        "description": null,
-        "fixVersions": [],
-        "customfield_10033": null,
-        "aggregatetimespent": null,
-        "statusCategory": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
-          "id": 3,
-          "key": "done",
-          "colorName": "green",
-          "name": "Done"
-        },
-        "resolution": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/resolution/10000",
-          "id": "10000",
-          "description": "Work has been completed on this work item.",
-          "name": "Done"
-        },
-        "timetracking": {},
-        "customfield_10015": "2025-04-17",
-        "security": null,
-        "attachment": [
-          {
-            "self": "https://idealabprojects.atlassian.net/rest/api/3/attachment/10209",
-            "id": "10209",
-            "filename": "AI Evolution-Social Media Post.zip",
-            "author": {
-              "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A7480f087-7269-4957-9e6d-ee85e73b09e2",
-              "accountId": "712020:7480f087-7269-4957-9e6d-ee85e73b09e2",
-              "avatarUrls": {
-                "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:7480f087-7269-4957-9e6d-ee85e73b09e2/bdf08eba-fdbb-4737-a97b-e9aceda31b31/48",
-                "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:7480f087-7269-4957-9e6d-ee85e73b09e2/bdf08eba-fdbb-4737-a97b-e9aceda31b31/24",
-                "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:7480f087-7269-4957-9e6d-ee85e73b09e2/bdf08eba-fdbb-4737-a97b-e9aceda31b31/16",
-                "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:7480f087-7269-4957-9e6d-ee85e73b09e2/bdf08eba-fdbb-4737-a97b-e9aceda31b31/32"
-              },
-              "displayName": "Mohit Kumar",
-              "active": true,
-              "timeZone": "Asia/Calcutta",
-              "accountType": "atlassian"
-            },
-            "created": "2025-04-18T17:10:44.141+0530",
-            "size": 7627156,
-            "mimeType": "application/zip",
-            "content": "https://idealabprojects.atlassian.net/rest/api/3/attachment/content/10209"
-          }
-        ],
-        "aggregatetimeestimate": null,
-        "resolutiondate": "2025-04-18T17:10:42.517+0530",
-        "workratio": -1,
-        "summary": "AI Evolution - Social Media Post for Instagram",
-        "watches": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/SMC-28/watchers",
-          "watchCount": 1,
-          "isWatching": false
-        },
-        "lastViewed": null,
-        "creator": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A7480f087-7269-4957-9e6d-ee85e73b09e2",
-          "accountId": "712020:7480f087-7269-4957-9e6d-ee85e73b09e2",
-          "avatarUrls": {
-            "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:7480f087-7269-4957-9e6d-ee85e73b09e2/bdf08eba-fdbb-4737-a97b-e9aceda31b31/48",
-            "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:7480f087-7269-4957-9e6d-ee85e73b09e2/bdf08eba-fdbb-4737-a97b-e9aceda31b31/24",
-            "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:7480f087-7269-4957-9e6d-ee85e73b09e2/bdf08eba-fdbb-4737-a97b-e9aceda31b31/16",
-            "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:7480f087-7269-4957-9e6d-ee85e73b09e2/bdf08eba-fdbb-4737-a97b-e9aceda31b31/32"
-          },
-          "displayName": "Mohit Kumar",
-          "active": true,
-          "timeZone": "Asia/Calcutta",
-          "accountType": "atlassian"
-        },
-        "subtasks": [],
-        "created": "2025-04-18T17:09:47.851+0530",
-        "customfield_10021": null,
-        "reporter": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A7480f087-7269-4957-9e6d-ee85e73b09e2",
-          "accountId": "712020:7480f087-7269-4957-9e6d-ee85e73b09e2",
-          "avatarUrls": {
-            "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:7480f087-7269-4957-9e6d-ee85e73b09e2/bdf08eba-fdbb-4737-a97b-e9aceda31b31/48",
-            "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:7480f087-7269-4957-9e6d-ee85e73b09e2/bdf08eba-fdbb-4737-a97b-e9aceda31b31/24",
-            "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:7480f087-7269-4957-9e6d-ee85e73b09e2/bdf08eba-fdbb-4737-a97b-e9aceda31b31/16",
-            "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:7480f087-7269-4957-9e6d-ee85e73b09e2/bdf08eba-fdbb-4737-a97b-e9aceda31b31/32"
-          },
-          "displayName": "Mohit Kumar",
-          "active": true,
-          "timeZone": "Asia/Calcutta",
-          "accountType": "atlassian"
-        },
-        "aggregateprogress": {
-          "progress": 0,
-          "total": 0
-        },
-        "priority": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
-          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
-          "name": "Medium",
-          "id": "3"
-        },
-        "customfield_10001": null,
-        "labels": [],
-        "environment": null,
-        "customfield_10019": "0|i002vj:",
-        "timeestimate": null,
-        "aggregatetimeoriginalestimate": null,
-        "versions": [],
-        "duedate": "2025-04-18",
-        "progress": {
-          "progress": 0,
-          "total": 0
-        },
-        "issuelinks": [],
-        "votes": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/SMC-28/votes",
-          "votes": 0,
-          "hasVoted": false
-        },
-        "comment": {
-          "comments": [
-            {
-              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/10532/comment/11549",
-              "id": "11549",
-              "author": {
-                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A7480f087-7269-4957-9e6d-ee85e73b09e2",
-                "accountId": "712020:7480f087-7269-4957-9e6d-ee85e73b09e2",
-                "avatarUrls": {
-                  "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:7480f087-7269-4957-9e6d-ee85e73b09e2/bdf08eba-fdbb-4737-a97b-e9aceda31b31/48",
-                  "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:7480f087-7269-4957-9e6d-ee85e73b09e2/bdf08eba-fdbb-4737-a97b-e9aceda31b31/24",
-                  "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:7480f087-7269-4957-9e6d-ee85e73b09e2/bdf08eba-fdbb-4737-a97b-e9aceda31b31/16",
-                  "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:7480f087-7269-4957-9e6d-ee85e73b09e2/bdf08eba-fdbb-4737-a97b-e9aceda31b31/32"
-                },
-                "displayName": "Mohit Kumar",
-                "active": true,
-                "timeZone": "Asia/Calcutta",
-                "accountType": "atlassian"
-              },
-              "body": {
-                "type": "doc",
-                "version": 1,
-                "content": [
-                  {
-                    "type": "mediaGroup",
-                    "content": [
-                      {
-                        "type": "media",
-                        "attrs": {
-                          "type": "file",
-                          "id": "dc4d7089-09c4-4964-92a4-f5d5081c9d88",
-                          "collection": ""
-                        }
-                      }
-                    ]
-                  },
-                  {
-                    "type": "paragraph"
-                  }
-                ]
-              },
-              "updateAuthor": {
-                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A7480f087-7269-4957-9e6d-ee85e73b09e2",
-                "accountId": "712020:7480f087-7269-4957-9e6d-ee85e73b09e2",
-                "avatarUrls": {
-                  "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:7480f087-7269-4957-9e6d-ee85e73b09e2/bdf08eba-fdbb-4737-a97b-e9aceda31b31/48",
-                  "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:7480f087-7269-4957-9e6d-ee85e73b09e2/bdf08eba-fdbb-4737-a97b-e9aceda31b31/24",
-                  "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:7480f087-7269-4957-9e6d-ee85e73b09e2/bdf08eba-fdbb-4737-a97b-e9aceda31b31/16",
-                  "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:7480f087-7269-4957-9e6d-ee85e73b09e2/bdf08eba-fdbb-4737-a97b-e9aceda31b31/32"
-                },
-                "displayName": "Mohit Kumar",
-                "active": true,
-                "timeZone": "Asia/Calcutta",
-                "accountType": "atlassian"
-              },
-              "created": "2025-04-18T17:10:45.146+0530",
-              "updated": "2025-04-18T17:10:45.146+0530",
-              "jsdPublic": true
-            }
-          ],
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/10532/comment",
-          "maxResults": 1,
-          "total": 1,
-          "startAt": 0
-        },
-        "assignee": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A7480f087-7269-4957-9e6d-ee85e73b09e2",
-          "accountId": "712020:7480f087-7269-4957-9e6d-ee85e73b09e2",
-          "avatarUrls": {
-            "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:7480f087-7269-4957-9e6d-ee85e73b09e2/bdf08eba-fdbb-4737-a97b-e9aceda31b31/48",
-            "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:7480f087-7269-4957-9e6d-ee85e73b09e2/bdf08eba-fdbb-4737-a97b-e9aceda31b31/24",
-            "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:7480f087-7269-4957-9e6d-ee85e73b09e2/bdf08eba-fdbb-4737-a97b-e9aceda31b31/16",
-            "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:7480f087-7269-4957-9e6d-ee85e73b09e2/bdf08eba-fdbb-4737-a97b-e9aceda31b31/32"
-          },
-          "displayName": "Mohit Kumar",
-          "active": true,
-          "timeZone": "Asia/Calcutta",
-          "accountType": "atlassian"
-        },
-        "worklog": {
-          "startAt": 0,
-          "maxResults": 20,
-          "total": 0,
-          "worklogs": []
-        },
-        "updated": "2025-04-18T17:10:45.146+0530",
-        "status": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10049",
-          "description": "",
-          "iconUrl": "https://idealabprojects.atlassian.net/",
-          "name": "Done",
-          "id": "10049",
-          "statusCategory": {
-            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
-            "id": 3,
-            "key": "done",
-            "colorName": "green",
-            "name": "Done"
-          }
-        }
-      }
     }
-  ],
-  "nextPageToken": "ChUjU3RyaW5nJlUwMUQlSW50Jk1qZz0QZBiZuq6HsjMiGHByb2plY3QgPSAiU29jaWFsIE1lZGlhIioCW10=",
-  "isLast": false
+  ]
 }

@@ -1,4 +1,8 @@
 {
+  "name": "Website Development & Issues",
+  "id": "10024",
+  "key": "WD",
+  "issue_count": 21,
   "issues": [
     {
       "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
@@ -1575,7 +1579,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Fixed VE\u2019s website case studies 404 errors."
+                        "text": "Fixed VE’s website case studies 404 errors."
                       }
                     ]
                   }
@@ -2687,7 +2691,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "I have some observations that I\u2019d like to share:"
+                        "text": "I have some observations that I’d like to share:"
                       }
                     ]
                   },
@@ -2702,7 +2706,7 @@
                             "content": [
                               {
                                 "type": "text",
-                                "text": "The blog page looks visually appealing at first glance, but once we go inside the blog content, the inner template feels outdated and completely different from the Blog Home design. It doesn\u2019t match the new look and feel at all."
+                                "text": "The blog page looks visually appealing at first glance, but once we go inside the blog content, the inner template feels outdated and completely different from the Blog Home design. It doesn’t match the new look and feel at all."
                               }
                             ]
                           }
@@ -2716,7 +2720,7 @@
                             "content": [
                               {
                                 "type": "text",
-                                "text": "After clicking \u201cSee More\u201d in the blog section, most of the links shown are just article URLs, which is not at all good."
+                                "text": "After clicking “See More” in the blog section, most of the links shown are just article URLs, which is not at all good."
                               }
                             ]
                           }
@@ -2730,7 +2734,7 @@
                             "content": [
                               {
                                 "type": "text",
-                                "text": "In the middle \u201cMost Popular\u201d section, I\u2019m not sure what logic is being used to show the blog content. The blog images don\u2019t match with each other. The one shown before and the one shown after look completely different, which feels very mismatched."
+                                "text": "In the middle “Most Popular” section, I’m not sure what logic is being used to show the blog content. The blog images don’t match with each other. The one shown before and the one shown after look completely different, which feels very mismatched."
                               }
                             ]
                           }
@@ -2744,7 +2748,7 @@
                             "content": [
                               {
                                 "type": "text",
-                                "text": "Also, instead of naming the top section as \u201cBlog,\u201d it might be better to label it \u201cRecent Blogs\u201d since it\u2019s only showing the latest three posts."
+                                "text": "Also, instead of naming the top section as “Blog,” it might be better to label it “Recent Blogs” since it’s only showing the latest three posts."
                               }
                             ]
                           }
@@ -2857,7 +2861,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Found multiple issues in Menu: (Header) - Pls match with live website\u2019s homepage."
+                        "text": "Found multiple issues in Menu: (Header) - Pls match with live website’s homepage."
                       }
                     ]
                   },
@@ -3017,7 +3021,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "I just reviewed the new blog page and found multiple issues \u2014 both in design and functionality \u2014 that clearly indicate it wasn\u2019t tested properly. It doesn\u2019t match the Figma file, and several elements are broken or misaligned."
+                        "text": "I just reviewed the new blog page and found multiple issues — both in design and functionality — that clearly indicate it wasn’t tested properly. It doesn’t match the Figma file, and several elements are broken or misaligned."
                       }
                     ]
                   },
@@ -3026,7 +3030,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "I\u2019ve already spent time identifying issues that should\u2019ve been caught before anything went live."
+                        "text": "I’ve already spent time identifying issues that should’ve been caught before anything went live."
                       }
                     ]
                   },
@@ -3035,7 +3039,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Developers and QA team \u2014 was this even tested?"
+                        "text": "Developers and QA team — was this even tested?"
                       }
                     ]
                   },
@@ -3060,7 +3064,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "Blog Page Design Review \u2013 July 31, 2025.docx",
+                        "text": "Blog Page Design Review – July 31, 2025.docx",
                         "marks": [
                           {
                             "type": "link",
@@ -4506,7 +4510,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "\u00a0is being spent on "
+                        "text": " is being spent on "
                       },
                       {
                         "type": "text",
@@ -4519,7 +4523,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "\u00a0\u2014 mostly images, CSS, and JavaScript. This prevents Googlebot from focusing on actual pages like blogs and services."
+                        "text": " — mostly images, CSS, and JavaScript. This prevents Googlebot from focusing on actual pages like blogs and services."
                       }
                     ]
                   },
@@ -4645,7 +4649,7 @@
                                       },
                                       {
                                         "type": "text",
-                                        "text": "\u00a0for blog, service, articles, website page images, and testimonial images"
+                                        "text": " for blog, service, articles, website page images, and testimonial images"
                                       }
                                     ]
                                   }
@@ -4748,7 +4752,7 @@
                                       },
                                       {
                                         "type": "text",
-                                        "text": "\u00a0or "
+                                        "text": " or "
                                       },
                                       {
                                         "type": "text",
@@ -4761,7 +4765,7 @@
                                       },
                                       {
                                         "type": "text",
-                                        "text": "\u00a0attributes to all non-critical scripts"
+                                        "text": " attributes to all non-critical scripts"
                                       }
                                     ]
                                   }
@@ -5178,7 +5182,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "I\u2019m sharing a list of important web pages that are currently showing Core Web Vital issues. These need to be prioritized for optimization to ensure compliance with performance standards and maintain overall SEO health."
+                        "text": "I’m sharing a list of important web pages that are currently showing Core Web Vital issues. These need to be prioritized for optimization to ensure compliance with performance standards and maintain overall SEO health."
                       }
                     ]
                   },
@@ -5187,7 +5191,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Please start reviewing these URLs and implement the necessary fixes. Let\u2019s plan to initiate this from Monday. Once you\u2019ve gone through the list, let me know the estimated timelines or if there are any blockers."
+                        "text": "Please start reviewing these URLs and implement the necessary fixes. Let’s plan to initiate this from Monday. Once you’ve gone through the list, let me know the estimated timelines or if there are any blockers."
                       }
                     ]
                   },
@@ -5345,7 +5349,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "This crawl waste reduces Google\u2019s attention\u00a0on our actual SEO pages like service content, blogs, and articles. As a result, our high-value content is getting crawled less frequently or skipped for indexing."
+                  "text": "This crawl waste reduces Google’s attention on our actual SEO pages like service content, blogs, and articles. As a result, our high-value content is getting crawled less frequently or skipped for indexing."
                 }
               ]
             }
@@ -5490,7 +5494,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "We've identified that non-SEO pages and URLs, specifically, are consuming a significant portion of Googlebot\u2019s crawl budget:"
+                        "text": "We've identified that non-SEO pages and URLs, specifically, are consuming a significant portion of Googlebot’s crawl budget:"
                       }
                     ]
                   },
@@ -5519,7 +5523,7 @@
                             "content": [
                               {
                                 "type": "text",
-                                "text": "ir, da, lp, service etc\u00a0folder URLs used for paid campaigns"
+                                "text": "ir, da, lp, service etc folder URLs used for paid campaigns"
                               }
                             ]
                           }
@@ -5700,7 +5704,7 @@
                 },
                 {
                   "type": "text",
-                  "text": "\u00a0is being spent on "
+                  "text": " is being spent on "
                 },
                 {
                   "type": "text",
@@ -5713,7 +5717,7 @@
                 },
                 {
                   "type": "text",
-                  "text": "\u00a0\u2014 mostly images, CSS, and JavaScript. This prevents Googlebot from focusing on actual pages like blogs and services. Mritunjay will optimize non-content assets (Images, JS, CSS)."
+                  "text": " — mostly images, CSS, and JavaScript. This prevents Googlebot from focusing on actual pages like blogs and services. Mritunjay will optimize non-content assets (Images, JS, CSS)."
                 }
               ]
             }
@@ -5871,7 +5875,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "\u00a0is being spent on "
+                        "text": " is being spent on "
                       },
                       {
                         "type": "text",
@@ -5884,7 +5888,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "\u00a0\u2014 mostly images, CSS, and JavaScript. This prevents Googlebot from focusing on actual pages like blogs and services."
+                        "text": " — mostly images, CSS, and JavaScript. This prevents Googlebot from focusing on actual pages like blogs and services."
                       }
                     ]
                   }
@@ -6856,7 +6860,7 @@
                                 "content": [
                                   {
                                     "type": "text",
-                                    "text": "Why Smart Teams Don\u2019t Outsource"
+                                    "text": "Why Smart Teams Don’t Outsource"
                                   }
                                 ]
                               }
@@ -6945,7 +6949,7 @@
                                 "content": [
                                   {
                                     "type": "text",
-                                    "text": "Why We Don\u2019t Do Freelancers"
+                                    "text": "Why We Don’t Do Freelancers"
                                   }
                                 ]
                               }
@@ -7149,7 +7153,7 @@
                                 "content": [
                                   {
                                     "type": "text",
-                                    "text": "VE: Built for What\u2019s Next"
+                                    "text": "VE: Built for What’s Next"
                                   }
                                 ]
                               }
@@ -7197,7 +7201,7 @@
                                 "content": [
                                   {
                                     "type": "text",
-                                    "text": "From Our Founder: VE\u2019s Vision"
+                                    "text": "From Our Founder: VE’s Vision"
                                   }
                                 ]
                               }
@@ -7309,7 +7313,7 @@
                                 "content": [
                                   {
                                     "type": "text",
-                                    "text": "\u2192 Talk to Us"
+                                    "text": "→ Talk to Us"
                                   }
                                 ]
                               }
@@ -7648,7 +7652,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Here is the content for the Video Page \u2013 "
+                        "text": " Here is the content for the Video Page – "
                       },
                       {
                         "type": "text",
@@ -7723,7 +7727,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Plz review the following page \u2013 "
+                        "text": " Plz review the following page – "
                       },
                       {
                         "type": "text",
@@ -7867,7 +7871,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Here is the re-worked copy of the Hire With AI Speed page that you can use for designing \u2013 "
+                        "text": " Here is the re-worked copy of the Hire With AI Speed page that you can use for designing – "
                       },
                       {
                         "type": "text",
@@ -7942,7 +7946,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Here is the doc for the following page \u2013 "
+                        "text": " Here is the doc for the following page – "
                       },
                       {
                         "type": "text",
@@ -8017,7 +8021,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Here is the doc for the Go-Live Hiring page \u2013 "
+                        "text": " Here is the doc for the Go-Live Hiring page – "
                       },
                       {
                         "type": "text",
@@ -8092,7 +8096,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Here is the text for the How VE Selects Talent page \u2013 "
+                        "text": " Here is the text for the How VE Selects Talent page – "
                       },
                       {
                         "type": "text",
@@ -8167,7 +8171,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Here\u2019s the text for the Remote Infrastructure at Scale page \u2013 "
+                        "text": " Here’s the text for the Remote Infrastructure at Scale page – "
                       },
                       {
                         "type": "text",
@@ -9003,6 +9007,5 @@
         }
       }
     }
-  ],
-  "isLast": true
+  ]
 }

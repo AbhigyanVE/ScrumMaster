@@ -1,4 +1,8 @@
 {
+  "name": "TeckHybrid Inc",
+  "id": "10289",
+  "key": "TI",
+  "issue_count": 4,
   "issues": [
     {
       "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
@@ -44,21 +48,21 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Sheela Introduction Voice over Script: \u201cHi. I\u2019m Sheela."
+                  "text": "Sheela Introduction Voice over Script: “Hi. I’m Sheela."
                 },
                 {
                   "type": "hardBreak"
                 },
                 {
                   "type": "text",
-                  "text": "I don\u2019t just support operations."
+                  "text": "I don’t just support operations."
                 },
                 {
                   "type": "hardBreak"
                 },
                 {
                   "type": "text",
-                  "text": "I become them.\u201d"
+                  "text": "I become them.”"
                 }
               ]
             },
@@ -67,14 +71,14 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "\u201cMost tools wait for prompts."
+                  "text": "“Most tools wait for prompts."
                 },
                 {
                   "type": "hardBreak"
                 },
                 {
                   "type": "text",
-                  "text": "I act before you know you need me.\u201d"
+                  "text": "I act before you know you need me.”"
                 }
               ]
             },
@@ -83,14 +87,14 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "While you're still figuring out what\u2019s wrong\u2026"
+                  "text": "While you're still figuring out what’s wrong…"
                 },
                 {
                   "type": "hardBreak"
                 },
                 {
                   "type": "text",
-                  "text": "I\u2019ve already started providing solutions."
+                  "text": "I’ve already started providing solutions."
                 }
               ]
             },
@@ -113,7 +117,7 @@
                 },
                 {
                   "type": "text",
-                  "text": "And even conduct the first interview \u2014"
+                  "text": "And even conduct the first interview —"
                 },
                 {
                   "type": "hardBreak"
@@ -152,14 +156,14 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "My job doesn\u2019t end at hiring."
+                  "text": "My job doesn’t end at hiring."
                 },
                 {
                   "type": "hardBreak"
                 },
                 {
                   "type": "text",
-                  "text": "I make sure they\u2019re the Best Fit for your culture,"
+                  "text": "I make sure they’re the Best Fit for your culture,"
                 },
                 {
                   "type": "hardBreak"
@@ -182,7 +186,7 @@
                 },
                 {
                   "type": "text",
-                  "text": "Listening to what\u2019s said\u2026 and what\u2019s not."
+                  "text": "Listening to what’s said… and what’s not."
                 },
                 {
                   "type": "hardBreak"
@@ -196,7 +200,7 @@
                 },
                 {
                   "type": "text",
-                  "text": "And keeping everything \u2014 and everyone \u2014 on track."
+                  "text": "And keeping everything — and everyone — on track."
                 }
               ]
             },
@@ -205,28 +209,28 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "I\u2019m not here to assist your team."
+                  "text": "I’m not here to assist your team."
                 },
                 {
                   "type": "hardBreak"
                 },
                 {
                   "type": "text",
-                  "text": "I\u2019m here to scale it."
+                  "text": "I’m here to scale it."
                 },
                 {
                   "type": "hardBreak"
                 },
                 {
                   "type": "text",
-                  "text": "I\u2019m not a chatbot."
+                  "text": "I’m not a chatbot."
                 },
                 {
                   "type": "hardBreak"
                 },
                 {
                   "type": "text",
-                  "text": "I\u2019m your operational brain \u2014"
+                  "text": "I’m your operational brain —"
                 },
                 {
                   "type": "hardBreak"
@@ -433,7 +437,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " here\u2019s the review doc with all the time-stamped suggestions. Let me know if anything\u2019s unclear."
+                        "text": " here’s the review doc with all the time-stamped suggestions. Let me know if anything’s unclear."
                       },
                       {
                         "type": "hardBreak"
@@ -443,7 +447,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "Sheela Introduction Video Review \u2013 July 30, 2025",
+                        "text": "Sheela Introduction Video Review – July 30, 2025",
                         "marks": [
                           {
                             "type": "link",
@@ -510,7 +514,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " here\u2019s the video with implemented Feedback: "
+                        "text": " here’s the video with implemented Feedback: "
                       },
                       {
                         "type": "text",
@@ -581,7 +585,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " here\u2019s the review doc."
+                        "text": " here’s the review doc."
                       },
                       {
                         "type": "hardBreak"
@@ -591,7 +595,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "Sheela Introduction Video Review 2 \u2013 July 30, 2025.docx",
+                        "text": "Sheela Introduction Video Review 2 – July 30, 2025.docx",
                         "marks": [
                           {
                             "type": "link",
@@ -658,7 +662,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "  here\u2019s the final Sheela Introduction Video with all the changes: "
+                        "text": "  here’s the final Sheela Introduction Video with all the changes: "
                       },
                       {
                         "type": "text",
@@ -729,7 +733,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " here\u2019s the review doc"
+                        "text": " here’s the review doc"
                       }
                     ]
                   },
@@ -738,7 +742,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Sheela Introduction Video Review 3 \u2013 July 30, 2025.docx",
+                        "text": "Sheela Introduction Video Review 3 – July 30, 2025.docx",
                         "marks": [
                           {
                             "type": "link",
@@ -809,7 +813,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " here\u2019s the updated video : "
+                        "text": " here’s the updated video : "
                       },
                       {
                         "type": "text",
@@ -880,7 +884,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " The video looks good now\u2026 as discussed, create a shorter version without this part:"
+                        "text": " The video looks good now… as discussed, create a shorter version without this part:"
                       },
                       {
                         "type": "hardBreak"
@@ -890,14 +894,14 @@
                       },
                       {
                         "type": "text",
-                        "text": "My job doesn\u2019t end at hiring."
+                        "text": "My job doesn’t end at hiring."
                       },
                       {
                         "type": "hardBreak"
                       },
                       {
                         "type": "text",
-                        "text": "I make sure they\u2019re the Best Fit for your culture,"
+                        "text": "I make sure they’re the Best Fit for your culture,"
                       },
                       {
                         "type": "hardBreak"
@@ -963,7 +967,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " I\u2019ve updated the escalation dashboard screen in the main video : "
+                        "text": " I’ve updated the escalation dashboard screen in the main video : "
                       },
                       {
                         "type": "text",
@@ -985,7 +989,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "Also I\u2019ve made a short version according to your requirement : "
+                        "text": "Also I’ve made a short version according to your requirement : "
                       },
                       {
                         "type": "text",
@@ -1047,7 +1051,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Updated video correct search result & removed \u201cSay Hiring\u201d from voice over: "
+                        "text": "Updated video correct search result & removed “Say Hiring” from voice over: "
                       },
                       {
                         "type": "text",
@@ -2381,6 +2385,5 @@
         }
       }
     }
-  ],
-  "isLast": true
+  ]
 }

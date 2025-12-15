@@ -1,4 +1,8 @@
 {
+  "name": "Website Pages",
+  "id": "10023",
+  "key": "WP",
+  "issue_count": 100,
   "issues": [
     {
       "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
@@ -1835,7 +1839,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "This version is built around a clearer narrative concept \u2014 showing how VE was shaped through real work, long-term people, and a structured model refined over the years."
+                        "text": "This version is built around a clearer narrative concept — showing how VE was shaped through real work, long-term people, and a structured model refined over the years."
                       }
                     ]
                   },
@@ -1988,7 +1992,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "https://www.figma.com/proto/93W1ul0Gw8FUEbiwujVn2u/VE-About-Us-2025?page-id=278%3A6413&node-id=\u2026",
+                        "text": "https://www.figma.com/proto/93W1ul0Gw8FUEbiwujVn2u/VE-About-Us-2025?page-id=278%3A6413&node-id=…",
                         "marks": [
                           {
                             "type": "link",
@@ -2382,7 +2386,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "https://www.figma.com/proto/93W1ul0Gw8FUEbiwujVn2u/VE-About-Us-2025?page-id=278%3A6413&node-id=\u2026",
+                        "text": "https://www.figma.com/proto/93W1ul0Gw8FUEbiwujVn2u/VE-About-Us-2025?page-id=278%3A6413&node-id=…",
                         "marks": [
                           {
                             "type": "link",
@@ -4738,7 +4742,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " \u2014 these will form the structural base for all future service pages."
+                        "text": " — these will form the structural base for all future service pages."
                       }
                     ]
                   },
@@ -4747,7 +4751,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "\ud83d\udd39 "
+                        "text": "🔹 "
                       },
                       {
                         "type": "text",
@@ -4760,7 +4764,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " \u2013 "
+                        "text": " – "
                       },
                       {
                         "type": "inlineCard",
@@ -4777,7 +4781,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "\ud83d\udd39 "
+                        "text": "🔹 "
                       },
                       {
                         "type": "text",
@@ -4790,7 +4794,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " \u2013 "
+                        "text": " – "
                       },
                       {
                         "type": "inlineCard",
@@ -4807,7 +4811,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "\ud83d\udd39 "
+                        "text": "🔹 "
                       },
                       {
                         "type": "text",
@@ -4820,7 +4824,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " \u2013 "
+                        "text": " – "
                       },
                       {
                         "type": "inlineCard",
@@ -4954,7 +4958,7 @@
                             "content": [
                               {
                                 "type": "text",
-                                "text": "Layouts are intentionally simple, lightweight, and repeatable \u2014 optimized for readability, speed, and modular use across different service categories."
+                                "text": "Layouts are intentionally simple, lightweight, and repeatable — optimized for readability, speed, and modular use across different service categories."
                               }
                             ]
                           }
@@ -4968,7 +4972,7 @@
                             "content": [
                               {
                                 "type": "text",
-                                "text": "The tone and visual rhythm follow VE\u2019s System 1 clarity principles: minimal, fast-loading, and cleanly tiered."
+                                "text": "The tone and visual rhythm follow VE’s System 1 clarity principles: minimal, fast-loading, and cleanly tiered."
                               }
                             ]
                           }
@@ -5115,7 +5119,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Hi ma'am, we are currently working on about us pages\u2026 will rework on services pages after that."
+                        "text": " Hi ma'am, we are currently working on about us pages… will rework on services pages after that."
                       }
                     ]
                   }
@@ -5901,7 +5905,7 @@
                 },
                 {
                   "type": "text",
-                  "text": ", I\u2019ve created two versions of the Testimonial page that now need to move into development. "
+                  "text": ", I’ve created two versions of the Testimonial page that now need to move into development. "
                 },
                 {
                   "type": "hardBreak"
@@ -8557,7 +8561,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "https://www.figma.com/proto/S6w4tXi6ODO2E2FAYhJnkC/Services-Page-2025?page-id=0%3A1&node-id=1-2\u2026",
+                        "text": "https://www.figma.com/proto/S6w4tXi6ODO2E2FAYhJnkC/Services-Page-2025?page-id=0%3A1&node-id=1-2…",
                         "marks": [
                           {
                             "type": "link",
@@ -8574,7 +8578,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "\u00a0"
+                        "text": " "
                       }
                     ]
                   },
@@ -8590,7 +8594,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "https://www.figma.com/proto/S6w4tXi6ODO2E2FAYhJnkC/Services-Page-2025?page-id=2001%3A5040&node-\u2026",
+                        "text": "https://www.figma.com/proto/S6w4tXi6ODO2E2FAYhJnkC/Services-Page-2025?page-id=2001%3A5040&node-…",
                         "marks": [
                           {
                             "type": "link",
@@ -8607,7 +8611,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "\u00a0"
+                        "text": " "
                       }
                     ]
                   },
@@ -8623,7 +8627,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "https://www.figma.com/proto/S6w4tXi6ODO2E2FAYhJnkC/Services-Page-2025?page-id=2001%3A1824&node-\u2026",
+                        "text": "https://www.figma.com/proto/S6w4tXi6ODO2E2FAYhJnkC/Services-Page-2025?page-id=2001%3A1824&node-…",
                         "marks": [
                           {
                             "type": "link",
@@ -10760,7 +10764,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Design client\u2019s images"
+                        "text": "Design client’s images"
                       }
                     ]
                   }
@@ -11136,7 +11140,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Design client\u2019s images"
+                        "text": "Design client’s images"
                       }
                     ]
                   }
@@ -11968,7 +11972,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am \u2013 Plz review the content of the infographics page \u2013 "
+                        "text": " ma’am – Plz review the content of the infographics page – "
                       },
                       {
                         "type": "text",
@@ -12039,7 +12043,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " , what is this task??? Just some infographic doc with images\u2026.not clear what it is about and where it will be shown. Pls ensure all tasks have at least some sensible note to clarify the task. "
+                        "text": " , what is this task??? Just some infographic doc with images….not clear what it is about and where it will be shown. Pls ensure all tasks have at least some sensible note to clarify the task. "
                       },
                       {
                         "type": "mention",
@@ -12110,7 +12114,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Hi Ma\u2019am. This content is for one of the sub-tabs of the Resources Tab on VE\u2019s homepage (screenshot below); sorry for the confusion:"
+                        "text": " Hi Ma’am. This content is for one of the sub-tabs of the Resources Tab on VE’s homepage (screenshot below); sorry for the confusion:"
                       },
                       {
                         "type": "hardBreak"
@@ -14697,7 +14701,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Sent to ma\u2019am for review"
+                        "text": " Sent to ma’am for review"
                       }
                     ]
                   }
@@ -17085,7 +17089,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Hi Ma\u2019am,"
+                        "text": "Hi Ma’am,"
                       }
                     ]
                   },
@@ -17094,7 +17098,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "We\u2019ve converted the CSR page into the LayerOne design system and updated some UI elements. Please review the page and share your feedback."
+                        "text": "We’ve converted the CSR page into the LayerOne design system and updated some UI elements. Please review the page and share your feedback."
                       }
                     ]
                   },
@@ -17103,7 +17107,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Also, in the last section, there\u2019s a quote attributed to Shaun\u2014could you confirm if this is an original quote from Shaun or not?"
+                        "text": "Also, in the last section, there’s a quote attributed to Shaun—could you confirm if this is an original quote from Shaun or not?"
                       },
                       {
                         "type": "hardBreak"
@@ -17135,7 +17139,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "\u00a0"
+                        "text": " "
                       }
                     ]
                   }
@@ -17255,7 +17259,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am you are right, but recently Shaun Sir had sent an email to club all Charity activities on the CSR page, hence we have updated it. Please let us know if that works."
+                        "text": " ma’am you are right, but recently Shaun Sir had sent an email to club all Charity activities on the CSR page, hence we have updated it. Please let us know if that works."
                       }
                     ]
                   },
@@ -17337,7 +17341,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am, could you please look at the page and share your feedback: "
+                        "text": " ma’am, could you please look at the page and share your feedback: "
                       },
                       {
                         "type": "inlineCard",
@@ -17397,7 +17401,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "feedback added. Found the doc where I had scribbled Shaun\u2019s notes while we had the call, or maybe I noted it from the video call, can\u2019t recall exactly."
+                        "text": "feedback added. Found the doc where I had scribbled Shaun’s notes while we had the call, or maybe I noted it from the video call, can’t recall exactly."
                       }
                     ]
                   }
@@ -17460,14 +17464,14 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am,"
+                        "text": " ma’am,"
                       },
                       {
                         "type": "hardBreak"
                       },
                       {
                         "type": "text",
-                        "text": "All the comments you mentioned in Figma have been resolved. Could you please check once? Just one confusion \u2014 you had asked to add the Covid section, which has now been added, but currently the page has two Covid sections. Should we keep both, or should I remove the earlier one?"
+                        "text": "All the comments you mentioned in Figma have been resolved. Could you please check once? Just one confusion — you had asked to add the Covid section, which has now been added, but currently the page has two Covid sections. Should we keep both, or should I remove the earlier one?"
                       },
                       {
                         "type": "hardBreak"
@@ -21410,7 +21414,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " looks fine. I\u2019ll submit these changes in tool and see if any errors come."
+                        "text": " looks fine. I’ll submit these changes in tool and see if any errors come."
                       }
                     ]
                   }
@@ -22065,14 +22069,14 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am,"
+                        "text": " Ma’am,"
                       },
                       {
                         "type": "hardBreak"
                       },
                       {
                         "type": "text",
-                        "text": "I\u2019ve created two versions of the Testimonial section for review. Please take a look and share your feedback"
+                        "text": "I’ve created two versions of the Testimonial section for review. Please take a look and share your feedback"
                       },
                       {
                         "type": "hardBreak"
@@ -23285,7 +23289,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "\u00a0"
+                        "text": " "
                       }
                     ]
                   },
@@ -25594,7 +25598,7 @@
                 },
                 {
                   "type": "text",
-                  "text": " \u00a0"
+                  "text": "  "
                 },
                 {
                   "type": "hardBreak"
@@ -25613,7 +25617,7 @@
                 },
                 {
                   "type": "text",
-                  "text": "\u00a0",
+                  "text": " ",
                   "marks": [
                     {
                       "type": "code"
@@ -25625,7 +25629,7 @@
                 },
                 {
                   "type": "text",
-                  "text": "Build the layout from scratch using the provided Figma design as reference. Ensure pixel-level accuracy in spacing, visual hierarchy, and typography across desktop (eg: 1440px), tablet (eg: 768px), and mobile (eg: 375px) breakpoints. Apply layout grids, constraints, and reusable components for consistency. Include interactive states (hover, focus) where applicable.\u00a0"
+                  "text": "Build the layout from scratch using the provided Figma design as reference. Ensure pixel-level accuracy in spacing, visual hierarchy, and typography across desktop (eg: 1440px), tablet (eg: 768px), and mobile (eg: 375px) breakpoints. Apply layout grids, constraints, and reusable components for consistency. Include interactive states (hover, focus) where applicable. "
                 }
               ]
             },
@@ -25634,7 +25638,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "\u00a0Acceptance Criteria:\u00a0"
+                  "text": " Acceptance Criteria: "
                 }
               ]
             },
@@ -25652,7 +25656,7 @@
                       "content": [
                         {
                           "type": "text",
-                          "text": "Layout is built from scratch in Figma, matching the provided reference with pixel-level accuracy.\u00a0"
+                          "text": "Layout is built from scratch in Figma, matching the provided reference with pixel-level accuracy. "
                         }
                       ]
                     }
@@ -25674,7 +25678,7 @@
                       "content": [
                         {
                           "type": "text",
-                          "text": "Typography, spacing, and visual hierarchy align precisely with the design guide.\u00a0"
+                          "text": "Typography, spacing, and visual hierarchy align precisely with the design guide. "
                         }
                       ]
                     }
@@ -25696,7 +25700,7 @@
                       "content": [
                         {
                           "type": "text",
-                          "text": "Responsive versions are created for desktop (1440px), tablet (768px), and mobile (375px) breakpoints.\u00a0"
+                          "text": "Responsive versions are created for desktop (1440px), tablet (768px), and mobile (375px) breakpoints. "
                         }
                       ]
                     }
@@ -25718,7 +25722,7 @@
                       "content": [
                         {
                           "type": "text",
-                          "text": "Components, auto-layout, and constraints are used to ensure consistency and scalability.\u00a0"
+                          "text": "Components, auto-layout, and constraints are used to ensure consistency and scalability. "
                         }
                       ]
                     }
@@ -27596,7 +27600,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " here\u2019s the review doc. let me know if anything\u2019s unclear."
+                        "text": " here’s the review doc. let me know if anything’s unclear."
                       },
                       {
                         "type": "hardBreak"
@@ -27606,7 +27610,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "Mobile App Development Service Brochure Review \u2013 July 30, 2025.docx",
+                        "text": "Mobile App Development Service Brochure Review – July 30, 2025.docx",
                         "marks": [
                           {
                             "type": "link",
@@ -28439,7 +28443,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "\u00a0Blog: "
+                  "text": " Blog: "
                 },
                 {
                   "type": "inlineCard",
@@ -28458,7 +28462,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "\u00a0Blog Single: "
+                  "text": " Blog Single: "
                 },
                 {
                   "type": "inlineCard",
@@ -28477,7 +28481,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "\u00a0Articles: "
+                  "text": " Articles: "
                 },
                 {
                   "type": "inlineCard",
@@ -28496,7 +28500,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "\u00a0Article Category: "
+                  "text": " Article Category: "
                 },
                 {
                   "type": "inlineCard",
@@ -28515,7 +28519,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "\u00a0Article Single: "
+                  "text": " Article Single: "
                 },
                 {
                   "type": "inlineCard",
@@ -31720,7 +31724,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "This page was delayed due to recent design updates. Current template is working fine in the staging environment, but we're encountering a JavaScript conflict on the live site. The issue is related to the marketing form script, which is affecting both the page load and filter functionality. I\u2019m working on resolving this and will push it live shortly. "
+                        "text": "This page was delayed due to recent design updates. Current template is working fine in the staging environment, but we're encountering a JavaScript conflict on the live site. The issue is related to the marketing form script, which is affecting both the page load and filter functionality. I’m working on resolving this and will push it live shortly. "
                       },
                       {
                         "type": "mention",
@@ -32806,7 +32810,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "We are creating a unified, modular master template that will be used to redesign and standardize over 150 service pages across VE\u2019s website. The goal is to replace outdated layouts with a scalable structure consisting of 20\u201325 flexible content sections that can be turned on/off based on the category (e.g., Development, Design, DM, Legal, VA, etc.)."
+                  "text": "We are creating a unified, modular master template that will be used to redesign and standardize over 150 service pages across VE’s website. The goal is to replace outdated layouts with a scalable structure consisting of 20–25 flexible content sections that can be turned on/off based on the category (e.g., Development, Design, DM, Legal, VA, etc.)."
                 }
               ]
             },
@@ -33136,7 +33140,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "\u00a0Blog: "
+                  "text": " Blog: "
                 },
                 {
                   "type": "inlineCard",
@@ -33602,7 +33606,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " is now complete in Figma. It\u2019s designed to be modular, scalable, and easily adaptable for all services we offer."
+                        "text": " is now complete in Figma. It’s designed to be modular, scalable, and easily adaptable for all services we offer."
                       }
                     ]
                   },
@@ -33611,7 +33615,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Here\u2019s the Figma link: "
+                        "text": "Here’s the Figma link: "
                       },
                       {
                         "type": "text",
@@ -33646,7 +33650,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "\ud83d\udce6 Sections Included in the Template:",
+                        "text": "📦 Sections Included in the Template:",
                         "marks": [
                           {
                             "type": "strong"
@@ -33999,7 +34003,7 @@
                             "content": [
                               {
                                 "type": "text",
-                                "text": "\u2705 Built as a reusable template with "
+                                "text": "✅ Built as a reusable template with "
                               },
                               {
                                 "type": "text",
@@ -34022,7 +34026,7 @@
                             "content": [
                               {
                                 "type": "text",
-                                "text": "\u2705 Flexible structure to fit different services and content types"
+                                "text": "✅ Flexible structure to fit different services and content types"
                               }
                             ]
                           }
@@ -34036,7 +34040,7 @@
                             "content": [
                               {
                                 "type": "text",
-                                "text": "\u2705 Currently uses "
+                                "text": "✅ Currently uses "
                               },
                               {
                                 "type": "text",
@@ -34049,7 +34053,7 @@
                               },
                               {
                                 "type": "text",
-                                "text": " \u2014 actual content and visuals will be customized per service"
+                                "text": " — actual content and visuals will be customized per service"
                               }
                             ]
                           }
@@ -34063,7 +34067,7 @@
                             "content": [
                               {
                                 "type": "text",
-                                "text": "\u2705 SEO, conversion, and UX-optimized"
+                                "text": "✅ SEO, conversion, and UX-optimized"
                               }
                             ]
                           }
@@ -34077,7 +34081,7 @@
                             "content": [
                               {
                                 "type": "text",
-                                "text": "\u2705 Clean layout with proof-first narrative flow"
+                                "text": "✅ Clean layout with proof-first narrative flow"
                               }
                             ]
                           }
@@ -35057,7 +35061,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "I\u2019ve designed the new "
+                        "text": "I’ve designed the new "
                       },
                       {
                         "type": "text",
@@ -35070,7 +35074,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " with the intent to make it more than just a media gallery \u2014 this is now a strategic, proof-first destination that showcases how VE truly works."
+                        "text": " with the intent to make it more than just a media gallery — this is now a strategic, proof-first destination that showcases how VE truly works."
                       }
                     ]
                   },
@@ -35082,7 +35086,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "\u00a0Design Thinking:"
+                        "text": " Design Thinking:"
                       }
                     ]
                   },
@@ -35140,7 +35144,7 @@
                               },
                               {
                                 "type": "text",
-                                "text": " \u2014 each showing a distinct, real-world side of VE."
+                                "text": " — each showing a distinct, real-world side of VE."
                               }
                             ]
                           }
@@ -35181,7 +35185,7 @@
                             "content": [
                               {
                                 "type": "text",
-                                "text": "CTA at the bottom guides warm viewers toward a no-pressure next step \u2014 staying true to our mid-funnel tone."
+                                "text": "CTA at the bottom guides warm viewers toward a no-pressure next step — staying true to our mid-funnel tone."
                               }
                             ]
                           }
@@ -35194,7 +35198,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "I\u2019ve followed the "
+                        "text": "I’ve followed the "
                       },
                       {
                         "type": "text",
@@ -35207,7 +35211,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " throughout \u2014 layout, spacing, font rhythm \u2014 and kept the entire page clean, evaluator-friendly, and scalable.\u00a0"
+                        "text": " throughout — layout, spacing, font rhythm — and kept the entire page clean, evaluator-friendly, and scalable. "
                       }
                     ]
                   },
@@ -35556,7 +35560,5 @@
         }
       }
     }
-  ],
-  "nextPageToken": "ChUjU3RyaW5nJlYxQT0lSW50Jk5qTT0QZBiHgq-HsjMiGXByb2plY3QgPSAiV2Vic2l0ZSBQYWdlcyIqAltd",
-  "isLast": false
+  ]
 }

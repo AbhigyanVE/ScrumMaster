@@ -1,4 +1,8 @@
 {
+  "name": "Case Study",
+  "id": "10091",
+  "key": "CS",
+  "issue_count": 100,
   "issues": [
     {
       "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
@@ -154,7 +158,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Hello ma\u2019am. Based on Shaun sir\u2019s feedback i have reworked on some sections. Please take a look."
+                        "text": "Hello ma’am. Based on Shaun sir’s feedback i have reworked on some sections. Please take a look."
                       },
                       {
                         "type": "hardBreak"
@@ -603,7 +607,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "   Ma\u2019am,"
+                        "text": "   Ma’am,"
                       },
                       {
                         "type": "hardBreak"
@@ -1042,7 +1046,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "   Ma\u2019am,"
+                        "text": "   Ma’am,"
                       },
                       {
                         "type": "hardBreak"
@@ -1390,7 +1394,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am. Please review this case study"
+                        "text": " ma’am. Please review this case study"
                       },
                       {
                         "type": "hardBreak"
@@ -1705,7 +1709,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am. Please review this case study."
+                        "text": " ma’am. Please review this case study."
                       },
                       {
                         "type": "hardBreak"
@@ -2124,7 +2128,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "  Ma\u2019am,"
+                        "text": "  Ma’am,"
                       },
                       {
                         "type": "hardBreak"
@@ -2892,7 +2896,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am. Please review this case study:"
+                        "text": " ma’am. Please review this case study:"
                       },
                       {
                         "type": "hardBreak"
@@ -3029,7 +3033,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Hello ma\u2019am. Please review"
+                        "text": "Hello ma’am. Please review"
                       },
                       {
                         "type": "hardBreak"
@@ -3398,7 +3402,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am. Please review this case study."
+                        "text": " ma’am. Please review this case study."
                       },
                       {
                         "type": "hardBreak"
@@ -3479,7 +3483,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " , not sure why you are designing these pages\u2026..best to focus on content. Plus this design is very outdated\u2026and the presentation isn't doing justice to the case study\u2026..The flow  is missing, the why, how and all is not coming through"
+                        "text": " , not sure why you are designing these pages…..best to focus on content. Plus this design is very outdated…and the presentation isn't doing justice to the case study…..The flow  is missing, the why, how and all is not coming through"
                       }
                     ]
                   }
@@ -3713,7 +3717,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am. Please review this case study."
+                        "text": " ma’am. Please review this case study."
                       },
                       {
                         "type": "hardBreak"
@@ -4203,7 +4207,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am. Please review this case study."
+                        "text": " ma’am. Please review this case study."
                       },
                       {
                         "type": "hardBreak"
@@ -4273,7 +4277,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "For example, \u201cBuilding lasting customer trust\u201d is good, but what\u2019s the immediate, tangible benefit? Fewer tickets, faster replies, lower costs, 24/7 support. "
+                        "text": "For example, “Building lasting customer trust” is good, but what’s the immediate, tangible benefit? Fewer tickets, faster replies, lower costs, 24/7 support. "
                       },
                       {
                         "type": "hardBreak"
@@ -5191,7 +5195,7 @@
           "key": "CS-18",
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/10569",
           "fields": {
-            "summary": "Content: Case Study - Nathan Long\t\u00a0Shubhankar Ghosh",
+            "summary": "Content: Case Study - Nathan Long\t Shubhankar Ghosh",
             "status": {
               "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10273",
               "description": "",
@@ -5374,7 +5378,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am. Please review this case study (design version). I\u2019ll go ahead and make the edits you already mentioned for the other case studies, such as replacing \u2018Solution\u2019 with \u2018Domain\u2019 and updating the CTA content."
+                        "text": " ma’am. Please review this case study (design version). I’ll go ahead and make the edits you already mentioned for the other case studies, such as replacing ‘Solution’ with ‘Domain’ and updating the CTA content."
                       },
                       {
                         "type": "hardBreak"
@@ -5437,7 +5441,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "overall on the right track\u2026added feedback. Can dioscuss over call, if needed."
+                        "text": "overall on the right track…added feedback. Can dioscuss over call, if needed."
                       }
                     ]
                   }
@@ -5500,7 +5504,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am. Please take a look at the final version of the case study."
+                        "text": " ma’am. Please take a look at the final version of the case study."
                       },
                       {
                         "type": "hardBreak"
@@ -5615,7 +5619,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Hello ma\u2019am. Please find the case study"
+                        "text": "Hello ma’am. Please find the case study"
                       },
                       {
                         "type": "hardBreak"
@@ -5956,7 +5960,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am. Please review this case study (design version). I\u2019ll go ahead and make the edits you already mentioned for the other case studies, such as replacing \u2018Solution\u2019 with \u2018Domain\u2019 and updating the CTA content."
+                        "text": " ma’am. Please review this case study (design version). I’ll go ahead and make the edits you already mentioned for the other case studies, such as replacing ‘Solution’ with ‘Domain’ and updating the CTA content."
                       }
                     ]
                   },
@@ -6299,7 +6303,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019anm. Please review this case study (design version). I\u2019ll go ahead and make the edits you already mentioned for the other case studies, such as replacing \u2018Solution\u2019 with \u2018Domain\u2019 and updating the CTA content."
+                        "text": " ma’anm. Please review this case study (design version). I’ll go ahead and make the edits you already mentioned for the other case studies, such as replacing ‘Solution’ with ‘Domain’ and updating the CTA content."
                       },
                       {
                         "type": "hardBreak"
@@ -6659,7 +6663,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am. Please review this case study (design version). I\u2019ll go ahead and make the edits you already mentioned for the other case studies, such as replacing \u2018Solution\u2019 with \u2018Domain\u2019 and updating the CTA content."
+                        "text": " ma’am. Please review this case study (design version). I’ll go ahead and make the edits you already mentioned for the other case studies, such as replacing ‘Solution’ with ‘Domain’ and updating the CTA content."
                       },
                       {
                         "type": "hardBreak"
@@ -6995,7 +6999,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am. Please review this case study (design version). "
+                        "text": " ma’am. Please review this case study (design version). "
                       },
                       {
                         "type": "hardBreak"
@@ -7138,7 +7142,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am. Please find the updated case study (have wateched your video)."
+                        "text": " ma’am. Please find the updated case study (have wateched your video)."
                       },
                       {
                         "type": "hardBreak"
@@ -7256,7 +7260,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Hello ma\u2019am, Please review."
+                        "text": "Hello ma’am, Please review."
                       },
                       {
                         "type": "hardBreak"
@@ -7710,7 +7714,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am. Please review this case study (design version). I\u2019ll go ahead and make the edits you already mentioned for the other case studies, such as replacing \u2018Solution\u2019 with \u2018Domain\u2019 and updating the CTA content."
+                        "text": " ma’am. Please review this case study (design version). I’ll go ahead and make the edits you already mentioned for the other case studies, such as replacing ‘Solution’ with ‘Domain’ and updating the CTA content."
                       }
                     ]
                   },
@@ -7778,7 +7782,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "feedback added\u2026overall good but some repetition in headlines\u2026also the image of the resource"
+                        "text": "feedback added…overall good but some repetition in headlines…also the image of the resource"
                       }
                     ]
                   }
@@ -8391,7 +8395,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am, Please review this case study."
+                        "text": " ma’am, Please review this case study."
                       },
                       {
                         "type": "hardBreak"
@@ -8447,7 +8451,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "By starting with a short narrative about the partner, the mission, and VE\u2019s role, I give readers (and LLMs) a compact orientation. It prevents the case study from feeling like a technical dump and instead frames it as a collaborative effort with a purpose. This is the \u201cwhy it matters\u201d layer Shaun sir always stresses - before we ever get into \u201cwhat was built.\u201d"
+                        "text": "By starting with a short narrative about the partner, the mission, and VE’s role, I give readers (and LLMs) a compact orientation. It prevents the case study from feeling like a technical dump and instead frames it as a collaborative effort with a purpose. This is the “why it matters” layer Shaun sir always stresses - before we ever get into “what was built.”"
                       }
                     ]
                   },
@@ -8480,7 +8484,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Including elements like \u201cVE became the R&D center\u201d and \u201cBuilt by Employee of the Year\u201d injects "
+                        "text": "Including elements like “VE became the R&D center” and “Built by Employee of the Year” injects "
                       },
                       {
                         "type": "text",
@@ -8632,7 +8636,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "One observation: let\u2019s not miss key details. As per the visuals, it looks as though the resource visited the client onsite? It\u2019s not mentioned anywhere. "
+                        "text": "One observation: let’s not miss key details. As per the visuals, it looks as though the resource visited the client onsite? It’s not mentioned anywhere. "
                       }
                     ]
                   },
@@ -9249,7 +9253,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Make responsive & Issue fixed\u00a0"
+                        "text": "Make responsive & Issue fixed "
                       }
                     ]
                   }
@@ -12891,7 +12895,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " here\u2019s the video link: "
+                        "text": " here’s the video link: "
                       },
                       {
                         "type": "text",
@@ -14361,7 +14365,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "Don\u2019t overuse green color, change it everywhere in the design"
+                        "text": "Don’t overuse green color, change it everywhere in the design"
                       }
                     ]
                   },
@@ -15044,7 +15048,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "Keep these title in same line, don\u2019t break it"
+                        "text": "Keep these title in same line, don’t break it"
                       }
                     ]
                   },
@@ -16153,7 +16157,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "This task involves writing a detailed case study in web format for Club Five Health\u2014a wellness center based in Green Bay."
+                  "text": "This task involves writing a detailed case study in web format for Club Five Health—a wellness center based in Green Bay."
                 }
               ]
             }
@@ -16284,7 +16288,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Here\u2019s the final version of the cases study"
+                        "text": "Here’s the final version of the cases study"
                       },
                       {
                         "type": "hardBreak"
@@ -16564,7 +16568,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Work Log \u2013 Case Study: Dash Marketing (Case Study Mobile Version)",
+                        "text": "Work Log – Case Study: Dash Marketing (Case Study Mobile Version)",
                         "marks": [
                           {
                             "type": "strong"
@@ -16665,7 +16669,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am. Please review this case study (design version). I\u2019ll go ahead and make the edits you already mentioned for the other case studies, such as replacing \u2018Solution\u2019 with \u2018Domain\u2019 and updating the CTA content."
+                        "text": " ma’am. Please review this case study (design version). I’ll go ahead and make the edits you already mentioned for the other case studies, such as replacing ‘Solution’ with ‘Domain’ and updating the CTA content."
                       }
                     ]
                   },
@@ -16885,7 +16889,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "This case study covers the development of a full-fledged AI-powered fundraising platform built by a single VE full-stack developer over five months at a fraction of typical market cost. The web version will follow the standard case study structure\u2014featuring a sharp headline, problem framing, execution breakdown, and business impact. Content will emphasize the technical depth, cost efficiency, and end-to-end delivery without overpositioning. Tone will remain precise, outcome-oriented, and structured for web presentation."
+                  "text": "This case study covers the development of a full-fledged AI-powered fundraising platform built by a single VE full-stack developer over five months at a fraction of typical market cost. The web version will follow the standard case study structure—featuring a sharp headline, problem framing, execution breakdown, and business impact. Content will emphasize the technical depth, cost efficiency, and end-to-end delivery without overpositioning. Tone will remain precise, outcome-oriented, and structured for web presentation."
                 }
               ]
             },
@@ -17063,7 +17067,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Work Log \u2013 Case Study: FundFlicks_Web Version",
+                        "text": "Work Log – Case Study: FundFlicks_Web Version",
                         "marks": [
                           {
                             "type": "strong"
@@ -17097,7 +17101,7 @@
                             "content": [
                               {
                                 "type": "text",
-                                "text": "Highlighted key details including single-developer execution, 5-month timeline, and ~$12K total cost\u2014positioned to showcase efficiency and technical capability."
+                                "text": "Highlighted key details including single-developer execution, 5-month timeline, and ~$12K total cost—positioned to showcase efficiency and technical capability."
                               }
                             ]
                           }
@@ -17279,7 +17283,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "This case study highlights how VE helped NetaTech build two AgriTech platforms\u2014iNeta (smart irrigation) and iSurf (automated crop analysis)\u2014to advance Singapore\u2019s national food sustainability mission. The web-format version will follow the approved case study structure with a strong headline, challenge-solution framing, platform-specific execution breakdowns, and real-world impact. Tone will remain technically detailed and outcome-focused while presenting VE\u2019s engineering contribution in a subtle, strategic manner."
+                  "text": "This case study highlights how VE helped NetaTech build two AgriTech platforms—iNeta (smart irrigation) and iSurf (automated crop analysis)—to advance Singapore’s national food sustainability mission. The web-format version will follow the approved case study structure with a strong headline, challenge-solution framing, platform-specific execution breakdowns, and real-world impact. Tone will remain technically detailed and outcome-focused while presenting VE’s engineering contribution in a subtle, strategic manner."
                 }
               ]
             },
@@ -17457,7 +17461,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Here\u2019s the final draft- "
+                        "text": "Here’s the final draft- "
                       },
                       {
                         "type": "text",
@@ -17479,7 +17483,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "Work Log \u2013 Case Study: NetaTech_Web Version",
+                        "text": "Work Log – Case Study: NetaTech_Web Version",
                         "marks": [
                           {
                             "type": "strong"
@@ -17513,7 +17517,7 @@
                             "content": [
                               {
                                 "type": "text",
-                                "text": "Maintained technical clarity and real-world relevance while presenting VE\u2019s role with subtle positioning."
+                                "text": "Maintained technical clarity and real-world relevance while presenting VE’s role with subtle positioning."
                               }
                             ]
                           }
@@ -17527,7 +17531,7 @@
                             "content": [
                               {
                                 "type": "text",
-                                "text": "Tone aligned with approved case study standards\u2014insightful, logically framed, and formatted for web readability."
+                                "text": "Tone aligned with approved case study standards—insightful, logically framed, and formatted for web readability."
                               },
                               {
                                 "type": "hardBreak"
@@ -17684,7 +17688,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "This task involves creating the web-format version of the Matt Campbell case study based on the new standardized layout. The content will follow a clear narrative structure\u2014starting with a compelling headline, followed by the business challenge, the VE-led solution, the development approach, and final results. The tone must remain professional, concise, and impact-focused, while highlighting the developer\u2019s role, project complexity, and tangible outcomes. The final content should be cohesive, design-friendly, and ready for upload or layout by the web team."
+                  "text": "This task involves creating the web-format version of the Matt Campbell case study based on the new standardized layout. The content will follow a clear narrative structure—starting with a compelling headline, followed by the business challenge, the VE-led solution, the development approach, and final results. The tone must remain professional, concise, and impact-focused, while highlighting the developer’s role, project complexity, and tangible outcomes. The final content should be cohesive, design-friendly, and ready for upload or layout by the web team."
                 }
               ]
             },
@@ -18246,7 +18250,7 @@
                             "content": [
                               {
                                 "type": "text",
-                                "text": "Look for a tester from bench-Sudhir\u00a0"
+                                "text": "Look for a tester from bench-Sudhir "
                               }
                             ]
                           }
@@ -18617,7 +18621,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Here\u2019s the video link : "
+                        "text": " Here’s the video link : "
                       },
                       {
                         "type": "text",
@@ -20320,7 +20324,7 @@
         "aggregatetimeestimate": null,
         "resolutiondate": "2025-10-28T18:14:43.179+0530",
         "workratio": -1,
-        "summary": "Design: Case Study - Ravi\u00a0Patel\tJhumJhum\u00a0Sen Shill",
+        "summary": "Design: Case Study - Ravi Patel\tJhumJhum Sen Shill",
         "watches": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/CS-57/watchers",
           "watchCount": 2,
@@ -20428,7 +20432,7 @@
                       },
                       {
                         "type": "text",
-                        "text": ", Content: Case Study - Ravi\u00a0Patel JhumJhum\u00a0Sen Shill - "
+                        "text": ", Content: Case Study - Ravi Patel JhumJhum Sen Shill - "
                       },
                       {
                         "type": "text",
@@ -21300,7 +21304,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " , ma\u2019am, please take a look at this case study and share your thoughts."
+                        "text": " , ma’am, please take a look at this case study and share your thoughts."
                       },
                       {
                         "type": "hardBreak"
@@ -21368,7 +21372,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "looks good, added some suggestions\u2026 "
+                        "text": "looks good, added some suggestions… "
                       }
                     ]
                   },
@@ -21459,7 +21463,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am. Plese review this case study (design)."
+                        "text": " ma’am. Plese review this case study (design)."
                       },
                       {
                         "type": "hardBreak"
@@ -21484,7 +21488,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "I\u2019ll go ahead and make the edits you already mentioned for the other case studies, such as replacing \u2018Solution\u2019 with \u2018Domain\u2019 and updating the CTA content."
+                        "text": "I’ll go ahead and make the edits you already mentioned for the other case studies, such as replacing ‘Solution’ with ‘Domain’ and updating the CTA content."
                       }
                     ]
                   }
@@ -21534,7 +21538,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "feedback added\u2026.some loose ends still remain, looks good otherwise"
+                        "text": "feedback added….some loose ends still remain, looks good otherwise"
                       }
                     ]
                   }
@@ -22835,7 +22839,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am. Please take a look at the case study - "
+                        "text": " ma’am. Please take a look at the case study - "
                       }
                     ]
                   },
@@ -22864,7 +22868,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Here\u2019s the score - "
+                        "text": "Here’s the score - "
                       }
                     ]
                   },
@@ -22879,7 +22883,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "\ud83d\udcca "
+                        "text": "📊 "
                       },
                       {
                         "type": "text",
@@ -23015,7 +23019,7 @@
                                 "content": [
                                   {
                                     "type": "text",
-                                    "text": "The intro is now tighter and instantly communicates the core issue and solution. Each section (Problem \u2192 Solution \u2192 Tech \u2192 Outcome) is clear and labeled, making this easy to skim."
+                                    "text": "The intro is now tighter and instantly communicates the core issue and solution. Each section (Problem → Solution → Tech → Outcome) is clear and labeled, making this easy to skim."
                                   }
                                 ]
                               }
@@ -23161,7 +23165,7 @@
                                 "content": [
                                   {
                                     "type": "text",
-                                    "text": "The entire story revolves around Thomas\u2019s needs, pain points, and field constraints. It doesn\u2019t just show what was built\u2014it shows "
+                                    "text": "The entire story revolves around Thomas’s needs, pain points, and field constraints. It doesn’t just show what was built—it shows "
                                   },
                                   {
                                     "type": "text",
@@ -23247,7 +23251,7 @@
                                 "content": [
                                   {
                                     "type": "text",
-                                    "text": "Strong originality with the \u201cshortest interview ever,\u201d offline-first focus, and full-system ownership by one developer. Still, there\u2019s room to push more contrast with how other vendors/solutions fail."
+                                    "text": "Strong originality with the “shortest interview ever,” offline-first focus, and full-system ownership by one developer. Still, there’s room to push more contrast with how other vendors/solutions fail."
                                   }
                                 ]
                               }
@@ -23509,7 +23513,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am. Please review this case study (design version). I\u2019ll go ahead and make the edits you already mentioned for the other case studies, such as replacing \u2018Solution\u2019 with \u2018Domain\u2019 and updating the CTA content."
+                        "text": " ma’am. Please review this case study (design version). I’ll go ahead and make the edits you already mentioned for the other case studies, such as replacing ‘Solution’ with ‘Domain’ and updating the CTA content."
                       },
                       {
                         "type": "hardBreak"
@@ -23816,7 +23820,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am,"
+                        "text": " ma’am,"
                       },
                       {
                         "type": "hardBreak"
@@ -23836,7 +23840,7 @@
                       },
                       {
                         "type": "text",
-                        "text": ". Most business owners don\u2019t expect their plans to stay static, they know designs will shift, briefs will evolve, and timelines will stretch. What they dread is being penalized for it. VE works differently. This case study showcases that. "
+                        "text": ". Most business owners don’t expect their plans to stay static, they know designs will shift, briefs will evolve, and timelines will stretch. What they dread is being penalized for it. VE works differently. This case study showcases that. "
                       },
                       {
                         "type": "hardBreak"
@@ -23982,7 +23986,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am. Feedback implemented. "
+                        "text": " ma’am. Feedback implemented. "
                       },
                       {
                         "type": "hardBreak"
@@ -24002,7 +24006,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " we can start designing the CS now. The case study is strong\u2026now the design needs to match that level."
+                        "text": " we can start designing the CS now. The case study is strong…now the design needs to match that level."
                       }
                     ]
                   }
@@ -24525,7 +24529,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am. This is a full-length AI case study built around FundFlicks, an investment insights platform powered by GPT-4, custom NLP, and RAG architecture.\u00a0"
+                        "text": " ma’am. This is a full-length AI case study built around FundFlicks, an investment insights platform powered by GPT-4, custom NLP, and RAG architecture. "
                       }
                     ]
                   },
@@ -24549,7 +24553,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Since we currently don\u2019t have any published AI case studies, this one can fill a critical gap in our portfolio. It not only showcases VE\u2019s technical capability in delivering a complete AI product through a single developer, but also highlights our ability to solve complex, real-world problems with accountability, speed, and cost-efficiency."
+                        "text": "Since we currently don’t have any published AI case studies, this one can fill a critical gap in our portfolio. It not only showcases VE’s technical capability in delivering a complete AI product through a single developer, but also highlights our ability to solve complex, real-world problems with accountability, speed, and cost-efficiency."
                       }
                     ]
                   }
@@ -24612,7 +24616,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " , this looks really good\u2026but I am unable to edit it. Can you share some editable version? "
+                        "text": " , this looks really good…but I am unable to edit it. Can you share some editable version? "
                       }
                     ]
                   }
@@ -24675,7 +24679,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am. Could you please check this link? This is the editable version. "
+                        "text": " ma’am. Could you please check this link? This is the editable version. "
                       },
                       {
                         "type": "hardBreak"
@@ -24807,7 +24811,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am. I have implemented the changes."
+                        "text": " ma’am. I have implemented the changes."
                       },
                       {
                         "type": "hardBreak"
@@ -24952,7 +24956,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " , pls mention the client designation and country. Also, in keeping with today\u2019s feedback (video and document), pls give a brief overview of the client too "
+                        "text": " , pls mention the client designation and country. Also, in keeping with today’s feedback (video and document), pls give a brief overview of the client too "
                       }
                     ]
                   }
@@ -25749,7 +25753,7 @@
                 },
                 {
                   "type": "text",
-                  "text": " ma\u2019am. Please review this case study."
+                  "text": " ma’am. Please review this case study."
                 }
               ]
             },
@@ -25967,7 +25971,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am. Please review this case study."
+                        "text": " ma’am. Please review this case study."
                       }
                     ]
                   },
@@ -26337,7 +26341,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am. Please review this case study. "
+                        "text": " ma’am. Please review this case study. "
                       },
                       {
                         "type": "text",
@@ -26505,7 +26509,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Total work time is calculated by combining the duration spent gathering information and implementing feedback. Since the content wasn\u2019t written at a stretch - I had to reach out to the resource whenever they were available - the overall time span appears longer, with an earlier start and a later end."
+                        "text": "Total work time is calculated by combining the duration spent gathering information and implementing feedback. Since the content wasn’t written at a stretch - I had to reach out to the resource whenever they were available - the overall time span appears longer, with an earlier start and a later end."
                       }
                     ]
                   }
@@ -26729,7 +26733,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "  ma\u2019am. Please review the case study. Personally I feel this is even better than the AI CS I worked on."
+                        "text": "  ma’am. Please review the case study. Personally I feel this is even better than the AI CS I worked on."
                       }
                     ]
                   },
@@ -26778,7 +26782,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "1. Logic & Structure \u2013 9/10",
+                        "text": "1. Logic & Structure – 9/10",
                         "marks": [
                           {
                             "type": "strong"
@@ -26833,7 +26837,7 @@
                                             "content": [
                                               {
                                                 "type": "text",
-                                                "text": "Problem \u2192 Barriers \u2192 Solution \u2192 Engineering \u2192 Results \u2192 Impact \u2192 Industry POV \u2192 CTA"
+                                                "text": "Problem → Barriers → Solution → Engineering → Results → Impact → Industry POV → CTA"
                                               }
                                             ]
                                           }
@@ -26865,7 +26869,7 @@
                                     "content": [
                                       {
                                         "type": "text",
-                                        "text": "Tech terms and problem framing are layered in a progressive build-up\u2014very effective."
+                                        "text": "Tech terms and problem framing are layered in a progressive build-up—very effective."
                                       }
                                     ]
                                   }
@@ -26888,7 +26892,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "2. Clarity & Readability \u2013 9.5/10",
+                        "text": "2. Clarity & Readability – 9.5/10",
                         "marks": [
                           {
                             "type": "strong"
@@ -26979,7 +26983,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "3. Persuasion & Differentiation \u2013 10/10",
+                        "text": "3. Persuasion & Differentiation – 10/10",
                         "marks": [
                           {
                             "type": "strong"
@@ -27032,7 +27036,7 @@
                                       },
                                       {
                                         "type": "text",
-                                        "text": "\u201cWhat It Offers Global IoT Companies \u2013 An R&D Lab When You Need One\u201d",
+                                        "text": "“What It Offers Global IoT Companies – An R&D Lab When You Need One”",
                                         "marks": [
                                           {
                                             "type": "em"
@@ -27041,7 +27045,7 @@
                                       },
                                       {
                                         "type": "text",
-                                        "text": " \u2013 this is disruptive, unexpected, and builds a new business case."
+                                        "text": " – this is disruptive, unexpected, and builds a new business case."
                                       }
                                     ]
                                   }
@@ -27055,7 +27059,7 @@
                                     "content": [
                                       {
                                         "type": "text",
-                                        "text": "\u201cReverse-engineered 200+ binary commands\u201d",
+                                        "text": "“Reverse-engineered 200+ binary commands”",
                                         "marks": [
                                           {
                                             "type": "em"
@@ -27064,7 +27068,7 @@
                                       },
                                       {
                                         "type": "text",
-                                        "text": " \u2192 powerful proof without over-explaining."
+                                        "text": " → powerful proof without over-explaining."
                                       }
                                     ]
                                   }
@@ -27082,7 +27086,7 @@
                                       },
                                       {
                                         "type": "text",
-                                        "text": "\u201cMost developers promise\u2026That\u2019s the gap we close\u201d",
+                                        "text": "“Most developers promise…That’s the gap we close”",
                                         "marks": [
                                           {
                                             "type": "em"
@@ -27137,7 +27141,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "4. Originality \u2013 9.5/10",
+                        "text": "4. Originality – 9.5/10",
                         "marks": [
                           {
                             "type": "strong"
@@ -27195,7 +27199,7 @@
                                       },
                                       {
                                         "type": "text",
-                                        "text": "\u201cAuto-Sync Recovery\u201d",
+                                        "text": "“Auto-Sync Recovery”",
                                         "marks": [
                                           {
                                             "type": "em"
@@ -27208,7 +27212,7 @@
                                       },
                                       {
                                         "type": "text",
-                                        "text": "\u201cSource Mode Creation\u201d",
+                                        "text": "“Source Mode Creation”",
                                         "marks": [
                                           {
                                             "type": "em"
@@ -27221,7 +27225,7 @@
                                       },
                                       {
                                         "type": "text",
-                                        "text": "\u201cWhat It Proved to the Industry\u201d",
+                                        "text": "“What It Proved to the Industry”",
                                         "marks": [
                                           {
                                             "type": "em"
@@ -27244,7 +27248,7 @@
                                     "content": [
                                       {
                                         "type": "text",
-                                        "text": "Very few clich\u00e9s. No fluff."
+                                        "text": "Very few clichés. No fluff."
                                       }
                                     ]
                                   }
@@ -27325,7 +27329,7 @@
                             "content": [
                               {
                                 "type": "text",
-                                "text": "\u2705 "
+                                "text": "✅ "
                               },
                               {
                                 "type": "text",
@@ -27352,11 +27356,11 @@
                             "content": [
                               {
                                 "type": "text",
-                                "text": "\u2705 "
+                                "text": "✅ "
                               },
                               {
                                 "type": "text",
-                                "text": "No \u201cOur team did X\u201d self-congratulatory tone.",
+                                "text": "No “Our team did X” self-congratulatory tone.",
                                 "marks": [
                                   {
                                     "type": "em"
@@ -27375,7 +27379,7 @@
                             "content": [
                               {
                                 "type": "text",
-                                "text": "\u2705 "
+                                "text": "✅ "
                               },
                               {
                                 "type": "text",
@@ -27398,11 +27402,11 @@
                             "content": [
                               {
                                 "type": "text",
-                                "text": "\u2705 "
+                                "text": "✅ "
                               },
                               {
                                 "type": "text",
-                                "text": "Clear positioning of VE\u2019s differentiator: remote execution of hardware-led IoT.",
+                                "text": "Clear positioning of VE’s differentiator: remote execution of hardware-led IoT.",
                                 "marks": [
                                   {
                                     "type": "em"
@@ -27421,7 +27425,7 @@
                             "content": [
                               {
                                 "type": "text",
-                                "text": "\u2705 "
+                                "text": "✅ "
                               },
                               {
                                 "type": "text",
@@ -27444,7 +27448,7 @@
                             "content": [
                               {
                                 "type": "text",
-                                "text": "\u2705 "
+                                "text": "✅ "
                               },
                               {
                                 "type": "text",
@@ -27472,11 +27476,11 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "\u2705 "
+                        "text": "✅ "
                       },
                       {
                         "type": "text",
-                        "text": "Final Shaun Score: 9.6/10 \u2013 \u201cStandout Case Study\u201d",
+                        "text": "Final Shaun Score: 9.6/10 – “Standout Case Study”",
                         "marks": [
                           {
                             "type": "strong"
@@ -27490,7 +27494,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "This case study hits nearly every mark\u2014especially in technical clarity, client ROI, and strategic proof. The "
+                        "text": "This case study hits nearly every mark—especially in technical clarity, client ROI, and strategic proof. The "
                       },
                       {
                         "type": "text",
@@ -27652,7 +27656,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am. I have reworked on the case study. Please take a look. "
+                        "text": " ma’am. I have reworked on the case study. Please take a look. "
                       },
                       {
                         "type": "hardBreak"
@@ -27780,7 +27784,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am, I have implemented the feedback."
+                        "text": " ma’am, I have implemented the feedback."
                       }
                     ]
                   }
@@ -27915,7 +27919,7 @@
         "aggregatetimeestimate": null,
         "resolutiondate": null,
         "workratio": -1,
-        "summary": "Content: Case Study - Tobias Davis\u00a0  Sudhir Kumar",
+        "summary": "Content: Case Study - Tobias Davis   Sudhir Kumar",
         "watches": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/CS-42/watchers",
           "watchCount": 1,
@@ -28468,7 +28472,7 @@
         "aggregatetimeestimate": null,
         "resolutiondate": null,
         "workratio": -1,
-        "summary": "Content: Case Study - Maria Sundstr\u00f6m\tSourav Mondal",
+        "summary": "Content: Case Study - Maria Sundström\tSourav Mondal",
         "watches": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/CS-39/watchers",
           "watchCount": 1,
@@ -28906,7 +28910,7 @@
         "aggregatetimeestimate": null,
         "resolutiondate": "2025-05-27T14:08:49.725+0530",
         "workratio": -1,
-        "summary": "Content: Case Study - Peter Ideb\u00f6hn\tSanjay Sah",
+        "summary": "Content: Case Study - Peter Ideböhn\tSanjay Sah",
         "watches": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/CS-37/watchers",
           "watchCount": 2,
@@ -29463,7 +29467,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am, please review this case study (design):"
+                        "text": " ma’am, please review this case study (design):"
                       }
                     ]
                   },
@@ -29880,7 +29884,7 @@
         "aggregatetimeestimate": null,
         "resolutiondate": "2025-07-07T16:00:49.672+0530",
         "workratio": -1,
-        "summary": "Content: Case Study - Saam Ali\u00a0(Pharmacy Mentor) Dipendrapal Singh ",
+        "summary": "Content: Case Study - Saam Ali (Pharmacy Mentor) Dipendrapal Singh ",
         "watches": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/CS-33/watchers",
           "watchCount": 3,
@@ -30108,7 +30112,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Hi Sudhir. I\u2019ve changed it."
+                        "text": " Hi Sudhir. I’ve changed it."
                       }
                     ]
                   }
@@ -30171,11 +30175,11 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am. Plz review the following case study \u2013 "
+                        "text": " ma’am. Plz review the following case study – "
                       },
                       {
                         "type": "text",
-                        "text": "Case Study\u2014Pharmacy Mentor",
+                        "text": "Case Study—Pharmacy Mentor",
                         "marks": [
                           {
                             "type": "link",
@@ -30330,11 +30334,11 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am. Have implemented the changes as per your feedback \u2013 "
+                        "text": " ma’am. Have implemented the changes as per your feedback – "
                       },
                       {
                         "type": "text",
-                        "text": "Case Study\u2014Pharmacy Mentor.docx",
+                        "text": "Case Study—Pharmacy Mentor.docx",
                         "marks": [
                           {
                             "type": "link",
@@ -30472,11 +30476,11 @@
                       },
                       {
                         "type": "text",
-                        "text": " The following case study is ready for designing \u2013 "
+                        "text": " The following case study is ready for designing – "
                       },
                       {
                         "type": "text",
-                        "text": "Case Study\u2014Pharmacy Mentor.docx",
+                        "text": "Case Study—Pharmacy Mentor.docx",
                         "marks": [
                           {
                             "type": "link",
@@ -30900,7 +30904,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am. Here is the updated version of my first case study (i re-worked my version as per your recent feedback on case studies)-- "
+                        "text": " ma’am. Here is the updated version of my first case study (i re-worked my version as per your recent feedback on case studies)-- "
                       },
                       {
                         "type": "text",
@@ -31049,7 +31053,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am. I have reworked the case study based on the angle you suggested. Plz review the following doc \u2013 "
+                        "text": " ma’am. I have reworked the case study based on the angle you suggested. Plz review the following doc – "
                       },
                       {
                         "type": "text",
@@ -31133,7 +31137,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " , tbh, this heavily cut, chopped, comment-heavy document is making reviewing a nightmare. Can we have two separate documents? One this, for reference and another, fresh with ALL changes made and just a clean reworked copy? I honestly can\u2019t review such a piece\u2026..too much scrolling back and forth"
+                        "text": " , tbh, this heavily cut, chopped, comment-heavy document is making reviewing a nightmare. Can we have two separate documents? One this, for reference and another, fresh with ALL changes made and just a clean reworked copy? I honestly can’t review such a piece…..too much scrolling back and forth"
                       }
                     ]
                   }
@@ -31196,7 +31200,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am. Instead of creating another document, I have added the Rework-2 version right on top as a fresh piece. The rest of the earlier version remains in the same doc at the bottom, along with the comments and feedback. "
+                        "text": " ma’am. Instead of creating another document, I have added the Rework-2 version right on top as a fresh piece. The rest of the earlier version remains in the same doc at the bottom, along with the comments and feedback. "
                       },
                       {
                         "type": "mention",
@@ -31279,7 +31283,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am, "
+                        "text": " ma’am, "
                       },
                       {
                         "type": "mention",
@@ -31355,7 +31359,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " please have a word with Daya ma\u2019am and get this resolved."
+                        "text": " please have a word with Daya ma’am and get this resolved."
                       }
                     ]
                   }
@@ -31413,7 +31417,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Sure Sudhir. Will speak to Ma\u2019am."
+                        "text": " Sure Sudhir. Will speak to Ma’am."
                       }
                     ]
                   }
@@ -31463,7 +31467,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "That\u2019s fine "
+                        "text": "That’s fine "
                       },
                       {
                         "type": "mention",
@@ -31557,7 +31561,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am. Here is the third version of the case study \u2013 "
+                        "text": " ma’am. Here is the third version of the case study – "
                       },
                       {
                         "type": "text",
@@ -31695,7 +31699,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " The following case study is ready for designing \u2013 "
+                        "text": " The following case study is ready for designing – "
                       },
                       {
                         "type": "text",
@@ -32175,7 +32179,7 @@
         "aggregatetimeestimate": null,
         "resolutiondate": "2025-06-04T11:13:54.717+0530",
         "workratio": -1,
-        "summary": "Content: Case Study - Ravi\u00a0Patel\tJhumJhum\u00a0Sen Shill",
+        "summary": "Content: Case Study - Ravi Patel\tJhumJhum Sen Shill",
         "watches": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/CS-30/watchers",
           "watchCount": 4,
@@ -32396,7 +32400,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am, please take a look at this case study. "
+                        "text": " ma’am, please take a look at this case study. "
                       },
                       {
                         "type": "hardBreak"
@@ -32424,7 +32428,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "Most technical case studies talk about tools, stacks, and code. But this one highlights something rarer: the cognitive architecture behind the build. Jhumjhum didn\u2019t just write clean code\u2026she managed context, isolated logic, and executed across three industries without a single mental collision."
+                        "text": "Most technical case studies talk about tools, stacks, and code. But this one highlights something rarer: the cognitive architecture behind the build. Jhumjhum didn’t just write clean code…she managed context, isolated logic, and executed across three industries without a single mental collision."
                       }
                     ]
                   }
@@ -32497,7 +32501,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "\ud83d\udd0e "
+                        "text": "🔎 "
                       },
                       {
                         "type": "text",
@@ -32632,7 +32636,7 @@
                                   },
                                   {
                                     "type": "text",
-                                    "text": "\u201cCan we build three websites at once\u2014without losing what sets them apart?\u201d",
+                                    "text": "“Can we build three websites at once—without losing what sets them apart?”",
                                     "marks": [
                                       {
                                         "type": "em"
@@ -32709,7 +32713,7 @@
                                 "content": [
                                   {
                                     "type": "text",
-                                    "text": "Transitions are smooth and the structure is airtight: Challenge \u2192 Cognitive Constraint \u2192 Method \u2192 Execution \u2192 Individual Site Breakdown \u2192 Outcome. No loopbacks, no disjointed jumps."
+                                    "text": "Transitions are smooth and the structure is airtight: Challenge → Cognitive Constraint → Method → Execution → Individual Site Breakdown → Outcome. No loopbacks, no disjointed jumps."
                                   }
                                 ]
                               }
@@ -32777,7 +32781,7 @@
                                 "content": [
                                   {
                                     "type": "text",
-                                    "text": "The opening line is sharp. \u201cJust ask Dr. Ravi Patel\u2026\u201d adds credibility and flow. Poses a relatable challenge many business owners would immediately feel intrigued by."
+                                    "text": "The opening line is sharp. “Just ask Dr. Ravi Patel…” adds credibility and flow. Poses a relatable challenge many business owners would immediately feel intrigued by."
                                   }
                                 ]
                               }
@@ -32913,7 +32917,7 @@
                                 "content": [
                                   {
                                     "type": "text",
-                                    "text": "Extremely rare angle\u2014"
+                                    "text": "Extremely rare angle—"
                                   },
                                   {
                                     "type": "text",
@@ -33066,7 +33070,7 @@
                                   },
                                   {
                                     "type": "text",
-                                    "text": "\u201cThis wasn\u2019t multitasking. It was structured execution.\u201d",
+                                    "text": "“This wasn’t multitasking. It was structured execution.”",
                                     "marks": [
                                       {
                                         "type": "em"
@@ -33079,7 +33083,7 @@
                                   },
                                   {
                                     "type": "text",
-                                    "text": "\u201cNo copy-paste builds. No bloated plugins. No loss of control.\u201d",
+                                    "text": "“No copy-paste builds. No bloated plugins. No loss of control.”",
                                     "marks": [
                                       {
                                         "type": "em"
@@ -33152,7 +33156,7 @@
                                 "content": [
                                   {
                                     "type": "text",
-                                    "text": "\u201cIf your next project sounds \u2018too complex for one person,\u2019 you might just need the right one\u201d is clever and subtle. A slightly clearer business value CTA (e.g. how we reduce team size/cost) could help."
+                                    "text": "“If your next project sounds ‘too complex for one person,’ you might just need the right one” is clever and subtle. A slightly clearer business value CTA (e.g. how we reduce team size/cost) could help."
                                   }
                                 ]
                               }
@@ -33240,7 +33244,7 @@
                                 "content": [
                                   {
                                     "type": "text",
-                                    "text": "10. Shaun\u2019s \u201cWould I Share This?\u201d Test",
+                                    "text": "10. Shaun’s “Would I Share This?” Test",
                                     "marks": [
                                       {
                                         "type": "strong"
@@ -33260,7 +33264,7 @@
                                 "content": [
                                   {
                                     "type": "text",
-                                    "text": "\u2705"
+                                    "text": "✅"
                                   }
                                 ]
                               }
@@ -33309,7 +33313,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "\u2705 "
+                        "text": "✅ "
                       },
                       {
                         "type": "text",
@@ -33355,7 +33359,7 @@
                           },
                           {
                             "type": "text",
-                            "text": "It blends technical precision with a compelling narrative angle that most competitors wouldn\u2019t think to touch\u2014"
+                            "text": "It blends technical precision with a compelling narrative angle that most competitors wouldn’t think to touch—"
                           },
                           {
                             "type": "text",
@@ -33433,7 +33437,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " . just keep in mind the recurring issues flagged in all 3 case studies so far. Let\u2019s see how they get designed. Pls run the final design past me before it gets shared further. "
+                        "text": " . just keep in mind the recurring issues flagged in all 3 case studies so far. Let’s see how they get designed. Pls run the final design past me before it gets shared further. "
                       },
                       {
                         "type": "hardBreak"
@@ -33443,7 +33447,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "I\u2019ll share a consolidated video for all 3 case studies, that\u2019ll be better "
+                        "text": "I’ll share a consolidated video for all 3 case studies, that’ll be better "
                       }
                     ]
                   }
@@ -34233,7 +34237,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "Case Study -\u00a0Peter Udvardi (First Draft).docx",
+                        "text": "Case Study - Peter Udvardi (First Draft).docx",
                         "marks": [
                           {
                             "type": "link",
@@ -34300,11 +34304,11 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am, please review - "
+                        "text": " ma’am, please review - "
                       },
                       {
                         "type": "text",
-                        "text": "Case Study -\u00a0Peter Udvardi (First Draft).docx",
+                        "text": "Case Study - Peter Udvardi (First Draft).docx",
                         "marks": [
                           {
                             "type": "link",
@@ -34850,7 +34854,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am. Please review - "
+                        "text": " ma’am. Please review - "
                       },
                       {
                         "type": "text",
@@ -34993,7 +34997,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am, please review - "
+                        "text": " ma’am, please review - "
                       },
                       {
                         "type": "text",
@@ -35136,7 +35140,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am. I have made the changes. Please review - "
+                        "text": " ma’am. I have made the changes. Please review - "
                       },
                       {
                         "type": "text",
@@ -35529,7 +35533,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am. Please review the case study."
+                        "text": " ma’am. Please review the case study."
                       },
                       {
                         "type": "hardBreak"
@@ -35665,7 +35669,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Total work time is calculated by combining the duration spent gathering information and implementing feedback. Since the content wasn\u2019t written at a stretch - I had to reach out to the resource whenever they were available - the overall time span appears longer, with an earlier start and a later end."
+                        "text": "Total work time is calculated by combining the duration spent gathering information and implementing feedback. Since the content wasn’t written at a stretch - I had to reach out to the resource whenever they were available - the overall time span appears longer, with an earlier start and a later end."
                       }
                     ]
                   }
@@ -36061,7 +36065,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am - please review - "
+                        "text": " ma’am - please review - "
                       },
                       {
                         "type": "text",
@@ -36517,7 +36521,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am, please review - "
+                        "text": " ma’am, please review - "
                       },
                       {
                         "type": "text",
@@ -36588,7 +36592,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " have added feedback, will be sharing video feedback too. You\u2019ve got the hang of it but there are sudden gaps and key elements thet don\u2019t get highlighted as much as they should. "
+                        "text": " have added feedback, will be sharing video feedback too. You’ve got the hang of it but there are sudden gaps and key elements thet don’t get highlighted as much as they should. "
                       }
                     ]
                   }
@@ -36701,7 +36705,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am, please review the rework - "
+                        "text": " ma’am, please review the rework - "
                       },
                       {
                         "type": "text",
@@ -36776,7 +36780,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " , you\u2019ve understood the feedback. Keep this standard consistent now"
+                        "text": " , you’ve understood the feedback. Keep this standard consistent now"
                       }
                     ]
                   }
@@ -37234,7 +37238,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am, please review - "
+                        "text": " ma’am, please review - "
                       },
                       {
                         "type": "text",
@@ -37426,7 +37430,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "Case Study - Raul Landeros\u00a0(Koyel- 16 May 2025).mp4",
+                        "text": "Case Study - Raul Landeros (Koyel- 16 May 2025).mp4",
                         "marks": [
                           {
                             "type": "link",
@@ -37749,7 +37753,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Gathered details from the resource. Here\u2019s the questionnaire:"
+                        "text": "Gathered details from the resource. Here’s the questionnaire:"
                       },
                       {
                         "type": "hardBreak"
@@ -37830,7 +37834,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am. Please review this case study:"
+                        "text": " ma’am. Please review this case study:"
                       },
                       {
                         "type": "hardBreak"
@@ -38116,7 +38120,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Gathered details from the resource. Here\u2019s the questionnaire:"
+                        "text": "Gathered details from the resource. Here’s the questionnaire:"
                       },
                       {
                         "type": "hardBreak"
@@ -38247,7 +38251,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am - Please review this case study:"
+                        "text": " Ma’am - Please review this case study:"
                       },
                       {
                         "type": "hardBreak"
@@ -38391,7 +38395,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am - Feedback implemented. Please review:"
+                        "text": " Ma’am - Feedback implemented. Please review:"
                       },
                       {
                         "type": "hardBreak"
@@ -38535,7 +38539,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am - Updated the content as per your feedback. Please review:"
+                        "text": " Ma’am - Updated the content as per your feedback. Please review:"
                       },
                       {
                         "type": "hardBreak"
@@ -38612,7 +38616,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " made a few imp comments, pls have a look\u2026rest seems fine. Can go for designing"
+                        "text": " made a few imp comments, pls have a look…rest seems fine. Can go for designing"
                       }
                     ]
                   }
@@ -38675,7 +38679,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Sir - The content is approved by Daya Ma\u2019am and is ready for design:"
+                        "text": " Sir - The content is approved by Daya Ma’am and is ready for design:"
                       },
                       {
                         "type": "hardBreak"
@@ -38824,7 +38828,7 @@
         "aggregatetimeestimate": 0,
         "resolutiondate": "2025-07-14T14:36:58.043+0530",
         "workratio": -1,
-        "summary": "Content: Case Study - Nathan Long\t\u00a0Shubhankar Ghosh",
+        "summary": "Content: Case Study - Nathan Long\t Shubhankar Ghosh",
         "watches": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/CS-18/watchers",
           "watchCount": 4,
@@ -38961,7 +38965,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Gathered details from the resource. Here\u2019s the questionnaire:"
+                        "text": "Gathered details from the resource. Here’s the questionnaire:"
                       },
                       {
                         "type": "hardBreak"
@@ -39042,7 +39046,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am. Please review this case study."
+                        "text": " ma’am. Please review this case study."
                       },
                       {
                         "type": "hardBreak"
@@ -39323,7 +39327,7 @@
         "aggregatetimeestimate": 0,
         "resolutiondate": "2025-08-27T13:22:44.590+0530",
         "workratio": -1,
-        "summary": "Content: Case Study - Jean -M\u00e9d\u00e9ric Delcros\tNilmadhav Muhuri",
+        "summary": "Content: Case Study - Jean -Médéric Delcros\tNilmadhav Muhuri",
         "watches": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/CS-17/watchers",
           "watchCount": 4,
@@ -39420,7 +39424,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Gathered details from the resource. Here\u2019s the questionnaire:"
+                        "text": "Gathered details from the resource. Here’s the questionnaire:"
                       },
                       {
                         "type": "hardBreak"
@@ -39430,7 +39434,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "Questionnaire_CaseStudy_Jean-M\u00e9d\u00e9ric Delcros.docx",
+                        "text": "Questionnaire_CaseStudy_Jean-Médéric Delcros.docx",
                         "marks": [
                           {
                             "type": "link",
@@ -39501,7 +39505,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am, please review this case study. "
+                        "text": " ma’am, please review this case study. "
                       },
                       {
                         "type": "text",
@@ -39635,7 +39639,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am, please review this case study (design):"
+                        "text": " ma’am, please review this case study (design):"
                       }
                     ]
                   },
@@ -40274,7 +40278,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Gathered details from the resource. Here\u2019s the questionnaire:"
+                        "text": "Gathered details from the resource. Here’s the questionnaire:"
                       },
                       {
                         "type": "hardBreak"
@@ -40423,7 +40427,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am - Since this is my first case study, I am sharing the first draft of the case study (approved by TL) for your feedback. Following this case study, we\u2019ll be sharing the designed versions for your feedback."
+                        "text": " Ma’am - Since this is my first case study, I am sharing the first draft of the case study (approved by TL) for your feedback. Following this case study, we’ll be sharing the designed versions for your feedback."
                       },
                       {
                         "type": "hardBreak"
@@ -40573,7 +40577,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am - Please review case study version 2:"
+                        "text": " Ma’am - Please review case study version 2:"
                       },
                       {
                         "type": "hardBreak"
@@ -40650,7 +40654,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " , much better, and you\u2019ve understood the feedback and applied it well, keep that up. Have added some feedback though. have a look and if you want have a call with me, it might help. "
+                        "text": " , much better, and you’ve understood the feedback and applied it well, keep that up. Have added some feedback though. have a look and if you want have a call with me, it might help. "
                       }
                     ]
                   }
@@ -40713,7 +40717,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am - I\u2019ve made the suggested changes and implemented your feedback. Please review:"
+                        "text": " Ma’am - I’ve made the suggested changes and implemented your feedback. Please review:"
                       },
                       {
                         "type": "hardBreak"
@@ -40857,7 +40861,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "  Sir - The content is approved by Daya Ma\u2019am and is ready for design:"
+                        "text": "  Sir - The content is approved by Daya Ma’am and is ready for design:"
                       },
                       {
                         "type": "hardBreak"
@@ -41143,7 +41147,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Gathered details from the resource. Here\u2019s the questionnaire:"
+                        "text": "Gathered details from the resource. Here’s the questionnaire:"
                       },
                       {
                         "type": "hardBreak"
@@ -41224,7 +41228,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am. Please review this case study."
+                        "text": " ma’am. Please review this case study."
                       },
                       {
                         "type": "hardBreak"
@@ -41607,7 +41611,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Gathered details from the resource. Here\u2019s the questionnaire:"
+                        "text": "Gathered details from the resource. Here’s the questionnaire:"
                       },
                       {
                         "type": "hardBreak"
@@ -41893,7 +41897,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Gathered details from the resource. Here\u2019s the questionnaire:"
+                        "text": "Gathered details from the resource. Here’s the questionnaire:"
                       },
                       {
                         "type": "hardBreak"
@@ -41974,7 +41978,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am. Please review the case study "
+                        "text": " ma’am. Please review the case study "
                       },
                       {
                         "type": "text",
@@ -42154,7 +42158,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "The time is calculated by combining the duration spent gathering information and implementing feedback. Since the content wasn\u2019t written at a stretch - I had to reach out to the resource whenever they were available - the overall time span appears longer, with an earlier start and a later end."
+                        "text": "The time is calculated by combining the duration spent gathering information and implementing feedback. Since the content wasn’t written at a stretch - I had to reach out to the resource whenever they were available - the overall time span appears longer, with an earlier start and a later end."
                       }
                     ]
                   }
@@ -42336,7 +42340,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Gathered details from the resource. Here\u2019s the questionnaire:"
+                        "text": "Gathered details from the resource. Here’s the questionnaire:"
                       },
                       {
                         "type": "hardBreak"
@@ -43324,7 +43328,7 @@
         "aggregatetimeestimate": null,
         "resolutiondate": null,
         "workratio": -1,
-        "summary": "Content: Case Study - David\u00a0Fisher\u00a0\tSanjay Kumar Jahangir",
+        "summary": "Content: Case Study - David Fisher \tSanjay Kumar Jahangir",
         "watches": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/CS-5/watchers",
           "watchCount": 1,
@@ -44031,7 +44035,5 @@
         }
       }
     }
-  ],
-  "nextPageToken": "ChUjU3RyaW5nJlExTT0lSW50Jk1nPT0QZBiG462HsjMiFnByb2plY3QgPSAiQ2FzZSBTdHVkeSIqAltd",
-  "isLast": false
+  ]
 }

@@ -1,4 +1,8 @@
 {
+  "name": "Other Websites",
+  "id": "10784",
+  "key": "OW",
+  "issue_count": 3,
   "issues": [
     {
       "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
@@ -852,6 +856,5 @@
         }
       }
     }
-  ],
-  "isLast": true
+  ]
 }

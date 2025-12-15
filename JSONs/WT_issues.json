@@ -1,4 +1,8 @@
 {
+  "name": "Website Testing",
+  "id": "10061",
+  "key": "WT",
+  "issue_count": 21,
   "issues": [
     {
       "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
@@ -538,7 +542,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "Please ignore \u201c"
+                        "text": "Please ignore “"
                       },
                       {
                         "type": "text",
@@ -551,7 +555,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "\u201d"
+                        "text": "”"
                       }
                     ]
                   }
@@ -939,7 +943,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " please fix these issues.I did not check the content because of continuous changes in Figma.\u00a0"
+                        "text": " please fix these issues.I did not check the content because of continuous changes in Figma. "
                       },
                       {
                         "type": "hardBreak"
@@ -3705,7 +3709,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "except one page which is \u201cbanner cta not working\u201d rest is done in this page form is not added to page for CTA redirection"
+                        "text": "except one page which is “banner cta not working” rest is done in this page form is not added to page for CTA redirection"
                       }
                     ]
                   },
@@ -5688,7 +5692,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " The videos of Emma Robinson and Sarah Robinson are same for \u201cAircasts ltd\u201d"
+                        "text": " The videos of Emma Robinson and Sarah Robinson are same for “Aircasts ltd”"
                       },
                       {
                         "type": "hardBreak"
@@ -6222,7 +6226,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " This is the link in which Sarah Robinson\u2019s video is not working"
+                        "text": " This is the link in which Sarah Robinson’s video is not working"
                       },
                       {
                         "type": "hardBreak"
@@ -6507,7 +6511,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " here is the list of Urls in which Emma Robinson\u2019s video is not working."
+                        "text": " here is the list of Urls in which Emma Robinson’s video is not working."
                       },
                       {
                         "type": "hardBreak"
@@ -6965,7 +6969,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Rajni did not find any video of Nick Arietta\u2019s on our website"
+                        "text": "Rajni did not find any video of Nick Arietta’s on our website"
                       }
                     ]
                   }
@@ -7644,6 +7648,5 @@
         }
       }
     }
-  ],
-  "isLast": true
+  ]
 }

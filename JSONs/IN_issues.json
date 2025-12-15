@@ -1,4 +1,8 @@
 {
+  "name": "InterviewFirst Website",
+  "id": "10751",
+  "key": "IN",
+  "issue_count": 1,
   "issues": [
     {
       "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
@@ -224,6 +228,5 @@
         }
       }
     }
-  ],
-  "isLast": true
+  ]
 }

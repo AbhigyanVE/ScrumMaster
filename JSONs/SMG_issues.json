@@ -1,4 +1,8 @@
 {
+  "name": "SEO Mini Guides ",
+  "id": "10021",
+  "key": "SMG",
+  "issue_count": 7,
   "issues": [
     {
       "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
@@ -260,7 +264,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Nicely written Ma\u2019am"
+                        "text": "Nicely written Ma’am"
                       }
                     ]
                   }
@@ -594,7 +598,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Looks good Ma\u2019am"
+                        "text": "Looks good Ma’am"
                       }
                     ]
                   }
@@ -967,7 +971,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am, yes please add the Title of the mini guide in teh task name like we have done for other guides and also add the link of the guide in the comments."
+                        "text": " ma’am, yes please add the Title of the mini guide in teh task name like we have done for other guides and also add the link of the guide in the comments."
                       },
                       {
                         "type": "hardBreak"
@@ -1295,7 +1299,7 @@
         "aggregatetimeestimate": null,
         "resolutiondate": "2025-08-08T19:30:49.379+0530",
         "workratio": -1,
-        "summary": "Mini Guide 4: The 2025 SEO Playbook The Shifts You Can\u2019t Ignore (If You Want to Rank)",
+        "summary": "Mini Guide 4: The 2025 SEO Playbook The Shifts You Can’t Ignore (If You Want to Rank)",
         "watches": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/SMG-4/watchers",
           "watchCount": 2,
@@ -1415,11 +1419,11 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am for your review: "
+                        "text": " ma’am for your review: "
                       },
                       {
                         "type": "text",
-                        "text": "Mini Guide 4-The 2025 SEO Playbook The Shifts You Can\u2019t Ignore (If You Want to Rank).docx",
+                        "text": "Mini Guide 4-The 2025 SEO Playbook The Shifts You Can’t Ignore (If You Want to Rank).docx",
                         "marks": [
                           {
                             "type": "link",
@@ -1485,7 +1489,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "  it looks professional, well-reasoned, and valuable. It\u2019s not just up to date but actually ahead of the curve. It aligns perfectly with Google\u2019s evolving priorities, addresses client concerns in the post-AI update era, and reinforces our internal positioning as experts in future-ready SEO."
+                        "text": "  it looks professional, well-reasoned, and valuable. It’s not just up to date but actually ahead of the curve. It aligns perfectly with Google’s evolving priorities, addresses client concerns in the post-AI update era, and reinforces our internal positioning as experts in future-ready SEO."
                       }
                     ]
                   }
@@ -1784,7 +1788,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Here is the mini guide written by Daya ma\u2019am"
+                        "text": "Here is the mini guide written by Daya ma’am"
                       },
                       {
                         "type": "mediaInline",
@@ -1846,7 +1850,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Sandip\u2019s feedback: It's really well written. Nothing to add from my side except one small suggestion. Including a few data-backed proof points could take it from great to premium. Maybe just one client result or a case-style stat would add that extra milage."
+                        "text": "Sandip’s feedback: It's really well written. Nothing to add from my side except one small suggestion. Including a few data-backed proof points could take it from great to premium. Maybe just one client result or a case-style stat would add that extra milage."
                       }
                     ]
                   },
@@ -1855,7 +1859,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "For example: \u201cA B2B SaaS client cut CAC by 37% in 60 days after switching to these metrics.\u201d"
+                        "text": "For example: “A B2B SaaS client cut CAC by 37% in 60 days after switching to these metrics.”"
                       }
                     ]
                   }
@@ -1905,7 +1909,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Feedback added and some more. Here\u2019s the link: "
+                        "text": "Feedback added and some more. Here’s the link: "
                       },
                       {
                         "type": "text",
@@ -1976,7 +1980,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " please work on the banner image for this guide and ensure that it is high quality. Below, I\u2019m sharing some of the live guides URLs for image reference and color combination."
+                        "text": " please work on the banner image for this guide and ensure that it is high quality. Below, I’m sharing some of the live guides URLs for image reference and color combination."
                       },
                       {
                         "type": "hardBreak"
@@ -2455,7 +2459,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Here is the document shared by Daya ma\u2019am: "
+                        "text": "Here is the document shared by Daya ma’am: "
                       },
                       {
                         "type": "mediaInline",
@@ -2517,7 +2521,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Here\u2019s the link:  "
+                        "text": "Here’s the link:  "
                       },
                       {
                         "type": "text",
@@ -3018,7 +3022,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am, please share the final version of the mini guide and assign it to Praveen for publishing."
+                        "text": " Ma’am, please share the final version of the mini guide and assign it to Praveen for publishing."
                       }
                     ]
                   }
@@ -3199,7 +3203,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " please work on the banner image for this guide and ensure that it is high quality. Below, I\u2019m sharing some of the live guides URLs for image reference and color combination."
+                        "text": " please work on the banner image for this guide and ensure that it is high quality. Below, I’m sharing some of the live guides URLs for image reference and color combination."
                       }
                     ]
                   },
@@ -3500,6 +3504,5 @@
         }
       }
     }
-  ],
-  "isLast": true
+  ]
 }

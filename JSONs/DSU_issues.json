@@ -1,4 +1,8 @@
 {
+  "name": "Daily Stand Up",
+  "id": "10587",
+  "key": "DSU",
+  "issue_count": 6,
   "issues": [
     {
       "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
@@ -44,7 +48,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "4th August- Work updates is shared(Today\u2019s plan)"
+                  "text": "4th August- Work updates is shared(Today’s plan)"
                 }
               ]
             }
@@ -696,7 +700,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "1 hour stand-up call on 30th July\u201925"
+                        "text": "1 hour stand-up call on 30th July’25"
                       }
                     ]
                   }
@@ -746,7 +750,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "0.5-hour stand-up call on 31 July\u201925"
+                        "text": "0.5-hour stand-up call on 31 July’25"
                       }
                     ]
                   }
@@ -796,7 +800,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "0.5-hour stand-up call on 1st Aug\u201925"
+                        "text": "0.5-hour stand-up call on 1st Aug’25"
                       }
                     ]
                   }
@@ -846,7 +850,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "0.5-hour stand-up call on 4th Aug\u201925"
+                        "text": "0.5-hour stand-up call on 4th Aug’25"
                       }
                     ]
                   }
@@ -1790,7 +1794,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Yesterday and today\u2019s , updates given in a meeting"
+                        "text": "Yesterday and today’s , updates given in a meeting"
                       }
                     ]
                   }
@@ -1840,7 +1844,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Today\u2019s planned work discussed in the meeting"
+                        "text": "Today’s planned work discussed in the meeting"
                       }
                     ]
                   }
@@ -1890,7 +1894,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "updates given- about today\u2019s task"
+                        "text": "updates given- about today’s task"
                       }
                     ]
                   }
@@ -2678,7 +2682,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "30 min (weekly work status call) + 1 hour (Moonshot call) \u2013 Sept 9"
+                        "text": "30 min (weekly work status call) + 1 hour (Moonshot call) – Sept 9"
                       }
                     ]
                   }
@@ -2728,7 +2732,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "55 mins call \u2013 discussion of success stories "
+                        "text": "55 mins call – discussion of success stories "
                       }
                     ]
                   }
@@ -2778,7 +2782,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "45 mins call \u2013 SEO Weekly Connect \u2013 Sept 15"
+                        "text": "45 mins call – SEO Weekly Connect – Sept 15"
                       }
                     ]
                   }
@@ -2828,7 +2832,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "45 mins call \u2013 Remarketing Sept 16"
+                        "text": "45 mins call – Remarketing Sept 16"
                       }
                     ]
                   }
@@ -2878,7 +2882,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "15 mins call \u2013 Testimonial (quote writing) \u2013 Sept 17"
+                        "text": "15 mins call – Testimonial (quote writing) – Sept 17"
                       }
                     ]
                   }
@@ -2928,7 +2932,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "20m call \u2013 remarketing; halloween LP \u2013 sept 22"
+                        "text": "20m call – remarketing; halloween LP – sept 22"
                       }
                     ]
                   }
@@ -3028,7 +3032,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "45 min call on remarketing \u2013 Halloween \u2013 Oct 8"
+                        "text": "45 min call on remarketing – Halloween – Oct 8"
                       }
                     ]
                   }
@@ -3078,14 +3082,14 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "success story call \u2013 48m (29th oct)"
+                        "text": "success story call – 48m (29th oct)"
                       },
                       {
                         "type": "hardBreak"
                       },
                       {
                         "type": "text",
-                        "text": "team call \u2013 20m (29 oct)"
+                        "text": "team call – 20m (29 oct)"
                       }
                     ]
                   }
@@ -3356,7 +3360,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Call with Daya Ma\u2019am (AI writing and correcting prompts) \u2013 Nov 25 \u2013 1h 10m"
+                        "text": "Call with Daya Ma’am (AI writing and correcting prompts) – Nov 25 – 1h 10m"
                       }
                     ]
                   }
@@ -3406,7 +3410,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Content status call \u2013 45 mins \u2013 Dec 3"
+                        "text": "Content status call – 45 mins – Dec 3"
                       }
                     ]
                   }
@@ -3456,7 +3460,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Moonshot call \u2013 1h - "
+                        "text": "Moonshot call – 1h - "
                       },
                       {
                         "type": "date",
@@ -3512,7 +3516,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Moonshot call (VA report) \u2013 Dec 10th \u2013 1h"
+                        "text": "Moonshot call (VA report) – Dec 10th – 1h"
                       }
                     ]
                   }
@@ -4340,6 +4344,5 @@
         }
       }
     }
-  ],
-  "isLast": true
+  ]
 }

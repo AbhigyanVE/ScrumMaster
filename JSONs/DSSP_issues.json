@@ -1,4 +1,8 @@
 {
+  "name": "Domain Service SEO Pages",
+  "id": "10008",
+  "key": "DSSP",
+  "issue_count": 24,
   "issues": [
     {
       "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
@@ -428,7 +432,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " . Found some issues with the \u201cTech Stack\u201d section. In the design, we have pop-up content for all the tech. However, in the staging link, we somehow missed that. "
+                        "text": " . Found some issues with the “Tech Stack” section. In the design, we have pop-up content for all the tech. However, in the staging link, we somehow missed that. "
                       }
                     ]
                   }
@@ -948,7 +952,7 @@
                       },
                       {
                         "type": "text",
-                        "text": ". Here\u2019s the content draft for Digital Marketing Domian Service page content draft for design. "
+                        "text": ". Here’s the content draft for Digital Marketing Domian Service page content draft for design. "
                       },
                       {
                         "type": "text",
@@ -1376,7 +1380,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " . I don\u2019t have access to this page."
+                        "text": " . I don’t have access to this page."
                       }
                     ]
                   }
@@ -1510,7 +1514,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " While the page is about testing, our messaging should highlight the outcome\u2026bug-free, frictionless embedded systems. Testing is the process; what clients really care about is reliability, performance, and seamless functionality. Rework on the whole page based on this logic."
+                        "text": " While the page is about testing, our messaging should highlight the outcome…bug-free, frictionless embedded systems. Testing is the process; what clients really care about is reliability, performance, and seamless functionality. Rework on the whole page based on this logic."
                       }
                     ]
                   }
@@ -2127,7 +2131,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "This page has several issues\u2026and that\u2019s what\u2019s most surprising. It should have been one of the easiest to work on, especially since we already have a solid mobile page to reference. All it needed was some thoughtful tweaking. Unfortunately, what\u2019s been delivered falls short of even the basic review benchmark. Please ensure that anything you share with me meets at least that minimum standard before submitting it for review. Bringing this to "
+                        "text": "This page has several issues…and that’s what’s most surprising. It should have been one of the easiest to work on, especially since we already have a solid mobile page to reference. All it needed was some thoughtful tweaking. Unfortunately, what’s been delivered falls short of even the basic review benchmark. Please ensure that anything you share with me meets at least that minimum standard before submitting it for review. Bringing this to "
                       },
                       {
                         "type": "mention",
@@ -2249,7 +2253,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "It\u2019s not working. Stop working on this page. Looping you in "
+                        "text": "It’s not working. Stop working on this page. Looping you in "
                       },
                       {
                         "type": "mention",
@@ -2362,7 +2366,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "As this project is currently on hold, I am moving it to \u2018To Do\u2019 list and removing the start and due date."
+                        "text": "As this project is currently on hold, I am moving it to ‘To Do’ list and removing the start and due date."
                       }
                     ]
                   }
@@ -2582,7 +2586,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " please share the document with Daya ma\u2019am for review and update the status accordingly."
+                        "text": " please share the document with Daya ma’am for review and update the status accordingly."
                       }
                     ]
                   }
@@ -2645,7 +2649,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am. Please share your feedback on the following IT Support Domain Page--"
+                        "text": " ma’am. Please share your feedback on the following IT Support Domain Page--"
                       },
                       {
                         "type": "inlineCard",
@@ -2718,7 +2722,7 @@
                       },
                       {
                         "type": "text",
-                        "text": ", As required, sharing the page with you for sharing SEO team feedback on the IT Support Domain Page before it goes to Daya ma\u2019am-"
+                        "text": ", As required, sharing the page with you for sharing SEO team feedback on the IT Support Domain Page before it goes to Daya ma’am-"
                       },
                       {
                         "type": "inlineCard",
@@ -3129,7 +3133,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " - I\u2019ve implemented the SME\u2019s feedback. Please share SEO feedback for the following page:"
+                        "text": " - I’ve implemented the SME’s feedback. Please share SEO feedback for the following page:"
                       },
                       {
                         "type": "hardBreak"
@@ -3547,7 +3551,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am, please review - "
+                        "text": " ma’am, please review - "
                       },
                       {
                         "type": "text",
@@ -3745,7 +3749,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "As this project is currently on hold, I am moving it to \u2018To Do\u2019 list and removing the start and due date."
+                        "text": "As this project is currently on hold, I am moving it to ‘To Do’ list and removing the start and due date."
                       }
                     ]
                   }
@@ -3960,7 +3964,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " as approved by SME share it with Daya ma\u2019am for review"
+                        "text": " as approved by SME share it with Daya ma’am for review"
                       }
                     ]
                   }
@@ -4023,11 +4027,11 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am. Please review the SEO Domain Service Internal Page - Video Creation & Editing - "
+                        "text": " ma’am. Please review the SEO Domain Service Internal Page - Video Creation & Editing - "
                       },
                       {
                         "type": "text",
-                        "text": "Domain Service Internal Page -\u00a0Video Creation & Editing (First Draft).docx",
+                        "text": "Domain Service Internal Page - Video Creation & Editing (First Draft).docx",
                         "marks": [
                           {
                             "type": "link",
@@ -4048,7 +4052,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "This is the internal page which comes under the Service category page \u201cWeb Designing, Graphic Design and Animation\u201d. This page is approved by the SME \u201cHimansu Nayak)."
+                        "text": "This is the internal page which comes under the Service category page “Web Designing, Graphic Design and Animation”. This page is approved by the SME “Himansu Nayak)."
                       }
                     ]
                   }
@@ -4111,11 +4115,11 @@
                       },
                       {
                         "type": "text",
-                        "text": ", As required, sharing the page with you for sharing SEO team feedback on the Video Creation & Editing domain Service Internal Page  before it goes to Daya ma\u2019am-"
+                        "text": ", As required, sharing the page with you for sharing SEO team feedback on the Video Creation & Editing domain Service Internal Page  before it goes to Daya ma’am-"
                       },
                       {
                         "type": "text",
-                        "text": "Domain Service Internal Page -\u00a0Video Creation & Editing (First Draft).docx",
+                        "text": "Domain Service Internal Page - Video Creation & Editing (First Draft).docx",
                         "marks": [
                           {
                             "type": "link",
@@ -4477,7 +4481,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " as this page has been approved by SME please share it with Daya ma\u2019am for review."
+                        "text": " as this page has been approved by SME please share it with Daya ma’am for review."
                       }
                     ]
                   }
@@ -4540,7 +4544,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am. Please review the SEO Domain Service Internal Page - Hire Animation Expert - "
+                        "text": " ma’am. Please review the SEO Domain Service Internal Page - Hire Animation Expert - "
                       },
                       {
                         "type": "text",
@@ -4561,7 +4565,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "This is the internal page which comes under the Service category page \u201cWeb Designing, Graphic Design and Animation\u201d. This page is approved by the SME \u201cHimansu Nayak)."
+                        "text": "This is the internal page which comes under the Service category page “Web Designing, Graphic Design and Animation”. This page is approved by the SME “Himansu Nayak)."
                       }
                     ]
                   }
@@ -4640,7 +4644,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " before it goes to Daya ma\u2019am"
+                        "text": " before it goes to Daya ma’am"
                       }
                     ]
                   }
@@ -4990,7 +4994,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " please implement the feedback form SME and share it with Daya ma\u2019am for review."
+                        "text": " please implement the feedback form SME and share it with Daya ma’am for review."
                       }
                     ]
                   }
@@ -5053,7 +5057,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am. Please review the SEO Domain Service Internal Page - Web Designing - "
+                        "text": " ma’am. Please review the SEO Domain Service Internal Page - Web Designing - "
                       },
                       {
                         "type": "text",
@@ -5074,7 +5078,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "This is the internal page which comes under the Service category page \u201cWeb Designing, Graphic Design and Animation\u201d. This page is approved by the SME \u201cHimansu Nayak)."
+                        "text": "This is the internal page which comes under the Service category page “Web Designing, Graphic Design and Animation”. This page is approved by the SME “Himansu Nayak)."
                       }
                     ]
                   }
@@ -5153,7 +5157,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " before it goes to Daya ma\u2019am"
+                        "text": " before it goes to Daya ma’am"
                       }
                     ]
                   }
@@ -5212,7 +5216,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " I have reviewed this page\u2019s content requesting you to review it and share your valuable feedback."
+                        "text": " I have reviewed this page’s content requesting you to review it and share your valuable feedback."
                       }
                     ]
                   }
@@ -5553,7 +5557,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am, please review - "
+                        "text": " ma’am, please review - "
                       },
                       {
                         "type": "text",
@@ -5646,7 +5650,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am, your feedback is pending on the page; please share it at the earliest."
+                        "text": " ma’am, your feedback is pending on the page; please share it at the earliest."
                       }
                     ]
                   }
@@ -5759,7 +5763,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "As this project is currently on hold, I am moving it to \u2018To Do\u2019 list and removing the start and due date."
+                        "text": "As this project is currently on hold, I am moving it to ‘To Do’ list and removing the start and due date."
                       }
                     ]
                   }
@@ -5961,7 +5965,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "As this project is currently on hold, I am moving it to \u2018To Do\u2019 list and removing the start and due date."
+                        "text": "As this project is currently on hold, I am moving it to ‘To Do’ list and removing the start and due date."
                       }
                     ]
                   }
@@ -6059,7 +6063,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Windows app dev page not required, hence assigning a new page on 6th Mar\u201925."
+                  "text": "Windows app dev page not required, hence assigning a new page on 6th Mar’25."
                 }
               ]
             }
@@ -6464,7 +6468,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Sir - I\u2019ve shared the page with the SME - Sandip Ghosh for feedback:"
+                        "text": " Sir - I’ve shared the page with the SME - Sandip Ghosh for feedback:"
                       },
                       {
                         "type": "hardBreak"
@@ -6672,7 +6676,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " I have reviewed this page, and I liked the content. I\u2019m now sharing this page with Sandip for his feedback, and then you can implement the combined feedback."
+                        "text": " I have reviewed this page, and I liked the content. I’m now sharing this page with Sandip for his feedback, and then you can implement the combined feedback."
                       }
                     ]
                   }
@@ -6905,7 +6909,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Plz review the following page \u2013 "
+                        "text": " Plz review the following page – "
                       },
                       {
                         "type": "text",
@@ -7106,7 +7110,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " I\u2019ve incorporated changes in doc as per your feedback--"
+                        "text": " I’ve incorporated changes in doc as per your feedback--"
                       },
                       {
                         "type": "text",
@@ -7620,7 +7624,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Sir - I\u2019ve implemented the SME\u2019s feedback. Please review the following domain service page:"
+                        "text": " Sir - I’ve implemented the SME’s feedback. Please review the following domain service page:"
                       },
                       {
                         "type": "hardBreak"
@@ -7697,7 +7701,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " I have shared my feedback. I\u2019m requesting you to review it and share your valuable feedback as well."
+                        "text": " I have shared my feedback. I’m requesting you to review it and share your valuable feedback as well."
                       }
                     ]
                   }
@@ -8430,7 +8434,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am - Pls review."
+                        "text": " Ma’am - Pls review."
                       }
                     ]
                   }
@@ -9172,7 +9176,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am - Pls review."
+                        "text": " Ma’am - Pls review."
                       }
                     ]
                   }
@@ -9568,7 +9572,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Please share the content of the web development domain service page approved by Tanumoy, SME, and Daya ma\u2019am with Praveen in the SEO team."
+                        "text": " Please share the content of the web development domain service page approved by Tanumoy, SME, and Daya ma’am with Praveen in the SEO team."
                       }
                     ]
                   }
@@ -9708,7 +9712,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " I have already shared my feedback on content. I\u2019m requesting you to review the web development (domain pages) content."
+                        "text": " I have already shared my feedback on content. I’m requesting you to review the web development (domain pages) content."
                       }
                     ]
                   }
@@ -10193,7 +10197,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am - Please share your feedback for the following page:"
+                        "text": " Ma’am - Please share your feedback for the following page:"
                       },
                       {
                         "type": "hardBreak"
@@ -10274,7 +10278,7 @@
                       },
                       {
                         "type": "text",
-                        "text": ", Please share your feedback for the following page before it goes to Daya ma\u2019am: "
+                        "text": ", Please share your feedback for the following page before it goes to Daya ma’am: "
                       },
                       {
                         "type": "text",
@@ -11329,7 +11333,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am was on emergency medical leave, extending the due date."
+                        "text": " ma’am was on emergency medical leave, extending the due date."
                       }
                     ]
                   }
@@ -11392,7 +11396,7 @@
                       },
                       {
                         "type": "text",
-                        "text": ", Please share your feedback for the following page before it goes to Daya ma\u2019am: software development page "
+                        "text": ", Please share your feedback for the following page before it goes to Daya ma’am: software development page "
                       },
                       {
                         "type": "text",
@@ -11913,7 +11917,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " feedback received from Devender Nath Maurya (SME), please implement it and share it with Daya ma\u2019am for further review."
+                        "text": " feedback received from Devender Nath Maurya (SME), please implement it and share it with Daya ma’am for further review."
                       }
                     ]
                   }
@@ -13650,7 +13654,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am. Please review the SEO Domain Service Internal Page -(Architectural Design & Engineering) - "
+                        "text": " ma’am. Please review the SEO Domain Service Internal Page -(Architectural Design & Engineering) - "
                       },
                       {
                         "type": "text",
@@ -13671,7 +13675,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "This is the internal page which comes under the Service category page \u201cWeb Designing, Graphic Design and Animation\u201d. This page is approved by the SME (Himansu Nayak)."
+                        "text": "This is the internal page which comes under the Service category page “Web Designing, Graphic Design and Animation”. This page is approved by the SME (Himansu Nayak)."
                       }
                     ]
                   }
@@ -13734,7 +13738,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Please review the SEO Domain Service Internal Page - (Architectural Design & Engineering) before it goes to Daya ma\u2019am - "
+                        "text": " Please review the SEO Domain Service Internal Page - (Architectural Design & Engineering) before it goes to Daya ma’am - "
                       },
                       {
                         "type": "text",
@@ -13935,6 +13939,5 @@
         }
       }
     }
-  ],
-  "isLast": true
+  ]
 }

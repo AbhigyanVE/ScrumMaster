@@ -1,4 +1,8 @@
 {
+  "name": "Monthly Reports-SEO, Social Media",
+  "id": "10586",
+  "key": "SMR",
+  "issue_count": 1,
   "issues": [
     {
       "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
@@ -159,7 +163,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "VE SEO Leads segregation \u2013 Direct and Organic \u2013 Will be working on the April\u201925-month data provided by Sayeli so as we can finalize the numbers of Direct and Organic leads.\u00a0"
+                        "text": "VE SEO Leads segregation – Direct and Organic – Will be working on the April’25-month data provided by Sayeli so as we can finalize the numbers of Direct and Organic leads. "
                       }
                     ]
                   },
@@ -168,7 +172,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Working on On-Page SEO Report like what activities we have performed in April\u201925"
+                        "text": "Working on On-Page SEO Report like what activities we have performed in April’25"
                       }
                     ]
                   },
@@ -339,6 +343,5 @@
         }
       }
     }
-  ],
-  "isLast": true
+  ]
 }

@@ -1,4 +1,8 @@
 {
+  "name": "Blogs",
+  "id": "10157",
+  "key": "BLOG",
+  "issue_count": 97,
   "issues": [
     {
       "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
@@ -1499,7 +1503,7 @@
                 },
                 {
                   "type": "text",
-                  "text": " ma\u2019am, "
+                  "text": " ma’am, "
                 },
                 {
                   "type": "mention",
@@ -1559,7 +1563,7 @@
           {
             "self": "https://idealabprojects.atlassian.net/rest/api/3/attachment/13469",
             "id": "13469",
-            "filename": "Guest Blogging_Bookkeeping_AI\u2013Human Finance Hybrid-final 1.odt",
+            "filename": "Guest Blogging_Bookkeeping_AI–Human Finance Hybrid-final 1.odt",
             "author": {
               "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3d0d1e55-ab61-4668-a46a-fc40721ae07a",
               "accountId": "712020:3d0d1e55-ab61-4668-a46a-fc40721ae07a",
@@ -1582,7 +1586,7 @@
           {
             "self": "https://idealabprojects.atlassian.net/rest/api/3/attachment/13537",
             "id": "13537",
-            "filename": "Guest Blogging_Bookkeeping_AI\u2013Human Finance Hybrid-final 1 (1)REVIEWED.docx",
+            "filename": "Guest Blogging_Bookkeeping_AI–Human Finance Hybrid-final 1 (1)REVIEWED.docx",
             "author": {
               "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=605aad190a9b6900719e7c99",
               "accountId": "605aad190a9b6900719e7c99",
@@ -1630,7 +1634,7 @@
         "aggregatetimeestimate": null,
         "resolutiondate": "2025-12-04T13:07:03.183+0530",
         "workratio": -1,
-        "summary": "Guest Blog Post 8th - The AI\u2013Human Finance Hybrid: Why Bookkeeping Won\u2019t Be Fully Automated Anytime Soon",
+        "summary": "Guest Blog Post 8th - The AI–Human Finance Hybrid: Why Bookkeeping Won’t Be Fully Automated Anytime Soon",
         "watches": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/BLOG-91/watchers",
           "watchCount": 2,
@@ -1723,7 +1727,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "It shows 100% AI in gpt zero\u2026..is that ok?"
+                        "text": "It shows 100% AI in gpt zero…..is that ok?"
                       },
                       {
                         "type": "hardBreak"
@@ -1848,7 +1852,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am Please check the content link: "
+                        "text": " Ma’am Please check the content link: "
                       },
                       {
                         "type": "inlineCard",
@@ -1868,7 +1872,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "And ma\u2019am content has been checked from another tool and it is 100% AI free,"
+                        "text": "And ma’am content has been checked from another tool and it is 100% AI free,"
                       },
                       {
                         "type": "hardBreak"
@@ -1956,7 +1960,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Hello Ma\u2019am, please check the final link: "
+                        "text": "Hello Ma’am, please check the final link: "
                       },
                       {
                         "type": "inlineCard",
@@ -2140,7 +2144,7 @@
                 },
                 {
                   "type": "text",
-                  "text": " ma\u2019am, "
+                  "text": " ma’am, "
                 },
                 {
                   "type": "mention",
@@ -2313,7 +2317,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Ma\u2019am, please check the content link: "
+                        "text": "Ma’am, please check the content link: "
                       },
                       {
                         "type": "inlineCard",
@@ -2383,7 +2387,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "I dont know which tool the team is using. GPT Zero said the entire piece was 100% AI. So not sure whats happening here. Although, yes, the entire piece felt bland and heavily repetitive with little depth and no real data. Just circling and looping. The structure is strong but lacks density \u2014 too many repetitions of the same points."
+                        "text": "I dont know which tool the team is using. GPT Zero said the entire piece was 100% AI. So not sure whats happening here. Although, yes, the entire piece felt bland and heavily repetitive with little depth and no real data. Just circling and looping. The structure is strong but lacks density — too many repetitions of the same points."
                       },
                       {
                         "type": "hardBreak"
@@ -2460,7 +2464,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "What\u2019s missing is real depth \u2014 the kind that comes from:"
+                        "text": "What’s missing is real depth — the kind that comes from:"
                       }
                     ]
                   },
@@ -2667,7 +2671,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Article 1 \u2013 \u201cBuild Where the Talent Is\u201d",
+                  "text": "Article 1 – “Build Where the Talent Is”",
                   "marks": [
                     {
                       "type": "strong"
@@ -2692,7 +2696,7 @@
                 },
                 {
                   "type": "text",
-                  "text": " \u2014 why global firms are moving from outsourcing to ownership as rising visa costs and skill shortages push capability eastward. India emerges as the logical base for control, innovation, and cost balance."
+                  "text": " — why global firms are moving from outsourcing to ownership as rising visa costs and skill shortages push capability eastward. India emerges as the logical base for control, innovation, and cost balance."
                 }
               ]
             },
@@ -2701,7 +2705,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Article 2 \u2013 \u201cHow Mid-Sized Firms Are Building Mini-GICs\u201d",
+                  "text": "Article 2 – “How Mid-Sized Firms Are Building Mini-GICs”",
                   "marks": [
                     {
                       "type": "strong"
@@ -2726,7 +2730,7 @@
                 },
                 {
                   "type": "text",
-                  "text": " of this model \u2014 how smaller and mid-sized companies are now building lean, plug-and-play GICs without the capital and complexity of large captives. It explores the rise of hybrid and soft-landing setups that make capability accessible to all."
+                  "text": " of this model — how smaller and mid-sized companies are now building lean, plug-and-play GICs without the capital and complexity of large captives. It explores the rise of hybrid and soft-landing setups that make capability accessible to all."
                 }
               ]
             },
@@ -2735,7 +2739,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Article 3 \u2013 \u201cThe Geography of Talent: How Tier-2 India Is Powering the Next Wave of GICs\u201d",
+                  "text": "Article 3 – “The Geography of Talent: How Tier-2 India Is Powering the Next Wave of GICs”",
                   "marks": [
                     {
                       "type": "strong"
@@ -2760,7 +2764,7 @@
                 },
                 {
                   "type": "text",
-                  "text": " \u2014 how Tier-2 cities are now powering India\u2019s distributed GIC network. It looks at how stability, talent depth, and regional strengths are redefining where global work gets built."
+                  "text": " — how Tier-2 cities are now powering India’s distributed GIC network. It looks at how stability, talent depth, and regional strengths are redefining where global work gets built."
                 }
               ]
             }
@@ -2893,7 +2897,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am, Please review it."
+                        "text": " Ma’am, Please review it."
                       }
                     ]
                   },
@@ -3021,7 +3025,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " , its hard to believe Irfan has written this piece. Lots of issues, ambiguity, and a completely disjointed second half\u2026\u2026. "
+                        "text": " , its hard to believe Irfan has written this piece. Lots of issues, ambiguity, and a completely disjointed second half……. "
                       },
                       {
                         "type": "hardBreak"
@@ -3205,7 +3209,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "\u00a0"
+                  "text": " "
                 }
               ]
             },
@@ -3214,7 +3218,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Article 1 \u2013 \u201cBuild Where the Talent Is\u201d",
+                  "text": "Article 1 – “Build Where the Talent Is”",
                   "marks": [
                     {
                       "type": "strong"
@@ -3239,7 +3243,7 @@
                 },
                 {
                   "type": "text",
-                  "text": " \u2014 why global firms are moving from outsourcing to ownership as rising visa costs and skill shortages push capability eastward. India emerges as the logical base for control, innovation, and cost balance."
+                  "text": " — why global firms are moving from outsourcing to ownership as rising visa costs and skill shortages push capability eastward. India emerges as the logical base for control, innovation, and cost balance."
                 }
               ]
             },
@@ -3248,7 +3252,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Article 2 \u2013 \u201cHow Mid-Sized Firms Are Building Mini-GICs\u201d",
+                  "text": "Article 2 – “How Mid-Sized Firms Are Building Mini-GICs”",
                   "marks": [
                     {
                       "type": "strong"
@@ -3273,7 +3277,7 @@
                 },
                 {
                   "type": "text",
-                  "text": " of this model \u2014 how smaller and mid-sized companies are now building lean, plug-and-play GICs without the capital and complexity of large captives. It explores the rise of hybrid and soft-landing setups that make capability accessible to all."
+                  "text": " of this model — how smaller and mid-sized companies are now building lean, plug-and-play GICs without the capital and complexity of large captives. It explores the rise of hybrid and soft-landing setups that make capability accessible to all."
                 }
               ]
             },
@@ -3282,7 +3286,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Article 3 \u2013 \u201cThe Geography of Talent: How Tier-2 India Is Powering the Next Wave of GICs\u201d",
+                  "text": "Article 3 – “The Geography of Talent: How Tier-2 India Is Powering the Next Wave of GICs”",
                   "marks": [
                     {
                       "type": "strong"
@@ -3307,7 +3311,7 @@
                 },
                 {
                   "type": "text",
-                  "text": " \u2014 how Tier-2 cities are now powering India\u2019s distributed GIC network. It looks at how stability, talent depth, and regional strengths are redefining where global work gets built."
+                  "text": " — how Tier-2 cities are now powering India’s distributed GIC network. It looks at how stability, talent depth, and regional strengths are redefining where global work gets built."
                 }
               ]
             }
@@ -3443,7 +3447,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Article 1 \u2013 \u201cBuild Where the Talent Is\u201d",
+                        "text": "Article 1 – “Build Where the Talent Is”",
                         "marks": [
                           {
                             "type": "strong"
@@ -3468,7 +3472,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " \u2014 why global firms are moving from outsourcing to ownership as rising visa costs and skill shortages push capability eastward. India emerges as the logical base for control, innovation, and cost balance."
+                        "text": " — why global firms are moving from outsourcing to ownership as rising visa costs and skill shortages push capability eastward. India emerges as the logical base for control, innovation, and cost balance."
                       }
                     ]
                   },
@@ -3477,7 +3481,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Article 2 \u2013 \u201cHow Mid-Sized Firms Are Building Mini-GICs\u201d",
+                        "text": "Article 2 – “How Mid-Sized Firms Are Building Mini-GICs”",
                         "marks": [
                           {
                             "type": "strong"
@@ -3502,7 +3506,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " of this model \u2014 how smaller and mid-sized companies are now building lean, plug-and-play GICs without the capital and complexity of large captives. It explores the rise of hybrid and soft-landing setups that make capability accessible to all."
+                        "text": " of this model — how smaller and mid-sized companies are now building lean, plug-and-play GICs without the capital and complexity of large captives. It explores the rise of hybrid and soft-landing setups that make capability accessible to all."
                       }
                     ]
                   },
@@ -3511,7 +3515,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Article 3 \u2013 \u201cThe Geography of Talent: How Tier-2 India Is Powering the Next Wave of GICs\u201d",
+                        "text": "Article 3 – “The Geography of Talent: How Tier-2 India Is Powering the Next Wave of GICs”",
                         "marks": [
                           {
                             "type": "strong"
@@ -3536,7 +3540,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " \u2014 how Tier-2 cities are now powering India\u2019s distributed GIC network. It looks at how stability, talent depth, and regional strengths are redefining where global work gets built."
+                        "text": " — how Tier-2 cities are now powering India’s distributed GIC network. It looks at how stability, talent depth, and regional strengths are redefining where global work gets built."
                       }
                     ]
                   }
@@ -3595,7 +3599,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am, Please review it."
+                        "text": " Ma’am, Please review it."
                       },
                       {
                         "type": "hardBreak"
@@ -3658,7 +3662,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Something\u2019s wrong with the access\u2026midway the access goes away and it goes into a non-editable mode. pls fix this. for the remaining 2 articles. "
+                        "text": "Something’s wrong with the access…midway the access goes away and it goes into a non-editable mode. pls fix this. for the remaining 2 articles. "
                       }
                     ]
                   }
@@ -3820,7 +3824,7 @@
                 },
                 {
                   "type": "text",
-                  "text": "Article 1 \u2013 \u201cBuild Where the Talent Is\u201d",
+                  "text": "Article 1 – “Build Where the Talent Is”",
                   "marks": [
                     {
                       "type": "strong"
@@ -3845,7 +3849,7 @@
                 },
                 {
                   "type": "text",
-                  "text": " \u2014 why global firms are moving from outsourcing to ownership as rising visa costs and skill shortages push capability eastward. India emerges as the logical base for control, innovation, and cost balance."
+                  "text": " — why global firms are moving from outsourcing to ownership as rising visa costs and skill shortages push capability eastward. India emerges as the logical base for control, innovation, and cost balance."
                 }
               ]
             },
@@ -3854,7 +3858,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Article 2 \u2013 \u201cHow Mid-Sized Firms Are Building Mini-GICs\u201d",
+                  "text": "Article 2 – “How Mid-Sized Firms Are Building Mini-GICs”",
                   "marks": [
                     {
                       "type": "strong"
@@ -3879,7 +3883,7 @@
                 },
                 {
                   "type": "text",
-                  "text": " of this model \u2014 how smaller and mid-sized companies are now building lean, plug-and-play GICs without the capital and complexity of large captives. It explores the rise of hybrid and soft-landing setups that make capability accessible to all."
+                  "text": " of this model — how smaller and mid-sized companies are now building lean, plug-and-play GICs without the capital and complexity of large captives. It explores the rise of hybrid and soft-landing setups that make capability accessible to all."
                 }
               ]
             },
@@ -3888,7 +3892,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Article 3 \u2013 \u201cThe Geography of Talent: How Tier-2 India Is Powering the Next Wave of GICs\u201d",
+                  "text": "Article 3 – “The Geography of Talent: How Tier-2 India Is Powering the Next Wave of GICs”",
                   "marks": [
                     {
                       "type": "strong"
@@ -3913,7 +3917,7 @@
                 },
                 {
                   "type": "text",
-                  "text": " \u2014 how Tier-2 cities are now powering India\u2019s distributed GIC network. It looks at how stability, talent depth, and regional strengths are redefining where global work gets built."
+                  "text": " — how Tier-2 cities are now powering India’s distributed GIC network. It looks at how stability, talent depth, and regional strengths are redefining where global work gets built."
                 }
               ]
             }
@@ -3967,7 +3971,7 @@
         "aggregatetimeestimate": 0,
         "resolutiondate": null,
         "workratio": -1,
-        "summary": "(GCC Article Series): Article - 1: India\u2019s GCC Era: The Centre of Gravity Has Moved East ",
+        "summary": "(GCC Article Series): Article - 1: India’s GCC Era: The Centre of Gravity Has Moved East ",
         "watches": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/BLOG-87/watchers",
           "watchCount": 2,
@@ -4075,7 +4079,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am, Please review it."
+                        "text": " Ma’am, Please review it."
                       }
                     ]
                   }
@@ -4370,7 +4374,7 @@
                 },
                 {
                   "type": "text",
-                  "text": " ma\u2019am, Vikas has written this content. Please check and share your feedback"
+                  "text": " ma’am, Vikas has written this content. Please check and share your feedback"
                 },
                 {
                   "type": "hardBreak"
@@ -4516,7 +4520,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am. I think this can go for publishing. "
+                        "text": " ma’am. I think this can go for publishing. "
                       }
                     ]
                   }
@@ -4575,7 +4579,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " It seems ok. Just didn\u2019t get the context. It would help if you always make it a point to add some background as to the purpose of such topics. Is it related to some case study, a web page, ?"
+                        "text": " It seems ok. Just didn’t get the context. It would help if you always make it a point to add some background as to the purpose of such topics. Is it related to some case study, a web page, ?"
                       }
                     ]
                   }
@@ -4633,7 +4637,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Sure Mam. We write medium content for Spoke/Influencer medium profile. Who has basically knowledge/expertise in some specific domain and write content around that particular domain. They don't have any connection with VE. Later on when they have good number of content in their profile they will refer VE or VE content for specific domain, so that LLM can pick VE brand for that particular domain.\u00a0These profile content topics based on domain prompt based.\u00a0"
+                        "text": " Sure Mam. We write medium content for Spoke/Influencer medium profile. Who has basically knowledge/expertise in some specific domain and write content around that particular domain. They don't have any connection with VE. Later on when they have good number of content in their profile they will refer VE or VE content for specific domain, so that LLM can pick VE brand for that particular domain. These profile content topics based on domain prompt based. "
                       }
                     ]
                   }
@@ -4899,7 +4903,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Plz review this blog \u2013 "
+                        "text": " Plz review this blog – "
                       },
                       {
                         "type": "text",
@@ -5228,7 +5232,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Link of doc \u2013 "
+                        "text": "Link of doc – "
                       },
                       {
                         "type": "text",
@@ -5364,7 +5368,7 @@
                 },
                 {
                   "type": "text",
-                  "text": " ma\u2019am, Vikas has written medium spoke content. Please check and share your valuable feedback"
+                  "text": " ma’am, Vikas has written medium spoke content. Please check and share your valuable feedback"
                 },
                 {
                   "type": "hardBreak"
@@ -5712,7 +5716,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Here is the link to the AI optimized blog \u2013 "
+                        "text": " Here is the link to the AI optimized blog – "
                       },
                       {
                         "type": "text",
@@ -5905,7 +5909,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am, Please review it."
+                        "text": " Ma’am, Please review it."
                       }
                     ]
                   }
@@ -6018,7 +6022,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " I\u2019ve incorporated the feedback given by ma\u2019am. Plz check."
+                        "text": " I’ve incorporated the feedback given by ma’am. Plz check."
                       }
                     ]
                   }
@@ -6632,7 +6636,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "Blog (AIO-Optimized) -\u00a0Is Outsourcing Overseas a disadvantage for developing countries",
+                        "text": "Blog (AIO-Optimized) - Is Outsourcing Overseas a disadvantage for developing countries",
                         "marks": [
                           {
                             "type": "link",
@@ -6820,7 +6824,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am - Please review:"
+                        "text": " Ma’am - Please review:"
                       },
                       {
                         "type": "hardBreak"
@@ -6830,7 +6834,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "Blog (AIO-Optimized) -\u00a0Is Outsourcing Overseas a disadvantage for developing countries.docx",
+                        "text": "Blog (AIO-Optimized) - Is Outsourcing Overseas a disadvantage for developing countries.docx",
                         "marks": [
                           {
                             "type": "link",
@@ -6938,7 +6942,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "good to go. Although this could be an outdated log now, in the light of Trump\u2019s new mandates. "
+                        "text": "good to go. Although this could be an outdated log now, in the light of Trump’s new mandates. "
                       }
                     ]
                   }
@@ -7746,7 +7750,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "Blog (AIO-Optimized) -\u00a0Is Outsourcing just a reverse of the H1B visa for small companies",
+                        "text": "Blog (AIO-Optimized) - Is Outsourcing just a reverse of the H1B visa for small companies",
                         "marks": [
                           {
                             "type": "link",
@@ -7934,7 +7938,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am - Please review:"
+                        "text": " Ma’am - Please review:"
                       },
                       {
                         "type": "hardBreak"
@@ -7944,7 +7948,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "Blog (AIO-Optimized) -\u00a0Is Outsourcing just a reverse of the H1B visa for small companies.docx",
+                        "text": "Blog (AIO-Optimized) - Is Outsourcing just a reverse of the H1B visa for small companies.docx",
                         "marks": [
                           {
                             "type": "link",
@@ -8629,7 +8633,7 @@
           "key": "BLOG-75",
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/13780",
           "fields": {
-            "summary": "Blog (AIO-Optimized) - Virtual Employees \u2013 your heavy weather friends",
+            "summary": "Blog (AIO-Optimized) - Virtual Employees – your heavy weather friends",
             "status": {
               "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10373",
               "description": "",
@@ -8706,7 +8710,7 @@
         "aggregatetimeestimate": 0,
         "resolutiondate": null,
         "workratio": 700,
-        "summary": "Review: Blog (AIO-Optimized) - Virtual Employees \u2013 your heavy weather friends",
+        "summary": "Review: Blog (AIO-Optimized) - Virtual Employees – your heavy weather friends",
         "watches": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/BLOG-76/watchers",
           "watchCount": 4,
@@ -8826,7 +8830,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "Blog (AIO-Optimized) -\u00a0Virtual Employees \u2013 your heavy weather friends.docx",
+                        "text": "Blog (AIO-Optimized) - Virtual Employees – your heavy weather friends.docx",
                         "marks": [
                           {
                             "type": "link",
@@ -9014,7 +9018,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am, Please review it."
+                        "text": " Ma’am, Please review it."
                       }
                     ]
                   }
@@ -9462,7 +9466,7 @@
         "aggregatetimeestimate": 0,
         "resolutiondate": null,
         "workratio": -1,
-        "summary": "Blog (AIO-Optimized) - Virtual Employees \u2013 your heavy weather friends",
+        "summary": "Blog (AIO-Optimized) - Virtual Employees – your heavy weather friends",
         "watches": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/BLOG-75/watchers",
           "watchCount": 1,
@@ -9489,7 +9493,7 @@
             "key": "BLOG-76",
             "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/13782",
             "fields": {
-              "summary": "Review: Blog (AIO-Optimized) - Virtual Employees \u2013 your heavy weather friends",
+              "summary": "Review: Blog (AIO-Optimized) - Virtual Employees – your heavy weather friends",
               "status": {
                 "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10373",
                 "description": "",
@@ -9872,7 +9876,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "Blog (AIO-Optimized) -\u00a0Building a Culture of Innovation Through Outsourcing",
+                        "text": "Blog (AIO-Optimized) - Building a Culture of Innovation Through Outsourcing",
                         "marks": [
                           {
                             "type": "link",
@@ -10060,7 +10064,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am, Please review it."
+                        "text": " Ma’am, Please review it."
                       }
                     ]
                   }
@@ -10744,7 +10748,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Just to share some context \u2014 the articles currently in review are part of a planned series on SEO and LLM topics. These are designed as long-form, in-depth pieces because such content performs better from an SEO perspective. Search engines tend to rank detailed, comprehensive articles higher for these kinds of topics, especially when they include strong research, examples, and supporting references.  This is 11th articles in this series."
+                  "text": "Just to share some context — the articles currently in review are part of a planned series on SEO and LLM topics. These are designed as long-form, in-depth pieces because such content performs better from an SEO perspective. Search engines tend to rank detailed, comprehensive articles higher for these kinds of topics, especially when they include strong research, examples, and supporting references.  This is 11th articles in this series."
                 }
               ]
             }
@@ -10877,7 +10881,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am. This is 11th article in this AI SEO series and it will go on blog section."
+                        "text": " Ma’am. This is 11th article in this AI SEO series and it will go on blog section."
                       }
                     ]
                   }
@@ -11146,7 +11150,7 @@
                 },
                 {
                   "type": "text",
-                  "text": " ma\u2019am, Vikash has written medium spoke content. Please check and share your feedback"
+                  "text": " ma’am, Vikash has written medium spoke content. Please check and share your feedback"
                 },
                 {
                   "type": "hardBreak"
@@ -11292,7 +11296,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " : Tanumoy, I understand that this piece wasn\u2019t run by you first? It should have been."
+                        "text": " : Tanumoy, I understand that this piece wasn’t run by you first? It should have been."
                       },
                       {
                         "type": "hardBreak"
@@ -11318,14 +11322,14 @@
                       },
                       {
                         "type": "text",
-                        "text": "This piece overpromises and underdelivers. It opens with big moral claims (\u201cSEO without accountability is dangerous,\u201d \u201csearch is now moral\u201d) but ends up giving generic tips (timestamps, diverse links)."
+                        "text": "This piece overpromises and underdelivers. It opens with big moral claims (“SEO without accountability is dangerous,” “search is now moral”) but ends up giving generic tips (timestamps, diverse links)."
                       },
                       {
                         "type": "hardBreak"
                       },
                       {
                         "type": "text",
-                        "text": "The claims and examples are all vague; not a single citation or data quoted, just surface-level cleverness.  The \u201cmini-case\u201d is hypothetical and vague. If we\u2019re talking bias and harm, we need named examples, timelines, and outcomes \u2014 not invented scenarios."
+                        "text": "The claims and examples are all vague; not a single citation or data quoted, just surface-level cleverness.  The “mini-case” is hypothetical and vague. If we’re talking bias and harm, we need named examples, timelines, and outcomes — not invented scenarios."
                       },
                       {
                         "type": "hardBreak"
@@ -11463,7 +11467,7 @@
                 },
                 {
                   "type": "text",
-                  "text": " ma\u2019am, Vikas Juneja has written 2nd Medium Hub content. Please check and share your feedback"
+                  "text": " ma’am, Vikas Juneja has written 2nd Medium Hub content. Please check and share your feedback"
                 },
                 {
                   "type": "hardBreak"
@@ -11503,7 +11507,7 @@
         "aggregatetimeestimate": null,
         "resolutiondate": null,
         "workratio": -1,
-        "summary": "Medium Hub Content 2nd - Why CRMs Keep Failing Distribution Businesses \u2014 And What Finally Changed",
+        "summary": "Medium Hub Content 2nd - Why CRMs Keep Failing Distribution Businesses — And What Finally Changed",
         "watches": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/BLOG-70/watchers",
           "watchCount": 1,
@@ -12005,7 +12009,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am, Please review it."
+                        "text": " Ma’am, Please review it."
                       }
                     ]
                   }
@@ -12055,7 +12059,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "good to go, minor tweaks. Also, best if Abhishek also reads the blog once to see if it is ok\u2026i edited it ina few places. "
+                        "text": "good to go, minor tweaks. Also, best if Abhishek also reads the blog once to see if it is ok…i edited it ina few places. "
                       }
                     ]
                   }
@@ -12985,7 +12989,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am, pls review it."
+                        "text": " Ma’am, pls review it."
                       }
                     ]
                   }
@@ -14052,7 +14056,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am, Please review it."
+                        "text": " Ma’am, Please review it."
                       }
                     ]
                   }
@@ -15078,7 +15082,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am, pls review it."
+                        "text": " Ma’am, pls review it."
                       }
                     ]
                   }
@@ -15940,7 +15944,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Plz review the doc \u2013 "
+                        "text": " Plz review the doc – "
                       },
                       {
                         "type": "text",
@@ -16074,7 +16078,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am, pls review it."
+                        "text": " Ma’am, pls review it."
                       }
                     ]
                   }
@@ -17099,7 +17103,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am, Please review it."
+                        "text": " Ma’am, Please review it."
                       }
                     ]
                   }
@@ -18112,7 +18116,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am, pls review it."
+                        "text": " Ma’am, pls review it."
                       }
                     ]
                   }
@@ -18825,7 +18829,7 @@
                 },
                 {
                   "type": "text",
-                  "text": " ma\u2019am, Vikash Juneja has written Medium Hub content based on our case study. Please check this content and share your feedback"
+                  "text": " ma’am, Vikash Juneja has written Medium Hub content based on our case study. Please check this content and share your feedback"
                 },
                 {
                   "type": "hardBreak"
@@ -18976,7 +18980,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " , going forward, pls retain the entire trail mail of comments and rework comments in this task. It\u2019s important.",
+                        "text": " , going forward, pls retain the entire trail mail of comments and rework comments in this task. It’s important.",
                         "marks": [
                           {
                             "type": "strong"
@@ -18988,7 +18992,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "I can\u2019t see my earlier comments and this is appearing like a fresh task. "
+                        "text": "I can’t see my earlier comments and this is appearing like a fresh task. "
                       },
                       {
                         "type": "text",
@@ -19263,7 +19267,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Plz review the following AI optimized blog \u2013 "
+                        "text": " Plz review the following AI optimized blog – "
                       },
                       {
                         "type": "text",
@@ -19792,7 +19796,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am pls review it."
+                        "text": " Ma’am pls review it."
                       }
                     ]
                   }
@@ -20329,7 +20333,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Sir - Here\u2019s the updated blog as per the AIO guidelines. Please review:"
+                        "text": " Sir - Here’s the updated blog as per the AIO guidelines. Please review:"
                       },
                       {
                         "type": "hardBreak"
@@ -20523,7 +20527,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am, Please review."
+                        "text": " Ma’am, Please review."
                       }
                     ]
                   }
@@ -20631,7 +20635,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am - Feedback implemented:"
+                        "text": " Ma’am - Feedback implemented:"
                       },
                       {
                         "type": "hardBreak"
@@ -21639,7 +21643,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am, Pls review it."
+                        "text": " Ma’am, Pls review it."
                       }
                     ]
                   }
@@ -22367,7 +22371,7 @@
                 },
                 {
                   "type": "text",
-                  "text": " ma\u2019am, "
+                  "text": " ma’am, "
                 },
                 {
                   "type": "mention",
@@ -22537,7 +22541,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "The \u201ccost vs. capability\u201d argument",
+                        "text": "The “cost vs. capability” argument",
                         "marks": [
                           {
                             "type": "strong"
@@ -22564,7 +22568,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " in different sections (\u201cWhy the Old Model Doesn\u2019t Scale,\u201d \u201cRemote Employees: AI-Augmented Processes,\u201d and \u201cResilience as a Productivity Strategy\u201d)."
+                        "text": " in different sections (“Why the Old Model Doesn’t Scale,” “Remote Employees: AI-Augmented Processes,” and “Resilience as a Productivity Strategy”)."
                       }
                     ]
                   },
@@ -22573,7 +22577,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Similar phrasing around human\u2013machine collaboration",
+                        "text": "Similar phrasing around human–machine collaboration",
                         "marks": [
                           {
                             "type": "strong"
@@ -22587,11 +22591,11 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Appears in the \u201cHuman Dividend of Automation\u201d and again in \u201cThe 2030 Productivity Engine.\u201d Both highlight that "
+                        "text": "Appears in the “Human Dividend of Automation” and again in “The 2030 Productivity Engine.” Both highlight that "
                       },
                       {
                         "type": "text",
-                        "text": "\u201cautomation doesn\u2019t replace humans; it enhances them.\u201d",
+                        "text": "“automation doesn’t replace humans; it enhances them.”",
                         "marks": [
                           {
                             "type": "em"
@@ -22612,7 +22616,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Overlapping points on \u2018continuity\u2019 and \u2018resilience\u2019",
+                        "text": "Overlapping points on ‘continuity’ and ‘resilience’",
                         "marks": [
                           {
                             "type": "strong"
@@ -22626,14 +22630,14 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Both sections (\u201cResilience as a Productivity Strategy\u201d and \u201cGlobal Collaboration Without Borders\u201d) discuss continuity and distributed models keeping operations live 24/7."
+                        "text": "Both sections (“Resilience as a Productivity Strategy” and “Global Collaboration Without Borders”) discuss continuity and distributed models keeping operations live 24/7."
                       },
                       {
                         "type": "hardBreak"
                       },
                       {
                         "type": "text",
-                        "text": "Slightly tighten these sections; keep one example (e.g., the Suez or Maersk reference) and one continuity concept (e.g., \u201cfollow-the-sun\u201d or \u201ccontinuity clusters\u201d)."
+                        "text": "Slightly tighten these sections; keep one example (e.g., the Suez or Maersk reference) and one continuity concept (e.g., “follow-the-sun” or “continuity clusters”)."
                       }
                     ]
                   }
@@ -22757,7 +22761,7 @@
                 },
                 {
                   "type": "text",
-                  "text": " ma\u2019am, "
+                  "text": " ma’am, "
                 },
                 {
                   "type": "mention",
@@ -23032,7 +23036,7 @@
                 },
                 {
                   "type": "text",
-                  "text": " ma\u2019am, Irfan has written another content for guest blog. Please check and share your valuable feedback"
+                  "text": " ma’am, Irfan has written another content for guest blog. Please check and share your valuable feedback"
                 },
                 {
                   "type": "hardBreak"
@@ -23294,7 +23298,7 @@
                 },
                 {
                   "type": "text",
-                  "text": " ma\u2019am, Irfan has written another content for guest blog. Please check and share your valuable feedback"
+                  "text": " ma’am, Irfan has written another content for guest blog. Please check and share your valuable feedback"
                 },
                 {
                   "type": "hardBreak"
@@ -23491,7 +23495,7 @@
                             "content": [
                               {
                                 "type": "text",
-                                "text": "Smooth narrative arc and confident tone \u2014 reads like a strategic feature, not marketing copy."
+                                "text": "Smooth narrative arc and confident tone — reads like a strategic feature, not marketing copy."
                               }
                             ]
                           }
@@ -23538,7 +23542,7 @@
                             "content": [
                               {
                                 "type": "text",
-                                "text": "Mid-sections feel dense \u2014 could use brief interpretive bridges or pauses for breath."
+                                "text": "Mid-sections feel dense — could use brief interpretive bridges or pauses for breath."
                               }
                             ]
                           }
@@ -23583,7 +23587,7 @@
                               },
                               {
                                 "type": "text",
-                                "text": "\u201cScale built empires; speed will decide who survives them.\u201d",
+                                "text": "“Scale built empires; speed will decide who survives them.”",
                                 "marks": [
                                   {
                                     "type": "em"
@@ -23606,11 +23610,11 @@
                             "content": [
                               {
                                 "type": "text",
-                                "text": "The ending is cerebral \u2014 consider closing with a sharper, emotionally resonant takeaway such as "
+                                "text": "The ending is cerebral — consider closing with a sharper, emotionally resonant takeaway such as "
                               },
                               {
                                 "type": "text",
-                                "text": "\u201cThe next competitive edge isn\u2019t cheaper labour; it\u2019s faster learning.\u201d",
+                                "text": "“The next competitive edge isn’t cheaper labour; it’s faster learning.”",
                                 "marks": [
                                   {
                                     "type": "em"
@@ -23743,7 +23747,7 @@
                 },
                 {
                   "type": "text",
-                  "text": " ma\u2019am, Irfan has written this content for guest blog. Could you please check and share your feedback."
+                  "text": " ma’am, Irfan has written this content for guest blog. Could you please check and share your feedback."
                 },
                 {
                   "type": "hardBreak"
@@ -24018,7 +24022,7 @@
                 },
                 {
                   "type": "text",
-                  "text": " ma\u2019am, Irfan has written this content for Hight value guest blog. Please check this content and share your feedback."
+                  "text": " ma’am, Irfan has written this content for Hight value guest blog. Please check this content and share your feedback."
                 },
                 {
                   "type": "hardBreak"
@@ -24063,7 +24067,7 @@
         "aggregatetimeestimate": null,
         "resolutiondate": "2025-10-13T11:02:45.688+0530",
         "workratio": -1,
-        "summary": "Guest Blog Review - AI and the Global Talent Shift: Why Borders Don\u2019t Matter Anymore ",
+        "summary": "Guest Blog Review - AI and the Global Talent Shift: Why Borders Don’t Matter Anymore ",
         "watches": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/BLOG-43/watchers",
           "watchCount": 2,
@@ -24214,7 +24218,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Thank you Ma\u2019am"
+                        "text": " Thank you Ma’am"
                       }
                     ]
                   }
@@ -24604,7 +24608,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am, Please review the cost saving 3 blogs and share your valuable feedback."
+                        "text": " Ma’am, Please review the cost saving 3 blogs and share your valuable feedback."
                       }
                     ]
                   }
@@ -24716,7 +24720,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am - Here\u2019s the updated content of the 3 blogs. You\u2019ve already reviewed the first blog. Please have a look at the 2nd and 3rd blog and share your valuable feedback:"
+                        "text": " Ma’am - Here’s the updated content of the 3 blogs. You’ve already reviewed the first blog. Please have a look at the 2nd and 3rd blog and share your valuable feedback:"
                       }
                     ]
                   },
@@ -25408,7 +25412,7 @@
           "key": "BLOG-39",
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/12548",
           "fields": {
-            "summary": "Long-form Blogs - Why AI Financial Forecasting is No Longer Predictive, It\u2019s Generative",
+            "summary": "Long-form Blogs - Why AI Financial Forecasting is No Longer Predictive, It’s Generative",
             "status": {
               "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10373",
               "description": "",
@@ -25478,7 +25482,7 @@
         "aggregatetimeestimate": null,
         "resolutiondate": null,
         "workratio": -1,
-        "summary": "Review: Long-form Blogs - Why AI Financial Forecasting is No Longer Predictive, It\u2019s Generative",
+        "summary": "Review: Long-form Blogs - Why AI Financial Forecasting is No Longer Predictive, It’s Generative",
         "watches": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/BLOG-40/watchers",
           "watchCount": 1,
@@ -25595,7 +25599,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "Long-form Blog - Why AI Financial Forecasting is No Longer Predictive, It\u2019s Generative.docx",
+                        "text": "Long-form Blog - Why AI Financial Forecasting is No Longer Predictive, It’s Generative.docx",
                         "marks": [
                           {
                             "type": "link",
@@ -25729,7 +25733,7 @@
         "aggregatetimeestimate": 0,
         "resolutiondate": null,
         "workratio": -1,
-        "summary": "Long-form Blogs - Why AI Financial Forecasting is No Longer Predictive, It\u2019s Generative",
+        "summary": "Long-form Blogs - Why AI Financial Forecasting is No Longer Predictive, It’s Generative",
         "watches": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/BLOG-39/watchers",
           "watchCount": 1,
@@ -25756,7 +25760,7 @@
             "key": "BLOG-40",
             "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/12550",
             "fields": {
-              "summary": "Review: Long-form Blogs - Why AI Financial Forecasting is No Longer Predictive, It\u2019s Generative",
+              "summary": "Review: Long-form Blogs - Why AI Financial Forecasting is No Longer Predictive, It’s Generative",
               "status": {
                 "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10373",
                 "description": "",
@@ -26145,7 +26149,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Plz review this doc \u2013 "
+                        "text": " Plz review this doc – "
                       },
                       {
                         "type": "text",
@@ -26992,7 +26996,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am,"
+                        "text": " Ma’am,"
                       }
                     ]
                   },
@@ -27079,7 +27083,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am, Pls review it.. Its urgent."
+                        "text": " Ma’am, Pls review it.. Its urgent."
                       }
                     ]
                   }
@@ -27416,7 +27420,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am, Here is the VF link for your review."
+                        "text": " Ma’am, Here is the VF link for your review."
                       }
                     ]
                   },
@@ -27770,7 +27774,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "  Ma\u2019am, Here is the VF link for your review."
+                        "text": "  Ma’am, Here is the VF link for your review."
                       }
                     ]
                   },
@@ -28016,7 +28020,7 @@
         "aggregatetimeestimate": 0,
         "resolutiondate": null,
         "workratio": -1,
-        "summary": "A $280 Billion Problem \u2013 Search in the Age of Artificial Intelligence",
+        "summary": "A $280 Billion Problem – Search in the Age of Artificial Intelligence",
         "watches": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/BLOG-33/watchers",
           "watchCount": 2,
@@ -28124,7 +28128,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am, Here is the VF link for your review."
+                        "text": " Ma’am, Here is the VF link for your review."
                       }
                     ]
                   },
@@ -28478,7 +28482,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am, Here is the VF link for your review."
+                        "text": " Ma’am, Here is the VF link for your review."
                       }
                     ]
                   },
@@ -28832,7 +28836,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am, Here is the VF link for your review."
+                        "text": " Ma’am, Here is the VF link for your review."
                       },
                       {
                         "type": "hardBreak"
@@ -29787,7 +29791,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Plz review the following doc \u2013 "
+                        "text": " Plz review the following doc – "
                       },
                       {
                         "type": "text",
@@ -30525,7 +30529,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " This doc is final \u2013 "
+                        "text": " This doc is final – "
                       },
                       {
                         "type": "text",
@@ -30815,7 +30819,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am please review this content "
+                        "text": " ma’am please review this content "
                       },
                       {
                         "type": "inlineCard",
@@ -30937,7 +30941,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am. I have incorporated the points you mentioned. Plz review intro \u2013 "
+                        "text": " ma’am. I have incorporated the points you mentioned. Plz review intro – "
                       },
                       {
                         "type": "text",
@@ -32292,7 +32296,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Overall the content is good but as GPTZERO it\u2019s AI content detected"
+                        "text": " Overall the content is good but as GPTZERO it’s AI content detected"
                       }
                     ]
                   },
@@ -32670,7 +32674,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "Ma\u2019am - Please review:"
+                        "text": "Ma’am - Please review:"
                       },
                       {
                         "type": "hardBreak"
@@ -33080,7 +33084,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am, Pls rewiew it."
+                        "text": " Ma’am, Pls rewiew it."
                       }
                     ]
                   }
@@ -34235,7 +34239,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Maa\u2019m please review this web article written by Irfan Sir "
+                        "text": " Maa’m please review this web article written by Irfan Sir "
                       },
                       {
                         "type": "text",
@@ -34407,7 +34411,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " maa\u2019m access given. Please check"
+                        "text": " maa’m access given. Please check"
                       }
                     ]
                   },
@@ -34482,7 +34486,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " why does it have Anchal\u2019s name in it?"
+                        "text": " why does it have Anchal’s name in it?"
                       }
                     ]
                   }
@@ -34947,7 +34951,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "yet to fix alignment, doesn\u2019t looks good (live)"
+                        "text": "yet to fix alignment, doesn’t looks good (live)"
                       }
                     ]
                   }
@@ -36599,7 +36603,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "What\u2019s Working Well"
+                        "text": "What’s Working Well"
                       }
                     ]
                   },
@@ -36720,7 +36724,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "The voice is warm and System 1 friendly \u2014 conversational, not overly academic or corporate. This aligns well with founders and SME decision-makers who want "
+                        "text": "The voice is warm and System 1 friendly — conversational, not overly academic or corporate. This aligns well with founders and SME decision-makers who want "
                       },
                       {
                         "type": "text",
@@ -36745,7 +36749,7 @@
                         "content": [
                           {
                             "type": "text",
-                            "text": "\"Now imagine removing this headache\u2026\"",
+                            "text": "\"Now imagine removing this headache…\"",
                             "marks": [
                               {
                                 "type": "em"
@@ -36757,7 +36761,7 @@
                           },
                           {
                             "type": "text",
-                            "text": "That\u2019s a Shaun-style copywriting cue \u2014 visualization + relief-based benefit framing."
+                            "text": "That’s a Shaun-style copywriting cue — visualization + relief-based benefit framing."
                           }
                         ]
                       }
@@ -36789,7 +36793,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Each section clearly answers: \u201cWhat\u2019s in it for me?\u201d"
+                        "text": "Each section clearly answers: “What’s in it for me?”"
                       }
                     ]
                   },
@@ -36804,7 +36808,7 @@
                             "content": [
                               {
                                 "type": "text",
-                                "text": "Pay for output, not attendance \u2705"
+                                "text": "Pay for output, not attendance ✅"
                               }
                             ]
                           }
@@ -36818,7 +36822,7 @@
                             "content": [
                               {
                                 "type": "text",
-                                "text": "Avoid cross-contamination and flu-season chaos \u2705"
+                                "text": "Avoid cross-contamination and flu-season chaos ✅"
                               }
                             ]
                           }
@@ -36832,7 +36836,7 @@
                             "content": [
                               {
                                 "type": "text",
-                                "text": "Lessen benefit and healthcare burdens \u2705"
+                                "text": "Lessen benefit and healthcare burdens ✅"
                               }
                             ]
                           }
@@ -36846,7 +36850,7 @@
                             "content": [
                               {
                                 "type": "text",
-                                "text": "Increase retention through work-life balance \u2705"
+                                "text": "Increase retention through work-life balance ✅"
                               }
                             ]
                           }
@@ -36872,7 +36876,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " \u2014 tapping into "
+                        "text": " — tapping into "
                       },
                       {
                         "type": "text",
@@ -36973,7 +36977,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "The current title is clear, but doesn\u2019t feel "
+                        "text": "The current title is clear, but doesn’t feel "
                       },
                       {
                         "type": "text",
@@ -37015,7 +37019,7 @@
                             "content": [
                               {
                                 "type": "text",
-                                "text": "\u201cWhy UK Businesses Are Replacing Sick Leave with Remote Teams\u201d",
+                                "text": "“Why UK Businesses Are Replacing Sick Leave with Remote Teams”",
                                 "marks": [
                                   {
                                     "type": "strong"
@@ -37034,7 +37038,7 @@
                             "content": [
                               {
                                 "type": "text",
-                                "text": "\u201cSick Leave Costs Are Rising\u2014Smart Companies Are Turning to Remote Staffing\u201d",
+                                "text": "“Sick Leave Costs Are Rising—Smart Companies Are Turning to Remote Staffing”",
                                 "marks": [
                                   {
                                     "type": "strong"
@@ -37053,7 +37057,7 @@
                             "content": [
                               {
                                 "type": "text",
-                                "text": "\u201cThe Silent Killer of Profitability: How Remote Staffing Cures Absenteeism\u201d",
+                                "text": "“The Silent Killer of Profitability: How Remote Staffing Cures Absenteeism”",
                                 "marks": [
                                   {
                                     "type": "strong"
@@ -37071,7 +37075,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Let\u2019s push for a "
+                        "text": "Let’s push for a "
                       },
                       {
                         "type": "text",
@@ -37130,7 +37134,7 @@
                       },
                       {
                         "type": "text",
-                        "text": ". That\u2019s a "
+                        "text": ". That’s a "
                       },
                       {
                         "type": "text",
@@ -37181,7 +37185,7 @@
                               },
                               {
                                 "type": "text",
-                                "text": ": \u00a377.5 billion lost to sick leave annually ("
+                                "text": ": £77.5 billion lost to sick leave annually ("
                               },
                               {
                                 "type": "text",
@@ -37357,7 +37361,7 @@
                         "content": [
                           {
                             "type": "text",
-                            "text": "\u201cWith remote staffing, you don\u2019t fund downtime. You only pay for results \u2014 no paid absences, no benefit overheads, no productivity dips.\u201d"
+                            "text": "“With remote staffing, you don’t fund downtime. You only pay for results — no paid absences, no benefit overheads, no productivity dips.”"
                           }
                         ]
                       }
@@ -37440,7 +37444,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " \u2014 which is where real cost savings emerge."
+                        "text": " — which is where real cost savings emerge."
                       }
                     ]
                   },
@@ -37466,7 +37470,7 @@
                         "content": [
                           {
                             "type": "text",
-                            "text": "\u201cCompanies that go one step further and offshore their remote workforce\u2014by hiring from countries like India or Eastern Europe\u2014can slash staffing costs by up to 60%, without compromising quality.\u201d"
+                            "text": "“Companies that go one step further and offshore their remote workforce—by hiring from countries like India or Eastern Europe—can slash staffing costs by up to 60%, without compromising quality.”"
                           }
                         ]
                       }
@@ -37490,7 +37494,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " and improves conversion rates for services like VE\u2019s."
+                        "text": " and improves conversion rates for services like VE’s."
                       }
                     ]
                   },
@@ -37536,7 +37540,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " \u2014 no \u201crequest a free consultation\u201d or \u201cdownload a checklist\u201d type of offer to "
+                        "text": " — no “request a free consultation” or “download a checklist” type of offer to "
                       },
                       {
                         "type": "text",
@@ -37570,7 +37574,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "After the \u201cHow Remote Staffing Eliminates Sick Leave Costs\u201d section, add:"
+                        "text": "After the “How Remote Staffing Eliminates Sick Leave Costs” section, add:"
                       }
                     ]
                   },
@@ -37582,7 +37586,7 @@
                         "content": [
                           {
                             "type": "text",
-                            "text": "\ud83d\udc49 "
+                            "text": "👉 "
                           },
                           {
                             "type": "text",
@@ -37648,7 +37652,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "The final lines are safe \u2014 but Shaun often closes with a "
+                        "text": "The final lines are safe — but Shaun often closes with a "
                       },
                       {
                         "type": "text",
@@ -37687,7 +37691,7 @@
                         "content": [
                           {
                             "type": "text",
-                            "text": "Sick leave will always exist \u2014 but its financial consequences don\u2019t have to. Remote staffing doesn\u2019t just patch the leak \u2014 it rewires your workforce for resilience, agility, and consistent delivery."
+                            "text": "Sick leave will always exist — but its financial consequences don’t have to. Remote staffing doesn’t just patch the leak — it rewires your workforce for resilience, agility, and consistent delivery."
                           }
                         ]
                       },
@@ -37705,7 +37709,7 @@
                         "content": [
                           {
                             "type": "text",
-                            "text": "The smart ones? They\u2019re already building beyond it."
+                            "text": "The smart ones? They’re already building beyond it."
                           }
                         ]
                       }
@@ -38004,7 +38008,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am, please review the updated blog content: "
+                        "text": " ma’am, please review the updated blog content: "
                       },
                       {
                         "type": "text",
@@ -38142,7 +38146,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Sir - Here\u2019s the updated version of the blog to be shared with Shaun Sir:"
+                        "text": " Sir - Here’s the updated version of the blog to be shared with Shaun Sir:"
                       },
                       {
                         "type": "hardBreak"
@@ -38685,7 +38689,7 @@
                             "content": [
                               {
                                 "type": "text",
-                                "text": "The opening is sharp and pulls in startup founders with shared struggles \u2014 Brexit, pandemic, inflation."
+                                "text": "The opening is sharp and pulls in startup founders with shared struggles — Brexit, pandemic, inflation."
                               }
                             ]
                           }
@@ -38910,7 +38914,7 @@
                             "content": [
                               {
                                 "type": "text",
-                                "text": "Good use of subheads with practical tone \u2014 e.g., \u201cZero SSP, NI, or Compliance Costs\u201d."
+                                "text": "Good use of subheads with practical tone — e.g., “Zero SSP, NI, or Compliance Costs”."
                               }
                             ]
                           }
@@ -39282,7 +39286,7 @@
                               },
                               {
                                 "type": "text",
-                                "text": " \u2014 especially in the second half. For a UK audience, that can raise skepticism."
+                                "text": " — especially in the second half. For a UK audience, that can raise skepticism."
                               }
                             ]
                           }
@@ -39315,7 +39319,7 @@
                             "content": [
                               {
                                 "type": "text",
-                                "text": "Reframe phrases like \u201cWhy would UK startups not want to seize this reduced-cost opportunity...\u201d to something more subtle:"
+                                "text": "Reframe phrases like “Why would UK startups not want to seize this reduced-cost opportunity...” to something more subtle:"
                               }
                             ]
                           },
@@ -39324,7 +39328,7 @@
                             "content": [
                               {
                                 "type": "text",
-                                "text": "\u201cThis significant cost difference opens up opportunities for startups to stretch their budgets without compromising talent quality.\u201d"
+                                "text": "“This significant cost difference opens up opportunities for startups to stretch their budgets without compromising talent quality.”"
                               }
                             ]
                           }
@@ -39406,7 +39410,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Suggestion \u2013 Add a short section like:",
+                        "text": "Suggestion – Add a short section like:",
                         "marks": [
                           {
                             "type": "strong"
@@ -39518,7 +39522,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "These are solvable \u2014 and forward-thinking startups are already mastering them."
+                        "text": "These are solvable — and forward-thinking startups are already mastering them."
                       }
                     ]
                   },
@@ -39604,7 +39608,7 @@
                         "content": [
                           {
                             "type": "text",
-                            "text": "\u201cIn 2025, startups that treat offshoring as a long-term talent strategy \u2014 not a cost-cutting hack \u2014 will be the ones to watch."
+                            "text": "“In 2025, startups that treat offshoring as a long-term talent strategy — not a cost-cutting hack — will be the ones to watch."
                           }
                         ]
                       },
@@ -39613,7 +39617,7 @@
                         "content": [
                           {
                             "type": "text",
-                            "text": "Now\u2019s the time to take the first step: Identify which roles can be offshored without losing control."
+                            "text": "Now’s the time to take the first step: Identify which roles can be offshored without losing control."
                           }
                         ]
                       },
@@ -39631,7 +39635,7 @@
                         "content": [
                           {
                             "type": "text",
-                            "text": "The world is your talent pool \u2014 don\u2019t let borders define your growth.",
+                            "text": "The world is your talent pool — don’t let borders define your growth.",
                             "marks": [
                               {
                                 "type": "strong"
@@ -39640,7 +39644,7 @@
                           },
                           {
                             "type": "text",
-                            "text": "\u201d"
+                            "text": "”"
                           }
                         ]
                       }
@@ -39894,7 +39898,7 @@
                                 "content": [
                                   {
                                     "type": "text",
-                                    "text": "Include small \u201cChallenges & Solutions\u201d section"
+                                    "text": "Include small “Challenges & Solutions” section"
                                   }
                                 ]
                               }
@@ -40108,7 +40112,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am, please review the updated blog content: "
+                        "text": " ma’am, please review the updated blog content: "
                       },
                       {
                         "type": "text",
@@ -40246,7 +40250,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " I\u2019ve incorporated the changes that ma\u2019am suggested. Plz review."
+                        "text": " I’ve incorporated the changes that ma’am suggested. Plz review."
                       }
                     ]
                   }
@@ -40816,7 +40820,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "Here\u2019s the scorecard:"
+                        "text": "Here’s the scorecard:"
                       }
                     ]
                   },
@@ -40961,7 +40965,7 @@
         "aggregatetimeestimate": null,
         "resolutiondate": "2025-04-04T20:13:16.269+0530",
         "workratio": -1,
-        "summary": "Blog 1: Sick Leave is Killing UK Businesses\u2014Here\u2019s How Remote Staffing Solves It\u201d \u2192 A viral-style, pain-first blog.",
+        "summary": "Blog 1: Sick Leave is Killing UK Businesses—Here’s How Remote Staffing Solves It” → A viral-style, pain-first blog.",
         "watches": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/BLOG-10/watchers",
           "watchCount": 4,
@@ -41263,7 +41267,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "its a pretty good version.. some changes thats needed\u2026"
+                        "text": "its a pretty good version.. some changes thats needed…"
                       },
                       {
                         "type": "hardBreak"
@@ -41310,7 +41314,7 @@
                               },
                               {
                                 "type": "text",
-                                "text": ", but doesn\u2019t carry the emotional weight or SEO clarity that it could."
+                                "text": ", but doesn’t carry the emotional weight or SEO clarity that it could."
                               }
                             ]
                           }
@@ -41347,7 +41351,7 @@
                             "content": [
                               {
                                 "type": "text",
-                                "text": "\u201cThe Sick Leave Crisis UK Businesses Can\u2019t Ignore \u2014 And the Remote Staffing Fix That Works\u201d"
+                                "text": "“The Sick Leave Crisis UK Businesses Can’t Ignore — And the Remote Staffing Fix That Works”"
                               }
                             ]
                           }
@@ -41361,7 +41365,7 @@
                             "content": [
                               {
                                 "type": "text",
-                                "text": "\u201cHow Absenteeism Silently Destroys UK Teams \u2014 and Why Remote Staffing is the Antidote\u201d"
+                                "text": "“How Absenteeism Silently Destroys UK Teams — and Why Remote Staffing is the Antidote”"
                               }
                             ]
                           }
@@ -41375,7 +41379,7 @@
                             "content": [
                               {
                                 "type": "text",
-                                "text": "\u201cUK Firms Are Bleeding Billions to Sick Leave. Is Remote Staffing the Cure?\u201d"
+                                "text": "“UK Firms Are Bleeding Billions to Sick Leave. Is Remote Staffing the Cure?”"
                               }
                             ]
                           }
@@ -41388,7 +41392,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Let\u2019s make it "
+                        "text": "Let’s make it "
                       },
                       {
                         "type": "text",
@@ -41463,7 +41467,7 @@
                             "content": [
                               {
                                 "type": "text",
-                                "text": "Currently, it closes with \u201cAre you prepared\u2026?\u201d \u2014 which is reflective but not directive."
+                                "text": "Currently, it closes with “Are you prepared…?” — which is reflective but not directive."
                               }
                             ]
                           }
@@ -41525,7 +41529,7 @@
                         "content": [
                           {
                             "type": "text",
-                            "text": "Don\u2019t wait for the next wave of sick leaves to act \u2014 prepare your business now."
+                            "text": "Don’t wait for the next wave of sick leaves to act — prepare your business now."
                           }
                         ]
                       }
@@ -41594,7 +41598,7 @@
                                     "content": [
                                       {
                                         "type": "text",
-                                        "text": "\u201cRemote staffing benefits for UK businesses\u201d"
+                                        "text": "“Remote staffing benefits for UK businesses”"
                                       }
                                     ]
                                   }
@@ -41608,7 +41612,7 @@
                                     "content": [
                                       {
                                         "type": "text",
-                                        "text": "\u201cSick leave cost to UK companies\u201d"
+                                        "text": "“Sick leave cost to UK companies”"
                                       }
                                     ]
                                   }
@@ -41622,7 +41626,7 @@
                                     "content": [
                                       {
                                         "type": "text",
-                                        "text": "\u201cHow to manage absenteeism with hybrid teams\u201d"
+                                        "text": "“How to manage absenteeism with hybrid teams”"
                                       }
                                     ]
                                   }
@@ -41751,7 +41755,7 @@
                         "content": [
                           {
                             "type": "text",
-                            "text": "\u201cIn March 2024, the UK government launched consultations around reforming SSP to improve early intervention and reduce long-term absences \u2014 further confirming the urgency for business preparedness.\u201d"
+                            "text": "“In March 2024, the UK government launched consultations around reforming SSP to improve early intervention and reduce long-term absences — further confirming the urgency for business preparedness.”"
                           },
                           {
                             "type": "hardBreak"
@@ -41799,7 +41803,7 @@
                             "content": [
                               {
                                 "type": "text",
-                                "text": "You\u2019ve rightly called out Real Estate, Manufacturing, and Arts. Would recommend a "
+                                "text": "You’ve rightly called out Real Estate, Manufacturing, and Arts. Would recommend a "
                               },
                               {
                                 "type": "text",
@@ -41936,7 +41940,7 @@
                             "content": [
                               {
                                 "type": "text",
-                                "text": "You\u2019ve touched on morale, burnout, absenteeism. But a deeper insight into "
+                                "text": "You’ve touched on morale, burnout, absenteeism. But a deeper insight into "
                               },
                               {
                                 "type": "text",
@@ -41974,7 +41978,7 @@
                         "content": [
                           {
                             "type": "text",
-                            "text": "\u201cWhen the same team members cover for absentees repeatedly, it leads to decision fatigue \u2014 a phenomenon that diminishes innovation, delays output, and silently impacts mental health.\u201d"
+                            "text": "“When the same team members cover for absentees repeatedly, it leads to decision fatigue — a phenomenon that diminishes innovation, delays output, and silently impacts mental health.”"
                           }
                         ]
                       }
@@ -42087,7 +42091,7 @@
                         "content": [
                           {
                             "type": "text",
-                            "text": "\u201cRemote staffing isn\u2019t just a way to fill in gaps \u2014 it becomes a strategic layer in building antifragile teams that grow stronger under pressure.\u201d"
+                            "text": "“Remote staffing isn’t just a way to fill in gaps — it becomes a strategic layer in building antifragile teams that grow stronger under pressure.”"
                           }
                         ]
                       }
@@ -42227,7 +42231,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am, please review the updated blog content - "
+                        "text": " ma’am, please review the updated blog content - "
                       },
                       {
                         "type": "text",
@@ -42352,7 +42356,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am, please find the reworked version - "
+                        "text": " ma’am, please find the reworked version - "
                       },
                       {
                         "type": "text",
@@ -42486,7 +42490,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " - all feedback implemented as per Daya ma\u2019am\u2019s feedback - "
+                        "text": " - all feedback implemented as per Daya ma’am’s feedback - "
                       },
                       {
                         "type": "text",
@@ -42561,7 +42565,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " - all feedback implemented as per Daya ma\u2019am\u2019s feedback - "
+                        "text": " - all feedback implemented as per Daya ma’am’s feedback - "
                       },
                       {
                         "type": "text",
@@ -42855,7 +42859,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am, please review the blog: "
+                        "text": " ma’am, please review the blog: "
                       },
                       {
                         "type": "text",
@@ -42926,7 +42930,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " , very well written, even though AI-generated\u2026.no idea who the author is"
+                        "text": " , very well written, even though AI-generated….no idea who the author is"
                       }
                     ]
                   }
@@ -42976,7 +42980,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Hi Daya ma\u2019am, thank you for the feedback. SEO team has checked in the AI too and found that the percentage of AI content is below 5% which is well within our acceptable limit. "
+                        "text": "Hi Daya ma’am, thank you for the feedback. SEO team has checked in the AI too and found that the percentage of AI content is below 5% which is well within our acceptable limit. "
                       }
                     ]
                   }
@@ -43039,7 +43043,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " There are a few minor changes done by Daya ma\u2019am in the online doc please implement them "
+                        "text": " There are a few minor changes done by Daya ma’am in the online doc please implement them "
                       },
                       {
                         "type": "text",
@@ -44728,7 +44732,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Blog \u2013 \u201cDecoding the AI Shift: What SMBs Need to Know Before It\u2019s Too Late\u201d Build FOMO with data-backed insights and a trusted, advisory tone."
+                        "text": "Blog – “Decoding the AI Shift: What SMBs Need to Know Before It’s Too Late” Build FOMO with data-backed insights and a trusted, advisory tone."
                       }
                     ]
                   }
@@ -45376,7 +45380,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am, please review the blog "
+                        "text": " ma’am, please review the blog "
                       },
                       {
                         "type": "text",
@@ -45447,7 +45451,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " , who\u2019s the writer?"
+                        "text": " , who’s the writer?"
                       }
                     ]
                   }
@@ -45506,7 +45510,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am, It has been written externally."
+                        "text": " ma’am, It has been written externally."
                       }
                     ]
                   }
@@ -45565,7 +45569,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " , feedback added. The writer needs to remove the tell-tale AI-generated signs, like graphic bullet points and the ubiquitous Final Thoughts\u2026.."
+                        "text": " , feedback added. The writer needs to remove the tell-tale AI-generated signs, like graphic bullet points and the ubiquitous Final Thoughts….."
                       }
                     ]
                   }
@@ -45632,6 +45636,5 @@
         }
       }
     }
-  ],
-  "isLast": true
+  ]
 }

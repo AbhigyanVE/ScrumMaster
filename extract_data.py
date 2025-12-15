@@ -3,7 +3,8 @@ import requests
 import json
 from requests.auth import HTTPBasicAuth
 from dotenv import load_dotenv
-from collections import Counter
+import shutil
+import time
 
 # -----------------------------------
 # LOAD .ENV VARIABLES
@@ -46,6 +47,20 @@ print(f"Found {len(projects)} projects.\n")
 # PREPARE OUTPUT FOLDER
 # -----------------------------------
 output_dir = "JSONs"
+
+# FIX: Delete the existing folder and its contents before recreating it.
+if os.path.exists(output_dir):
+    print(f"Cleaning up existing folder: {output_dir}")
+    try:
+        shutil.rmtree(output_dir)
+        time.sleep(100)
+        print("[OK] Folder deleted.")
+    except Exception as e:
+        print(f"[ERROR] Could not delete {output_dir}: {e}")
+        # Optionally exit if cleanup fails, as results will be unreliable
+        # sys.exit(1)
+
+# Now, recreate the empty directory
 os.makedirs(output_dir, exist_ok=True)
 
 # -----------------------------------
@@ -58,7 +73,8 @@ projects_processed = 0
 
 for proj in projects:
     proj_name = proj["name"]
-    proj_key = proj["key"]  # used for filenames
+    proj_key = proj["key"]
+    proj_id = proj.get("id", "")
     
     print(f"-> Fetching issues for Project: {proj_name} ({proj_key})...")
 
@@ -88,16 +104,27 @@ for proj in projects:
     total_issues_saved += count
     projects_processed += 1
 
-    print(f"   -> Fetched {count} issues (API reported {count})")
+    print(f"   -> Fetched {count} issues (API reported {data.get('total', count)})")
 
     # -----------------------------------
-    # STEP 3: SAVE TO JSON FILE
+    # STEP 3: CREATE STRUCTURED OUTPUT
+    # -----------------------------------
+    project_output = {
+        "name": proj_name,
+        "id": proj_id,
+        "key": proj_key,
+        "issue_count": count,  # ACTUAL count from fetched issues
+        "issues": issues
+    }
+
+    # -----------------------------------
+    # STEP 4: SAVE TO JSON FILE
     # -----------------------------------
     filename = f"{proj_key}_issues.json"
     filepath = os.path.join(output_dir, filename)
 
     with open(filepath, "w", encoding="utf-8") as f:
-        json.dump(data, f, indent=2)
+        json.dump(project_output, f, indent=2, ensure_ascii=False)
 
     print(f"  -> Saved {count} issues for {proj_key} to {filepath}")
 
@@ -108,4 +135,3 @@ for proj in projects:
 print("\n--- SAVE COMPLETE ---")
 print(f"Successfully saved data for {projects_processed} out of {len(projects)} projects.")
 print(f"Total issues extracted and saved: {total_issues_saved}")
-print(f"Total issues found across all projects: {total_issues_saved}\n")

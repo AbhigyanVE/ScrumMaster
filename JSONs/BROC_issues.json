@@ -1,4 +1,8 @@
 {
+  "name": "Brochures",
+  "id": "10190",
+  "key": "BROC",
+  "issue_count": 8,
   "issues": [
     {
       "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
@@ -44,7 +48,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "This task involves developing a comprehensive, technically rich brochure covering all aspects of Web Development services. The brochure will span over 2,900 words and include foundational services (static, dynamic, CMS-based), platform-specific builds (e.g., WordPress, Shopify, Headless CMS), backend and frontend engineering, custom API integration, DevOps, QA, performance optimization, and maintenance. Each section must follow brochure standards: ~35 words per paragraph, conversational yet precise tone, client-outcome-focused messaging, and consistent logical structure. Content should reflect real-world use cases, implementation depth, and tool/framework accuracy. Final version must be design-ready and aligned with VE\u2019s content guidelines."
+                  "text": "This task involves developing a comprehensive, technically rich brochure covering all aspects of Web Development services. The brochure will span over 2,900 words and include foundational services (static, dynamic, CMS-based), platform-specific builds (e.g., WordPress, Shopify, Headless CMS), backend and frontend engineering, custom API integration, DevOps, QA, performance optimization, and maintenance. Each section must follow brochure standards: ~35 words per paragraph, conversational yet precise tone, client-outcome-focused messaging, and consistent logical structure. Content should reflect real-world use cases, implementation depth, and tool/framework accuracy. Final version must be design-ready and aligned with VE’s content guidelines."
                 }
               ]
             },
@@ -220,7 +224,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Work Log \u2013 Outline & Structure Finalized",
+                        "text": "Work Log – Outline & Structure Finalized",
                         "marks": [
                           {
                             "type": "strong"
@@ -654,7 +658,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Work Log \u2013 Content: Software Development Brochure",
+                        "text": "Work Log – Content: Software Development Brochure",
                         "marks": [
                           {
                             "type": "strong"
@@ -892,7 +896,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "This task involves creating technically accurate, outcome-focused content for the .NET Services brochure. Content will cover core offerings such as enterprise-grade application development, system integration, cloud-native deployment (Azure), CI/CD setup, performance optimization, and post-launch support. Each section must follow the established 35-word limit, maintain a conversational yet technical tone, and conclude with a clear client benefit. Emphasis will be placed on real-world use cases, scalability, security, and architectural reliability. Final output must be logically structured and aligned with VE\u2019s brochure content standards\u2014ready for review and design."
+                  "text": "This task involves creating technically accurate, outcome-focused content for the .NET Services brochure. Content will cover core offerings such as enterprise-grade application development, system integration, cloud-native deployment (Azure), CI/CD setup, performance optimization, and post-launch support. Each section must follow the established 35-word limit, maintain a conversational yet technical tone, and conclude with a clear client benefit. Emphasis will be placed on real-world use cases, scalability, security, and architectural reliability. Final output must be logically structured and aligned with VE’s brochure content standards—ready for review and design."
                 }
               ]
             },
@@ -1068,7 +1072,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Work Log \u2013 Content: DOT NET Service Brochure",
+                        "text": "Work Log – Content: DOT NET Service Brochure",
                         "marks": [
                           {
                             "type": "strong"
@@ -1116,7 +1120,7 @@
                             "content": [
                               {
                                 "type": "text",
-                                "text": "Submitted for expert review\u2014currently awaiting feedback before proceeding to final revisions or design handoff."
+                                "text": "Submitted for expert review—currently awaiting feedback before proceeding to final revisions or design handoff."
                               },
                               {
                                 "type": "hardBreak"
@@ -1292,7 +1296,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "This task involves writing technically detailed, brochure-ready content for the PHP Development Services section. The content must cover core capabilities like custom development, Laravel-based builds, API integrations, e-commerce platforms, legacy support, and performance tuning. Each section will be limited to ~35 words, written in a client-oriented, outcome-driven tone. Emphasis will be placed on frameworks (Laravel, Symfony, CodeIgniter), backend optimization techniques, CI/CD pipelines, and scalability features. All copy must follow established brochure standards\u2014logically structured, consistent in tone, technically accurate, and ready for design integration."
+                  "text": "This task involves writing technically detailed, brochure-ready content for the PHP Development Services section. The content must cover core capabilities like custom development, Laravel-based builds, API integrations, e-commerce platforms, legacy support, and performance tuning. Each section will be limited to ~35 words, written in a client-oriented, outcome-driven tone. Emphasis will be placed on frameworks (Laravel, Symfony, CodeIgniter), backend optimization techniques, CI/CD pipelines, and scalability features. All copy must follow established brochure standards—logically structured, consistent in tone, technically accurate, and ready for design integration."
                 }
               ]
             }
@@ -1421,7 +1425,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Work Log \u2013 Content: PHP Development Service Brochure",
+                        "text": "Work Log – Content: PHP Development Service Brochure",
                         "marks": [
                           {
                             "type": "strong"
@@ -1658,7 +1662,7 @@
                 },
                 {
                   "type": "text",
-                  "text": " (e.g., Native Android Development, Backend & API Integration, or CI/CD & DevOps for Mobile). The content must be structured for brochure use\u2014concise (~35 words), logically connected, and outcome-driven. Tone must be client-facing but free from fluff, with technical accuracy on tools, frameworks, and architectural decisions (e.g., Jetpack Compose, Firebase, GraphQL, GitHub Actions). Final copy should reflect real implementation depth and practical engineering value, not generic marketing lines."
+                  "text": " (e.g., Native Android Development, Backend & API Integration, or CI/CD & DevOps for Mobile). The content must be structured for brochure use—concise (~35 words), logically connected, and outcome-driven. Tone must be client-facing but free from fluff, with technical accuracy on tools, frameworks, and architectural decisions (e.g., Jetpack Compose, Firebase, GraphQL, GitHub Actions). Final copy should reflect real implementation depth and practical engineering value, not generic marketing lines."
                 }
               ]
             },
@@ -1808,7 +1812,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Key Points from the Meeting \u2013 Mobile App Development Services:"
+                        "text": "Key Points from the Meeting – Mobile App Development Services:"
                       }
                     ]
                   },
@@ -1968,7 +1972,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "\u00a0Domain experts will add the following:"
+                        "text": " Domain experts will add the following:"
                       }
                     ]
                   },
@@ -2149,7 +2153,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Work Log \u2013 Content: Mobile App Development Services Brochure",
+                        "text": "Work Log – Content: Mobile App Development Services Brochure",
                         "marks": [
                           {
                             "type": "strong"
@@ -2235,7 +2239,7 @@
                               },
                               {
                                 "type": "text",
-                                "text": "Here\u2019s the final version - "
+                                "text": "Here’s the final version - "
                               },
                               {
                                 "type": "text",
@@ -2416,7 +2420,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "This task involves writing, structuring, and refining content for the Android App Development brochure. The brochure will cover core services, layered offerings, and feature-specific capabilities tailored for Android platforms. The tone will be conversational yet technically rich, aligned with VE\u2019s brochure standards. Content must highlight real-world use cases, advanced Android-specific features (e.g., AI chat, geolocation, AR/VR), and modular services like UI/UX, QA, DevOps, and performance optimization. Each section must maintain consistency in length (~35 words/paragraph), avoid repetition, and ensure logical flow. Final copy will be optimized for both technical clarity and marketing usability."
+                  "text": "This task involves writing, structuring, and refining content for the Android App Development brochure. The brochure will cover core services, layered offerings, and feature-specific capabilities tailored for Android platforms. The tone will be conversational yet technically rich, aligned with VE’s brochure standards. Content must highlight real-world use cases, advanced Android-specific features (e.g., AI chat, geolocation, AR/VR), and modular services like UI/UX, QA, DevOps, and performance optimization. Each section must maintain consistency in length (~35 words/paragraph), avoid repetition, and ensure logical flow. Final copy will be optimized for both technical clarity and marketing usability."
                 }
               ]
             },
@@ -2825,7 +2829,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " I am changing the staus of this as \u2018On Hold\u2019 as Sumit (SME) is currently busy with leads."
+                        "text": " I am changing the staus of this as ‘On Hold’ as Sumit (SME) is currently busy with leads."
                       }
                     ]
                   },
@@ -2947,7 +2951,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "\u00a0"
+                        "text": " "
                       }
                     ]
                   }
@@ -3888,7 +3892,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "\u00a0Figma: "
+                        "text": " Figma: "
                       },
                       {
                         "type": "inlineCard",
@@ -4089,6 +4093,5 @@
         }
       }
     }
-  ],
-  "isLast": true
+  ]
 }

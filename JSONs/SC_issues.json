@@ -1,4 +1,8 @@
 {
+  "name": "YouTube Shorts Creation",
+  "id": "10487",
+  "key": "SC",
+  "issue_count": 7,
   "issues": [
     {
       "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
@@ -1050,6 +1054,5 @@
         }
       }
     }
-  ],
-  "isLast": true
+  ]
 }

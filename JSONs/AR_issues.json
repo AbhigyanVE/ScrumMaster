@@ -1,4 +1,8 @@
 {
+  "name": "Web Articles",
+  "id": "10355",
+  "key": "AR",
+  "issue_count": 67,
   "issues": [
     {
       "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
@@ -57,7 +61,7 @@
                 },
                 {
                   "type": "text",
-                  "text": "  ma\u2019am, "
+                  "text": "  ma’am, "
                 },
                 {
                   "type": "mention",
@@ -229,7 +233,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Ma\u2019am, please check this link: "
+                        "text": "Ma’am, please check this link: "
                       },
                       {
                         "type": "inlineCard",
@@ -413,7 +417,7 @@
                 },
                 {
                   "type": "text",
-                  "text": " ma\u2019am, "
+                  "text": " ma’am, "
                 },
                 {
                   "type": "mention",
@@ -590,7 +594,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Ma\u2019am please check the content link: "
+                        "text": "Ma’am please check the content link: "
                       },
                       {
                         "type": "inlineCard",
@@ -774,7 +778,7 @@
                 },
                 {
                   "type": "text",
-                  "text": " ma\u2019am, "
+                  "text": " ma’am, "
                 },
                 {
                   "type": "mention",
@@ -1000,7 +1004,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am, 2 sources are mentioned in the content:"
+                        "text": " Ma’am, 2 sources are mentioned in the content:"
                       },
                       {
                         "type": "hardBreak"
@@ -1171,7 +1175,7 @@
                 },
                 {
                   "type": "text",
-                  "text": " Ma\u2019am, "
+                  "text": " Ma’am, "
                 },
                 {
                   "type": "mention",
@@ -1322,7 +1326,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Feedback added. Praveen\u2019s comments need working upon. "
+                        "text": "Feedback added. Praveen’s comments need working upon. "
                       }
                     ]
                   }
@@ -1433,7 +1437,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "We are creating a bookkeeping Proof of Concept to demonstrate how our prompts surface in LLM outputs using articles authored by Irfan Sir. The content will be published on the website to support this PoC initiative. Ma\u2019am, please review and share your feedback for improvements."
+                  "text": "We are creating a bookkeeping Proof of Concept to demonstrate how our prompts surface in LLM outputs using articles authored by Irfan Sir. The content will be published on the website to support this PoC initiative. Ma’am, please review and share your feedback for improvements."
                 }
               ]
             }
@@ -1563,7 +1567,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am."
+                        "text": " Ma’am."
                       }
                     ]
                   },
@@ -1572,7 +1576,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "We are creating a bookkeeping Proof of Concept to demonstrate how our prompts surface in LLM outputs using articles authored by Irfan Sir. The content will be published on the website to support this PoC initiative. Ma\u2019am, please review and share your feedback for improvements."
+                        "text": "We are creating a bookkeeping Proof of Concept to demonstrate how our prompts surface in LLM outputs using articles authored by Irfan Sir. The content will be published on the website to support this PoC initiative. Ma’am, please review and share your feedback for improvements."
                       }
                     ]
                   }
@@ -1807,7 +1811,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Just to share some context \u2014 the articles currently in review are part of a planned series on SEO and LLM topics. These are designed as long-form, in-depth pieces because such content performs better from an SEO perspective. Search engines tend to rank detailed, comprehensive articles higher for these kinds of topics, especially when they include strong research, examples, and supporting references.  This is the first set of three, and there are three more coming in the same series. Maintaining this in-depth format will help capture more relevant search queries, build topical authority, and improve visibility for competitive keywords."
+                  "text": "Just to share some context — the articles currently in review are part of a planned series on SEO and LLM topics. These are designed as long-form, in-depth pieces because such content performs better from an SEO perspective. Search engines tend to rank detailed, comprehensive articles higher for these kinds of topics, especially when they include strong research, examples, and supporting references.  This is the first set of three, and there are three more coming in the same series. Maintaining this in-depth format will help capture more relevant search queries, build topical authority, and improve visibility for competitive keywords."
                 }
               ]
             }
@@ -1944,7 +1948,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am,"
+                        "text": " Ma’am,"
                       }
                     ]
                   },
@@ -1966,7 +1970,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am, Please review it."
+                        "text": " Ma’am, Please review it."
                       }
                     ]
                   },
@@ -2044,7 +2048,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am, need your help in reviewing in rest of the articles. Please do it."
+                        "text": " Ma’am, need your help in reviewing in rest of the articles. Please do it."
                       }
                     ]
                   },
@@ -2163,7 +2167,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Reviewed and comments added\u2026.its good and strong but had lots of repeated content."
+                        "text": "Reviewed and comments added….its good and strong but had lots of repeated content."
                       }
                     ]
                   }
@@ -2226,7 +2230,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am,"
+                        "text": " Ma’am,"
                       }
                     ]
                   },
@@ -2335,7 +2339,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " , this is a strong, high-concept piece \u2014 insightful, well-researched, and authoritative. It\u2019s strategically aligned with modern SEO\u2019s transition toward LLMs and entity-based visibility. The tone is confident and academic, yet readable \u2014 but the main weakness lies in conceptual repetition, semantic overlap, and redundant analogies that slow the reader\u2019s pace and dilute impact."
+                        "text": " , this is a strong, high-concept piece — insightful, well-researched, and authoritative. It’s strategically aligned with modern SEO’s transition toward LLMs and entity-based visibility. The tone is confident and academic, yet readable — but the main weakness lies in conceptual repetition, semantic overlap, and redundant analogies that slow the reader’s pace and dilute impact."
                       }
                     ]
                   }
@@ -2385,7 +2389,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "I\u2019ll review Blog 10 next"
+                        "text": "I’ll review Blog 10 next"
                       }
                     ]
                   }
@@ -2435,7 +2439,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Ok, Ma\u2019am. Please review part-10."
+                        "text": "Ok, Ma’am. Please review part-10."
                       }
                     ]
                   }
@@ -2508,7 +2512,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "This is a well-researched, high-authority piece\u2014conceptually strong and structured with a clear narrative arc. However, there\u2019s "
+                        "text": "This is a well-researched, high-authority piece—conceptually strong and structured with a clear narrative arc. However, there’s "
                       },
                       {
                         "type": "text",
@@ -2525,7 +2529,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "\u201crecency beats authority\u201d",
+                        "text": "“recency beats authority”",
                         "marks": [
                           {
                             "type": "em"
@@ -2534,7 +2538,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " in slightly varied forms. The argument is clear by mid-point, but it\u2019s reiterated multiple times with the same examples and phrasing, which could cause reader fatigue."
+                        "text": " in slightly varied forms. The argument is clear by mid-point, but it’s reiterated multiple times with the same examples and phrasing, which could cause reader fatigue."
                       },
                       {
                         "type": "hardBreak"
@@ -2752,7 +2756,7 @@
                 },
                 {
                   "type": "text",
-                  "text": "Sabyasachi is no longer with VE. Before leaving, he had written a few articles, and the piece you\u2019re receiving is one of them. Sudhir and I have finalized that this will follow our current process: the content will first be checked for AI originality, then approved by Daya ma\u2019am. If she suggests any changes, our current writers will make the necessary revisions."
+                  "text": "Sabyasachi is no longer with VE. Before leaving, he had written a few articles, and the piece you’re receiving is one of them. Sudhir and I have finalized that this will follow our current process: the content will first be checked for AI originality, then approved by Daya ma’am. If she suggests any changes, our current writers will make the necessary revisions."
                 }
               ]
             },
@@ -2761,7 +2765,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Please review the details in the comments below, where you\u2019ll find both the content and the AI originality report."
+                  "text": "Please review the details in the comments below, where you’ll find both the content and the AI originality report."
                 }
               ]
             }
@@ -3218,7 +3222,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Sabyasachi is no longer with VE. Before leaving, he had written a few articles, and the piece you\u2019re receiving is one of them. Sudhir and I have finalized that this will follow our current process: the content will first be checked for AI originality, then approved by Daya ma\u2019am. If she suggests any changes, our current writers will make the necessary revisions."
+                        "text": "Sabyasachi is no longer with VE. Before leaving, he had written a few articles, and the piece you’re receiving is one of them. Sudhir and I have finalized that this will follow our current process: the content will first be checked for AI originality, then approved by Daya ma’am. If she suggests any changes, our current writers will make the necessary revisions."
                       }
                     ]
                   },
@@ -3227,7 +3231,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Please review the details in the comments below, where you\u2019ll find both the content and the AI originality report."
+                        "text": "Please review the details in the comments below, where you’ll find both the content and the AI originality report."
                       }
                     ]
                   }
@@ -3537,7 +3541,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Sabyasachi is no longer with VE. Before leaving, he had written a few articles, and the piece you\u2019re receiving is one of them. Sudhir and I have finalized that this will follow our current process: the content will first be checked for AI originality, then approved by Daya ma\u2019am. If she suggests any changes, our current writers will make the necessary revisions."
+                        "text": "Sabyasachi is no longer with VE. Before leaving, he had written a few articles, and the piece you’re receiving is one of them. Sudhir and I have finalized that this will follow our current process: the content will first be checked for AI originality, then approved by Daya ma’am. If she suggests any changes, our current writers will make the necessary revisions."
                       }
                     ]
                   },
@@ -3546,7 +3550,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Please review the details in the comments below, where you\u2019ll find both the content and the AI originality report."
+                        "text": "Please review the details in the comments below, where you’ll find both the content and the AI originality report."
                       }
                     ]
                   }
@@ -3958,7 +3962,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Sabyasachi is no longer with VE. Before leaving, he had written a few articles, and the piece you\u2019re receiving is one of them. Sudhir and I have finalized that this will follow our current process: the content will first be checked for AI originality, then approved by Daya ma\u2019am. If she suggests any changes, our current writers will make the necessary revisions."
+                        "text": "Sabyasachi is no longer with VE. Before leaving, he had written a few articles, and the piece you’re receiving is one of them. Sudhir and I have finalized that this will follow our current process: the content will first be checked for AI originality, then approved by Daya ma’am. If she suggests any changes, our current writers will make the necessary revisions."
                       }
                     ]
                   },
@@ -3967,7 +3971,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Please review the details in the comments below, where you\u2019ll find both the content and the AI originality report."
+                        "text": "Please review the details in the comments below, where you’ll find both the content and the AI originality report."
                       }
                     ]
                   }
@@ -4277,7 +4281,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Sabyasachi is no longer with VE. Before leaving, he had written a few articles, and the piece you\u2019re receiving is one of them. Sudhir and I have finalized that this will follow our current process: the content will first be checked for AI originality, then approved by Daya ma\u2019am. If she suggests any changes, our current writers will make the necessary revisions."
+                        "text": "Sabyasachi is no longer with VE. Before leaving, he had written a few articles, and the piece you’re receiving is one of them. Sudhir and I have finalized that this will follow our current process: the content will first be checked for AI originality, then approved by Daya ma’am. If she suggests any changes, our current writers will make the necessary revisions."
                       }
                     ]
                   },
@@ -4286,7 +4290,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Please review the details in the comments below, where you\u2019ll find both the content and the AI originality report."
+                        "text": "Please review the details in the comments below, where you’ll find both the content and the AI originality report."
                       }
                     ]
                   }
@@ -4499,7 +4503,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Just to share some context \u2014 the articles currently in review are part of a planned series on SEO and LLM topics. These are designed as long-form, in-depth pieces because such content performs better from an SEO perspective. Search engines tend to rank detailed, comprehensive articles higher for these kinds of topics, especially when they include strong research, examples, and supporting references.  This is the first set of three, and there are three more coming in the same series. Maintaining this in-depth format will help capture more relevant search queries, build topical authority, and improve visibility for competitive keywords."
+                  "text": "Just to share some context — the articles currently in review are part of a planned series on SEO and LLM topics. These are designed as long-form, in-depth pieces because such content performs better from an SEO perspective. Search engines tend to rank detailed, comprehensive articles higher for these kinds of topics, especially when they include strong research, examples, and supporting references.  This is the first set of three, and there are three more coming in the same series. Maintaining this in-depth format will help capture more relevant search queries, build topical authority, and improve visibility for competitive keywords."
                 }
               ]
             }
@@ -4629,7 +4633,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am, Please review it."
+                        "text": " Ma’am, Please review it."
                       }
                     ]
                   },
@@ -4703,7 +4707,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " The article is strong in depth, structure, and use of examples. The two gravities are well explained and the case studies add real clarity. That said, the core ideas are repeated too many times\u2014especially the definitions of the two gravities and the proof/choice stack guidance. This gives the article weight and clarity, but also makes it feel longer and a bit circular in places. Trimming some of the repeated framing (particularly the re-definitions of the two gravities) would make it tighter without losing impact. Overall, a solid draft\u2014just needs sharpening for conciseness."
+                        "text": " The article is strong in depth, structure, and use of examples. The two gravities are well explained and the case studies add real clarity. That said, the core ideas are repeated too many times—especially the definitions of the two gravities and the proof/choice stack guidance. This gives the article weight and clarity, but also makes it feel longer and a bit circular in places. Trimming some of the repeated framing (particularly the re-definitions of the two gravities) would make it tighter without losing impact. Overall, a solid draft—just needs sharpening for conciseness."
                       }
                     ]
                   }
@@ -4853,7 +4857,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Just to share some context \u2014 the articles currently in review are part of a planned series on SEO and LLM topics. These are designed as long-form, in-depth pieces because such content performs better from an SEO perspective. Search engines tend to rank detailed, comprehensive articles higher for these kinds of topics, especially when they include strong research, examples, and supporting references.  This is the first set of three, and there are three more coming in the same series. Maintaining this in-depth format will help capture more relevant search queries, build topical authority, and improve visibility for competitive keywords."
+                  "text": "Just to share some context — the articles currently in review are part of a planned series on SEO and LLM topics. These are designed as long-form, in-depth pieces because such content performs better from an SEO perspective. Search engines tend to rank detailed, comprehensive articles higher for these kinds of topics, especially when they include strong research, examples, and supporting references.  This is the first set of three, and there are three more coming in the same series. Maintaining this in-depth format will help capture more relevant search queries, build topical authority, and improve visibility for competitive keywords."
                 }
               ]
             }
@@ -5039,7 +5043,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am, Please review it."
+                        "text": " Ma’am, Please review it."
                       }
                     ]
                   }
@@ -5102,14 +5106,14 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am, "
+                        "text": " Ma’am, "
                       },
                       {
                         "type": "hardBreak"
                       },
                       {
                         "type": "text",
-                        "text": "I\u2019m requesting you to review this content if possible today?"
+                        "text": "I’m requesting you to review this content if possible today?"
                       }
                     ]
                   }
@@ -5168,7 +5172,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am, Please review it."
+                        "text": " Ma’am, Please review it."
                       }
                     ]
                   }
@@ -5329,7 +5333,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Just to share some context \u2014 the articles currently in review are part of a planned series on SEO and LLM topics. These are designed as long-form, in-depth pieces because such content performs better from an SEO perspective. Search engines tend to rank detailed, comprehensive articles higher for these kinds of topics, especially when they include strong research, examples, and supporting references.  This is the first set of three, and there are three more coming in the same series. Maintaining this in-depth format will help capture more relevant search queries, build topical authority, and improve visibility for competitive keywords."
+                  "text": "Just to share some context — the articles currently in review are part of a planned series on SEO and LLM topics. These are designed as long-form, in-depth pieces because such content performs better from an SEO perspective. Search engines tend to rank detailed, comprehensive articles higher for these kinds of topics, especially when they include strong research, examples, and supporting references.  This is the first set of three, and there are three more coming in the same series. Maintaining this in-depth format will help capture more relevant search queries, build topical authority, and improve visibility for competitive keywords."
                 }
               ]
             }
@@ -5546,7 +5550,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Just to share some context \u2014 the articles currently in review are part of a planned series on SEO and LLM topics. These are designed as long-form, in-depth pieces because such content performs better from an SEO perspective. Search engines tend to rank detailed, comprehensive articles higher for these kinds of topics, especially when they include strong research, examples, and supporting references.  This is the first set of three, and there are three more coming in the same series. Maintaining this in-depth format will help capture more relevant search queries, build topical authority, and improve visibility for competitive keywords."
+                  "text": "Just to share some context — the articles currently in review are part of a planned series on SEO and LLM topics. These are designed as long-form, in-depth pieces because such content performs better from an SEO perspective. Search engines tend to rank detailed, comprehensive articles higher for these kinds of topics, especially when they include strong research, examples, and supporting references.  This is the first set of three, and there are three more coming in the same series. Maintaining this in-depth format will help capture more relevant search queries, build topical authority, and improve visibility for competitive keywords."
                 }
               ]
             }
@@ -5575,7 +5579,7 @@
         "aggregatetimeestimate": 0,
         "resolutiondate": null,
         "workratio": -1,
-        "summary": "5: Vector Real Estate: Owning Your Brand\u2019s Place in AI\u2019s Semantic Space",
+        "summary": "5: Vector Real Estate: Owning Your Brand’s Place in AI’s Semantic Space",
         "watches": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/AR-53/watchers",
           "watchCount": 2,
@@ -5739,7 +5743,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am, Please review it."
+                        "text": " Ma’am, Please review it."
                       }
                     ]
                   }
@@ -5954,7 +5958,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Just to share some context \u2014 the articles currently in review are part of a planned series on SEO and LLM topics. These are designed as long-form, in-depth pieces because such content performs better from an SEO perspective. Search engines tend to rank detailed, comprehensive articles higher for these kinds of topics, especially when they include strong research, examples, and supporting references.  This is the first set of three, and there are three more coming in the same series. Maintaining this in-depth format will help capture more relevant search queries, build topical authority, and improve visibility for competitive keywords."
+                  "text": "Just to share some context — the articles currently in review are part of a planned series on SEO and LLM topics. These are designed as long-form, in-depth pieces because such content performs better from an SEO perspective. Search engines tend to rank detailed, comprehensive articles higher for these kinds of topics, especially when they include strong research, examples, and supporting references.  This is the first set of three, and there are three more coming in the same series. Maintaining this in-depth format will help capture more relevant search queries, build topical authority, and improve visibility for competitive keywords."
                 }
               ]
             }
@@ -6147,7 +6151,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am, Please review it."
+                        "text": " Ma’am, Please review it."
                       }
                     ]
                   }
@@ -6377,7 +6381,7 @@
         "aggregatetimeestimate": 0,
         "resolutiondate": null,
         "workratio": -1,
-        "summary": "Web Article: Semantic Reputation: The New SEO Moat No One\u2019s Talking About",
+        "summary": "Web Article: Semantic Reputation: The New SEO Moat No One’s Talking About",
         "watches": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/AR-51/watchers",
           "watchCount": 2,
@@ -6481,7 +6485,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am - Please review it."
+                        "text": " Ma’am - Please review it."
                       }
                     ]
                   },
@@ -6546,7 +6550,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Hi Daya ma\u2019am,\n\nJust to share some context \u2014 the three blogs currently in review are part of a planned series on SEO and LLM topics. These are designed as long-form, in-depth pieces because such content performs better from an SEO perspective. Search engines tend to rank detailed, comprehensive articles higher for these kinds of topics, especially when they include strong research, examples, and supporting references.\n\nThis is the first set of three, and there are three more coming in the same series. Maintaining this in-depth format will help capture more relevant search queries, build topical authority, and improve visibility for competitive keywords.\n"
+                        "text": "Hi Daya ma’am,\n\nJust to share some context — the three blogs currently in review are part of a planned series on SEO and LLM topics. These are designed as long-form, in-depth pieces because such content performs better from an SEO perspective. Search engines tend to rank detailed, comprehensive articles higher for these kinds of topics, especially when they include strong research, examples, and supporting references.\n\nThis is the first set of three, and there are three more coming in the same series. Maintaining this in-depth format will help capture more relevant search queries, build topical authority, and improve visibility for competitive keywords.\n"
                       }
                     ]
                   }
@@ -6918,7 +6922,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am - Please review it."
+                        "text": " Ma’am - Please review it."
                       }
                     ]
                   },
@@ -6983,7 +6987,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Hi Daya ma\u2019am,\n\nJust to share some context \u2014 the three blogs currently in review are part of a planned series on SEO and LLM topics. These are designed as long-form, in-depth pieces because such content performs better from an SEO perspective. Search engines tend to rank detailed, comprehensive articles higher for these kinds of topics, especially when they include strong research, examples, and supporting references.\n\nThis is the first set of three, and there are three more coming in the same series. Maintaining this in-depth format will help capture more relevant search queries, build topical authority, and improve visibility for competitive keywords.\n"
+                        "text": "Hi Daya ma’am,\n\nJust to share some context — the three blogs currently in review are part of a planned series on SEO and LLM topics. These are designed as long-form, in-depth pieces because such content performs better from an SEO perspective. Search engines tend to rank detailed, comprehensive articles higher for these kinds of topics, especially when they include strong research, examples, and supporting references.\n\nThis is the first set of three, and there are three more coming in the same series. Maintaining this in-depth format will help capture more relevant search queries, build topical authority, and improve visibility for competitive keywords.\n"
                       }
                     ]
                   }
@@ -7340,7 +7344,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am - Please review the content."
+                        "text": " Ma’am - Please review the content."
                       }
                     ]
                   },
@@ -7405,7 +7409,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Hi Daya ma\u2019am,\n\nJust to share some context \u2014 the three blogs currently in review are part of a planned series on SEO and LLM topics. These are designed as long-form, in-depth pieces because such content performs better from an SEO perspective. Search engines tend to rank detailed, comprehensive articles higher for these kinds of topics, especially when they include strong research, examples, and supporting references.\n\nThis is the first set of three, and there are three more coming in the same series. Maintaining this in-depth format will help capture more relevant search queries, build topical authority, and improve visibility for competitive keywords.\n"
+                        "text": "Hi Daya ma’am,\n\nJust to share some context — the three blogs currently in review are part of a planned series on SEO and LLM topics. These are designed as long-form, in-depth pieces because such content performs better from an SEO perspective. Search engines tend to rank detailed, comprehensive articles higher for these kinds of topics, especially when they include strong research, examples, and supporting references.\n\nThis is the first set of three, and there are three more coming in the same series. Maintaining this in-depth format will help capture more relevant search queries, build topical authority, and improve visibility for competitive keywords.\n"
                       }
                     ]
                   }
@@ -8157,7 +8161,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am - Please review it."
+                        "text": " Ma’am - Please review it."
                       }
                     ]
                   }
@@ -8270,7 +8274,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am I\u2019ve changed the headline."
+                        "text": " ma’am I’ve changed the headline."
                       }
                     ]
                   }
@@ -9054,7 +9058,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "Web Article 9 Red Flags Screaming It\u2019s Time to Hire a Dedica.docx",
+                        "text": "Web Article 9 Red Flags Screaming It’s Time to Hire a Dedica.docx",
                         "marks": [
                           {
                             "type": "link",
@@ -9171,7 +9175,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am - Please review it."
+                        "text": " Ma’am - Please review it."
                       }
                     ]
                   }
@@ -9284,11 +9288,11 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am. As per your feedback, I have reworked portions of the article. Plz review the doc \u2013 "
+                        "text": " ma’am. As per your feedback, I have reworked portions of the article. Plz review the doc – "
                       },
                       {
                         "type": "text",
-                        "text": "Web Article 9 Red Flags Screaming It\u2019s Time to Hire a Dedica.docx",
+                        "text": "Web Article 9 Red Flags Screaming It’s Time to Hire a Dedica.docx",
                         "marks": [
                           {
                             "type": "link",
@@ -9413,7 +9417,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "9 Red Flags That Say It\u2019s Time to Hire a Dedicated Developer ",
+                        "text": "9 Red Flags That Say It’s Time to Hire a Dedicated Developer ",
                         "marks": [
                           {
                             "type": "strong"
@@ -9422,7 +9426,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "\u00a0"
+                        "text": " "
                       }
                     ]
                   }
@@ -10236,7 +10240,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am pls review it."
+                        "text": " Ma’am pls review it."
                       }
                     ]
                   }
@@ -10796,7 +10800,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Please make images clean, only with 2-3 elements. And, no show \u201cpredictive IT support\u201d don\u2019t show any breaks in image."
+                        "text": " Please make images clean, only with 2-3 elements. And, no show “predictive IT support” don’t show any breaks in image."
                       }
                     ]
                   }
@@ -11487,7 +11491,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am - Please review it."
+                        "text": " Ma’am - Please review it."
                       }
                     ]
                   }
@@ -11596,7 +11600,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Please work on Ma\u2019am\u2019s feedbacks."
+                        "text": " Please work on Ma’am’s feedbacks."
                       }
                     ]
                   }
@@ -12555,7 +12559,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " I\u2019ve made the changes to the following doc \u2013 "
+                        "text": " I’ve made the changes to the following doc – "
                       },
                       {
                         "type": "text",
@@ -12676,7 +12680,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am - Please review it."
+                        "text": " Ma’am - Please review it."
                       }
                     ]
                   }
@@ -12726,7 +12730,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "headline looks weak\u2026"
+                        "text": "headline looks weak…"
                       }
                     ]
                   }
@@ -13028,7 +13032,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Please share the images related to \u201cdaya entry\u201d which is the main theme of the article."
+                        "text": " Please share the images related to “daya entry” which is the main theme of the article."
                       }
                     ]
                   }
@@ -13601,7 +13605,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am - Pls review it."
+                        "text": " Ma’am - Pls review it."
                       }
                     ]
                   }
@@ -14812,7 +14816,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am Please review it."
+                        "text": " Ma’am Please review it."
                       }
                     ]
                   }
@@ -15778,7 +15782,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " It\u2019s still high. Please fix it."
+                        "text": " It’s still high. Please fix it."
                       }
                     ]
                   },
@@ -15938,7 +15942,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am, Pls review it."
+                        "text": " Ma’am, Pls review it."
                       }
                     ]
                   }
@@ -16719,7 +16723,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am Please review it."
+                        "text": " Ma’am Please review it."
                       }
                     ]
                   }
@@ -17438,7 +17442,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Sir - Feedback implemented. Now it\u2019s coming under 6% after removing the Meta Description & Keywords."
+                        "text": " Sir - Feedback implemented. Now it’s coming under 6% after removing the Meta Description & Keywords."
                       },
                       {
                         "type": "hardBreak"
@@ -17565,7 +17569,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am Please review it."
+                        "text": " Ma’am Please review it."
                       }
                     ]
                   }
@@ -18398,7 +18402,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am - Please review it."
+                        "text": " Ma’am - Please review it."
                       }
                     ]
                   }
@@ -18448,7 +18452,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "feedback added\u2026a lengthy one. "
+                        "text": "feedback added…a lengthy one. "
                       }
                     ]
                   }
@@ -18991,7 +18995,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am - Please review it."
+                        "text": " Ma’am - Please review it."
                       }
                     ]
                   }
@@ -19664,7 +19668,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Plz review the following doc \u2013 "
+                        "text": " Plz review the following doc – "
                       },
                       {
                         "type": "text",
@@ -19785,7 +19789,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am Please review it."
+                        "text": " Ma’am Please review it."
                       }
                     ]
                   }
@@ -19835,7 +19839,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "some minor edits. good to go although very chatgpish tone\u2026.."
+                        "text": "some minor edits. good to go although very chatgpish tone….."
                       }
                     ]
                   }
@@ -19957,7 +19961,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " The following doc is final \u2013 "
+                        "text": " The following doc is final – "
                       },
                       {
                         "type": "text",
@@ -20687,11 +20691,11 @@
                       },
                       {
                         "type": "text",
-                        "text": " Please review the following article \u2013 "
+                        "text": " Please review the following article – "
                       },
                       {
                         "type": "text",
-                        "text": "Web Article Time or Money How Top Tax Experts Save You Both\u2014",
+                        "text": "Web Article Time or Money How Top Tax Experts Save You Both—",
                         "marks": [
                           {
                             "type": "link",
@@ -20808,7 +20812,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am - Please review it."
+                        "text": " Ma’am - Please review it."
                       }
                     ]
                   }
@@ -21470,7 +21474,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "Please review the following article \u2013 "
+                        "text": "Please review the following article – "
                       },
                       {
                         "type": "text",
@@ -21591,7 +21595,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am - Please review it."
+                        "text": " Ma’am - Please review it."
                       }
                     ]
                   }
@@ -21817,7 +21821,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Doc is final \u2013 "
+                        "text": " Doc is final – "
                       },
                       {
                         "type": "text",
@@ -22413,7 +22417,7 @@
         "aggregatetimeestimate": 0,
         "resolutiondate": null,
         "workratio": -1,
-        "summary": "Web Article:\tHow to Evaluate a Software Developer Before Hiring \u2013 A Complete Guide\t800",
+        "summary": "Web Article:\tHow to Evaluate a Software Developer Before Hiring – A Complete Guide\t800",
         "watches": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/AR-30/watchers",
           "watchCount": 5,
@@ -22521,7 +22525,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Plz review the following article \u2013 "
+                        "text": " Plz review the following article – "
                       },
                       {
                         "type": "text",
@@ -22642,7 +22646,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am - Please review it."
+                        "text": " Ma’am - Please review it."
                       }
                     ]
                   }
@@ -22755,7 +22759,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Feedback implemented. Doc is final \u2013 "
+                        "text": " Feedback implemented. Doc is final – "
                       },
                       {
                         "type": "text",
@@ -22991,7 +22995,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Images aren\u2019t going well with topic, please share 2-3 more variations."
+                        "text": "Images aren’t going well with topic, please share 2-3 more variations."
                       }
                     ]
                   }
@@ -23686,7 +23690,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " - I have shared my feedback. I\u2019m requesting you to work on it and share it back."
+                        "text": " - I have shared my feedback. I’m requesting you to work on it and share it back."
                       }
                     ]
                   }
@@ -23826,7 +23830,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " It\u2019s good to go"
+                        "text": " It’s good to go"
                       }
                     ]
                   }
@@ -23885,7 +23889,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am - Please review it."
+                        "text": " Ma’am - Please review it."
                       }
                     ]
                   }
@@ -24084,7 +24088,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " It\u2019s good to go."
+                        "text": " It’s good to go."
                       }
                     ]
                   }
@@ -24985,7 +24989,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am - Please review it."
+                        "text": " Ma’am - Please review it."
                       }
                     ]
                   }
@@ -26269,7 +26273,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am Please review it."
+                        "text": " Ma’am Please review it."
                       }
                     ]
                   }
@@ -26436,7 +26440,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Hi Praveen. I made the change on May 11. The new headline is \u2013 "
+                        "text": " Hi Praveen. I made the change on May 11. The new headline is – "
                       },
                       {
                         "type": "text",
@@ -26449,7 +26453,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "\u00a0"
+                        "text": " "
                       },
                       {
                         "type": "hardBreak"
@@ -27268,7 +27272,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am Please review."
+                        "text": " Ma’am Please review."
                       }
                     ]
                   }
@@ -28190,7 +28194,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " plz review the following article so I can send it to Daya ma\u2019am: "
+                        "text": " plz review the following article so I can send it to Daya ma’am: "
                       },
                       {
                         "type": "text",
@@ -28324,7 +28328,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am - Please review."
+                        "text": " Ma’am - Please review."
                       }
                     ]
                   }
@@ -29699,7 +29703,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " - It\u2019s good to go from my side."
+                        "text": " - It’s good to go from my side."
                       }
                     ]
                   }
@@ -29758,7 +29762,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am - Please review."
+                        "text": " Ma’am - Please review."
                       }
                     ]
                   }
@@ -30471,7 +30475,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " It\u2019s good to go from my side."
+                        "text": " It’s good to go from my side."
                       }
                     ]
                   }
@@ -30530,7 +30534,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am - Please review."
+                        "text": " Ma’am - Please review."
                       }
                     ]
                   }
@@ -31433,7 +31437,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am, please review - "
+                        "text": " ma’am, please review - "
                       },
                       {
                         "type": "text",
@@ -31572,7 +31576,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am kindly review this content piece."
+                        "text": " Ma’am kindly review this content piece."
                       }
                     ]
                   }
@@ -31622,7 +31626,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "this has already been reviewed by Daya ma\u2019am and her fedback has been updated. "
+                        "text": "this has already been reviewed by Daya ma’am and her fedback has been updated. "
                       }
                     ]
                   }
@@ -32535,7 +32539,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am & "
+                        "text": " ma’am & "
                       },
                       {
                         "type": "mention",
@@ -32826,7 +32830,7 @@
         "aggregatetimeestimate": 0,
         "resolutiondate": null,
         "workratio": -1,
-        "summary": "Web Article:\tThe New IT Stack: Outsourcing Isn\u2019t Cost-Cutting, It\u2019s Control\t1000",
+        "summary": "Web Article:\tThe New IT Stack: Outsourcing Isn’t Cost-Cutting, It’s Control\t1000",
         "watches": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/AR-20/watchers",
           "watchCount": 2,
@@ -34207,7 +34211,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am - Please review it."
+                        "text": " Ma’am - Please review it."
                       }
                     ]
                   }
@@ -34320,7 +34324,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Feedback implemented and changes accepted \u2013 "
+                        "text": " Feedback implemented and changes accepted – "
                       },
                       {
                         "type": "text",
@@ -35628,7 +35632,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am - Please review it."
+                        "text": " Ma’am - Please review it."
                       }
                     ]
                   }
@@ -35750,7 +35754,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am - you just need to scroll down and click on \u201cshow more comments\u201d there you\u2019ll find all the links."
+                        "text": " Ma’am - you just need to scroll down and click on “show more comments” there you’ll find all the links."
                       }
                     ]
                   },
@@ -36238,11 +36242,11 @@
                       },
                       {
                         "type": "text",
-                        "text": " plz check the following doc \u2013 "
+                        "text": " plz check the following doc – "
                       },
                       {
                         "type": "text",
-                        "text": "Web Article\u2014Impact of Remote Work How the Financial Analyst",
+                        "text": "Web Article—Impact of Remote Work How the Financial Analyst",
                         "marks": [
                           {
                             "type": "link",
@@ -36257,7 +36261,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "will send to Daya ma\u2019am for review once you confirm it is good to go"
+                        "text": "will send to Daya ma’am for review once you confirm it is good to go"
                       }
                     ]
                   }
@@ -36512,7 +36516,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " This image is not looking good. As per recent feedback u know Shaun sir don\u2019t like the images (shutterstock images)"
+                        "text": " This image is not looking good. As per recent feedback u know Shaun sir don’t like the images (shutterstock images)"
                       }
                     ]
                   }
@@ -36800,7 +36804,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am - Please review it."
+                        "text": " Ma’am - Please review it."
                       }
                     ]
                   }
@@ -37002,11 +37006,11 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am. I have made major changes to the following article as per your feedback. Plz re-review it \u2013 "
+                        "text": " ma’am. I have made major changes to the following article as per your feedback. Plz re-review it – "
                       },
                       {
                         "type": "text",
-                        "text": "Web Article\u2014Impact of Remote Work How the Financial Analyst.docx",
+                        "text": "Web Article—Impact of Remote Work How the Financial Analyst.docx",
                         "marks": [
                           {
                             "type": "link",
@@ -37142,7 +37146,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am - I share all the live links here in Jira"
+                        "text": " Ma’am - I share all the live links here in Jira"
                       }
                     ]
                   }
@@ -37413,7 +37417,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am - Please find the live link of the article."
+                        "text": " Ma’am - Please find the live link of the article."
                       }
                     ]
                   }
@@ -37796,7 +37800,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "Also, ma'am, whenever I write content, I make it a point to run it through ChatGPT. I\u2019ve trained it using Shaun\u2019s feedback videos (all of them) and structured a custom scoring system based on his review framework. This helps me evaluate my content more critically across logic, clarity, framing, and strategic messaging."
+                        "text": "Also, ma'am, whenever I write content, I make it a point to run it through ChatGPT. I’ve trained it using Shaun’s feedback videos (all of them) and structured a custom scoring system based on his review framework. This helps me evaluate my content more critically across logic, clarity, framing, and strategic messaging."
                       }
                     ]
                   },
@@ -37805,7 +37809,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "I always ask ChatGPT to score my drafts accordingly and that\u2019s how I arrived at the score I\u2019m sharing here."
+                        "text": "I always ask ChatGPT to score my drafts accordingly and that’s how I arrived at the score I’m sharing here."
                       },
                       {
                         "type": "hardBreak"
@@ -37820,7 +37824,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Based on Shaun\u2019s review system \u2014 which typically evaluates across key categories like "
+                        "text": "Based on Shaun’s review system — which typically evaluates across key categories like "
                       },
                       {
                         "type": "text",
@@ -37833,7 +37837,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " \u2014 here\u2019s a breakdown and score for this page:"
+                        "text": " — here’s a breakdown and score for this page:"
                       }
                     ]
                   },
@@ -37848,11 +37852,11 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "\ud83d\udd0d "
+                        "text": "🔍 "
                       },
                       {
                         "type": "text",
-                        "text": "1. Logic & Structure \u2013 9/10",
+                        "text": "1. Logic & Structure – 9/10",
                         "marks": [
                           {
                             "type": "strong"
@@ -37904,7 +37908,7 @@
                               },
                               {
                                 "type": "text",
-                                "text": ": Some transitions could be a bit tighter (e.g., the shift from theory to VE\u2019s pitch), but overall the flow is strong."
+                                "text": ": Some transitions could be a bit tighter (e.g., the shift from theory to VE’s pitch), but overall the flow is strong."
                               }
                             ]
                           }
@@ -37923,11 +37927,11 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "\u270d\ufe0f "
+                        "text": "✍️ "
                       },
                       {
                         "type": "text",
-                        "text": "2. Clarity & Style \u2013 9/10",
+                        "text": "2. Clarity & Style – 9/10",
                         "marks": [
                           {
                             "type": "strong"
@@ -37979,7 +37983,7 @@
                               },
                               {
                                 "type": "text",
-                                "text": ": Slight complexity in the formula section may slow less experienced readers \u2014 but your audience likely skews business-savvy, so acceptable."
+                                "text": ": Slight complexity in the formula section may slow less experienced readers — but your audience likely skews business-savvy, so acceptable."
                               }
                             ]
                           }
@@ -37998,11 +38002,11 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "\ud83d\udca1 "
+                        "text": "💡 "
                       },
                       {
                         "type": "text",
-                        "text": "3. Originality \u2013 9.5/10",
+                        "text": "3. Originality – 9.5/10",
                         "marks": [
                           {
                             "type": "strong"
@@ -38031,7 +38035,7 @@
                               },
                               {
                                 "type": "text",
-                                "text": ": COTQ is a fresh concept, especially when framed as a \u201ctipping point.\u201d Phrases like \u201cresume roulette\u201d and \u201chire and hope vs. hire and know\u201d are memorable. The product-vs-process reframing is classic Shaun-approved thinking."
+                                "text": ": COTQ is a fresh concept, especially when framed as a “tipping point.” Phrases like “resume roulette” and “hire and hope vs. hire and know” are memorable. The product-vs-process reframing is classic Shaun-approved thinking."
                               }
                             ]
                           }
@@ -38054,7 +38058,7 @@
                               },
                               {
                                 "type": "text",
-                                "text": ": It avoids tired tropes like \u201ccost of a bad hire is 3x the salary\u201d and introduces a "
+                                "text": ": It avoids tired tropes like “cost of a bad hire is 3x the salary” and introduces a "
                               },
                               {
                                 "type": "text",
@@ -38086,11 +38090,11 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "\ud83e\udde0 "
+                        "text": "🧠 "
                       },
                       {
                         "type": "text",
-                        "text": "4. Framing & Strategic Insight \u2013 10/10",
+                        "text": "4. Framing & Strategic Insight – 10/10",
                         "marks": [
                           {
                             "type": "strong"
@@ -38119,7 +38123,7 @@
                               },
                               {
                                 "type": "text",
-                                "text": ": Doesn\u2019t pitch \u201cremote staffing\u201d upfront. Instead, it deconstructs a "
+                                "text": ": Doesn’t pitch “remote staffing” upfront. Instead, it deconstructs a "
                               },
                               {
                                 "type": "text",
@@ -38168,7 +38172,7 @@
                               },
                               {
                                 "type": "text",
-                                "text": " COTQ \u2014 reframes VE as an intelligent decision, not just a service provider."
+                                "text": " COTQ — reframes VE as an intelligent decision, not just a service provider."
                               }
                             ]
                           }
@@ -38187,11 +38191,11 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "\ud83d\udcc8 "
+                        "text": "📈 "
                       },
                       {
                         "type": "text",
-                        "text": "5. Marketing & Persuasion \u2013 9/10",
+                        "text": "5. Marketing & Persuasion – 9/10",
                         "marks": [
                           {
                             "type": "strong"
@@ -38220,7 +38224,7 @@
                               },
                               {
                                 "type": "text",
-                                "text": ": Strong pain-point focus. Great use of invisible costs, urgency, and mental models. The \u201cinvisible tipping point\u201d and \u201ctalent coverage line\u201d language shifts the conversation from cost to risk and timing."
+                                "text": ": Strong pain-point focus. Great use of invisible costs, urgency, and mental models. The “invisible tipping point” and “talent coverage line” language shifts the conversation from cost to risk and timing."
                               }
                             ]
                           }
@@ -38243,7 +38247,7 @@
                               },
                               {
                                 "type": "text",
-                                "text": ": A micro-case or micro-proof (e.g., \u201cOne client saved $X by switching after 2 failed hires\u201d) would drive it home."
+                                "text": ": A micro-case or micro-proof (e.g., “One client saved $X by switching after 2 failed hires”) would drive it home."
                               }
                             ]
                           }
@@ -38262,11 +38266,11 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "\ud83e\udde9 "
+                        "text": "🧩 "
                       },
                       {
                         "type": "text",
-                        "text": "6. Closing & Call-to-Action Framing \u2013 8.5/10",
+                        "text": "6. Closing & Call-to-Action Framing – 8.5/10",
                         "marks": [
                           {
                             "type": "strong"
@@ -38295,7 +38299,7 @@
                               },
                               {
                                 "type": "text",
-                                "text": ": Ends on a strategic choice: draw your Talent Coverage Line. Not salesy \u2014 advisory. It\u2019s not \u201chire from VE,\u201d it\u2019s \u201cknow when to stop hiring wrong.\u201d Elegant CTA logic."
+                                "text": ": Ends on a strategic choice: draw your Talent Coverage Line. Not salesy — advisory. It’s not “hire from VE,” it’s “know when to stop hiring wrong.” Elegant CTA logic."
                               }
                             ]
                           }
@@ -39320,7 +39324,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " , this isn\u2019t meeting the standards. "
+                        "text": " , this isn’t meeting the standards. "
                       },
                       {
                         "type": "mention",
@@ -39396,7 +39400,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " as per Daya ma\u2019am feedback, please reassing it to another writer."
+                        "text": " as per Daya ma’am feedback, please reassing it to another writer."
                       }
                     ]
                   }
@@ -39593,7 +39597,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Content is fine\u2026 requesting you to change the title as per the feedback."
+                        "text": " Content is fine… requesting you to change the title as per the feedback."
                       }
                     ]
                   }
@@ -39679,11 +39683,11 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am plz review the following article: "
+                        "text": " ma’am plz review the following article: "
                       },
                       {
                         "type": "text",
-                        "text": "Web Article--Smart SMEs Don\u2019t Gamble on IT \u2014 They Outsource It",
+                        "text": "Web Article--Smart SMEs Don’t Gamble on IT — They Outsource It",
                         "marks": [
                           {
                             "type": "link",
@@ -40013,7 +40017,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "Don\u2019t add \u201cSME\u201d word, show something related to IT services."
+                        "text": "Don’t add “SME” word, show something related to IT services."
                       }
                     ]
                   }
@@ -40827,7 +40831,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " - It\u2019s good to go."
+                        "text": " - It’s good to go."
                       }
                     ]
                   }
@@ -40886,7 +40890,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am - Please review it."
+                        "text": " Ma’am - Please review it."
                       }
                     ]
                   }
@@ -42149,7 +42153,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am - Please review it."
+                        "text": " Ma’am - Please review it."
                       }
                     ]
                   }
@@ -42271,7 +42275,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am. I\u2019ve incorporated the changes. Sending for a re-check."
+                        "text": " ma’am. I’ve incorporated the changes. Sending for a re-check."
                       }
                     ]
                   }
@@ -43165,7 +43169,7 @@
                                 "content": [
                                   {
                                     "type": "text",
-                                    "text": "Word Count\u00a0"
+                                    "text": "Word Count "
                                   }
                                 ]
                               }
@@ -43421,7 +43425,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " It\u2019s good to go."
+                        "text": " It’s good to go."
                       }
                     ]
                   }
@@ -43480,7 +43484,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am, Kindly review this content piece."
+                        "text": " Ma’am, Kindly review this content piece."
                       }
                     ]
                   }
@@ -43805,7 +43809,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Sir - I\u2019ve updated the content, please review:"
+                        "text": " Sir - I’ve updated the content, please review:"
                       },
                       {
                         "type": "hardBreak"
@@ -45204,7 +45208,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am - Please review it."
+                        "text": " Ma’am - Please review it."
                       }
                     ]
                   }
@@ -45372,7 +45376,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Please work on ma\u2019am feedback."
+                        "text": " Please work on ma’am feedback."
                       }
                     ]
                   }
@@ -45841,7 +45845,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am - here is the link "
+                        "text": " Ma’am - here is the link "
                       },
                       {
                         "type": "inlineCard",
@@ -46289,7 +46293,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am. Please review - "
+                        "text": " ma’am. Please review - "
                       },
                       {
                         "type": "text",
@@ -46457,7 +46461,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am, please review the re-written web article by Koyel- "
+                        "text": " ma’am, please review the re-written web article by Koyel- "
                       },
                       {
                         "type": "text",
@@ -47056,7 +47060,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am Please review it."
+                        "text": " Ma’am Please review it."
                       }
                     ]
                   }
@@ -47115,7 +47119,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " - ma\u2019am has reviewed this twice."
+                        "text": " - ma’am has reviewed this twice."
                       }
                     ]
                   }
@@ -47784,7 +47788,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am - Kindly review it."
+                        "text": " Ma’am - Kindly review it."
                       }
                     ]
                   }
@@ -48468,7 +48472,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am, please review the VE On-Site Article content shared by Sabyasachi."
+                        "text": " Ma’am, please review the VE On-Site Article content shared by Sabyasachi."
                       }
                     ]
                   },
@@ -48993,7 +48997,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am, please review the VE On-Site Article content shared by Sabyasachi. "
+                        "text": " Ma’am, please review the VE On-Site Article content shared by Sabyasachi. "
                       }
                     ]
                   },
@@ -49526,7 +49530,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am, please review the VE On-Site Article content shared by Sabyasachi."
+                        "text": " Ma’am, please review the VE On-Site Article content shared by Sabyasachi."
                       }
                     ]
                   },
@@ -49650,7 +49654,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am - I\u2019ve shared access for all 3 content pieces."
+                        "text": " Ma’am - I’ve shared access for all 3 content pieces."
                       }
                     ]
                   }
@@ -50134,7 +50138,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am, please review the VE On-Site Article content shared by Sabyasachi."
+                        "text": " Ma’am, please review the VE On-Site Article content shared by Sabyasachi."
                       }
                     ]
                   },
@@ -50564,7 +50568,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am - Kindly review the article written by Sabyasachi."
+                        "text": " Ma’am - Kindly review the article written by Sabyasachi."
                       }
                     ]
                   },
@@ -50690,7 +50694,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Document shared with Sabyasachi to update the feedback of Daya Ma\u2019am."
+                        "text": "Document shared with Sabyasachi to update the feedback of Daya Ma’am."
                       }
                     ]
                   }
@@ -50862,7 +50866,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " content is still at sabyasachi\u2019s end. we will update on the website once he share the revised content."
+                        "text": " content is still at sabyasachi’s end. we will update on the website once he share the revised content."
                       }
                     ]
                   }
@@ -51383,7 +51387,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am ,please review the article: "
+                        "text": " ma’am ,please review the article: "
                       },
                       {
                         "type": "text",
@@ -51526,7 +51530,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Please work on Daya Ma\u2019am\u2019s feedback."
+                        "text": " Please work on Daya Ma’am’s feedback."
                       }
                     ]
                   }
@@ -51585,7 +51589,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " I have implemented Daya Ma\u2019am\u2019s suggestions:"
+                        "text": " I have implemented Daya Ma’am’s suggestions:"
                       },
                       {
                         "type": "hardBreak"
@@ -51910,7 +51914,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Hi All, attached are the article files, awaiting Anshul\u2019s approval: "
+                        "text": "Hi All, attached are the article files, awaiting Anshul’s approval: "
                       },
                       {
                         "type": "mediaInline",
@@ -52046,6 +52050,5 @@
         }
       }
     }
-  ],
-  "isLast": true
+  ]
 }

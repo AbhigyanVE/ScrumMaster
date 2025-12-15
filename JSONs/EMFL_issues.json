@@ -1,4 +1,8 @@
 {
+  "name": "Email Marketing for Leads",
+  "id": "10018",
+  "key": "EMFL",
+  "issue_count": 9,
   "issues": [
     {
       "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
@@ -79,7 +83,7 @@
                         },
                         {
                           "type": "text",
-                          "text": "https://idealabprojects.atlassian.net/browse/EMFL-7?atlOrigin=eyJpIjoiNGVjYjRmM2Y5MWNjNDMxYTk0YzQ3N\u2026",
+                          "text": "https://idealabprojects.atlassian.net/browse/EMFL-7?atlOrigin=eyJpIjoiNGVjYjRmM2Y5MWNjNDMxYTk0YzQ3N…",
                           "marks": [
                             {
                               "type": "link",
@@ -119,7 +123,7 @@
                         },
                         {
                           "type": "text",
-                          "text": "https://idealabprojects.atlassian.net/browse/EMFL-5?atlOrigin=eyJpIjoiNTIyOGRhZjVmZmVmNDMwZWEwN2RkN\u2026",
+                          "text": "https://idealabprojects.atlassian.net/browse/EMFL-5?atlOrigin=eyJpIjoiNTIyOGRhZjVmZmVmNDMwZWEwN2RkN…",
                           "marks": [
                             {
                               "type": "link",
@@ -165,7 +169,7 @@
                         },
                         {
                           "type": "text",
-                          "text": "https://idealabprojects.atlassian.net/browse/EMFL-6?atlOrigin=eyJpIjoiYTE5NTMyYjFjYmY2NGI1YWE0ZTNmM\u2026",
+                          "text": "https://idealabprojects.atlassian.net/browse/EMFL-6?atlOrigin=eyJpIjoiYTE5NTMyYjFjYmY2NGI1YWE0ZTNmM…",
                           "marks": [
                             {
                               "type": "link",
@@ -1025,7 +1029,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Here\u2019s the Collateral for SEO Emailer 1"
+                        "text": "Here’s the Collateral for SEO Emailer 1"
                       },
                       {
                         "type": "hardBreak"
@@ -1090,7 +1094,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Its pretty much AI, written quite a while ago\u2026."
+                        "text": "Its pretty much AI, written quite a while ago…."
                       }
                     ]
                   }
@@ -1153,7 +1157,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "ma\u2019am, As this will go in email as downlodable content, we may not have to worry about AI. I am sending it for designing."
+                        "text": "ma’am, As this will go in email as downlodable content, we may not have to worry about AI. I am sending it for designing."
                       }
                     ]
                   }
@@ -1431,7 +1435,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Here\u2019s the Collateral for Emailer #3"
+                        "text": "Here’s the Collateral for Emailer #3"
                       },
                       {
                         "type": "hardBreak"
@@ -1504,7 +1508,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am, we have designed the PDF based on this document. Could you please check this and share your valuable feedback ma\u2019am. Accordingly, we will procced further."
+                        "text": " ma’am, we have designed the PDF based on this document. Could you please check this and share your valuable feedback ma’am. Accordingly, we will procced further."
                       },
                       {
                         "type": "hardBreak"
@@ -1642,7 +1646,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "ma\u2019am I have attached this file. "
+                        "text": "ma’am I have attached this file. "
                       },
                       {
                         "type": "hardBreak"
@@ -1727,7 +1731,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Daya Ma\u2019am have assigned it to me. You can compare the PDF with the word document shared by her on Jira and ensure that it matches with it."
+                        "text": " Daya Ma’am have assigned it to me. You can compare the PDF with the word document shared by her on Jira and ensure that it matches with it."
                       }
                     ]
                   }
@@ -1785,7 +1789,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Both are same document  . We have created the PDF based on her document. I have shared this Document with ma\u2019am to check the design according to the content. If I will get approval from "
+                        "text": " Both are same document  . We have created the PDF based on her document. I have shared this Document with ma’am to check the design according to the content. If I will get approval from "
                       },
                       {
                         "type": "mention",
@@ -1798,7 +1802,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am, I will start the HTML implementation process. "
+                        "text": " ma’am, I will start the HTML implementation process. "
                       }
                     ]
                   }
@@ -2337,7 +2341,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Dinesh Sir and Shaun Sir\u2019s approval received on 8th Aug and email sent to Naeem and ticket rasied with approval screenshot on the same day."
+                        "text": "Dinesh Sir and Shaun Sir’s approval received on 8th Aug and email sent to Naeem and ticket rasied with approval screenshot on the same day."
                       }
                     ]
                   }
@@ -3254,6 +3258,5 @@
         }
       }
     }
-  ],
-  "isLast": true
+  ]
 }

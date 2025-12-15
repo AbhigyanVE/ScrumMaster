@@ -1,4 +1,8 @@
 {
+  "name": "CRO",
+  "id": "10553",
+  "key": "CRO",
+  "issue_count": 100,
   "issues": [
     {
       "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
@@ -602,7 +606,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "research about us page as per shaun\u2019s feedbacks "
+                  "text": "research about us page as per shaun’s feedbacks "
                 }
               ]
             }
@@ -4006,7 +4010,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Pages- Homepage\u00a0"
+                        "text": "Pages- Homepage "
                       }
                     ]
                   },
@@ -4042,7 +4046,7 @@
                             "content": [
                               {
                                 "type": "text",
-                                "text": "Bounce Rate: 23.5% \u2192 38.0% (+61.6%)"
+                                "text": "Bounce Rate: 23.5% → 38.0% (+61.6%)"
                               }
                             ]
                           }
@@ -4056,7 +4060,7 @@
                             "content": [
                               {
                                 "type": "text",
-                                "text": "Avg Session Duration: 109s \u2192 73s (-33.0%)"
+                                "text": "Avg Session Duration: 109s → 73s (-33.0%)"
                               }
                             ]
                           }
@@ -4070,7 +4074,7 @@
                             "content": [
                               {
                                 "type": "text",
-                                "text": "Scroll Depth: 26% \u2192 24% (-7.7%)"
+                                "text": "Scroll Depth: 26% → 24% (-7.7%)"
                               }
                             ]
                           }
@@ -4098,7 +4102,7 @@
                             "content": [
                               {
                                 "type": "text",
-                                "text": "Page Render Time: 1.37s \u2192 2.03s (+48.2%)"
+                                "text": "Page Render Time: 1.37s → 2.03s (+48.2%)"
                               }
                             ]
                           }
@@ -4112,7 +4116,7 @@
                             "content": [
                               {
                                 "type": "text",
-                                "text": "Friction Score: 20% \u2192 30% (+50%)"
+                                "text": "Friction Score: 20% → 30% (+50%)"
                               }
                             ]
                           }
@@ -4140,7 +4144,7 @@
                             "content": [
                               {
                                 "type": "text",
-                                "text": "Get Started Conv Rate: 1.81% \u2192 4.23% (+133%)"
+                                "text": "Get Started Conv Rate: 1.81% → 4.23% (+133%)"
                               }
                             ]
                           }
@@ -4154,7 +4158,7 @@
                             "content": [
                               {
                                 "type": "text",
-                                "text": "Thank You Conv Rate: 9.76% \u2192 2.38% (-75.6%)"
+                                "text": "Thank You Conv Rate: 9.76% → 2.38% (-75.6%)"
                               }
                             ]
                           }
@@ -4244,7 +4248,7 @@
                                 "content": [
                                   {
                                     "type": "text",
-                                    "text": "Current Page\u00a0\u00a0 \"/\""
+                                    "text": "Current Page   \"/\""
                                   }
                                 ]
                               }
@@ -7870,7 +7874,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "Hi i have a suggestion . It might be a good idea to start our campaigns about a week before Black Friday, or maybe even a bit earlier, to begin creating some buzz. The focus could be on encouraging investment in skilled, talented people who keep delivering results\u2014even during the holiday period. One challenge that many face around Black Friday is the limited availability of resources or increased workloads, which can cause delays or work getting stuck."
+                        "text": "Hi i have a suggestion . It might be a good idea to start our campaigns about a week before Black Friday, or maybe even a bit earlier, to begin creating some buzz. The focus could be on encouraging investment in skilled, talented people who keep delivering results—even during the holiday period. One challenge that many face around Black Friday is the limited availability of resources or increased workloads, which can cause delays or work getting stuck."
                       }
                     ]
                   },
@@ -7894,7 +7898,7 @@
                             "content": [
                               {
                                 "type": "text",
-                                "text": "\"Your business never sleeps\" \u2014 gently highlighting how having skilled remote staff helps maintain productivity 24/7 during the holiday and beyond."
+                                "text": "\"Your business never sleeps\" — gently highlighting how having skilled remote staff helps maintain productivity 24/7 during the holiday and beyond."
                               }
                             ]
                           }
@@ -7908,7 +7912,7 @@
                             "content": [
                               {
                                 "type": "text",
-                                "text": "\"Unlock holiday productivity\" \u2014 subtly positioning remote staffing as a way to keep business momentum going while others take a break."
+                                "text": "\"Unlock holiday productivity\" — subtly positioning remote staffing as a way to keep business momentum going while others take a break."
                               }
                             ]
                           }
@@ -7921,7 +7925,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "This approach might resonate well with clients who are looking for peace of mind and consistent performance during critical times, without sounding too pushy. And this could be further explained with free trails, extended trails, free audit, price drop if we can do that.\u00a0"
+                        "text": "This approach might resonate well with clients who are looking for peace of mind and consistent performance during critical times, without sounding too pushy. And this could be further explained with free trails, extended trails, free audit, price drop if we can do that. "
                       },
                       {
                         "type": "hardBreak"
@@ -8926,7 +8930,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "shared the updated About Us conversion report with feedback from yesterday\u2019"
+                        "text": "shared the updated About Us conversion report with feedback from yesterday’"
                       },
                       {
                         "type": "mediaInline",
@@ -9291,7 +9295,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "working on analyzing user journey from leads data.\u00a0"
+                        "text": "working on analyzing user journey from leads data. "
                       }
                     ]
                   }
@@ -13363,7 +13367,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "collecting, extracting and analyzing data for all pages from mouseflow\u00a0"
+                  "text": "collecting, extracting and analyzing data for all pages from mouseflow "
                 }
               ]
             }
@@ -17406,7 +17410,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Checking data of homepage after it\u2019s made default"
+                        "text": "Checking data of homepage after it’s made default"
                       }
                     ]
                   }
@@ -17553,7 +17557,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "researching best approach for testing and creating hypothesis for ab testing. from cxl sources and some courses\u00a0"
+                        "text": "researching best approach for testing and creating hypothesis for ab testing. from cxl sources and some courses "
                       }
                     ]
                   }
@@ -24424,7 +24428,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "there are frameworks to be used for same\u00a0"
+                        "text": "there are frameworks to be used for same "
                       }
                     ]
                   }
@@ -28335,7 +28339,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Going through website all sections and navigations for understanding user flow\u00a0"
+                        "text": "Going through website all sections and navigations for understanding user flow "
                       }
                     ]
                   }
@@ -29844,7 +29848,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Meeting to discuss Each footer section which to keep and remove\u00a0"
+                  "text": "Meeting to discuss Each footer section which to keep and remove "
                 }
               ]
             },
@@ -31341,7 +31345,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "Video- cro agenda 2025\u00a0& 27dec 2024 cro and ppc\u00a0"
+                        "text": "Video- cro agenda 2025 & 27dec 2024 cro and ppc "
                       },
                       {
                         "type": "hardBreak"
@@ -31366,7 +31370,7 @@
                             "content": [
                               {
                                 "type": "text",
-                                "text": "Content & CTA Issues \u2192 Current video and CTA placements are weak: not engaging, poorly visible, and not driving enough clicks or conversions."
+                                "text": "Content & CTA Issues → Current video and CTA placements are weak: not engaging, poorly visible, and not driving enough clicks or conversions."
                               }
                             ]
                           }
@@ -31380,7 +31384,7 @@
                             "content": [
                               {
                                 "type": "text",
-                                "text": "User Behavior & Data Tracking \u2192 Need deeper analysis of CTR, time on page, video engagement, bottom CTA clicks, and conversions between funnel stages."
+                                "text": "User Behavior & Data Tracking → Need deeper analysis of CTR, time on page, video engagement, bottom CTA clicks, and conversions between funnel stages."
                               }
                             ]
                           }
@@ -31394,7 +31398,7 @@
                             "content": [
                               {
                                 "type": "text",
-                                "text": "Optimization Opportunities \u2192 Better positioning of CTAs/forms, remarketing from video viewers, testing form alternatives, and ensuring consistent messaging across services."
+                                "text": "Optimization Opportunities → Better positioning of CTAs/forms, remarketing from video viewers, testing form alternatives, and ensuring consistent messaging across services."
                               }
                             ]
                           }
@@ -31408,7 +31412,7 @@
                             "content": [
                               {
                                 "type": "text",
-                                "text": "Data-Driven CRO Approach \u2192 Focus on measuring cost per acquisition, blog/article impact on SEO & leads, persona targeting, and structured testing (offers, designs, page experience)."
+                                "text": "Data-Driven CRO Approach → Focus on measuring cost per acquisition, blog/article impact on SEO & leads, persona targeting, and structured testing (offers, designs, page experience)."
                               }
                             ]
                           }
@@ -31424,7 +31428,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Video-27dec 2024 cro and ppc\u00a0"
+                        "text": "Video-27dec 2024 cro and ppc "
                       }
                     ]
                   },
@@ -31439,7 +31443,7 @@
                             "content": [
                               {
                                 "type": "text",
-                                "text": "Integrated Optimization \u2192 Landing page strategy must align with PPC & CRO to prevent stagnation at 2\u20133% conversion; campaigns, keywords, and page flow should complement each other."
+                                "text": "Integrated Optimization → Landing page strategy must align with PPC & CRO to prevent stagnation at 2–3% conversion; campaigns, keywords, and page flow should complement each other."
                               }
                             ]
                           }
@@ -31453,7 +31457,7 @@
                             "content": [
                               {
                                 "type": "text",
-                                "text": "Key Metrics to Track \u2192 Drop in conversions, campaign performance trends, keyword effectiveness, and cost per acquisition must be analyzed systematically."
+                                "text": "Key Metrics to Track → Drop in conversions, campaign performance trends, keyword effectiveness, and cost per acquisition must be analyzed systematically."
                               }
                             ]
                           }
@@ -31467,7 +31471,7 @@
                             "content": [
                               {
                                 "type": "text",
-                                "text": "Portfolio & Services Positioning \u2192 Strong first impression is critical; pages should showcase services, portfolio, and profiles in a convincing manner for both IT and non-IT personas."
+                                "text": "Portfolio & Services Positioning → Strong first impression is critical; pages should showcase services, portfolio, and profiles in a convincing manner for both IT and non-IT personas."
                               }
                             ]
                           }
@@ -31481,7 +31485,7 @@
                             "content": [
                               {
                                 "type": "text",
-                                "text": "Action-Oriented Framework \u2192 Focus on hypothesis testing, user surveys/testing, identifying patterns behind conversion drops, and aligning all page sections into a cohesive funnel."
+                                "text": "Action-Oriented Framework → Focus on hypothesis testing, user surveys/testing, identifying patterns behind conversion drops, and aligning all page sections into a cohesive funnel."
                               }
                             ]
                           }
@@ -31553,7 +31557,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "dont create new designs\u00a0"
+                        "text": "dont create new designs "
                       }
                     ]
                   }
@@ -33525,7 +33529,7 @@
                       "content": [
                         {
                           "type": "text",
-                          "text": "Control: Existing headline/subheadline and \u201cGet Started\u201d CTA"
+                          "text": "Control: Existing headline/subheadline and “Get Started” CTA"
                         }
                       ]
                     }
@@ -33539,7 +33543,7 @@
                       "content": [
                         {
                           "type": "text",
-                          "text": "Variant: Revised headline (e.g., \u201cBoost Conversions with Psychology\u201d) and action-oriented CTA (e.g., \u201cHire My Designer\u201d) with enhanced button color and hover effect"
+                          "text": "Variant: Revised headline (e.g., “Boost Conversions with Psychology”) and action-oriented CTA (e.g., “Hire My Designer”) with enhanced button color and hover effect"
                         }
                       ]
                     }
@@ -33761,7 +33765,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "\u00a0"
+                        "text": " "
                       }
                     ]
                   },
@@ -33779,7 +33783,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "\u00a0"
+                        "text": " "
                       }
                     ]
                   },
@@ -33794,7 +33798,7 @@
                             "content": [
                               {
                                 "type": "text",
-                                "text": "Headline and subheading do not clearly communicate value\u00a0"
+                                "text": "Headline and subheading do not clearly communicate value "
                               }
                             ]
                           }
@@ -33821,7 +33825,7 @@
                               },
                               {
                                 "type": "text",
-                                "text": " customer benefits (e.g., increased conversions, sales, revenue)\u00a0"
+                                "text": " customer benefits (e.g., increased conversions, sales, revenue) "
                               }
                             ]
                           }
@@ -33843,7 +33847,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "\u00a0"
+                        "text": " "
                       }
                     ]
                   },
@@ -33861,7 +33865,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "\u00a0"
+                        "text": " "
                       }
                     ]
                   },
@@ -33885,7 +33889,7 @@
                               },
                               {
                                 "type": "text",
-                                "text": "\u00a0",
+                                "text": " ",
                                 "marks": [
                                   {
                                     "type": "code"
@@ -33906,7 +33910,7 @@
                               },
                               {
                                 "type": "text",
-                                "text": "\u00a0"
+                                "text": " "
                               }
                             ]
                           }
@@ -33928,7 +33932,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "\u00a0"
+                        "text": " "
                       }
                     ]
                   },
@@ -33943,7 +33947,7 @@
                             "content": [
                               {
                                 "type": "text",
-                                "text": "Make the headline value focused: Clearly state the business benefits for the visitor.\u00a0"
+                                "text": "Make the headline value focused: Clearly state the business benefits for the visitor. "
                               }
                             ]
                           }
@@ -33956,7 +33960,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Sample headlines:\u00a0"
+                        "text": "Sample headlines: "
                       }
                     ]
                   },
@@ -33980,7 +33984,7 @@
                               },
                               {
                                 "type": "text",
-                                "text": "\u00a0"
+                                "text": " "
                               }
                             ]
                           }
@@ -34003,7 +34007,7 @@
                               },
                               {
                                 "type": "text",
-                                "text": "\u00a0"
+                                "text": " "
                               }
                             ]
                           }
@@ -34025,7 +34029,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "\u00a0"
+                        "text": " "
                       }
                     ]
                   },
@@ -34043,7 +34047,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "\u00a0"
+                        "text": " "
                       }
                     ]
                   },
@@ -34058,7 +34062,7 @@
                             "content": [
                               {
                                 "type": "text",
-                                "text": "Generic CTA text; not action-oriented or benefit driven.\u00a0"
+                                "text": "Generic CTA text; not action-oriented or benefit driven. "
                               }
                             ]
                           }
@@ -34072,7 +34076,7 @@
                             "content": [
                               {
                                 "type": "text",
-                                "text": "Button lacks strong visual cue (color contrast, interactive feedback).\u00a0"
+                                "text": "Button lacks strong visual cue (color contrast, interactive feedback). "
                               }
                             ]
                           }
@@ -34094,7 +34098,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "\u00a0"
+                        "text": " "
                       }
                     ]
                   },
@@ -34116,7 +34120,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "\u00a0"
+                        "text": " "
                       }
                     ]
                   },
@@ -34125,7 +34129,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Sample alternatives:\u00a0"
+                        "text": "Sample alternatives: "
                       }
                     ]
                   },
@@ -34140,7 +34144,7 @@
                             "content": [
                               {
                                 "type": "text",
-                                "text": "\"Hire My Designer\"\u00a0"
+                                "text": "\"Hire My Designer\" "
                               }
                             ]
                           }
@@ -34154,7 +34158,7 @@
                             "content": [
                               {
                                 "type": "text",
-                                "text": "\"Get a Call Back\"\u00a0"
+                                "text": "\"Get a Call Back\" "
                               }
                             ]
                           }
@@ -34168,7 +34172,7 @@
                             "content": [
                               {
                                 "type": "text",
-                                "text": "\"Connect with a Design Expert\"\u00a0"
+                                "text": "\"Connect with a Design Expert\" "
                               }
                             ]
                           }
@@ -34181,7 +34185,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Button Style:\u00a0"
+                        "text": "Button Style: "
                       }
                     ]
                   },
@@ -34196,7 +34200,7 @@
                             "content": [
                               {
                                 "type": "text",
-                                "text": "Strong contrasting color from background\u00a0"
+                                "text": "Strong contrasting color from background "
                               }
                             ]
                           }
@@ -34210,7 +34214,7 @@
                             "content": [
                               {
                                 "type": "text",
-                                "text": "Hover effect with color change\u00a0"
+                                "text": "Hover effect with color change "
                               }
                             ]
                           }
@@ -34224,7 +34228,7 @@
                             "content": [
                               {
                                 "type": "text",
-                                "text": "Ensure shape and size communicates \u2018button\u2019 (rounded edges, drop shadow, etc.)\u00a0"
+                                "text": "Ensure shape and size communicates ‘button’ (rounded edges, drop shadow, etc.) "
                               }
                             ]
                           }
@@ -34772,7 +34776,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Edition as per today\u2019s call"
+                  "text": "Edition as per today’s call"
                 }
               ]
             }
@@ -36212,7 +36216,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "\u00a0"
+                        "text": " "
                       }
                     ]
                   },
@@ -36245,7 +36249,7 @@
                                   },
                                   {
                                     "type": "text",
-                                    "text": "\u00a0"
+                                    "text": " "
                                   }
                                 ]
                               }
@@ -36269,7 +36273,7 @@
                                   },
                                   {
                                     "type": "text",
-                                    "text": "\u00a0"
+                                    "text": " "
                                   }
                                 ]
                               }
@@ -36293,7 +36297,7 @@
                                   },
                                   {
                                     "type": "text",
-                                    "text": "\u00a0"
+                                    "text": " "
                                   }
                                 ]
                               }
@@ -36317,7 +36321,7 @@
                                   },
                                   {
                                     "type": "text",
-                                    "text": "\u00a0"
+                                    "text": " "
                                   }
                                 ]
                               }
@@ -36341,7 +36345,7 @@
                                   },
                                   {
                                     "type": "text",
-                                    "text": "\u00a0"
+                                    "text": " "
                                   }
                                 ]
                               }
@@ -36361,7 +36365,7 @@
                                 "content": [
                                   {
                                     "type": "text",
-                                    "text": "Page Load Time\u00a0"
+                                    "text": "Page Load Time "
                                   }
                                 ]
                               }
@@ -36376,7 +36380,7 @@
                                 "content": [
                                   {
                                     "type": "text",
-                                    "text": "2.09s\u00a0\u00a0"
+                                    "text": "2.09s  "
                                   }
                                 ]
                               }
@@ -36391,7 +36395,7 @@
                                 "content": [
                                   {
                                     "type": "text",
-                                    "text": "<1.0s\u00a0"
+                                    "text": "<1.0s "
                                   }
                                 ]
                               }
@@ -36406,7 +36410,7 @@
                                 "content": [
                                   {
                                     "type": "text",
-                                    "text": "Critical\u00a0"
+                                    "text": "Critical "
                                   }
                                 ]
                               }
@@ -36421,7 +36425,7 @@
                                 "content": [
                                   {
                                     "type": "text",
-                                    "text": "High\u00a0"
+                                    "text": "High "
                                   }
                                 ]
                               }
@@ -36441,7 +36445,7 @@
                                 "content": [
                                   {
                                     "type": "text",
-                                    "text": "Form Conversion Rate (Currently On 9th Fold)\u00a0"
+                                    "text": "Form Conversion Rate (Currently On 9th Fold) "
                                   }
                                 ]
                               }
@@ -36456,7 +36460,7 @@
                                 "content": [
                                   {
                                     "type": "text",
-                                    "text": "2.4% CTR\u00a0"
+                                    "text": "2.4% CTR "
                                   }
                                 ]
                               }
@@ -36471,7 +36475,7 @@
                                 "content": [
                                   {
                                     "type": "text",
-                                    "text": ">5.0% CTR\u00a0"
+                                    "text": ">5.0% CTR "
                                   }
                                 ]
                               }
@@ -36486,7 +36490,7 @@
                                 "content": [
                                   {
                                     "type": "text",
-                                    "text": "Critical\u00a0"
+                                    "text": "Critical "
                                   }
                                 ]
                               }
@@ -36501,7 +36505,7 @@
                                 "content": [
                                   {
                                     "type": "text",
-                                    "text": "High\u00a0"
+                                    "text": "High "
                                   }
                                 ]
                               }
@@ -36521,7 +36525,7 @@
                                 "content": [
                                   {
                                     "type": "text",
-                                    "text": "Flexibility Section Removal in July & Aug\u00a0"
+                                    "text": "Flexibility Section Removal in July & Aug "
                                   }
                                 ]
                               }
@@ -36536,7 +36540,7 @@
                                 "content": [
                                   {
                                     "type": "text",
-                                    "text": "Eliminated 3.22% CTR option\u00a0"
+                                    "text": "Eliminated 3.22% CTR option "
                                   }
                                 ]
                               }
@@ -36551,7 +36555,7 @@
                                 "content": [
                                   {
                                     "type": "text",
-                                    "text": "Restore with optimization\u00a0"
+                                    "text": "Restore with optimization "
                                   }
                                 ]
                               }
@@ -36566,7 +36570,7 @@
                                 "content": [
                                   {
                                     "type": "text",
-                                    "text": "Medium\u00a0"
+                                    "text": "Medium "
                                   }
                                 ]
                               }
@@ -36581,7 +36585,7 @@
                                 "content": [
                                   {
                                     "type": "text",
-                                    "text": "Medium\u00a0"
+                                    "text": "Medium "
                                   }
                                 ]
                               }
@@ -36601,7 +36605,7 @@
                                 "content": [
                                   {
                                     "type": "text",
-                                    "text": "Banner CTA Performance\u00a0"
+                                    "text": "Banner CTA Performance "
                                   }
                                 ]
                               }
@@ -36616,7 +36620,7 @@
                                 "content": [
                                   {
                                     "type": "text",
-                                    "text": "16 % CTR\u00a0\u00a0"
+                                    "text": "16 % CTR  "
                                   }
                                 ]
                               }
@@ -36631,7 +36635,7 @@
                                 "content": [
                                   {
                                     "type": "text",
-                                    "text": ">20% CTR\u00a0"
+                                    "text": ">20% CTR "
                                   }
                                 ]
                               }
@@ -36646,7 +36650,7 @@
                                 "content": [
                                   {
                                     "type": "text",
-                                    "text": "High\u00a0"
+                                    "text": "High "
                                   }
                                 ]
                               }
@@ -36661,7 +36665,7 @@
                                 "content": [
                                   {
                                     "type": "text",
-                                    "text": "High\u00a0"
+                                    "text": "High "
                                   }
                                 ]
                               }
@@ -36681,7 +36685,7 @@
                                 "content": [
                                   {
                                     "type": "text",
-                                    "text": "User Engagement\u00a0"
+                                    "text": "User Engagement "
                                   }
                                 ]
                               }
@@ -36696,7 +36700,7 @@
                                 "content": [
                                   {
                                     "type": "text",
-                                    "text": "28.5% scroll\u00a0\u00a0"
+                                    "text": "28.5% scroll  "
                                   }
                                 ]
                               }
@@ -36711,7 +36715,7 @@
                                 "content": [
                                   {
                                     "type": "text",
-                                    "text": ">35% scroll\u00a0"
+                                    "text": ">35% scroll "
                                   }
                                 ]
                               }
@@ -36726,7 +36730,7 @@
                                 "content": [
                                   {
                                     "type": "text",
-                                    "text": "Medium\u00a0"
+                                    "text": "Medium "
                                   }
                                 ]
                               }
@@ -36741,7 +36745,7 @@
                                 "content": [
                                   {
                                     "type": "text",
-                                    "text": "Medium\u00a0"
+                                    "text": "Medium "
                                   }
                                 ]
                               }
@@ -36761,7 +36765,7 @@
                                 "content": [
                                   {
                                     "type": "text",
-                                    "text": "Mobile Responsiveness\u00a0"
+                                    "text": "Mobile Responsiveness "
                                   }
                                 ]
                               }
@@ -36776,7 +36780,7 @@
                                 "content": [
                                   {
                                     "type": "text",
-                                    "text": "Needs optimization\u00a0"
+                                    "text": "Needs optimization "
                                   }
                                 ]
                               }
@@ -36791,7 +36795,7 @@
                                 "content": [
                                   {
                                     "type": "text",
-                                    "text": "Mobile-first design\u00a0"
+                                    "text": "Mobile-first design "
                                   }
                                 ]
                               }
@@ -36806,7 +36810,7 @@
                                 "content": [
                                   {
                                     "type": "text",
-                                    "text": "High\u00a0"
+                                    "text": "High "
                                   }
                                 ]
                               }
@@ -36821,7 +36825,7 @@
                                 "content": [
                                   {
                                     "type": "text",
-                                    "text": "Medium\u00a0"
+                                    "text": "Medium "
                                   }
                                 ]
                               }
@@ -36836,7 +36840,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "\u00a0"
+                        "text": " "
                       }
                     ]
                   },
@@ -36845,7 +36849,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "\u00a0"
+                        "text": " "
                       }
                     ]
                   },
@@ -37338,7 +37342,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "There\u2019s a big spike in traffic on the older homepage on the 18th and 19th. It\u2019s almost 4x the sessions we saw on the 16th and 17th. What\u2019s interesting is that it\u2019s all coming from organic and direct sources."
+                        "text": "There’s a big spike in traffic on the older homepage on the 18th and 19th. It’s almost 4x the sessions we saw on the 16th and 17th. What’s interesting is that it’s all coming from organic and direct sources."
                       }
                     ]
                   },
@@ -38870,7 +38874,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "Homepage Comparison Report\u00a0",
+                        "text": "Homepage Comparison Report ",
                         "marks": [
                           {
                             "type": "strong"
@@ -38882,7 +38886,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "Date Range: 2 June 2025 \u2013 28 July 2025"
+                        "text": "Date Range: 2 June 2025 – 28 July 2025"
                       },
                       {
                         "type": "hardBreak"
@@ -38953,14 +38957,14 @@
                       },
                       {
                         "type": "text",
-                        "text": "This report analyses user interaction and key performance metrics for the old homepage (/)\u00a0"
+                        "text": "This report analyses user interaction and key performance metrics for the old homepage (/) "
                       },
                       {
                         "type": "hardBreak"
                       },
                       {
                         "type": "text",
-                        "text": "and the new homepage (/home-b) over the selected time frame. The goal is to determine\u00a0"
+                        "text": "and the new homepage (/home-b) over the selected time frame. The goal is to determine "
                       },
                       {
                         "type": "hardBreak"
@@ -39004,7 +39008,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "The new homepage encouraged 10% more visitors to scroll to the footer compared to the\u00a0",
+                        "text": "The new homepage encouraged 10% more visitors to scroll to the footer compared to the ",
                         "marks": [
                           {
                             "type": "strong"
@@ -39032,7 +39036,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "Call-To-Action (CTA) buttons such as \u201cStart a Quick Call\u201d and \u201cGet Started Now\u201d remain\u00a0"
+                        "text": "Call-To-Action (CTA) buttons such as “Start a Quick Call” and “Get Started Now” remain "
                       },
                       {
                         "type": "hardBreak"
@@ -39055,7 +39059,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "New Homepage: The redesigned CTA achieved an 87.5% rise in hovers and a 72%\u00a0",
+                        "text": "New Homepage: The redesigned CTA achieved an 87.5% rise in hovers and a 72% ",
                         "marks": [
                           {
                             "type": "strong"
@@ -39998,7 +40002,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "As per our Zoho setup, the traffic is correctly split \u2014 60% to the variant page (/home-b) and 40% to the original (/). However, in GA4, the sessions for the original page are showing much higher than expected."
+                  "text": "As per our Zoho setup, the traffic is correctly split — 60% to the variant page (/home-b) and 40% to the original (/). However, in GA4, the sessions for the original page are showing much higher than expected."
                 },
                 {
                   "type": "hardBreak"
@@ -40825,7 +40829,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Meeting Summary \u2013 Homepage Session Variation Analysis",
+                        "text": "Meeting Summary – Homepage Session Variation Analysis",
                         "marks": [
                           {
                             "type": "strong"
@@ -40839,7 +40843,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "As discussed in today\u2019s meeting:"
+                        "text": "As discussed in today’s meeting:"
                       }
                     ]
                   },
@@ -41039,7 +41043,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "\u2705 Actionables:",
+                        "text": "✅ Actionables:",
                         "marks": [
                           {
                             "type": "strong"
@@ -41504,7 +41508,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "While attempting to modify the Primary CTA via Zoho\u2019s visual editor for a testing variant, it was found that changes could not be made directly. The visual editor allows CSS overrides only\u2014the Primary CTA is hardcoded in the HTML, using global CSS classes like "
+                  "text": "While attempting to modify the Primary CTA via Zoho’s visual editor for a testing variant, it was found that changes could not be made directly. The visual editor allows CSS overrides only—the Primary CTA is hardcoded in the HTML, using global CSS classes like "
                 },
                 {
                   "type": "text",
@@ -45479,7 +45483,5 @@
         }
       }
     }
-  ],
-  "nextPageToken": "ChUjU3RyaW5nJlExSlAlSW50Jk1UYz0QZBjM2q2HsjMiD3Byb2plY3QgPSAiQ1JPIioCW10=",
-  "isLast": false
+  ]
 }

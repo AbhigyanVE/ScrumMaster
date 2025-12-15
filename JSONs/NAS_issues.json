@@ -1,4 +1,8 @@
 {
+  "name": "Apps & AI Agent",
+  "id": "10619",
+  "key": "NAS",
+  "issue_count": 14,
   "issues": [
     {
       "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
@@ -853,7 +857,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Tested the tool \u2013 "
+                        "text": "Tested the tool – "
                       },
                       {
                         "type": "inlineCard",
@@ -863,14 +867,14 @@
                       },
                       {
                         "type": "text",
-                        "text": "  Dec 10 \u2013 50m"
+                        "text": "  Dec 10 – 50m"
                       },
                       {
                         "type": "hardBreak"
                       },
                       {
                         "type": "text",
-                        "text": "Tool Testing \u2013 Dec 11; 2--hrs"
+                        "text": "Tool Testing – Dec 11; 2--hrs"
                       }
                     ]
                   }
@@ -2916,7 +2920,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Tested Sheela\u2019s functionality for cross-domain client queries and requirements."
+                        "text": "Tested Sheela’s functionality for cross-domain client queries and requirements."
                       }
                     ]
                   }
@@ -3409,7 +3413,7 @@
           {
             "self": "https://idealabprojects.atlassian.net/rest/api/3/attachment/11455",
             "id": "11455",
-            "filename": "Sheela \u2013 Functionality Test Screenshots--SONIA.docx",
+            "filename": "Sheela – Functionality Test Screenshots--SONIA.docx",
             "author": {
               "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=5f5b452d0b6be2006e056f42",
               "accountId": "5f5b452d0b6be2006e056f42",
@@ -3848,6 +3852,5 @@
         }
       }
     }
-  ],
-  "isLast": true
+  ]
 }

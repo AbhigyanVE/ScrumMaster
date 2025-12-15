@@ -1,4 +1,8 @@
 {
+  "name": "PPC Landing Pages & Ads",
+  "id": "10003",
+  "key": "TES",
+  "issue_count": 100,
   "issues": [
     {
       "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
@@ -1334,7 +1338,7 @@
         "summary": "Development: Hire PPC Expert PPC Page ",
         "watches": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/TES-179/watchers",
-          "watchCount": 1,
+          "watchCount": 2,
           "isWatching": false
         },
         "lastViewed": null,
@@ -1461,11 +1465,103 @@
               "created": "2025-12-08T12:13:47.983+0530",
               "updated": "2025-12-08T12:13:47.983+0530",
               "jsdPublic": true
+            },
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14540/comment/19142",
+              "id": "19142",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3ca97815-9cd0-469f-ab3f-a8b1afc2de2d",
+                "accountId": "712020:3ca97815-9cd0-469f-ab3f-a8b1afc2de2d",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/d6bc588e482c27e8bccceb77c6992a83?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVM-4.png",
+                  "24x24": "https://secure.gravatar.com/avatar/d6bc588e482c27e8bccceb77c6992a83?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVM-4.png",
+                  "16x16": "https://secure.gravatar.com/avatar/d6bc588e482c27e8bccceb77c6992a83?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVM-4.png",
+                  "32x32": "https://secure.gravatar.com/avatar/d6bc588e482c27e8bccceb77c6992a83?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVM-4.png"
+                },
+                "displayName": "Vidhu Mishra",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "body": {
+                "type": "doc",
+                "version": 1,
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "mention",
+                        "attrs": {
+                          "id": "712020:77700fe3-8a05-4eee-8c03-8ecf9ccec870",
+                          "text": "@rajni gangwar",
+                          "accessLevel": "",
+                          "localId": "65c89922-f44b-4922-8349-36c30739f363"
+                        }
+                      },
+                      {
+                        "type": "text",
+                        "text": "  - Please test the attached page below."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "mention",
+                        "attrs": {
+                          "id": "712020:87014598-7fc2-4a58-bbc5-8ec01fc54856",
+                          "text": "@Deepakshi saini",
+                          "accessLevel": "",
+                          "localId": "1fdc7677-ae91-438b-8b67-ae3eda1cc5e0"
+                        }
+                      },
+                      {
+                        "type": "text",
+                        "text": "  - Please Review the page. "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "inlineCard",
+                        "attrs": {
+                          "url": "https://www.virtualemployee.com/ir/hire-ppc-expert-v1/"
+                        }
+                      },
+                      {
+                        "type": "text",
+                        "text": "  "
+                      }
+                    ]
+                  }
+                ]
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3ca97815-9cd0-469f-ab3f-a8b1afc2de2d",
+                "accountId": "712020:3ca97815-9cd0-469f-ab3f-a8b1afc2de2d",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/d6bc588e482c27e8bccceb77c6992a83?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVM-4.png",
+                  "24x24": "https://secure.gravatar.com/avatar/d6bc588e482c27e8bccceb77c6992a83?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVM-4.png",
+                  "16x16": "https://secure.gravatar.com/avatar/d6bc588e482c27e8bccceb77c6992a83?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVM-4.png",
+                  "32x32": "https://secure.gravatar.com/avatar/d6bc588e482c27e8bccceb77c6992a83?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVM-4.png"
+                },
+                "displayName": "Vidhu Mishra",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "created": "2025-12-15T14:05:58.632+0530",
+              "updated": "2025-12-15T14:05:58.632+0530",
+              "jsdPublic": true
             }
           ],
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14540/comment",
-          "maxResults": 1,
-          "total": 1,
+          "maxResults": 2,
+          "total": 2,
           "startAt": 0
         },
         "assignee": {
@@ -1488,7 +1584,7 @@
           "total": 0,
           "worklogs": []
         },
-        "updated": "2025-12-08T12:13:51.431+0530",
+        "updated": "2025-12-15T14:05:58.787+0530",
         "status": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10016",
           "description": "",
@@ -1823,7 +1919,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Ma\u2019am, content looks fine to me\u2026 We need to add just citations/reports link."
+                        "text": "Ma’am, content looks fine to me… We need to add just citations/reports link."
                       }
                     ]
                   }
@@ -2135,7 +2231,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Hello ma\u2019am. Please review this page "
+                        "text": "Hello ma’am. Please review this page "
                       },
                       {
                         "type": "hardBreak"
@@ -2598,7 +2694,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Here\u2019re the ad copies \u2013 "
+                        "text": " Here’re the ad copies – "
                       },
                       {
                         "type": "text",
@@ -2731,7 +2827,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am kindly review the ad copies and share your feedback."
+                        "text": " ma’am kindly review the ad copies and share your feedback."
                       }
                     ]
                   },
@@ -2837,7 +2933,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "  ma\u2019am kindly review and share your feedback."
+                        "text": "  ma’am kindly review and share your feedback."
                       }
                     ]
                   }
@@ -2946,7 +3042,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " can you please look into Daya ma\u2019am feedback."
+                        "text": " can you please look into Daya ma’am feedback."
                       }
                     ]
                   }
@@ -3009,7 +3105,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am. Have implemented the changes you suggested. Plz check."
+                        "text": " ma’am. Have implemented the changes you suggested. Plz check."
                       }
                     ]
                   }
@@ -3117,7 +3213,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am, I will keep check with writer before re assign."
+                        "text": " ma’am, I will keep check with writer before re assign."
                       }
                     ]
                   }
@@ -3176,7 +3272,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am kindly review the ad copies and share your approval for upload,"
+                        "text": " ma’am kindly review the ad copies and share your approval for upload,"
                       }
                     ]
                   },
@@ -4150,7 +4246,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Mam, this is the mobile version of the page, and it seems you may not have viewed it in the mobile format. That\u2019s why the text appears this way. I am attaching the screenshot for your reference."
+                        "text": " Mam, this is the mobile version of the page, and it seems you may not have viewed it in the mobile format. That’s why the text appears this way. I am attaching the screenshot for your reference."
                       },
                       {
                         "type": "hardBreak"
@@ -4160,7 +4256,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "And, I think there is some network issue, because it seems the CTA is \u201cStart Your Free Trial\u201c"
+                        "text": "And, I think there is some network issue, because it seems the CTA is “Start Your Free Trial“"
                       }
                     ]
                   },
@@ -4356,7 +4452,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Its fine now. Change the form CTA to \u2018Start My Free Trial\u2019"
+                        "text": "Its fine now. Change the form CTA to ‘Start My Free Trial’"
                       }
                     ]
                   }
@@ -4415,7 +4511,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " please change the CTA to \u201cStart My Free Trial\u201c"
+                        "text": " please change the CTA to “Start My Free Trial“"
                       }
                     ]
                   }
@@ -4562,7 +4658,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "HTML development,\u00a0 js functionality"
+                        "text": "HTML development,  js functionality"
                       }
                     ]
                   }
@@ -4881,7 +4977,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Please write the content of the About Us main page on priority tomorrow. The Figma link has been shared below by Mohit. This page is being redesigned as per Shaun Sir\u2019s latest feedback on this page.\u00a0"
+                        "text": " Please write the content of the About Us main page on priority tomorrow. The Figma link has been shared below by Mohit. This page is being redesigned as per Shaun Sir’s latest feedback on this page. "
                       }
                     ]
                   },
@@ -4890,7 +4986,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Mohit has taken some of the content from the internal About Us pages like Shaun\u2019s mission etc. as this was suggested by him. But the headlines and the content in timelines etc. all needs to be reviewed and changed if required but keep it minimal."
+                        "text": "Mohit has taken some of the content from the internal About Us pages like Shaun’s mission etc. as this was suggested by him. But the headlines and the content in timelines etc. all needs to be reviewed and changed if required but keep it minimal."
                       }
                     ]
                   }
@@ -5123,7 +5219,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " please rewrite the ad copy which contains the term \u201cappoint\u201d (Already highlighted in red color) from the below links,"
+                        "text": " please rewrite the ad copy which contains the term “appoint” (Already highlighted in red color) from the below links,"
                       }
                     ]
                   },
@@ -5269,7 +5365,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am, can you please review the rewritted headline and share your feedback,"
+                        "text": " ma’am, can you please review the rewritted headline and share your feedback,"
                       }
                     ]
                   },
@@ -5402,7 +5498,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am please review and share your approval, so that I can upload the same."
+                        "text": " ma’am please review and share your approval, so that I can upload the same."
                       }
                     ]
                   }
@@ -5461,7 +5557,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am approved over call on 02DEC25."
+                        "text": " ma’am approved over call on 02DEC25."
                       }
                     ]
                   }
@@ -5935,7 +6031,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Here\u2019s the doc with the ad copies \u2013 "
+                        "text": " Here’s the doc with the ad copies – "
                       },
                       {
                         "type": "text",
@@ -6067,7 +6163,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " I\u2019ve made the changes. Plz check."
+                        "text": " I’ve made the changes. Plz check."
                       }
                     ]
                   }
@@ -6130,7 +6226,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am kindly review the ad copies and share your feedback."
+                        "text": " ma’am kindly review the ad copies and share your feedback."
                       }
                     ]
                   },
@@ -6228,7 +6324,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am waiting for your feedback"
+                        "text": " ma’am waiting for your feedback"
                       }
                     ]
                   }
@@ -6337,7 +6433,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am please review and share your approval, so that I can upload the same."
+                        "text": " ma’am please review and share your approval, so that I can upload the same."
                       }
                     ]
                   }
@@ -6396,7 +6492,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "  ma\u2019am approved over call on 02DEC25."
+                        "text": "  ma’am approved over call on 02DEC25."
                       }
                     ]
                   }
@@ -6826,7 +6922,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "Our Dart developers build fast, stable, and scalable apps with clean Dart architecture - writing code that\u2019s easy to maintain, simple to extend, and optimized for long-term performance."
+                        "text": "Our Dart developers build fast, stable, and scalable apps with clean Dart architecture - writing code that’s easy to maintain, simple to extend, and optimized for long-term performance."
                       }
                     ]
                   }
@@ -6885,7 +6981,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am can you please review the below content and share your feedback."
+                        "text": " ma’am can you please review the below content and share your feedback."
                       }
                     ]
                   },
@@ -6894,7 +6990,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Our Dart developers build fast, stable, and scalable apps with clean Dart architecture - writing code that\u2019s easy to maintain, simple to extend, and optimized for long-term performance.",
+                        "text": "Our Dart developers build fast, stable, and scalable apps with clean Dart architecture - writing code that’s easy to maintain, simple to extend, and optimized for long-term performance.",
                         "marks": [
                           {
                             "type": "strong"
@@ -7200,7 +7296,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "Our Dart developers build fast, stable, and scalable apps with clean Dart architecture - writing code that\u2019s easy to maintain, simple to extend, and optimized for long-term performance.",
+                        "text": "Our Dart developers build fast, stable, and scalable apps with clean Dart architecture - writing code that’s easy to maintain, simple to extend, and optimized for long-term performance.",
                         "marks": [
                           {
                             "type": "strong"
@@ -10396,7 +10492,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Please change the design of service section. and the word of banner headline (Certifies to \u201cRemote\u201c)"
+                        "text": " Please change the design of service section. and the word of banner headline (Certifies to “Remote“)"
                       }
                     ]
                   }
@@ -15036,7 +15132,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "\u00a0Sheet link: "
+                        "text": " Sheet link: "
                       },
                       {
                         "type": "text",
@@ -16185,7 +16281,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Please have a look at Daya ma\u2019am\u2019s feedback for the service content."
+                        "text": " Please have a look at Daya ma’am’s feedback for the service content."
                       }
                     ]
                   }
@@ -16549,7 +16645,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Ma\u2019am, all the changes are visible on the live site from my end. I\u2019m not sure why they aren\u2019t appearing for you \u2014 it might be a network issue. I reviewed everything carefully before sending it to you again for re-review."
+                        "text": " Ma’am, all the changes are visible on the live site from my end. I’m not sure why they aren’t appearing for you — it might be a network issue. I reviewed everything carefully before sending it to you again for re-review."
                       }
                     ]
                   },
@@ -16726,7 +16822,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "You have shared only the figma link\u2026not the live link. "
+                        "text": "You have shared only the figma link…not the live link. "
                       }
                     ]
                   }
@@ -17770,11 +17866,11 @@
                       },
                       {
                         "type": "text",
-                        "text": " , as per CRO suggestions, I have made changes in the banner headlines. I have also changed the CTA as discussed with Daya ma\u2019am. Please have this reviewed by the CRO team and implement the changes on live link - "
+                        "text": " , as per CRO suggestions, I have made changes in the banner headlines. I have also changed the CTA as discussed with Daya ma’am. Please have this reviewed by the CRO team and implement the changes on live link - "
                       },
                       {
                         "type": "text",
-                        "text": "PPC Page \u2013 Hire HVAC Expert (First Draft).docx",
+                        "text": "PPC Page – Hire HVAC Expert (First Draft).docx",
                         "marks": [
                           {
                             "type": "link",
@@ -17995,7 +18091,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "As per the requirement, I\u2019d like to request the creation of a\u00a0PPC landing page of ZOHO Developer.\u00a0"
+                  "text": "As per the requirement, I’d like to request the creation of a PPC landing page of ZOHO Developer. "
                 }
               ]
             },
@@ -18333,7 +18429,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Here\u2019s the draft - "
+                        "text": " Here’s the draft - "
                       },
                       {
                         "type": "text",
@@ -20414,7 +20510,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "The page is developed, moving this task into \u201cDone\u201c"
+                        "text": "The page is developed, moving this task into “Done“"
                       }
                     ]
                   }
@@ -21584,7 +21680,7 @@
                       },
                       {
                         "type": "text",
-                        "text": ", Yes, you\u2019ll receive this page by EOD today."
+                        "text": ", Yes, you’ll receive this page by EOD today."
                       }
                     ]
                   }
@@ -21720,7 +21816,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "The page is developed, moving this task into \u201cDone\u201c"
+                        "text": "The page is developed, moving this task into “Done“"
                       }
                     ]
                   }
@@ -22753,7 +22849,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "The page is developed, moving this task into \u201cDone\u201c"
+                        "text": "The page is developed, moving this task into “Done“"
                       }
                     ]
                   }
@@ -23132,7 +23228,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am please find the below keywords sheet for your review and approval."
+                        "text": " ma’am please find the below keywords sheet for your review and approval."
                       }
                     ]
                   },
@@ -23210,7 +23306,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "  ma\u2019am keywords approved, "
+                        "text": "  ma’am keywords approved, "
                       },
                       {
                         "type": "mention",
@@ -23334,11 +23430,11 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "As per the requirement, I\u2019d like to request the creation of a\u00a0PPC landing page focused on"
+                  "text": "As per the requirement, I’d like to request the creation of a PPC landing page focused on"
                 },
                 {
                   "type": "text",
-                  "text": "\u00a0Hire Software Developer mobile version. ",
+                  "text": " Hire Software Developer mobile version. ",
                   "marks": [
                     {
                       "type": "strong"
@@ -26010,7 +26106,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "  Mam, we have decide to keep in desktop version, because we don\u2019t have case studies in mobile version."
+                        "text": "  Mam, we have decide to keep in desktop version, because we don’t have case studies in mobile version."
                       }
                     ]
                   }
@@ -27016,7 +27112,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "Sub-headline: One Partner. Every Developer You\u2019ll Ever Need"
+                        "text": "Sub-headline: One Partner. Every Developer You’ll Ever Need"
                       }
                     ]
                   },
@@ -27224,7 +27320,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " , I am forced to give this harsh feedback - do you even bother to check the full page before sending it to me?? Didn\u2019t you find anything wrong with the form section headline (which, by the way, I had fixed in the desktop version?) Or the Form CTA????"
+                        "text": " , I am forced to give this harsh feedback - do you even bother to check the full page before sending it to me?? Didn’t you find anything wrong with the form section headline (which, by the way, I had fixed in the desktop version?) Or the Form CTA????"
                       }
                     ]
                   }
@@ -28006,7 +28102,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "\u00a0Sheet link: "
+                        "text": " Sheet link: "
                       },
                       {
                         "type": "text",
@@ -28296,7 +28392,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am kindly review and share your feedback,"
+                        "text": " ma’am kindly review and share your feedback,"
                       }
                     ]
                   },
@@ -28389,7 +28485,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "  ma\u2019am please review the shared your feedback on shared ad copies."
+                        "text": "  ma’am please review the shared your feedback on shared ad copies."
                       }
                     ]
                   }
@@ -28448,7 +28544,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "  ma\u2019am please review the shared your feedback on shared ad copies."
+                        "text": "  ma’am please review the shared your feedback on shared ad copies."
                       }
                     ]
                   }
@@ -28692,7 +28788,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am."
+                        "text": " ma’am."
                       }
                     ]
                   }
@@ -28755,7 +28851,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am, please review and share your approval,"
+                        "text": " ma’am, please review and share your approval,"
                       }
                     ]
                   },
@@ -28848,7 +28944,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "  ma\u2019am over call on 08OCT25."
+                        "text": "  ma’am over call on 08OCT25."
                       }
                     ]
                   }
@@ -29392,7 +29488,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Hello ma\u2019am. Please find the document - "
+                        "text": " Hello ma’am. Please find the document - "
                       },
                       {
                         "type": "hardBreak"
@@ -29517,7 +29613,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " . I have implemented the feedback and updated the first line according to the SME\u2019s response. "
+                        "text": " . I have implemented the feedback and updated the first line according to the SME’s response. "
                       },
                       {
                         "type": "hardBreak"
@@ -29705,7 +29801,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "  Ma\u2019am, as discussed over the call with Arin and Tanumoy, some changes have been made to this service content. Please review and share your feedback at the earliest."
+                        "text": "  Ma’am, as discussed over the call with Arin and Tanumoy, some changes have been made to this service content. Please review and share your feedback at the earliest."
                       }
                     ]
                   },
@@ -29834,7 +29930,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Sure Ma\u2019am."
+                        "text": " Sure Ma’am."
                       }
                     ]
                   }
@@ -29907,7 +30003,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "We build AI that actually works for your business \u2013 not just plug-and-play tools. From AI chatbots that handle customer conversations, to AI agents that plan, automate, and execute complex tasks, to machine learning models that turn data into "
+                        "text": "We build AI that actually works for your business – not just plug-and-play tools. From AI chatbots that handle customer conversations, to AI agents that plan, automate, and execute complex tasks, to machine learning models that turn data into "
                       },
                       {
                         "type": "text",
@@ -30052,7 +30148,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "We build AI that actually works for your business \u2013 not just plug-and-play tools. From AI chatbots that handle customer conversations, to AI agents that plan, automate, and execute complex tasks, to machine learning models that turn data into actionable predictions, we cover every key capability. Built on frameworks like PyTorch, LangChain, and Hugging Face, every AI system is explainable, scalable, continuously learning, and designed for real-world impact."
+                        "text": "We build AI that actually works for your business – not just plug-and-play tools. From AI chatbots that handle customer conversations, to AI agents that plan, automate, and execute complex tasks, to machine learning models that turn data into actionable predictions, we cover every key capability. Built on frameworks like PyTorch, LangChain, and Hugging Face, every AI system is explainable, scalable, continuously learning, and designed for real-world impact."
                       }
                     ]
                   }
@@ -32418,7 +32514,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "The page design is complete \u2014 only the banner video is pending. "
+                        "text": "The page design is complete — only the banner video is pending. "
                       },
                       {
                         "type": "mention",
@@ -32431,7 +32527,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " is currently working on the video, and I\u2019ll update you as soon as it\u2019s done. Please review the rest of the page in the meantime."
+                        "text": " is currently working on the video, and I’ll update you as soon as it’s done. Please review the rest of the page in the meantime."
                       },
                       {
                         "type": "hardBreak"
@@ -32520,7 +32616,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " , I\u2019ve shared the banner video with Mohit. It\u2019s now updated on the page. "
+                        "text": " , I’ve shared the banner video with Mohit. It’s now updated on the page. "
                       },
                       {
                         "type": "hardBreak"
@@ -32855,7 +32951,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "The page is developed, moving this task into \u201cDone\u201c"
+                        "text": "The page is developed, moving this task into “Done“"
                       }
                     ]
                   }
@@ -33236,7 +33332,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am, kindly review the ppc page:"
+                        "text": " ma’am, kindly review the ppc page:"
                       },
                       {
                         "type": "inlineCard",
@@ -33377,7 +33473,7 @@
                       },
                       {
                         "type": "text",
-                        "text": ", Daya ma\u2019am have shared the feedback on the page, please have a look and change the page accordingly."
+                        "text": ", Daya ma’am have shared the feedback on the page, please have a look and change the page accordingly."
                       }
                     ]
                   }
@@ -33651,7 +33747,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Hi Ma\u2019am,"
+                  "text": "Hi Ma’am,"
                 }
               ]
             },
@@ -33673,7 +33769,7 @@
                 },
                 {
                   "type": "text",
-                  "text": ") \u2014 mobile version \u2014 we are using the Remote Staff page as a reference. I have attached the link below along with the keyword list."
+                  "text": ") — mobile version — we are using the Remote Staff page as a reference. I have attached the link below along with the keyword list."
                 }
               ]
             },
@@ -33955,7 +34051,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Hi Ma\u2019am, "
+                  "text": "Hi Ma’am, "
                 }
               ]
             },
@@ -33977,7 +34073,7 @@
                 },
                 {
                   "type": "text",
-                  "text": ") \u2014 desktop version \u2014 we are using the Remote Staff page as a reference. I have attached the link below along with the keyword list."
+                  "text": ") — desktop version — we are using the Remote Staff page as a reference. I have attached the link below along with the keyword list."
                 }
               ]
             },
@@ -34232,7 +34328,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " , here\u2019s the Hire VE page. "
+                        "text": " , here’s the Hire VE page. "
                       },
                       {
                         "type": "hardBreak"
@@ -36591,7 +36687,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "I remember reviewing the Desktop version\u2026.they are missing in this Mobile version. Why dod that happen? "
+                        "text": "I remember reviewing the Desktop version….they are missing in this Mobile version. Why dod that happen? "
                       },
                       {
                         "type": "hardBreak"
@@ -37614,7 +37710,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Increase subtitle\u2019s font size in the banner."
+                        "text": "Increase subtitle’s font size in the banner."
                       },
                       {
                         "type": "hardBreak"
@@ -37840,7 +37936,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "Let\u2019s connect on a quick call to discuss the page in detail. I\u2019d like to understand what feels cluttered from your side, since this design is aligned with the new style and approach that Shaun prefers. This way we can get clarity and move forward smoothly."
+                        "text": "Let’s connect on a quick call to discuss the page in detail. I’d like to understand what feels cluttered from your side, since this design is aligned with the new style and approach that Shaun prefers. This way we can get clarity and move forward smoothly."
                       }
                     ]
                   }
@@ -38515,7 +38611,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Here\u2019s the link  - "
+                        "text": " Here’s the link  - "
                       },
                       {
                         "type": "inlineCard",
@@ -38813,14 +38909,14 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Quite a few misses\u2026.."
+                        "text": "Quite a few misses….."
                       },
                       {
                         "type": "hardBreak"
                       },
                       {
                         "type": "text",
-                        "text": "Here\u2019s also a short video for the Case Study section: "
+                        "text": "Here’s also a short video for the Case Study section: "
                       },
                       {
                         "type": "text",
@@ -39074,7 +39170,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Moving this task to \u201cDone\u201c"
+                        "text": "Moving this task to “Done“"
                       }
                     ]
                   }
@@ -39556,7 +39652,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Here\u2019s the link - "
+                        "text": " Here’s the link - "
                       },
                       {
                         "type": "inlineCard",
@@ -40030,7 +40126,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Mam, all changes are done and discussed over a call. Now I am moving this task into \u201cDone\u201c"
+                        "text": " Mam, all changes are done and discussed over a call. Now I am moving this task into “Done“"
                       }
                     ]
                   }
@@ -40990,7 +41086,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Didn\u2019t we change the subheadline of the Banner (that \u2018to get more out of life\u2019? )"
+                        "text": "Didn’t we change the subheadline of the Banner (that ‘to get more out of life’? )"
                       }
                     ]
                   },
@@ -41153,7 +41249,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "All the changes has done suggested by daya mam, now moving this card to \u201cDone\u201c"
+                        "text": "All the changes has done suggested by daya mam, now moving this card to “Done“"
                       }
                     ]
                   }
@@ -42414,7 +42510,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "  All the changes are done instead of one client\u2019s testimonial because in mobile version we have different kind of thumbs for rest 2 clients, So for this, i need exact thumb for 3rd client ("
+                        "text": "  All the changes are done instead of one client’s testimonial because in mobile version we have different kind of thumbs for rest 2 clients, So for this, i need exact thumb for 3rd client ("
                       },
                       {
                         "type": "text",
@@ -43312,7 +43408,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am. Please take a look the PPC page."
+                        "text": " ma’am. Please take a look the PPC page."
                       },
                       {
                         "type": "hardBreak"
@@ -43340,7 +43436,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "I\u2019ve pulled together the core angles for the AI page that I believe make it stand out from a typical service pitch:"
+                        "text": "I’ve pulled together the core angles for the AI page that I believe make it stand out from a typical service pitch:"
                       }
                     ]
                   },
@@ -43358,7 +43454,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " \u2013 intelligence that feels natural to the end user."
+                        "text": " – intelligence that feels natural to the end user."
                       }
                     ]
                   },
@@ -43376,7 +43472,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " \u2013 business-first use cases, not features for the sake of it."
+                        "text": " – business-first use cases, not features for the sake of it."
                       }
                     ]
                   },
@@ -43394,7 +43490,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " \u2013 prototypes and pilots to reduce AI project failure."
+                        "text": " – prototypes and pilots to reduce AI project failure."
                       }
                     ]
                   },
@@ -43412,7 +43508,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " \u2013 our own AI agent in action (dogfooding builds credibility)."
+                        "text": " – our own AI agent in action (dogfooding builds credibility)."
                       }
                     ]
                   },
@@ -43430,7 +43526,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " \u2013 solutions built around client workflows and data, not generic templates."
+                        "text": " – solutions built around client workflows and data, not generic templates."
                       },
                       {
                         "type": "hardBreak"
@@ -43563,7 +43659,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am. Please review this page."
+                        "text": " ma’am. Please review this page."
                       },
                       {
                         "type": "hardBreak"
@@ -43588,7 +43684,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "I\u2019ve reworked the banner section, introduced an industry-focused segment, and added a tools and technology section. I also toned down the Sheela angle, making the overall page clearer and more accessible for non-technical readers. Please share your feedback."
+                        "text": "I’ve reworked the banner section, introduced an industry-focused segment, and added a tools and technology section. I also toned down the Sheela angle, making the overall page clearer and more accessible for non-technical readers. Please share your feedback."
                       }
                     ]
                   }
@@ -43701,7 +43797,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am and "
+                        "text": " ma’am and "
                       },
                       {
                         "type": "mention",
@@ -43714,7 +43810,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am. "
+                        "text": " ma’am. "
                       }
                     ]
                   },
@@ -43723,7 +43819,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "I have removed the friction from the banner and the 2nd section. Also, instead of using words like \u201cNative,\u201d I have kept it simple and universal. "
+                        "text": "I have removed the friction from the banner and the 2nd section. Also, instead of using words like “Native,” I have kept it simple and universal. "
                       },
                       {
                         "type": "hardBreak"
@@ -44063,7 +44159,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " yes, I have said that I updated in the keywords sheet that 10 keywords found. (typing error in previous reply \u201cupdate\u201d instead of \u201cupdated\u201d)."
+                        "text": " yes, I have said that I updated in the keywords sheet that 10 keywords found. (typing error in previous reply “update” instead of “updated”)."
                       }
                     ]
                   }
@@ -44134,7 +44230,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am has approved the page (with the new headlines). So, if there\u2019s nothing else, we can move forward. "
+                        "text": " ma’am has approved the page (with the new headlines). So, if there’s nothing else, we can move forward. "
                       }
                     ]
                   }
@@ -44484,7 +44580,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " I think due to some constraints, rolling back isn\u2019t an option. You had added two comments earlier\u2026one regarding the banner (which I\u2019ve already updated), and another for the service section where you felt it wasn\u2019t clear that we were talking about AI developers."
+                        "text": " I think due to some constraints, rolling back isn’t an option. You had added two comments earlier…one regarding the banner (which I’ve already updated), and another for the service section where you felt it wasn’t clear that we were talking about AI developers."
                       }
                     ]
                   },
@@ -44506,11 +44602,11 @@
                       },
                       {
                         "type": "text",
-                        "text": " rather than on the developers themselves. That\u2019s why I believe the headline "
+                        "text": " rather than on the developers themselves. That’s why I believe the headline "
                       },
                       {
                         "type": "text",
-                        "text": "\u201cAI Mindfully Applied Exactly Where You Need It\u201d",
+                        "text": "“AI Mindfully Applied Exactly Where You Need It”",
                         "marks": [
                           {
                             "type": "em"
@@ -44610,7 +44706,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "We\u2019ll consider this the final version, unless there are any changes from your side."
+                        "text": "We’ll consider this the final version, unless there are any changes from your side."
                       }
                     ]
                   }
@@ -45409,7 +45505,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am kindly review the below content draft and share your feedback,"
+                        "text": " ma’am kindly review the below content draft and share your feedback,"
                       }
                     ]
                   },
@@ -45968,7 +46064,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am."
+                        "text": " ma’am."
                       }
                     ]
                   }
@@ -46288,7 +46384,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "  We need 3 resource images (both male and female) created for use in our PPC ads. These images will be used to enhance our ad creatives and must align with Google\u2019s ad guidelines."
+                        "text": "  We need 3 resource images (both male and female) created for use in our PPC ads. These images will be used to enhance our ad creatives and must align with Google’s ad guidelines."
                       }
                     ]
                   },
@@ -46495,7 +46591,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "as we tested the image earlier for PPC ads, and it got approved as per Google\u2019s guidelines. Based on that format, here few more images."
+                        "text": "as we tested the image earlier for PPC ads, and it got approved as per Google’s guidelines. Based on that format, here few more images."
                       }
                     ]
                   },
@@ -46504,7 +46600,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Please let me know if you\u2019d like any changes, or if we can move forward with these."
+                        "text": "Please let me know if you’d like any changes, or if we can move forward with these."
                       },
                       {
                         "type": "hardBreak"
@@ -46592,7 +46688,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am can you please review and approve so that I can upload it."
+                        "text": " ma’am can you please review and approve so that I can upload it."
                       }
                     ]
                   }
@@ -46655,7 +46751,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "  ma\u2019am, only one image (Resources_03) is approved and uploaded the same in ads account."
+                        "text": "  ma’am, only one image (Resources_03) is approved and uploaded the same in ads account."
                       }
                     ]
                   }
@@ -47064,7 +47160,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " we have active below old pages, kindly test and if there is bug (already saw form alignment issue), please get it corrected\u00a0"
+                        "text": " we have active below old pages, kindly test and if there is bug (already saw form alignment issue), please get it corrected "
                       }
                     ]
                   },
@@ -49355,7 +49451,7 @@
                       },
                       {
                         "type": "text",
-                        "text": ", need a video for the hero background \u2014 similar to the one you made for the O2I (UK) page. But this one is for the O2I (US and RoW) page."
+                        "text": ", need a video for the hero background — similar to the one you made for the O2I (UK) page. But this one is for the O2I (US and RoW) page."
                       }
                     ]
                   }
@@ -49597,7 +49693,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "\u00a0Keyword Sheet link: "
+                        "text": " Keyword Sheet link: "
                       },
                       {
                         "type": "text",
@@ -49890,7 +49986,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am kindly review and share your feedback,"
+                        "text": " ma’am kindly review and share your feedback,"
                       }
                     ]
                   },
@@ -49994,7 +50090,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "Yellow cells\u2014don\u2019t touch. Minor oversights, have fixed them. Just FYI."
+                        "text": "Yellow cells—don’t touch. Minor oversights, have fixed them. Just FYI."
                       }
                     ]
                   }
@@ -50052,7 +50148,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " noted ma\u2019am. "
+                        "text": " noted ma’am. "
                       },
                       {
                         "type": "mention",
@@ -50128,7 +50224,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am. Made the changes, please check once, and approve."
+                        "text": " ma’am. Made the changes, please check once, and approve."
                       }
                     ]
                   }
@@ -50363,7 +50459,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am, please review and share your approval,"
+                        "text": " ma’am, please review and share your approval,"
                       }
                     ]
                   },
@@ -50462,7 +50558,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "  ma\u2019am, she instructed to hold it for a week, so I am changing the due date to 31st of July."
+                        "text": "  ma’am, she instructed to hold it for a week, so I am changing the due date to 31st of July."
                       }
                     ]
                   }
@@ -50525,7 +50621,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "  ma\u2019am, she instructed to hold it for an another week, so I am changing the due date to 8th of Aug."
+                        "text": "  ma’am, she instructed to hold it for an another week, so I am changing the due date to 8th of Aug."
                       }
                     ]
                   }
@@ -50817,7 +50913,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "\u00a0Sheet link: "
+                        "text": " Sheet link: "
                       },
                       {
                         "type": "text",
@@ -51106,7 +51202,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "  ma\u2019am kindly review and share your feedback,"
+                        "text": "  ma’am kindly review and share your feedback,"
                       }
                     ]
                   },
@@ -51259,7 +51355,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am - feedback implemented. Please review and approve."
+                        "text": " ma’am - feedback implemented. Please review and approve."
                       }
                     ]
                   }
@@ -51372,7 +51468,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am, please review and share your approval,"
+                        "text": " ma’am, please review and share your approval,"
                       }
                     ]
                   },
@@ -51471,7 +51567,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "  ma\u2019am, she instructed to hold it for an another week, so I am changing the due date to 8th of Aug."
+                        "text": "  ma’am, she instructed to hold it for an another week, so I am changing the due date to 8th of Aug."
                       }
                     ]
                   }
@@ -51534,7 +51630,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "  ma\u2019am approved on call for uploading."
+                        "text": "  ma’am approved on call for uploading."
                       }
                     ]
                   }
@@ -51875,7 +51971,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "\u00a0Sheet link: "
+                        "text": " Sheet link: "
                       },
                       {
                         "type": "text",
@@ -52397,7 +52493,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am. Please review the final sheet and approve."
+                        "text": " ma’am. Please review the final sheet and approve."
                       }
                     ]
                   }
@@ -52447,7 +52543,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "I see no changes and errrors as they were\u2026what has been changed?????"
+                        "text": "I see no changes and errrors as they were…what has been changed?????"
                       },
                       {
                         "type": "hardBreak"
@@ -52594,7 +52690,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am. I have updated the missed one. And the others in green."
+                        "text": " ma’am. I have updated the missed one. And the others in green."
                       }
                     ]
                   },
@@ -52726,7 +52822,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am, please review and share your approval,"
+                        "text": " ma’am, please review and share your approval,"
                       }
                     ]
                   },
@@ -52825,7 +52921,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "  ma\u2019am, she instructed to hold it for a week, so I am changing the due date to 31st of July."
+                        "text": "  ma’am, she instructed to hold it for a week, so I am changing the due date to 31st of July."
                       }
                     ]
                   }
@@ -52888,7 +52984,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "  ma\u2019am, she instructed to hold it for an another week, so I am changing the due date to 8th of Aug."
+                        "text": "  ma’am, she instructed to hold it for an another week, so I am changing the due date to 8th of Aug."
                       }
                     ]
                   }
@@ -52947,7 +53043,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "  ma\u2019am approved over call on 22AUG25."
+                        "text": "  ma’am approved over call on 22AUG25."
                       }
                     ]
                   }
@@ -53355,7 +53451,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "When I highlight in yellow means I have rewritten it as there was a minor glitch. Red means the writer has to rewrite. Either ways, I\u2019ll add comments now onwards. "
+                        "text": "When I highlight in yellow means I have rewritten it as there was a minor glitch. Red means the writer has to rewrite. Either ways, I’ll add comments now onwards. "
                       }
                     ]
                   }
@@ -53405,7 +53501,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "ok ma\u2019am"
+                        "text": "ok ma’am"
                       }
                     ]
                   }
@@ -53582,7 +53678,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am can you please re-review this as "
+                        "text": " ma’am can you please re-review this as "
                       },
                       {
                         "type": "mention",
@@ -53645,7 +53741,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "None of the edits were changed\u2026had added comments. Chk yellow cells. I have changed them. "
+                        "text": "None of the edits were changed…had added comments. Chk yellow cells. I have changed them. "
                       }
                     ]
                   }
@@ -53763,7 +53859,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "  ma\u2019am "
+                        "text": "  ma’am "
                       },
                       {
                         "type": "mention",
@@ -53893,7 +53989,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am noted. "
+                        "text": " ma’am noted. "
                       },
                       {
                         "type": "mention",
@@ -54024,7 +54120,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am kindly review and share your feedback,"
+                        "text": " ma’am kindly review and share your feedback,"
                       }
                     ]
                   }
@@ -54137,7 +54233,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "  ma\u2019am, please review and share your approval,"
+                        "text": "  ma’am, please review and share your approval,"
                       }
                     ]
                   },
@@ -54236,7 +54332,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "  ma\u2019am, she instructed to hold it for a week, so I am changing the due date to 31st of July."
+                        "text": "  ma’am, she instructed to hold it for a week, so I am changing the due date to 31st of July."
                       }
                     ]
                   }
@@ -54299,7 +54395,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "  ma\u2019am, she instructed to hold it for an another week, so I am changing the due date to 8th of Aug."
+                        "text": "  ma’am, she instructed to hold it for an another week, so I am changing the due date to 8th of Aug."
                       }
                     ]
                   }
@@ -54362,7 +54458,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am approved for uploading."
+                        "text": " ma’am approved for uploading."
                       }
                     ]
                   }
@@ -55031,7 +55127,7 @@
                       },
                       {
                         "type": "text",
-                        "text": ", This task was created based on Daya ma\u2019am\u2019s requirement to track the ad copies she is reviewing. Accordingly, I\u2019ve reassigned it back to her."
+                        "text": ", This task was created based on Daya ma’am’s requirement to track the ad copies she is reviewing. Accordingly, I’ve reassigned it back to her."
                       }
                     ]
                   }
@@ -56738,7 +56834,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "There are two PPC pages \u2013 Web Developer India and Full Stack Developer \u2013 that include your feedback. We have shared two versions with you: the original includes hourly pricing, and the variant features monthly pricing. We had discussed this hypothesis earlier."
+                  "text": "There are two PPC pages – Web Developer India and Full Stack Developer – that include your feedback. We have shared two versions with you: the original includes hourly pricing, and the variant features monthly pricing. We had discussed this hypothesis earlier."
                 }
               ]
             },
@@ -57113,7 +57209,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "There are two PPC pages \u2013 Web Developer India and Full Stack Developer \u2013 that include your feedback. We have shared two versions with you: the original includes hourly pricing, and the variant features monthly pricing. We had discussed this hypothesis earlier."
+                        "text": "There are two PPC pages – Web Developer India and Full Stack Developer – that include your feedback. We have shared two versions with you: the original includes hourly pricing, and the variant features monthly pricing. We had discussed this hypothesis earlier."
                       }
                     ]
                   }
@@ -57832,7 +57928,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "\u00a0"
+                        "text": " "
                       }
                     ]
                   }
@@ -57953,7 +58049,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am, we have new keywords in pages content, can you please review and share your feedback, so that I can forward to development team for update in live page."
+                        "text": " ma’am, we have new keywords in pages content, can you please review and share your feedback, so that I can forward to development team for update in live page."
                       }
                     ]
                   }
@@ -59096,7 +59192,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "Quantity\u00a0Estimator\u00a0PPC Page_16052025.docx",
+                        "text": "Quantity Estimator PPC Page_16052025.docx",
                         "marks": [
                           {
                             "type": "link",
@@ -59178,7 +59274,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "Waiting for Irfan\u2019s feedback; will start image work after that."
+                        "text": "Waiting for Irfan’s feedback; will start image work after that."
                       },
                       {
                         "type": "hardBreak"
@@ -59496,7 +59592,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "the remaining images have been added, and the updated \u201cGo Live\u201d video has been implemented as well."
+                        "text": "the remaining images have been added, and the updated “Go Live” video has been implemented as well."
                       },
                       {
                         "type": "hardBreak"
@@ -59993,7 +60089,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am. I have implemented the feedback. Here\u2019s the doc file. This is actually a combination of the two pages - pain points and solutions."
+                        "text": " ma’am. I have implemented the feedback. Here’s the doc file. This is actually a combination of the two pages - pain points and solutions."
                       },
                       {
                         "type": "hardBreak"
@@ -60133,7 +60229,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am, I have added the data security angle and mentioned the office as well."
+                        "text": " ma’am, I have added the data security angle and mentioned the office as well."
                       },
                       {
                         "type": "hardBreak"
@@ -60202,7 +60298,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am, please review this page. After that, I will assign it to a designer."
+                        "text": " ma’am, please review this page. After that, I will assign it to a designer."
                       }
                     ]
                   }
@@ -60252,7 +60348,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Approval screenshot from Anuradha ma\u2019am: "
+                        "text": "Approval screenshot from Anuradha ma’am: "
                       }
                     ]
                   },
@@ -60334,7 +60430,7 @@
                       },
                       {
                         "type": "text",
-                        "text": ", have you incorporated the keywords and got the approval from Daya ma\u2019am after the changes?"
+                        "text": ", have you incorporated the keywords and got the approval from Daya ma’am after the changes?"
                       }
                     ]
                   }
@@ -60397,7 +60493,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am. I have made the changes. Please take a look."
+                        "text": " ma’am. I have made the changes. Please take a look."
                       },
                       {
                         "type": "hardBreak"
@@ -60582,7 +60678,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Hello ma\u2019am. I have implemented the feedback."
+                        "text": " Hello ma’am. I have implemented the feedback."
                       },
                       {
                         "type": "hardBreak"
@@ -60659,7 +60755,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am implemented your feedback, can you please recheck and share your approval."
+                        "text": " ma’am implemented your feedback, can you please recheck and share your approval."
                       }
                     ]
                   }
@@ -60718,7 +60814,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am as pe your feedback "
+                        "text": " ma’am as pe your feedback "
                       },
                       {
                         "type": "mention",
@@ -62034,7 +62130,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "\ud83c\udf89 Looks good! "
+                        "text": "🎉 Looks good! "
                       },
                       {
                         "type": "mention",
@@ -62359,7 +62455,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Mam, please review the live URL. The page was written by Irfan Sir based on Sayeli\u2019s requirements and follows a different approach."
+                        "text": " Mam, please review the live URL. The page was written by Irfan Sir based on Sayeli’s requirements and follows a different approach."
                       },
                       {
                         "type": "hardBreak"
@@ -62494,7 +62590,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "Plus analysis based on Shaun\u2019s feebdack:"
+                        "text": "Plus analysis based on Shaun’s feebdack:"
                       },
                       {
                         "type": "hardBreak"
@@ -65208,7 +65304,7 @@
                       },
                       {
                         "type": "text",
-                        "text": ", Need 3 Videos for this page. I\u2019ll explain the concept."
+                        "text": ", Need 3 Videos for this page. I’ll explain the concept."
                       }
                     ]
                   }
@@ -65835,7 +65931,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "\u201cStability-as-a-Service\u201d",
+                        "text": "“Stability-as-a-Service”",
                         "marks": [
                           {
                             "type": "strong"
@@ -65872,7 +65968,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Here\u2019s what needs to be done for the videos:"
+                        "text": "Here’s what needs to be done for the videos:"
                       }
                     ]
                   },
@@ -65887,7 +65983,7 @@
                             "content": [
                               {
                                 "type": "text",
-                                "text": "Point 1 \u2013 Cut NI Costs, Not Corners",
+                                "text": "Point 1 – Cut NI Costs, Not Corners",
                                 "marks": [
                                   {
                                     "type": "strong"
@@ -65899,7 +65995,7 @@
                               },
                               {
                                 "type": "text",
-                                "text": "\ud83d\udc49 We need a new video here. I've already explained the concept to you."
+                                "text": "👉 We need a new video here. I've already explained the concept to you."
                               }
                             ]
                           }
@@ -65913,7 +66009,7 @@
                             "content": [
                               {
                                 "type": "text",
-                                "text": "Point 2 \u2013 No More Locked-In Low Performers",
+                                "text": "Point 2 – No More Locked-In Low Performers",
                                 "marks": [
                                   {
                                     "type": "strong"
@@ -65925,7 +66021,7 @@
                               },
                               {
                                 "type": "text",
-                                "text": "\ud83d\udc49 The current video needs to be changed. Please update it based on the revised direction."
+                                "text": "👉 The current video needs to be changed. Please update it based on the revised direction."
                               }
                             ]
                           }
@@ -65948,7 +66044,7 @@
                               },
                               {
                                 "type": "text",
-                                "text": " videos are good \u2014 no changes needed."
+                                "text": " videos are good — no changes needed."
                               }
                             ]
                           }
@@ -65961,7 +66057,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Let me know once you\u2019ve reviewed and if you need anything else from my side. Thanks!"
+                        "text": "Let me know once you’ve reviewed and if you need anything else from my side. Thanks!"
                       }
                     ]
                   }
@@ -66122,7 +66218,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Hi, here\u2019s the video link: "
+                        "text": " Hi, here’s the video link: "
                       },
                       {
                         "type": "text",
@@ -66197,7 +66293,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "  This is an O2i page where two services \u2014 Medical Process and Graphic Designing \u2014 are still pending. These were supposed to be written by Daya ma\u2019am, but as she is busy with some urgent work, she asked me to connect with you for the content of these two services. Please provide the content as soon as possible."
+                        "text": "  This is an O2i page where two services — Medical Process and Graphic Designing — are still pending. These were supposed to be written by Daya ma’am, but as she is busy with some urgent work, she asked me to connect with you for the content of these two services. Please provide the content as soon as possible."
                       }
                     ]
                   },
@@ -66206,7 +66302,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "\u00a0"
+                        "text": " "
                       },
                       {
                         "type": "inlineCard",
@@ -67237,7 +67333,7 @@
                               },
                               {
                                 "type": "text",
-                                "text": " are inconsistent \u2014 especially in the case study section."
+                                "text": " are inconsistent — especially in the case study section."
                               }
                             ]
                           }
@@ -67260,7 +67356,7 @@
                               },
                               {
                                 "type": "text",
-                                "text": " across the page (headlines, subheadlines) don\u2019t match Figma \u2014 some look too dark, which is impacting hierarchy and polish."
+                                "text": " across the page (headlines, subheadlines) don’t match Figma — some look too dark, which is impacting hierarchy and polish."
                               }
                             ]
                           }
@@ -67682,7 +67778,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " please make the changes suggested by Daya ma\u2019am in the Hire Expert Bookkeper ppc page. Changes are in the attached image."
+                        "text": " please make the changes suggested by Daya ma’am in the Hire Expert Bookkeper ppc page. Changes are in the attached image."
                       }
                     ]
                   },
@@ -68165,7 +68261,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " please update \u201cteam\u201d spelling 's' is missing, screenshot attached below,"
+                        "text": " please update “team” spelling 's' is missing, screenshot attached below,"
                       }
                     ]
                   },
@@ -68242,7 +68338,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " updated , shared to upload on server. once upload on servcer I\u2019ll inform."
+                        "text": " updated , shared to upload on server. once upload on servcer I’ll inform."
                       }
                     ]
                   }
@@ -69584,7 +69680,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " I\u2019ve made a few changes to the Services Section (keywords included). Plz incorporate them. Thanks"
+                        "text": " I’ve made a few changes to the Services Section (keywords included). Plz incorporate them. Thanks"
                       }
                     ]
                   }
@@ -69788,7 +69884,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "\u00a0"
+                  "text": " "
                 }
               ]
             }
@@ -70004,7 +70100,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Feedback and approval video: \u200b"
+                        "text": "Feedback and approval video: ​"
                       },
                       {
                         "type": "text",
@@ -71344,7 +71440,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am, plese review the page its on staging site: "
+                        "text": " ma’am, plese review the page its on staging site: "
                       },
                       {
                         "type": "inlineCard",
@@ -72429,7 +72525,7 @@
                       },
                       {
                         "type": "text",
-                        "text": " Page has been uploaded, Here\u2019s is the link below. "
+                        "text": " Page has been uploaded, Here’s is the link below. "
                       }
                     ]
                   },
@@ -72778,7 +72874,5 @@
         }
       }
     }
-  ],
-  "nextPageToken": "ChUjU3RyaW5nJlZFVlQlSW50Jk56Yz0QZBin2q6HsjMiI3Byb2plY3QgPSAiUFBDIExhbmRpbmcgUGFnZXMgJiBBZHMiKgJbXQ==",
-  "isLast": false
+  ]
 }

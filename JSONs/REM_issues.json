@@ -1,4 +1,8 @@
 {
+  "name": "Remarketing",
+  "id": "10322",
+  "key": "REM",
+  "issue_count": 32,
   "issues": [
     {
       "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
@@ -589,7 +593,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "link to ad copies \u2013 "
+                        "text": "link to ad copies – "
                       },
                       {
                         "type": "text",
@@ -1383,7 +1387,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "  ma\u2019am. Plz review the landing page for the Christmas Campaign \u2013 "
+                        "text": "  ma’am. Plz review the landing page for the Christmas Campaign – "
                       },
                       {
                         "type": "inlineCard",
@@ -1709,7 +1713,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "landing page link \u2013 "
+                        "text": "landing page link – "
                       },
                       {
                         "type": "text",
@@ -3492,11 +3496,11 @@
                       },
                       {
                         "type": "text",
-                        "text": " ma\u2019am. Plz review the following landing page that has been written for the remarketing campaign that we\u2019ll run during Halloween--"
+                        "text": " ma’am. Plz review the following landing page that has been written for the remarketing campaign that we’ll run during Halloween--"
                       },
                       {
                         "type": "text",
-                        "text": "Landing page\u2014Remarketing--Halloween.docx",
+                        "text": "Landing page—Remarketing--Halloween.docx",
                         "marks": [
                           {
                             "type": "link",
@@ -3883,11 +3887,11 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "Landing page link \u2013 "
+                        "text": "Landing page link – "
                       },
                       {
                         "type": "text",
-                        "text": "Landing page\u2014Remarketing--Halloween.docx",
+                        "text": "Landing page—Remarketing--Halloween.docx",
                         "marks": [
                           {
                             "type": "link",
@@ -8487,6 +8491,5 @@
         }
       }
     }
-  ],
-  "isLast": true
+  ]
 }
