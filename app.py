@@ -236,7 +236,7 @@ class ContextManager:
 class ScrumMasterAgent:
     """
     AI Scrum Master Agent with defined role, goal, and backstory
-    Note: Context is now managed per-session via ContextManager instead of 
+    Note: Context is now managed per-session via ContextManager instead of
     context_memory: List[Dict] = []        (in version 2.2 line 117 & 419)
     """
     
@@ -437,18 +437,32 @@ def get_db_schema():
     Table: issues
     - issue_key (TEXT, PRIMARY KEY)
     - project_key (TEXT, FOREIGN KEY)
-    - summary (TEXT)
+    - summary (TEXT) - brief title of the issue
+    - description (TEXT) - detailed description of work (CAN BE NULL)
     - status (TEXT) - values like: 'To Do', 'In Progress', 'Done', 'Blocked', etc.
     - assignee (TEXT) - person's name or 'Unassigned'
-    - priority (TEXT) - values like: 'High', 'Medium', 'Low', 'Critical', etc.
-    - created (TEXT) - date in format YYYY-MM-DD
-    - updated (TEXT) - date in format YYYY-MM-DD
-    - duedate (TEXT) - due date in format YYYY-MM-DD (CAN BE NULL if not set)
-    - time_spent (INTEGER) - time in seconds
+    - reporter (TEXT) - person who created the issue
+    - priority (TEXT) - 'High', 'Medium', 'Low', 'Critical', etc.
+    - issue_type (TEXT) - 'Bug', 'Story', 'Task', 'Epic', etc.
+    - labels (TEXT) - comma-separated tags (CAN BE NULL)
+    - story_points (REAL) - effort estimate (CAN BE NULL)
+    - created (TEXT) - creation date in YYYY-MM-DD
+    - updated (TEXT) - last update date in YYYY-MM-DD
+    - duedate (TEXT) - deadline in YYYY-MM-DD (CAN BE NULL)
+    - resolution (TEXT) - how it was resolved like 'Done', 'Won't Do' (NULL if unresolved)
+    - time_spent (INTEGER) - actual time spent in seconds
+    - time_estimate (INTEGER) - original time estimate in seconds
     - parent_key (TEXT) - parent issue key if this is a subtask
     
-    IMPORTANT: When querying duedate, ALWAYS check if it is NULL. If duedate IS NULL, explicitly state "No due date set" in your response.
+    EVALUATION QUERIES:
+    When user asks to evaluate deadlines or feasibility:
+    1. Get issue details: description, status, duedate, time_estimate, assignee
+    2. Consider: complexity from description, time remaining, current progress (status)
+    3. Provide intelligent assessment with reasoning
     """
+    # Add to the Above, if the DB behaves differently, same goes for description as well. (check v3.2.2 when it was added.)
+    # IMPORTANT: When querying duedate, ALWAYS check if it is NULL. If duedate IS NULL, explicitly state "No due date set" in your response.
+
     return schema
 
 def execute_sql(query):
@@ -515,6 +529,64 @@ def get_available_projects():
 # AI AGENT PROCESSING FUNCTIONS
 # ============================================================================
 
+def get_issue_key_from_context():
+    """Extract issue key from recent context if user refers to 'this project' or 'this issue'"""
+    current_context = ContextManager.load_context()
+    
+    if not current_context:
+        return None
+    
+    last_interaction = current_context[-1]
+    if last_interaction.get('sql_query'):
+        import re
+        # Try to find issue_key in the SQL
+        match = re.search(r"issue_key\s*=\s*['\"]([A-Z]+-\d+)['\"]", last_interaction['sql_query'])
+        if match:
+            return match.group(1)
+    
+    return None
+
+def validate_evaluation_prerequisites(issue_key):
+    """
+    Check if issue has description and duedate before attempting evaluation.
+    Returns: (valid: bool, message: str, has_description: bool, has_duedate: bool)
+    """
+    if not issue_key:
+        return False, "I'm not sure which issue you're referring to. Please specify an issue key (e.g., AFSP-95).", False, False
+    
+    try:
+        conn = sqlite3.connect(DATABASE_NAME)
+        cursor = conn.cursor()
+        
+        cursor.execute("""
+            SELECT description, duedate 
+            FROM issues 
+            WHERE issue_key = ?
+        """, (issue_key,))
+        
+        result = cursor.fetchone()
+        conn.close()
+        
+        if not result:
+            return False, f"Issue {issue_key} not found in the database.", False, False
+        
+        description, duedate = result
+        has_desc = description is not None and description.strip() != ""
+        has_due = duedate is not None and duedate.strip() != ""
+        
+        # Check what's missing
+        if not has_desc and not has_due:
+            return False, f"❌ Cannot evaluate deadline for {issue_key}:\n- Description not available\n- Deadline not set\n\nBoth are required for deadline evaluation.", False, False
+        elif not has_desc:
+            return False, f"❌ Cannot evaluate deadline for {issue_key}:\n- Description not available\n\nDescription is needed to assess task complexity and deadline feasibility.", False, True
+        elif not has_due:
+            return False, f"❌ Cannot evaluate deadline for {issue_key}:\n- Deadline not set\n\nNo deadline has been set for this issue, so there's nothing to evaluate.", True, False
+        
+        return True, "Valid", True, True
+        
+    except Exception as e:
+        return False, f"Error checking issue: {str(e)}", False, False
+
 def classify_query_type(question: str) -> str:
     """Classify the type of user query"""
     question_lower = question.lower()
@@ -530,6 +602,10 @@ def classify_query_type(question: str) -> str:
     # Check for greetings
     if any(greeting == question_lower.strip() or question_lower.strip().startswith(greeting + " ") for greeting in greetings):
         return "greeting"
+    
+    # Check for evaluation queries (needs special handling)
+    if any(word in question_lower for word in ["is this correct", "is this a correct", "feasible", "realistic", "assess", "reasonable deadline", "evaluate deadline", "deadline correct"]):
+        return "evaluation"
     
     if any(word in question_lower for word in ["health", "sprint", "project status"]):
         return "health"
@@ -574,7 +650,7 @@ IMPORTANT RULES:
 9. Always use proper string matching for names (use LIKE or exact match)
 10. Use GROUP BY for aggregations
 11. Use COUNT, SUM for metrics
-12. PAY ATTENTION TO CONTEXT: If user says "those", "that project", "these issues", refer to the context above to understand what they mean
+12. PAY ATTENTION TO CONTEXT: If user says "these", "this", "that project", "these issues", refer to the context above to understand what they mean
 13. For duedate/deadline queries: ALWAYS SELECT duedate column. If result is NULL, tell user "No due date set"
 14. NEVER substitute updated date for duedate - they are different fields
 
@@ -670,7 +746,7 @@ If this is an ANALYSIS query, include:
                 {"role": "user", "content": user_prompt}
             ],
             temperature=0.7,
-            max_tokens=600          # Increase to 1000 if needed to handle longer lists
+            max_tokens=1000  # Increased from 600 to handle longer lists
         )
         
         analysis = response.choices[0].message.content.strip()
@@ -715,7 +791,7 @@ def main():
         st.markdown("## 🤖 AI Scrum Master Agent")
     with col2:
         st.markdown(
-            "<p style='text-align: right; font-size: 20px; margin-top: 18px;'><b>Version 3.2.2</b></p>",
+            "<p style='text-align: right; font-size: 20px; margin-top: 18px;'><b>Version 3.3</b></p>",
             unsafe_allow_html=True
         )
     st.markdown("*Your intelligent Agile assistant with context-aware reasoning*")

@@ -35849,7 +35849,7 @@
       "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/12086",
       "key": "BWW-65",
       "fields": {
-        "statuscategorychangedate": "2025-08-25T17:19:10.332+0530",
+        "statuscategorychangedate": "2025-12-16T11:24:29.522+0530",
         "issuetype": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issuetype/10548",
           "id": "10548",
@@ -35922,19 +35922,24 @@
         "customfield_10033": null,
         "aggregatetimespent": null,
         "statusCategory": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
-          "id": 2,
-          "key": "new",
-          "colorName": "blue-gray",
-          "name": "To Do"
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+          "id": 3,
+          "key": "done",
+          "colorName": "green",
+          "name": "Done"
         },
-        "resolution": null,
+        "resolution": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/resolution/10000",
+          "id": "10000",
+          "description": "Work has been completed on this work item.",
+          "name": "Done"
+        },
         "timetracking": {},
         "customfield_10015": null,
         "security": null,
         "attachment": [],
         "aggregatetimeestimate": null,
-        "resolutiondate": null,
+        "resolutiondate": "2025-12-16T11:24:29.494+0530",
         "workratio": -1,
         "summary": "Review: 1B Project Article 1 - AI in Health Care (Memory Layer)",
         "watches": {
@@ -36008,26 +36013,39 @@
           "total": 0,
           "startAt": 0
         },
-        "assignee": null,
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A9118629a-f338-4a5a-9762-4244c0a608a8",
+          "accountId": "712020:9118629a-f338-4a5a-9762-4244c0a608a8",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/1ec1580bbcb02bd480d7b38c0cdf0a15?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKG-3.png",
+            "24x24": "https://secure.gravatar.com/avatar/1ec1580bbcb02bd480d7b38c0cdf0a15?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKG-3.png",
+            "16x16": "https://secure.gravatar.com/avatar/1ec1580bbcb02bd480d7b38c0cdf0a15?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKG-3.png",
+            "32x32": "https://secure.gravatar.com/avatar/1ec1580bbcb02bd480d7b38c0cdf0a15?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FKG-3.png"
+          },
+          "displayName": "Koyel Ghosh",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
         "worklog": {
           "startAt": 0,
           "maxResults": 20,
           "total": 0,
           "worklogs": []
         },
-        "updated": "2025-08-25T17:21:19.288+0530",
+        "updated": "2025-12-16T11:24:29.522+0530",
         "status": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10765",
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10767",
           "description": "",
           "iconUrl": "https://idealabprojects.atlassian.net/",
-          "name": "To Do",
-          "id": "10765",
+          "name": "Done",
+          "id": "10767",
           "statusCategory": {
-            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
-            "id": 2,
-            "key": "new",
-            "colorName": "blue-gray",
-            "name": "To Do"
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
           }
         }
       }
@@ -38719,17 +38737,17 @@
             "fields": {
               "summary": "Review: 1B Project Article 1 - AI in Health Care (Memory Layer)",
               "status": {
-                "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10765",
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10767",
                 "description": "",
                 "iconUrl": "https://idealabprojects.atlassian.net/",
-                "name": "To Do",
-                "id": "10765",
+                "name": "Done",
+                "id": "10767",
                 "statusCategory": {
-                  "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
-                  "id": 2,
-                  "key": "new",
-                  "colorName": "blue-gray",
-                  "name": "To Do"
+                  "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+                  "id": 3,
+                  "key": "done",
+                  "colorName": "green",
+                  "name": "Done"
                 }
               },
               "priority": {

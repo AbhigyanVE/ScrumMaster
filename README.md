@@ -121,7 +121,7 @@ Then open the local URL shown in your browser (usually http://localhost:8501).
 1. If any change in LLM Response is to be found, <br> 
     *For Example:* In the previous versions, when it was asked about the *"Health of a Project"*, the response was there, but now, when the same question was being asked, then it gives an `ERROR`. <br>
     For these kind of **DISCREPANCIES** please check the **IMPORTANT RULES** section of the LLM present in `app.py` *(present in lines 563 in v3.1.1)*
-2. The Response is **LIMITED**  to 600 tokens, to increase tokens *(change `max_tokens=600` to `max_tokens=1000` in `app.py`)*
+2. The Response is **LIMITED**  to 1000 tokens, to increase tokens *(change `max_tokens=600` to `max_tokens=1000`  or more in `app.py`)*
 3. The logo of **NM Agent** present in the Sidebar of Streamlit cannot be fixed, it will scroll *(Streamlit Limitation)*
 4. The context count issue is fixed as of now.
 5. Till v3.1, the deadline for an issue was not present in the database as it was not being extracted from jira. From v3.1.1 onwards, its fixed *(added `duedate` in line 22 of `extract_data.py`)*
