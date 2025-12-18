@@ -100,7 +100,7 @@
         "summary": "REVIEW--Success Story -- Jeno Berta -- Berta Law Firm",
         "watches": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/TP-102/watchers",
-          "watchCount": 1,
+          "watchCount": 2,
           "isWatching": false
         },
         "lastViewed": null,
@@ -236,23 +236,73 @@
               "created": "2025-12-02T12:30:07.704+0530",
               "updated": "2025-12-02T12:30:07.704+0530",
               "jsdPublic": true
+            },
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14410/comment/19217",
+              "id": "19217",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=605aad190a9b6900719e7c99",
+                "accountId": "605aad190a9b6900719e7c99",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/4f0d47d7277fe8d2b9942e49df3be561?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDM-5.png",
+                  "24x24": "https://secure.gravatar.com/avatar/4f0d47d7277fe8d2b9942e49df3be561?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDM-5.png",
+                  "16x16": "https://secure.gravatar.com/avatar/4f0d47d7277fe8d2b9942e49df3be561?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDM-5.png",
+                  "32x32": "https://secure.gravatar.com/avatar/4f0d47d7277fe8d2b9942e49df3be561?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDM-5.png"
+                },
+                "displayName": "Daya Mukherjee",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "body": {
+                "type": "doc",
+                "version": 1,
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "feedback added"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=605aad190a9b6900719e7c99",
+                "accountId": "605aad190a9b6900719e7c99",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/4f0d47d7277fe8d2b9942e49df3be561?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDM-5.png",
+                  "24x24": "https://secure.gravatar.com/avatar/4f0d47d7277fe8d2b9942e49df3be561?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDM-5.png",
+                  "16x16": "https://secure.gravatar.com/avatar/4f0d47d7277fe8d2b9942e49df3be561?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDM-5.png",
+                  "32x32": "https://secure.gravatar.com/avatar/4f0d47d7277fe8d2b9942e49df3be561?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDM-5.png"
+                },
+                "displayName": "Daya Mukherjee",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "created": "2025-12-17T15:27:11.830+0530",
+              "updated": "2025-12-17T15:27:11.830+0530",
+              "jsdPublic": true
             }
           ],
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14410/comment",
-          "maxResults": 1,
-          "total": 1,
+          "maxResults": 2,
+          "total": 2,
           "startAt": 0
         },
         "assignee": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=605aad190a9b6900719e7c99",
-          "accountId": "605aad190a9b6900719e7c99",
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=5f5b452d0b6be2006e056f42",
+          "accountId": "5f5b452d0b6be2006e056f42",
           "avatarUrls": {
-            "48x48": "https://secure.gravatar.com/avatar/4f0d47d7277fe8d2b9942e49df3be561?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDM-5.png",
-            "24x24": "https://secure.gravatar.com/avatar/4f0d47d7277fe8d2b9942e49df3be561?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDM-5.png",
-            "16x16": "https://secure.gravatar.com/avatar/4f0d47d7277fe8d2b9942e49df3be561?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDM-5.png",
-            "32x32": "https://secure.gravatar.com/avatar/4f0d47d7277fe8d2b9942e49df3be561?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDM-5.png"
+            "48x48": "https://secure.gravatar.com/avatar/ac349e4c40001706bb2da2a486357fc0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-5.png",
+            "24x24": "https://secure.gravatar.com/avatar/ac349e4c40001706bb2da2a486357fc0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-5.png",
+            "16x16": "https://secure.gravatar.com/avatar/ac349e4c40001706bb2da2a486357fc0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-5.png",
+            "32x32": "https://secure.gravatar.com/avatar/ac349e4c40001706bb2da2a486357fc0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-5.png"
           },
-          "displayName": "Daya Mukherjee",
+          "displayName": "sonia",
           "active": true,
           "timeZone": "Asia/Calcutta",
           "accountType": "atlassian"
@@ -263,13 +313,13 @@
           "total": 0,
           "worklogs": []
         },
-        "updated": "2025-12-02T12:30:16.132+0530",
+        "updated": "2025-12-17T15:27:18.010+0530",
         "status": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10870",
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10871",
           "description": "",
           "iconUrl": "https://idealabprojects.atlassian.net/",
-          "name": "In Review",
-          "id": "10870",
+          "name": "Implement Feedback",
+          "id": "10871",
           "statusCategory": {
             "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
             "id": 2,
@@ -342,7 +392,7 @@
         "summary": "Success Story -- David Barsegyan -- Currency Capital",
         "watches": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/TP-101/watchers",
-          "watchCount": 1,
+          "watchCount": 2,
           "isWatching": false
         },
         "lastViewed": null,
@@ -542,23 +592,73 @@
               "created": "2025-12-02T12:31:28.881+0530",
               "updated": "2025-12-02T12:31:28.881+0530",
               "jsdPublic": true
+            },
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14408/comment/19222",
+              "id": "19222",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=605aad190a9b6900719e7c99",
+                "accountId": "605aad190a9b6900719e7c99",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/4f0d47d7277fe8d2b9942e49df3be561?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDM-5.png",
+                  "24x24": "https://secure.gravatar.com/avatar/4f0d47d7277fe8d2b9942e49df3be561?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDM-5.png",
+                  "16x16": "https://secure.gravatar.com/avatar/4f0d47d7277fe8d2b9942e49df3be561?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDM-5.png",
+                  "32x32": "https://secure.gravatar.com/avatar/4f0d47d7277fe8d2b9942e49df3be561?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDM-5.png"
+                },
+                "displayName": "Daya Mukherjee",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "body": {
+                "type": "doc",
+                "version": 1,
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "feedback added."
+                      }
+                    ]
+                  }
+                ]
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=605aad190a9b6900719e7c99",
+                "accountId": "605aad190a9b6900719e7c99",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/4f0d47d7277fe8d2b9942e49df3be561?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDM-5.png",
+                  "24x24": "https://secure.gravatar.com/avatar/4f0d47d7277fe8d2b9942e49df3be561?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDM-5.png",
+                  "16x16": "https://secure.gravatar.com/avatar/4f0d47d7277fe8d2b9942e49df3be561?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDM-5.png",
+                  "32x32": "https://secure.gravatar.com/avatar/4f0d47d7277fe8d2b9942e49df3be561?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDM-5.png"
+                },
+                "displayName": "Daya Mukherjee",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "created": "2025-12-17T17:20:12.989+0530",
+              "updated": "2025-12-17T17:20:12.989+0530",
+              "jsdPublic": true
             }
           ],
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14408/comment",
-          "maxResults": 2,
-          "total": 2,
+          "maxResults": 3,
+          "total": 3,
           "startAt": 0
         },
         "assignee": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=605aad190a9b6900719e7c99",
-          "accountId": "605aad190a9b6900719e7c99",
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=5f5b452d0b6be2006e056f42",
+          "accountId": "5f5b452d0b6be2006e056f42",
           "avatarUrls": {
-            "48x48": "https://secure.gravatar.com/avatar/4f0d47d7277fe8d2b9942e49df3be561?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDM-5.png",
-            "24x24": "https://secure.gravatar.com/avatar/4f0d47d7277fe8d2b9942e49df3be561?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDM-5.png",
-            "16x16": "https://secure.gravatar.com/avatar/4f0d47d7277fe8d2b9942e49df3be561?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDM-5.png",
-            "32x32": "https://secure.gravatar.com/avatar/4f0d47d7277fe8d2b9942e49df3be561?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDM-5.png"
+            "48x48": "https://secure.gravatar.com/avatar/ac349e4c40001706bb2da2a486357fc0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-5.png",
+            "24x24": "https://secure.gravatar.com/avatar/ac349e4c40001706bb2da2a486357fc0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-5.png",
+            "16x16": "https://secure.gravatar.com/avatar/ac349e4c40001706bb2da2a486357fc0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-5.png",
+            "32x32": "https://secure.gravatar.com/avatar/ac349e4c40001706bb2da2a486357fc0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-5.png"
           },
-          "displayName": "Daya Mukherjee",
+          "displayName": "sonia",
           "active": true,
           "timeZone": "Asia/Calcutta",
           "accountType": "atlassian"
@@ -608,13 +708,13 @@
             }
           ]
         },
-        "updated": "2025-12-02T12:39:44.165+0530",
+        "updated": "2025-12-17T17:20:18.642+0530",
         "status": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10870",
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10871",
           "description": "",
           "iconUrl": "https://idealabprojects.atlassian.net/",
-          "name": "In Review",
-          "id": "10870",
+          "name": "Implement Feedback",
+          "id": "10871",
           "statusCategory": {
             "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
             "id": 2,
@@ -713,11 +813,11 @@
             "fields": {
               "summary": "REVIEW--Success Story -- Jeno Berta -- Berta Law Firm",
               "status": {
-                "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10870",
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10871",
                 "description": "",
                 "iconUrl": "https://idealabprojects.atlassian.net/",
-                "name": "In Review",
-                "id": "10870",
+                "name": "Implement Feedback",
+                "id": "10871",
                 "statusCategory": {
                   "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
                   "id": 2,

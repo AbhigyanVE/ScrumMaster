@@ -619,7 +619,7 @@
       "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14505",
       "key": "PCM-256",
       "fields": {
-        "statuscategorychangedate": "2025-12-05T19:06:58.892+0530",
+        "statuscategorychangedate": "2025-12-17T14:34:36.848+0530",
         "issuetype": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issuetype/10040",
           "id": "10040",
@@ -653,19 +653,24 @@
         "customfield_10033": null,
         "aggregatetimespent": null,
         "statusCategory": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
-          "id": 2,
-          "key": "new",
-          "colorName": "blue-gray",
-          "name": "To Do"
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+          "id": 3,
+          "key": "done",
+          "colorName": "green",
+          "name": "Done"
         },
-        "resolution": null,
+        "resolution": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/resolution/10000",
+          "id": "10000",
+          "description": "Work has been completed on this work item.",
+          "name": "Done"
+        },
         "timetracking": {},
         "customfield_10015": "2025-12-05",
         "security": null,
         "attachment": [],
         "aggregatetimeestimate": null,
-        "resolutiondate": null,
+        "resolutiondate": "2025-12-17T14:34:36.841+0530",
         "workratio": -1,
         "summary": "Google Ads Account Performance Overview Report - NOV'25",
         "watches": {
@@ -827,11 +832,69 @@
               "created": "2025-12-05T19:12:56.757+0530",
               "updated": "2025-12-05T19:12:56.757+0530",
               "jsdPublic": true
+            },
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14505/comment/19215",
+              "id": "19215",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A9d81cbd5-bff1-466b-8d31-4a2dd10b964e",
+                "accountId": "712020:9d81cbd5-bff1-466b-8d31-4a2dd10b964e",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
+                  "24x24": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
+                  "16x16": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
+                  "32x32": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png"
+                },
+                "displayName": "Arin Chaudhuri",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "body": {
+                "type": "doc",
+                "version": 1,
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Report/Insights shared. No action required—shared for visibility and updates.",
+                        "marks": [
+                          {
+                            "type": "em"
+                          },
+                          {
+                            "type": "strong"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A9d81cbd5-bff1-466b-8d31-4a2dd10b964e",
+                "accountId": "712020:9d81cbd5-bff1-466b-8d31-4a2dd10b964e",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
+                  "24x24": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
+                  "16x16": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
+                  "32x32": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png"
+                },
+                "displayName": "Arin Chaudhuri",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "created": "2025-12-17T14:34:34.477+0530",
+              "updated": "2025-12-17T14:34:34.477+0530",
+              "jsdPublic": true
             }
           ],
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14505/comment",
-          "maxResults": 1,
-          "total": 1,
+          "maxResults": 2,
+          "total": 2,
           "startAt": 0
         },
         "assignee": {
@@ -854,19 +917,19 @@
           "total": 0,
           "worklogs": []
         },
-        "updated": "2025-12-05T19:12:56.919+0530",
+        "updated": "2025-12-17T14:34:36.848+0530",
         "status": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10173",
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10071",
           "description": "",
           "iconUrl": "https://idealabprojects.atlassian.net/",
-          "name": "In Review",
-          "id": "10173",
+          "name": "Done",
+          "id": "10071",
           "statusCategory": {
-            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
-            "id": 2,
-            "key": "new",
-            "colorName": "blue-gray",
-            "name": "To Do"
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
           }
         }
       }
@@ -877,7 +940,7 @@
       "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14504",
       "key": "PCM-255",
       "fields": {
-        "statuscategorychangedate": "2025-12-05T19:06:28.704+0530",
+        "statuscategorychangedate": "2025-12-17T14:33:57.471+0530",
         "issuetype": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issuetype/10040",
           "id": "10040",
@@ -911,19 +974,24 @@
         "customfield_10033": null,
         "aggregatetimespent": null,
         "statusCategory": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
-          "id": 2,
-          "key": "new",
-          "colorName": "blue-gray",
-          "name": "To Do"
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+          "id": 3,
+          "key": "done",
+          "colorName": "green",
+          "name": "Done"
         },
-        "resolution": null,
+        "resolution": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/resolution/10000",
+          "id": "10000",
+          "description": "Work has been completed on this work item.",
+          "name": "Done"
+        },
         "timetracking": {},
         "customfield_10015": "2025-12-05",
         "security": null,
         "attachment": [],
         "aggregatetimeestimate": null,
-        "resolutiondate": null,
+        "resolutiondate": "2025-12-17T14:33:57.446+0530",
         "workratio": -1,
         "summary": "Google Ads Account Monthly Lead Cost Report - NOV'25",
         "watches": {
@@ -1085,11 +1153,69 @@
               "created": "2025-12-05T19:11:05.473+0530",
               "updated": "2025-12-05T19:11:05.473+0530",
               "jsdPublic": true
+            },
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14504/comment/19213",
+              "id": "19213",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A9d81cbd5-bff1-466b-8d31-4a2dd10b964e",
+                "accountId": "712020:9d81cbd5-bff1-466b-8d31-4a2dd10b964e",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
+                  "24x24": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
+                  "16x16": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
+                  "32x32": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png"
+                },
+                "displayName": "Arin Chaudhuri",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "body": {
+                "type": "doc",
+                "version": 1,
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Report/Insights shared. No action required—shared for visibility and updates.",
+                        "marks": [
+                          {
+                            "type": "em"
+                          },
+                          {
+                            "type": "strong"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A9d81cbd5-bff1-466b-8d31-4a2dd10b964e",
+                "accountId": "712020:9d81cbd5-bff1-466b-8d31-4a2dd10b964e",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
+                  "24x24": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
+                  "16x16": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
+                  "32x32": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png"
+                },
+                "displayName": "Arin Chaudhuri",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "created": "2025-12-17T14:33:53.794+0530",
+              "updated": "2025-12-17T14:33:53.794+0530",
+              "jsdPublic": true
             }
           ],
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14504/comment",
-          "maxResults": 1,
-          "total": 1,
+          "maxResults": 2,
+          "total": 2,
           "startAt": 0
         },
         "assignee": {
@@ -1112,19 +1238,19 @@
           "total": 0,
           "worklogs": []
         },
-        "updated": "2025-12-05T19:11:05.616+0530",
+        "updated": "2025-12-17T14:33:57.470+0530",
         "status": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10173",
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10071",
           "description": "",
           "iconUrl": "https://idealabprojects.atlassian.net/",
-          "name": "In Review",
-          "id": "10173",
+          "name": "Done",
+          "id": "10071",
           "statusCategory": {
-            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
-            "id": 2,
-            "key": "new",
-            "colorName": "blue-gray",
-            "name": "To Do"
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
           }
         }
       }
@@ -1135,7 +1261,7 @@
       "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14486",
       "key": "PCM-254",
       "fields": {
-        "statuscategorychangedate": "2025-12-04T16:06:11.051+0530",
+        "statuscategorychangedate": "2025-12-17T14:34:15.673+0530",
         "issuetype": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issuetype/10040",
           "id": "10040",
@@ -1169,19 +1295,24 @@
         "customfield_10033": null,
         "aggregatetimespent": null,
         "statusCategory": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
-          "id": 2,
-          "key": "new",
-          "colorName": "blue-gray",
-          "name": "To Do"
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+          "id": 3,
+          "key": "done",
+          "colorName": "green",
+          "name": "Done"
         },
-        "resolution": null,
+        "resolution": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/resolution/10000",
+          "id": "10000",
+          "description": "Work has been completed on this work item.",
+          "name": "Done"
+        },
         "timetracking": {},
         "customfield_10015": "2025-12-04",
         "security": null,
         "attachment": [],
         "aggregatetimeestimate": null,
-        "resolutiondate": null,
+        "resolutiondate": "2025-12-17T14:34:15.666+0530",
         "workratio": -1,
         "summary": "Google Ads Campaigns Monthly Device Report NOV'25",
         "watches": {
@@ -1330,11 +1461,69 @@
               "created": "2025-12-04T16:17:07.906+0530",
               "updated": "2025-12-04T16:17:07.906+0530",
               "jsdPublic": true
+            },
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14486/comment/19214",
+              "id": "19214",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A9d81cbd5-bff1-466b-8d31-4a2dd10b964e",
+                "accountId": "712020:9d81cbd5-bff1-466b-8d31-4a2dd10b964e",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
+                  "24x24": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
+                  "16x16": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
+                  "32x32": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png"
+                },
+                "displayName": "Arin Chaudhuri",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "body": {
+                "type": "doc",
+                "version": 1,
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Report/Insights shared. No action required—shared for visibility and updates.",
+                        "marks": [
+                          {
+                            "type": "em"
+                          },
+                          {
+                            "type": "strong"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A9d81cbd5-bff1-466b-8d31-4a2dd10b964e",
+                "accountId": "712020:9d81cbd5-bff1-466b-8d31-4a2dd10b964e",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
+                  "24x24": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
+                  "16x16": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
+                  "32x32": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png"
+                },
+                "displayName": "Arin Chaudhuri",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "created": "2025-12-17T14:34:12.359+0530",
+              "updated": "2025-12-17T14:34:12.359+0530",
+              "jsdPublic": true
             }
           ],
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14486/comment",
-          "maxResults": 1,
-          "total": 1,
+          "maxResults": 2,
+          "total": 2,
           "startAt": 0
         },
         "assignee": {
@@ -1357,19 +1546,19 @@
           "total": 0,
           "worklogs": []
         },
-        "updated": "2025-12-04T16:17:08.085+0530",
+        "updated": "2025-12-17T14:34:15.673+0530",
         "status": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10069",
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10071",
           "description": "",
           "iconUrl": "https://idealabprojects.atlassian.net/",
-          "name": "To Do",
-          "id": "10069",
+          "name": "Done",
+          "id": "10071",
           "statusCategory": {
-            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
-            "id": 2,
-            "key": "new",
-            "colorName": "blue-gray",
-            "name": "To Do"
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
           }
         }
       }
@@ -1380,7 +1569,7 @@
       "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14485",
       "key": "PCM-253",
       "fields": {
-        "statuscategorychangedate": "2025-12-04T16:06:00.937+0530",
+        "statuscategorychangedate": "2025-12-17T14:33:34.173+0530",
         "issuetype": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issuetype/10040",
           "id": "10040",
@@ -1414,19 +1603,24 @@
         "customfield_10033": null,
         "aggregatetimespent": null,
         "statusCategory": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
-          "id": 2,
-          "key": "new",
-          "colorName": "blue-gray",
-          "name": "To Do"
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+          "id": 3,
+          "key": "done",
+          "colorName": "green",
+          "name": "Done"
         },
-        "resolution": null,
+        "resolution": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/resolution/10000",
+          "id": "10000",
+          "description": "Work has been completed on this work item.",
+          "name": "Done"
+        },
         "timetracking": {},
         "customfield_10015": "2025-12-04",
         "security": null,
         "attachment": [],
         "aggregatetimeestimate": null,
-        "resolutiondate": null,
+        "resolutiondate": "2025-12-17T14:33:34.155+0530",
         "workratio": -1,
         "summary": "Google Ads Campaigns Monthly Location Report NOV'25",
         "watches": {
@@ -1575,11 +1769,69 @@
               "created": "2025-12-04T16:13:13.785+0530",
               "updated": "2025-12-04T16:13:13.785+0530",
               "jsdPublic": true
+            },
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14485/comment/19212",
+              "id": "19212",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A9d81cbd5-bff1-466b-8d31-4a2dd10b964e",
+                "accountId": "712020:9d81cbd5-bff1-466b-8d31-4a2dd10b964e",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
+                  "24x24": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
+                  "16x16": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
+                  "32x32": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png"
+                },
+                "displayName": "Arin Chaudhuri",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "body": {
+                "type": "doc",
+                "version": 1,
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Report/Insights shared. No action required—shared for visibility and updates.",
+                        "marks": [
+                          {
+                            "type": "em"
+                          },
+                          {
+                            "type": "strong"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A9d81cbd5-bff1-466b-8d31-4a2dd10b964e",
+                "accountId": "712020:9d81cbd5-bff1-466b-8d31-4a2dd10b964e",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
+                  "24x24": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
+                  "16x16": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
+                  "32x32": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png"
+                },
+                "displayName": "Arin Chaudhuri",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "created": "2025-12-17T14:33:29.126+0530",
+              "updated": "2025-12-17T14:33:29.126+0530",
+              "jsdPublic": true
             }
           ],
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14485/comment",
-          "maxResults": 1,
-          "total": 1,
+          "maxResults": 2,
+          "total": 2,
           "startAt": 0
         },
         "assignee": {
@@ -1602,19 +1854,19 @@
           "total": 0,
           "worklogs": []
         },
-        "updated": "2025-12-04T16:13:40.729+0530",
+        "updated": "2025-12-17T14:33:34.172+0530",
         "status": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10069",
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10071",
           "description": "",
           "iconUrl": "https://idealabprojects.atlassian.net/",
-          "name": "To Do",
-          "id": "10069",
+          "name": "Done",
+          "id": "10071",
           "statusCategory": {
-            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
-            "id": 2,
-            "key": "new",
-            "colorName": "blue-gray",
-            "name": "To Do"
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
           }
         }
       }
@@ -5938,7 +6190,7 @@
       "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/12695",
       "key": "PCM-238",
       "fields": {
-        "statuscategorychangedate": "2025-09-24T14:37:52.255+0530",
+        "statuscategorychangedate": "2025-12-17T17:18:45.485+0530",
         "issuetype": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issuetype/10040",
           "id": "10040",
@@ -5972,19 +6224,24 @@
         "customfield_10033": null,
         "aggregatetimespent": null,
         "statusCategory": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
-          "id": 2,
-          "key": "new",
-          "colorName": "blue-gray",
-          "name": "To Do"
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+          "id": 3,
+          "key": "done",
+          "colorName": "green",
+          "name": "Done"
         },
-        "resolution": null,
+        "resolution": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/resolution/10000",
+          "id": "10000",
+          "description": "Work has been completed on this work item.",
+          "name": "Done"
+        },
         "timetracking": {},
         "customfield_10015": "2025-09-24",
         "security": null,
         "attachment": [],
         "aggregatetimeestimate": null,
-        "resolutiondate": null,
+        "resolutiondate": "2025-12-17T17:18:45.468+0530",
         "workratio": -1,
         "summary": "New Keywords for Engineering",
         "watches": {
@@ -6424,11 +6681,61 @@
               "created": "2025-09-24T14:42:44.850+0530",
               "updated": "2025-09-24T14:42:44.850+0530",
               "jsdPublic": true
+            },
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/12695/comment/19220",
+              "id": "19220",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A9d81cbd5-bff1-466b-8d31-4a2dd10b964e",
+                "accountId": "712020:9d81cbd5-bff1-466b-8d31-4a2dd10b964e",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
+                  "24x24": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
+                  "16x16": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
+                  "32x32": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png"
+                },
+                "displayName": "Arin Chaudhuri",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "body": {
+                "type": "doc",
+                "version": 1,
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "shared data getting old as compared to trends, so make this task as done."
+                      }
+                    ]
+                  }
+                ]
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A9d81cbd5-bff1-466b-8d31-4a2dd10b964e",
+                "accountId": "712020:9d81cbd5-bff1-466b-8d31-4a2dd10b964e",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
+                  "24x24": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
+                  "16x16": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png",
+                  "32x32": "https://secure.gravatar.com/avatar/622f9d07c3245883f5cf0a0b0b9d6637?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAC-5.png"
+                },
+                "displayName": "Arin Chaudhuri",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "created": "2025-12-17T17:18:42.000+0530",
+              "updated": "2025-12-17T17:18:42.000+0530",
+              "jsdPublic": true
             }
           ],
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/12695/comment",
-          "maxResults": 1,
-          "total": 1,
+          "maxResults": 2,
+          "total": 2,
           "startAt": 0
         },
         "assignee": {
@@ -6451,19 +6758,19 @@
           "total": 0,
           "worklogs": []
         },
-        "updated": "2025-09-24T14:42:44.850+0530",
+        "updated": "2025-12-17T17:18:45.484+0530",
         "status": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10069",
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10071",
           "description": "",
           "iconUrl": "https://idealabprojects.atlassian.net/",
-          "name": "To Do",
-          "id": "10069",
+          "name": "Done",
+          "id": "10071",
           "statusCategory": {
-            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
-            "id": 2,
-            "key": "new",
-            "colorName": "blue-gray",
-            "name": "To Do"
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
           }
         }
       }

@@ -23,7 +23,7 @@
           "hierarchyLevel": 0
         },
         "components": [],
-        "timespent": 9000,
+        "timespent": 14400,
         "timeoriginalestimate": null,
         "project": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/project/10422",
@@ -91,7 +91,7 @@
         },
         "fixVersions": [],
         "customfield_10033": null,
-        "aggregatetimespent": 9000,
+        "aggregatetimespent": 14400,
         "statusCategory": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/4",
           "id": 4,
@@ -102,9 +102,9 @@
         "resolution": null,
         "timetracking": {
           "remainingEstimate": "0m",
-          "timeSpent": "2h 30m",
+          "timeSpent": "4h",
           "remainingEstimateSeconds": 0,
-          "timeSpentSeconds": 9000
+          "timeSpentSeconds": 14400
         },
         "customfield_10015": null,
         "security": null,
@@ -150,15 +150,15 @@
           "accountType": "atlassian"
         },
         "aggregateprogress": {
-          "progress": 9000,
-          "total": 9000,
+          "progress": 14400,
+          "total": 14400,
           "percent": 100
         },
         "priority": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
-          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
-          "name": "Medium",
-          "id": "3"
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/1",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/highest_new.svg",
+          "name": "Highest",
+          "id": "1"
         },
         "customfield_10001": null,
         "labels": [],
@@ -169,8 +169,8 @@
         "versions": [],
         "duedate": null,
         "progress": {
-          "progress": 9000,
-          "total": 9000,
+          "progress": 14400,
+          "total": 14400,
           "percent": 100
         },
         "issuelinks": [],
@@ -190,7 +190,7 @@
         "worklog": {
           "startAt": 0,
           "maxResults": 20,
-          "total": 1,
+          "total": 2,
           "worklogs": [
             {
               "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14493/worklog/13406",
@@ -229,10 +229,48 @@
               "timeSpentSeconds": 9000,
               "id": "13406",
               "issueId": "14493"
+            },
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14493/worklog/13647",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ab3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
+                "accountId": "712020:b3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+                  "24x24": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+                  "16x16": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+                  "32x32": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png"
+                },
+                "displayName": "smariti",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ab3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
+                "accountId": "712020:b3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+                  "24x24": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+                  "16x16": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+                  "32x32": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png"
+                },
+                "displayName": "smariti",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "created": "2025-12-17T18:56:07.990+0530",
+              "updated": "2025-12-17T18:56:07.990+0530",
+              "started": "2025-12-17T17:25:58.222+0530",
+              "timeSpent": "1h 30m",
+              "timeSpentSeconds": 5400,
+              "id": "13647",
+              "issueId": "14493"
             }
           ]
         },
-        "updated": "2025-12-04T19:43:34.821+0530",
+        "updated": "2025-12-17T18:56:08.008+0530",
         "status": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10604",
           "description": "This work item is being actively worked on at the moment by the assignee.",
@@ -268,7 +306,7 @@
           "hierarchyLevel": 0
         },
         "components": [],
-        "timespent": 21600,
+        "timespent": 28800,
         "timeoriginalestimate": null,
         "project": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/project/10422",
@@ -420,7 +458,7 @@
         },
         "fixVersions": [],
         "customfield_10033": null,
-        "aggregatetimespent": 21600,
+        "aggregatetimespent": 28800,
         "statusCategory": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/4",
           "id": 4,
@@ -431,9 +469,9 @@
         "resolution": null,
         "timetracking": {
           "remainingEstimate": "0m",
-          "timeSpent": "6h",
+          "timeSpent": "1d",
           "remainingEstimateSeconds": 0,
-          "timeSpentSeconds": 21600
+          "timeSpentSeconds": 28800
         },
         "customfield_10015": null,
         "security": null,
@@ -479,8 +517,8 @@
           "accountType": "atlassian"
         },
         "aggregateprogress": {
-          "progress": 21600,
-          "total": 21600,
+          "progress": 28800,
+          "total": 28800,
           "percent": 100
         },
         "priority": {
@@ -498,8 +536,8 @@
         "versions": [],
         "duedate": null,
         "progress": {
-          "progress": 21600,
-          "total": 21600,
+          "progress": 28800,
+          "total": 28800,
           "percent": 100
         },
         "issuelinks": [],
@@ -644,7 +682,7 @@
         "worklog": {
           "startAt": 0,
           "maxResults": 20,
-          "total": 2,
+          "total": 3,
           "worklogs": [
             {
               "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14491/worklog/13405",
@@ -721,10 +759,48 @@
               "timeSpentSeconds": 10800,
               "id": "13492",
               "issueId": "14491"
+            },
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14491/worklog/13648",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ab3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
+                "accountId": "712020:b3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+                  "24x24": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+                  "16x16": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+                  "32x32": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png"
+                },
+                "displayName": "smariti",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ab3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
+                "accountId": "712020:b3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+                  "24x24": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+                  "16x16": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+                  "32x32": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png"
+                },
+                "displayName": "smariti",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "created": "2025-12-17T18:56:36.274+0530",
+              "updated": "2025-12-17T18:56:36.274+0530",
+              "started": "2025-12-17T16:56:30.754+0530",
+              "timeSpent": "2h",
+              "timeSpentSeconds": 7200,
+              "id": "13648",
+              "issueId": "14491"
             }
           ]
         },
-        "updated": "2025-12-09T19:04:29.861+0530",
+        "updated": "2025-12-17T18:56:36.290+0530",
         "status": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10604",
           "description": "This work item is being actively worked on at the moment by the assignee.",

@@ -625,7 +625,11 @@ def generate_sql_from_question(question: str, query_type: str) -> str:
     assignees = get_available_assignees()
     projects = get_available_projects()
     persona = ScrumMasterAgent.get_persona_prompt()
-    context = ContextManager.get_context_for_sql_generation()  # Updated to use ContextManager
+    context = ContextManager.get_context_for_sql_generation()       # Updated to use ContextManager
+    
+    # Add current date context
+    current_date = datetime.now().strftime("%Y-%m-%d")
+    print(f"Current date for SQL generation: {current_date}")
     
     system_prompt = f"""{persona}
 
@@ -635,6 +639,8 @@ Available assignees: {', '.join(assignees[:20])}
 Available projects: {', '.join([f"{p[0]} ({p[1]})" for p in projects[:10]])}
 
 {context}
+
+CURRENT DATE: {current_date} (Use this for calculating time remaining, overdue tasks, etc.)
 
 Query Type: {query_type}
 
@@ -653,6 +659,18 @@ IMPORTANT RULES:
 12. PAY ATTENTION TO CONTEXT: If user says "these", "this", "that project", "these issues", refer to the context above to understand what they mean
 13. For duedate/deadline queries: ALWAYS SELECT duedate column. If result is NULL, tell user "No due date set"
 14. NEVER substitute updated date for duedate - they are different fields
+15. For EVALUATION queries:
+- ALWAYS compute deadline_status using CURRENT DATE
+- Use julianday() for date comparison
+- Return a column named deadline_status with values:
+  'OVERDUE', 'DUE TODAY', or 'ON TRACK'
+Example for EVALUATION queries (DEADLINE STATUS):
+CASE
+  WHEN duedate IS NULL THEN 'NO DEADLINE'
+  WHEN julianday(duedate) < julianday('2025-12-18') THEN 'OVERDUE'
+  WHEN julianday(duedate) = julianday('2025-12-18') THEN 'DUE TODAY'
+  ELSE 'ON TRACK'
+END AS deadline_status
 
 EXAMPLE for project health (SINGLE QUERY):
 SELECT 
@@ -669,7 +687,14 @@ SELECT
   COUNT(*) as count
 FROM issues 
 WHERE project_key = 'ABC'
-GROUP BY priority;"""
+GROUP BY priority;
+
+CRITICAL:
+- NEVER say a task has "ample time" unless deadline_status = 'ON TRACK'
+- If deadline_status = 'OVERDUE', explicitly say the deadline has already passed
+- Do NOT infer timelines from status alone
+
+"""
 
     try:
         response = openai.chat.completions.create(
@@ -1022,46 +1047,114 @@ def main():
                 st.markdown(prompt)
             
             with st.chat_message("assistant"):
-                with st.spinner("🤔 Analyzing with AI Scrum Master agent..."):
-                    # Generate SQL
-                    sql_query = generate_sql_from_question(prompt, query_type)
+                # Special handling for evaluation queries
+                if query_type == "evaluation":
+                    # Get issue key from context
+                    issue_key = get_issue_key_from_context()
                     
-                    # Execute SQL
-                    results_df, error = execute_sql(sql_query)
+                    # Validate prerequisites BEFORE any SQL
+                    is_valid, message, has_desc, has_due = validate_evaluation_prerequisites(issue_key)
                     
-                    if error:
-                        output = ValidationHandler.create_fallback_output(query_type, error)
-                        st.error(f"Query Error: {error}")
-                        st.code(sql_query, language="sql")
+                    if not is_valid:
+                        # Show error message with clear guidance
+                        st.error(message)
+                        
+                        # Add helpful suggestions based on what's missing
+                        if issue_key:
+                            if not has_desc and not has_due:
+                                st.info("💡 **To evaluate a deadline, I need:**\n- A task description (to assess complexity)\n- A deadline (to evaluate)\n\nPlease add these in Jira first, then ask me again.")
+                            elif not has_desc:
+                                st.warning("⚠️ **Missing Description**\n\nI can't assess if the deadline is reasonable without knowing what work is involved. Please add a description in Jira.")
+                                st.info(f"💡 Meanwhile, try: 'What's the status of {issue_key}?' or 'When was {issue_key} last updated?'")
+                            elif not has_due:
+                                st.warning("⚠️ **No Deadline Set**\n\nThere's no deadline to evaluate for this issue.")
+                                st.info(f"💡 Try: 'What's the status of {issue_key}?' or 'Show me all overdue tasks'")
+                        else:
+                            st.info("💡 **How to use deadline evaluation:**\n1. First ask about a specific issue: 'Tell me about AFSP-95'\n2. Then ask: 'Is this deadline correct?'\n\nI'll remember which issue you asked about!")
+                        
+                        # Save error to history (no SQL, no structured output)
+                        st.session_state.messages.append({
+                            "role": "assistant",
+                            "content": message
+                        })
+                        # Don't rerun, don't add to context
+                        
                     else:
-                        # Generate structured response
-                        output = generate_structured_response(prompt, query_type, sql_query, results_df)
-                    
-                    # Display analysis
-                    st.markdown(output.analysis)
-                    
-                    # Show recommendations
-                    if output.recommendations:
-                        with st.expander("💡 Recommendations"):
-                            for rec in output.recommendations:
-                                st.markdown(f"- {rec}")
-                    
-                    # Show SQL and data
-                    if output.sql_query:
-                        with st.expander("🔍 View SQL Query & Data"):
-                            st.code(output.sql_query, language="sql")
-                            if output.structured_data:
-                                st.dataframe(pd.DataFrame(output.structured_data), width='content')
-                    
-                    # Save to history
-                    st.session_state.messages.append({
-                        "role": "assistant",
-                        "content": output.analysis,
-                        "structured_output": output
-                    })
-                    
-                    # Force rerun to update context count in sidebar
-                    st.rerun()
+                        # Valid evaluation - proceed normally
+                        with st.spinner("🤔 Evaluating deadline feasibility..."):
+                            sql_query = generate_sql_from_question(prompt, query_type)
+                            results_df, error = execute_sql(sql_query)
+                            
+                            if error:
+                                output = ValidationHandler.create_fallback_output(query_type, error)
+                                st.error(f"Query Error: {error}")
+                                st.code(sql_query, language="sql")
+                            else:
+                                output = generate_structured_response(prompt, query_type, sql_query, results_df)
+                            
+                            st.markdown(output.analysis)
+                            
+                            if output.recommendations:
+                                with st.expander("💡 Recommendations"):
+                                    for rec in output.recommendations:
+                                        st.markdown(f"- {rec}")
+                            
+                            if output.sql_query:
+                                with st.expander("🔍 View SQL Query & Data"):
+                                    st.code(output.sql_query, language="sql")
+                                    if output.structured_data:
+                                        st.dataframe(pd.DataFrame(output.structured_data), width='content')
+                            
+                            st.session_state.messages.append({
+                                "role": "assistant",
+                                "content": output.analysis,
+                                "structured_output": output
+                            })
+                            
+                            st.rerun()
+                
+                # Normal query processing (not evaluation)
+                else:
+                    with st.spinner("🤔 Analyzing with AI Scrum Master agent..."):
+                        # Generate SQL
+                        sql_query = generate_sql_from_question(prompt, query_type)
+                        
+                        # Execute SQL
+                        results_df, error = execute_sql(sql_query)
+                        
+                        if error:
+                            output = ValidationHandler.create_fallback_output(query_type, error)
+                            st.error(f"Query Error: {error}")
+                            st.code(sql_query, language="sql")
+                        else:
+                            # Generate structured response
+                            output = generate_structured_response(prompt, query_type, sql_query, results_df)
+                        
+                        # Display analysis
+                        st.markdown(output.analysis)
+                        
+                        # Show recommendations
+                        if output.recommendations:
+                            with st.expander("💡 Recommendations"):
+                                for rec in output.recommendations:
+                                    st.markdown(f"- {rec}")
+                        
+                        # Show SQL and data
+                        if output.sql_query:
+                            with st.expander("🔍 View SQL Query & Data"):
+                                st.code(output.sql_query, language="sql")
+                                if output.structured_data:
+                                    st.dataframe(pd.DataFrame(output.structured_data), width='content')
+                        
+                        # Save to history
+                        st.session_state.messages.append({
+                            "role": "assistant",
+                            "content": output.analysis,
+                            "structured_output": output
+                        })
+                        
+                        # Force rerun to update context count in sidebar
+                        st.rerun()
     
     # Clear chat button
     if st.sidebar.button("🗑️ Clear Chat & Context"):

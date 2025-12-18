@@ -23,7 +23,7 @@
           "hierarchyLevel": 0
         },
         "components": [],
-        "timespent": 21600,
+        "timespent": 39600,
         "timeoriginalestimate": null,
         "project": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/project/10553",
@@ -56,7 +56,7 @@
         },
         "fixVersions": [],
         "customfield_10033": null,
-        "aggregatetimespent": 21600,
+        "aggregatetimespent": 39600,
         "statusCategory": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
           "id": 2,
@@ -67,9 +67,9 @@
         "resolution": null,
         "timetracking": {
           "remainingEstimate": "0m",
-          "timeSpent": "6h",
+          "timeSpent": "1d 3h",
           "remainingEstimateSeconds": 0,
-          "timeSpentSeconds": 21600
+          "timeSpentSeconds": 39600
         },
         "customfield_10015": "2025-12-11",
         "security": null,
@@ -115,8 +115,8 @@
           "accountType": "atlassian"
         },
         "aggregateprogress": {
-          "progress": 21600,
-          "total": 21600,
+          "progress": 39600,
+          "total": 39600,
           "percent": 100
         },
         "priority": {
@@ -134,8 +134,8 @@
         "versions": [],
         "duedate": null,
         "progress": {
-          "progress": 21600,
-          "total": 21600,
+          "progress": 39600,
+          "total": 39600,
           "percent": 100
         },
         "issuelinks": [],
@@ -168,7 +168,7 @@
         "worklog": {
           "startAt": 0,
           "maxResults": 20,
-          "total": 3,
+          "total": 4,
           "worklogs": [
             {
               "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14582/worklog/13530",
@@ -328,10 +328,48 @@
               "timeSpentSeconds": 14400,
               "id": "13543",
               "issueId": "14582"
+            },
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14582/worklog/13652",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
+                "accountId": "712020:3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/0d95ffae99216804599d824a071e83d2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHJ-6.png",
+                  "24x24": "https://secure.gravatar.com/avatar/0d95ffae99216804599d824a071e83d2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHJ-6.png",
+                  "16x16": "https://secure.gravatar.com/avatar/0d95ffae99216804599d824a071e83d2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHJ-6.png",
+                  "32x32": "https://secure.gravatar.com/avatar/0d95ffae99216804599d824a071e83d2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHJ-6.png"
+                },
+                "displayName": "harshit jain",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
+                "accountId": "712020:3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/0d95ffae99216804599d824a071e83d2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHJ-6.png",
+                  "24x24": "https://secure.gravatar.com/avatar/0d95ffae99216804599d824a071e83d2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHJ-6.png",
+                  "16x16": "https://secure.gravatar.com/avatar/0d95ffae99216804599d824a071e83d2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHJ-6.png",
+                  "32x32": "https://secure.gravatar.com/avatar/0d95ffae99216804599d824a071e83d2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHJ-6.png"
+                },
+                "displayName": "harshit jain",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "created": "2025-12-17T20:31:00.367+0530",
+              "updated": "2025-12-17T20:31:00.367+0530",
+              "started": "2025-12-17T15:00:00.000+0530",
+              "timeSpent": "5h",
+              "timeSpentSeconds": 18000,
+              "id": "13652",
+              "issueId": "14582"
             }
           ]
         },
-        "updated": "2025-12-12T20:35:19.377+0530",
+        "updated": "2025-12-17T20:31:00.383+0530",
         "status": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10798",
           "description": "",
@@ -581,7 +619,7 @@
           "hierarchyLevel": 0
         },
         "components": [],
-        "timespent": 108000,
+        "timespent": 140400,
         "timeoriginalestimate": null,
         "project": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/project/10553",
@@ -614,7 +652,7 @@
         },
         "fixVersions": [],
         "customfield_10033": null,
-        "aggregatetimespent": 108000,
+        "aggregatetimespent": 140400,
         "statusCategory": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
           "id": 2,
@@ -625,9 +663,9 @@
         "resolution": null,
         "timetracking": {
           "remainingEstimate": "0m",
-          "timeSpent": "3d 6h",
+          "timeSpent": "4d 7h",
           "remainingEstimateSeconds": 0,
-          "timeSpentSeconds": 108000
+          "timeSpentSeconds": 140400
         },
         "customfield_10015": "2025-12-09",
         "security": null,
@@ -673,8 +711,8 @@
           "accountType": "atlassian"
         },
         "aggregateprogress": {
-          "progress": 108000,
-          "total": 108000,
+          "progress": 140400,
+          "total": 140400,
           "percent": 100
         },
         "priority": {
@@ -692,8 +730,8 @@
         "versions": [],
         "duedate": null,
         "progress": {
-          "progress": 108000,
-          "total": 108000,
+          "progress": 140400,
+          "total": 140400,
           "percent": 100
         },
         "issuelinks": [],
@@ -819,11 +857,69 @@
               "created": "2025-12-10T21:25:56.398+0530",
               "updated": "2025-12-10T21:25:56.398+0530",
               "jsdPublic": true
+            },
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14563/comment/19169",
+              "id": "19169",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
+                "accountId": "712020:3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/0d95ffae99216804599d824a071e83d2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHJ-6.png",
+                  "24x24": "https://secure.gravatar.com/avatar/0d95ffae99216804599d824a071e83d2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHJ-6.png",
+                  "16x16": "https://secure.gravatar.com/avatar/0d95ffae99216804599d824a071e83d2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHJ-6.png",
+                  "32x32": "https://secure.gravatar.com/avatar/0d95ffae99216804599d824a071e83d2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHJ-6.png"
+                },
+                "displayName": "harshit jain",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "body": {
+                "type": "doc",
+                "version": 1,
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "final report.docx",
+                        "marks": [
+                          {
+                            "type": "link",
+                            "attrs": {
+                              "href": "https://vemp-my.sharepoint.com/:w:/g/personal/harshitjain_virtualemployee_com/IQBIqlw3VUdkQovXwRK5v033AYfoVlmlmgnMy_aq18glufk?e=eIooyu"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
+                "accountId": "712020:3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/0d95ffae99216804599d824a071e83d2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHJ-6.png",
+                  "24x24": "https://secure.gravatar.com/avatar/0d95ffae99216804599d824a071e83d2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHJ-6.png",
+                  "16x16": "https://secure.gravatar.com/avatar/0d95ffae99216804599d824a071e83d2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHJ-6.png",
+                  "32x32": "https://secure.gravatar.com/avatar/0d95ffae99216804599d824a071e83d2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHJ-6.png"
+                },
+                "displayName": "harshit jain",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "created": "2025-12-16T21:05:26.200+0530",
+              "updated": "2025-12-16T21:05:26.200+0530",
+              "jsdPublic": true
             }
           ],
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14563/comment",
-          "maxResults": 2,
-          "total": 2,
+          "maxResults": 3,
+          "total": 3,
           "startAt": 0
         },
         "assignee": {
@@ -843,7 +939,7 @@
         "worklog": {
           "startAt": 0,
           "maxResults": 20,
-          "total": 8,
+          "total": 10,
           "worklogs": [
             {
               "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14563/worklog/13497",
@@ -1283,10 +1379,109 @@
               "timeSpentSeconds": 9000,
               "id": "13593",
               "issueId": "14563"
+            },
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14563/worklog/13602",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
+                "accountId": "712020:3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/0d95ffae99216804599d824a071e83d2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHJ-6.png",
+                  "24x24": "https://secure.gravatar.com/avatar/0d95ffae99216804599d824a071e83d2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHJ-6.png",
+                  "16x16": "https://secure.gravatar.com/avatar/0d95ffae99216804599d824a071e83d2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHJ-6.png",
+                  "32x32": "https://secure.gravatar.com/avatar/0d95ffae99216804599d824a071e83d2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHJ-6.png"
+                },
+                "displayName": "harshit jain",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
+                "accountId": "712020:3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/0d95ffae99216804599d824a071e83d2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHJ-6.png",
+                  "24x24": "https://secure.gravatar.com/avatar/0d95ffae99216804599d824a071e83d2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHJ-6.png",
+                  "16x16": "https://secure.gravatar.com/avatar/0d95ffae99216804599d824a071e83d2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHJ-6.png",
+                  "32x32": "https://secure.gravatar.com/avatar/0d95ffae99216804599d824a071e83d2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHJ-6.png"
+                },
+                "displayName": "harshit jain",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "comment": {
+                "type": "doc",
+                "version": 1,
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "final report.docx",
+                        "marks": [
+                          {
+                            "type": "link",
+                            "attrs": {
+                              "href": "https://vemp-my.sharepoint.com/:w:/g/personal/harshitjain_virtualemployee_com/IQBIqlw3VUdkQovXwRK5v033AYfoVlmlmgnMy_aq18glufk?e=eIooyu"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              "created": "2025-12-16T21:05:21.025+0530",
+              "updated": "2025-12-16T21:05:21.025+0530",
+              "started": "2025-12-16T12:00:00.000+0530",
+              "timeSpent": "1d",
+              "timeSpentSeconds": 28800,
+              "id": "13602",
+              "issueId": "14563"
+            },
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14563/worklog/13651",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
+                "accountId": "712020:3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/0d95ffae99216804599d824a071e83d2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHJ-6.png",
+                  "24x24": "https://secure.gravatar.com/avatar/0d95ffae99216804599d824a071e83d2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHJ-6.png",
+                  "16x16": "https://secure.gravatar.com/avatar/0d95ffae99216804599d824a071e83d2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHJ-6.png",
+                  "32x32": "https://secure.gravatar.com/avatar/0d95ffae99216804599d824a071e83d2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHJ-6.png"
+                },
+                "displayName": "harshit jain",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
+                "accountId": "712020:3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/0d95ffae99216804599d824a071e83d2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHJ-6.png",
+                  "24x24": "https://secure.gravatar.com/avatar/0d95ffae99216804599d824a071e83d2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHJ-6.png",
+                  "16x16": "https://secure.gravatar.com/avatar/0d95ffae99216804599d824a071e83d2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHJ-6.png",
+                  "32x32": "https://secure.gravatar.com/avatar/0d95ffae99216804599d824a071e83d2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHJ-6.png"
+                },
+                "displayName": "harshit jain",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "created": "2025-12-17T20:30:28.267+0530",
+              "updated": "2025-12-17T20:30:28.267+0530",
+              "started": "2025-12-17T14:00:00.000+0530",
+              "timeSpent": "1h",
+              "timeSpentSeconds": 3600,
+              "id": "13651",
+              "issueId": "14563"
             }
           ]
         },
-        "updated": "2025-12-15T21:01:41.618+0530",
+        "updated": "2025-12-17T20:30:28.283+0530",
         "status": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10798",
           "description": "",
@@ -2012,7 +2207,7 @@
           "hierarchyLevel": 0
         },
         "components": [],
-        "timespent": 48600,
+        "timespent": 55800,
         "timeoriginalestimate": null,
         "project": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/project/10553",
@@ -2045,7 +2240,7 @@
         },
         "fixVersions": [],
         "customfield_10033": null,
-        "aggregatetimespent": 91800,
+        "aggregatetimespent": 99000,
         "statusCategory": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
           "id": 2,
@@ -2056,9 +2251,9 @@
         "resolution": null,
         "timetracking": {
           "remainingEstimate": "0m",
-          "timeSpent": "1d 5h 30m",
+          "timeSpent": "1d 7h 30m",
           "remainingEstimateSeconds": 0,
-          "timeSpentSeconds": 48600
+          "timeSpentSeconds": 55800
         },
         "customfield_10015": "2025-11-25",
         "security": null,
@@ -2144,8 +2339,8 @@
           "accountType": "atlassian"
         },
         "aggregateprogress": {
-          "progress": 91800,
-          "total": 91800,
+          "progress": 99000,
+          "total": 99000,
           "percent": 100
         },
         "priority": {
@@ -2163,8 +2358,8 @@
         "versions": [],
         "duedate": null,
         "progress": {
-          "progress": 48600,
-          "total": 48600,
+          "progress": 55800,
+          "total": 55800,
           "percent": 100
         },
         "issuelinks": [],
@@ -2314,7 +2509,7 @@
         "worklog": {
           "startAt": 0,
           "maxResults": 20,
-          "total": 4,
+          "total": 5,
           "worklogs": [
             {
               "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14224/worklog/13080",
@@ -2512,10 +2707,48 @@
               "timeSpentSeconds": 5400,
               "id": "13590",
               "issueId": "14224"
+            },
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14224/worklog/13650",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
+                "accountId": "712020:3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/0d95ffae99216804599d824a071e83d2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHJ-6.png",
+                  "24x24": "https://secure.gravatar.com/avatar/0d95ffae99216804599d824a071e83d2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHJ-6.png",
+                  "16x16": "https://secure.gravatar.com/avatar/0d95ffae99216804599d824a071e83d2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHJ-6.png",
+                  "32x32": "https://secure.gravatar.com/avatar/0d95ffae99216804599d824a071e83d2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHJ-6.png"
+                },
+                "displayName": "harshit jain",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
+                "accountId": "712020:3fb5da5f-8d83-4566-82de-6fe8cc34a32b",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/0d95ffae99216804599d824a071e83d2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHJ-6.png",
+                  "24x24": "https://secure.gravatar.com/avatar/0d95ffae99216804599d824a071e83d2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHJ-6.png",
+                  "16x16": "https://secure.gravatar.com/avatar/0d95ffae99216804599d824a071e83d2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHJ-6.png",
+                  "32x32": "https://secure.gravatar.com/avatar/0d95ffae99216804599d824a071e83d2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHJ-6.png"
+                },
+                "displayName": "harshit jain",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "created": "2025-12-17T20:30:03.759+0530",
+              "updated": "2025-12-17T20:30:03.759+0530",
+              "started": "2025-12-17T12:00:00.000+0530",
+              "timeSpent": "2h",
+              "timeSpentSeconds": 7200,
+              "id": "13650",
+              "issueId": "14224"
             }
           ]
         },
-        "updated": "2025-12-15T21:00:33.377+0530",
+        "updated": "2025-12-17T20:30:03.776+0530",
         "status": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10798",
           "description": "",

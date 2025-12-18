@@ -6,6 +6,2185 @@
   "issues": [
     {
       "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "14664",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14664",
+      "key": "WP-172",
+      "fields": {
+        "statuscategorychangedate": "2025-12-18T13:35:16.530+0530",
+        "issuetype": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issuetype/10048",
+          "id": "10048",
+          "description": "A small, distinct piece of work.",
+          "iconUrl": "https://idealabprojects.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10318?size=medium",
+          "name": "Task",
+          "subtask": false,
+          "avatarId": 10318,
+          "entityId": "567121ae-9259-4ada-b1ba-e0790fae983b",
+          "hierarchyLevel": 0
+        },
+        "components": [],
+        "timespent": 144000,
+        "timeoriginalestimate": null,
+        "project": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/project/10023",
+          "id": "10023",
+          "key": "WP",
+          "name": "Website Pages",
+          "projectTypeKey": "business",
+          "simplified": true,
+          "avatarUrls": {
+            "48x48": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10400",
+            "24x24": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10400?size=small",
+            "16x16": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10400?size=xsmall",
+            "32x32": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10400?size=medium"
+          }
+        },
+        "description": null,
+        "fixVersions": [],
+        "customfield_10033": null,
+        "aggregatetimespent": 144000,
+        "statusCategory": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+          "id": 3,
+          "key": "done",
+          "colorName": "green",
+          "name": "Done"
+        },
+        "resolution": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/resolution/10000",
+          "id": "10000",
+          "description": "Work has been completed on this work item.",
+          "name": "Done"
+        },
+        "timetracking": {
+          "remainingEstimate": "0m",
+          "timeSpent": "1w",
+          "remainingEstimateSeconds": 0,
+          "timeSpentSeconds": 144000
+        },
+        "customfield_10015": "2025-12-08",
+        "security": null,
+        "attachment": [],
+        "aggregatetimeestimate": 0,
+        "resolutiondate": "2025-12-18T13:35:16.523+0530",
+        "workratio": -1,
+        "summary": "Homepage Iteration (2 Versions)",
+        "watches": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/WP-172/watchers",
+          "watchCount": 1,
+          "isWatching": false
+        },
+        "lastViewed": null,
+        "creator": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Aff39c89b-57c0-4df5-8be6-6c2e223816ae",
+          "accountId": "712020:ff39c89b-57c0-4df5-8be6-6c2e223816ae",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/759649ecbfe73dc2e6b97b1402eb800e?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSJ-4.png",
+            "24x24": "https://secure.gravatar.com/avatar/759649ecbfe73dc2e6b97b1402eb800e?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSJ-4.png",
+            "16x16": "https://secure.gravatar.com/avatar/759649ecbfe73dc2e6b97b1402eb800e?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSJ-4.png",
+            "32x32": "https://secure.gravatar.com/avatar/759649ecbfe73dc2e6b97b1402eb800e?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSJ-4.png"
+          },
+          "displayName": "Sanjay Jaluthriya",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "subtasks": [],
+        "created": "2025-12-18T13:35:16.079+0530",
+        "customfield_10021": null,
+        "reporter": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Aff39c89b-57c0-4df5-8be6-6c2e223816ae",
+          "accountId": "712020:ff39c89b-57c0-4df5-8be6-6c2e223816ae",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/759649ecbfe73dc2e6b97b1402eb800e?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSJ-4.png",
+            "24x24": "https://secure.gravatar.com/avatar/759649ecbfe73dc2e6b97b1402eb800e?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSJ-4.png",
+            "16x16": "https://secure.gravatar.com/avatar/759649ecbfe73dc2e6b97b1402eb800e?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSJ-4.png",
+            "32x32": "https://secure.gravatar.com/avatar/759649ecbfe73dc2e6b97b1402eb800e?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSJ-4.png"
+          },
+          "displayName": "Sanjay Jaluthriya",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "aggregateprogress": {
+          "progress": 144000,
+          "total": 144000,
+          "percent": 100
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/2",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/high_new.svg",
+          "name": "High",
+          "id": "2"
+        },
+        "customfield_10001": null,
+        "labels": [],
+        "environment": null,
+        "customfield_10019": "0|i00dnj:",
+        "timeestimate": 0,
+        "aggregatetimeoriginalestimate": null,
+        "versions": [],
+        "duedate": "2025-12-18",
+        "progress": {
+          "progress": 144000,
+          "total": 144000,
+          "percent": 100
+        },
+        "issuelinks": [],
+        "votes": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/WP-172/votes",
+          "votes": 0,
+          "hasVoted": false
+        },
+        "comment": {
+          "comments": [
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14664/comment/19230",
+              "id": "19230",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Aff39c89b-57c0-4df5-8be6-6c2e223816ae",
+                "accountId": "712020:ff39c89b-57c0-4df5-8be6-6c2e223816ae",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/759649ecbfe73dc2e6b97b1402eb800e?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSJ-4.png",
+                  "24x24": "https://secure.gravatar.com/avatar/759649ecbfe73dc2e6b97b1402eb800e?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSJ-4.png",
+                  "16x16": "https://secure.gravatar.com/avatar/759649ecbfe73dc2e6b97b1402eb800e?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSJ-4.png",
+                  "32x32": "https://secure.gravatar.com/avatar/759649ecbfe73dc2e6b97b1402eb800e?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSJ-4.png"
+                },
+                "displayName": "Sanjay Jaluthriya",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "body": {
+                "type": "doc",
+                "version": 1,
+                "content": [
+                  {
+                    "type": "heading",
+                    "attrs": {
+                      "level": 2
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Homepage Iteration Summary (Version A & Version B)"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "We have created "
+                      },
+                      {
+                        "type": "text",
+                        "text": "two homepage variants",
+                        "marks": [
+                          {
+                            "type": "strong"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " based on our hypotheses."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Both versions share the same "
+                      },
+                      {
+                        "type": "text",
+                        "text": "core structure and narrative",
+                        "marks": [
+                          {
+                            "type": "strong"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": "."
+                      },
+                      {
+                        "type": "hardBreak"
+                      },
+                      {
+                        "type": "text",
+                        "text": "The differences are limited to:"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "bulletList",
+                    "content": [
+                      {
+                        "type": "listItem",
+                        "content": [
+                          {
+                            "type": "paragraph",
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "Hero subtext"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "listItem",
+                        "content": [
+                          {
+                            "type": "paragraph",
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "Closing CTA behavior"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "listItem",
+                        "content": [
+                          {
+                            "type": "paragraph",
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "Subtle design refinements such as reduced section heading font size to ensure better fold fit across screens"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "listItem",
+                        "content": [
+                          {
+                            "type": "paragraph",
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "Center alignment of all section titles to improve visual consistency and page flow"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Below is a section-by-section breakdown of what has changed from the current live homepage."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "rule"
+                  },
+                  {
+                    "type": "heading",
+                    "attrs": {
+                      "level": 2
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "1. Hero Section (Updated)"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "heading",
+                    "attrs": {
+                      "level": 3
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "What changed"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "bulletList",
+                    "content": [
+                      {
+                        "type": "listItem",
+                        "content": [
+                          {
+                            "type": "paragraph",
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "Updated hero video to include:"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "bulletList",
+                            "content": [
+                              {
+                                "type": "listItem",
+                                "content": [
+                                  {
+                                    "type": "paragraph",
+                                    "content": [
+                                      {
+                                        "type": "text",
+                                        "text": "VE building"
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "listItem",
+                                "content": [
+                                  {
+                                    "type": "paragraph",
+                                    "content": [
+                                      {
+                                        "type": "text",
+                                        "text": "Real office shots"
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "listItem",
+                                "content": [
+                                  {
+                                    "type": "paragraph",
+                                    "content": [
+                                      {
+                                        "type": "text",
+                                        "text": "Client visits to VE and collaboration with their resources"
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "listItem",
+                                "content": [
+                                  {
+                                    "type": "paragraph",
+                                    "content": [
+                                      {
+                                        "type": "text",
+                                        "text": "Onsite case study footage"
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "listItem",
+                                "content": [
+                                  {
+                                    "type": "paragraph",
+                                    "content": [
+                                      {
+                                        "type": "text",
+                                        "text": "Group shots of real VE team members"
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "listItem",
+                        "content": [
+                          {
+                            "type": "paragraph",
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "Reworked headline to focus on "
+                              },
+                              {
+                                "type": "text",
+                                "text": "hiring intent",
+                                "marks": [
+                                  {
+                                    "type": "strong"
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "listItem",
+                        "content": [
+                          {
+                            "type": "paragraph",
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "Simplified messaging to be more "
+                              },
+                              {
+                                "type": "text",
+                                "text": "System-1 driven",
+                                "marks": [
+                                  {
+                                    "type": "strong"
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "text",
+                                "text": " and immediately understandable"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "heading",
+                    "attrs": {
+                      "level": 3
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Version A"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Hire a Virtual Employee For Any Role",
+                        "marks": [
+                          {
+                            "type": "strong"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "hardBreak"
+                      },
+                      {
+                        "type": "text",
+                        "text": "A remote hiring ecosystem shaped over 18+ years, supporting businesses across domains, skills, time zones, and stages of growth."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "heading",
+                    "attrs": {
+                      "level": 3
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Version B"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Hire a Virtual Employee For Any Role",
+                        "marks": [
+                          {
+                            "type": "strong"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "hardBreak"
+                      },
+                      {
+                        "type": "text",
+                        "text": "Stable talent across development, marketing, and operations to keep your work moving."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "heading",
+                    "attrs": {
+                      "level": 3
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Why"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "bulletList",
+                    "content": [
+                      {
+                        "type": "listItem",
+                        "content": [
+                          {
+                            "type": "paragraph",
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "Most visitors arrive with a "
+                              },
+                              {
+                                "type": "text",
+                                "text": "hiring or resourcing problem",
+                                "marks": [
+                                  {
+                                    "type": "strong"
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "text",
+                                "text": ", not a services discovery mindset"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "listItem",
+                        "content": [
+                          {
+                            "type": "paragraph",
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "“Virtual Employee” is now clearly established as the core offering from the first scroll"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "listItem",
+                        "content": [
+                          {
+                            "type": "paragraph",
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "Messaging immediately sets context and reduces cognitive load"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "rule"
+                  },
+                  {
+                    "type": "heading",
+                    "attrs": {
+                      "level": 2
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "2. What Makes Virtual Employee the Better Choice (Refined)"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "heading",
+                    "attrs": {
+                      "level": 3
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "What changed"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "bulletList",
+                    "content": [
+                      {
+                        "type": "listItem",
+                        "content": [
+                          {
+                            "type": "paragraph",
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "Section title updated to clearly position this as a "
+                              },
+                              {
+                                "type": "text",
+                                "text": "decision-making differentiator",
+                                "marks": [
+                                  {
+                                    "type": "strong"
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "listItem",
+                        "content": [
+                          {
+                            "type": "paragraph",
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "Content within the cards remains unchanged"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "heading",
+                    "attrs": {
+                      "level": 3
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Why"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "bulletList",
+                    "content": [
+                      {
+                        "type": "listItem",
+                        "content": [
+                          {
+                            "type": "paragraph",
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "This section was already performing well but lacked framing"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "listItem",
+                        "content": [
+                          {
+                            "type": "paragraph",
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "The new title helps users understand "
+                              },
+                              {
+                                "type": "text",
+                                "text": "why VE works",
+                                "marks": [
+                                  {
+                                    "type": "strong"
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "text",
+                                "text": ", not just what VE offers"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "listItem",
+                        "content": [
+                          {
+                            "type": "paragraph",
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "Keeps focus on systems, continuity, AI plus experience, and proof"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "rule"
+                  },
+                  {
+                    "type": "heading",
+                    "attrs": {
+                      "level": 2
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "3. Services Section (Unchanged)"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "heading",
+                    "attrs": {
+                      "level": 3
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "What changed"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "bulletList",
+                    "content": [
+                      {
+                        "type": "listItem",
+                        "content": [
+                          {
+                            "type": "paragraph",
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "No structural or content changes"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "heading",
+                    "attrs": {
+                      "level": 3
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Why"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "bulletList",
+                    "content": [
+                      {
+                        "type": "listItem",
+                        "content": [
+                          {
+                            "type": "paragraph",
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "This section is already performing and provides necessary breadth"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "listItem",
+                        "content": [
+                          {
+                            "type": "paragraph",
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "It now sits more clearly as “roles and functions you can hire for” rather than standalone services"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "rule"
+                  },
+                  {
+                    "type": "heading",
+                    "attrs": {
+                      "level": 2
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "4. Business Model Section (New)"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "heading",
+                    "attrs": {
+                      "level": 3
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "What changed"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "bulletList",
+                    "content": [
+                      {
+                        "type": "listItem",
+                        "content": [
+                          {
+                            "type": "paragraph",
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "Introduced a new section explaining "
+                              },
+                              {
+                                "type": "text",
+                                "text": "how VE engagement works",
+                                "marks": [
+                                  {
+                                    "type": "strong"
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "text",
+                                "text": ", without adding a traditional pricing page"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "listItem",
+                        "content": [
+                          {
+                            "type": "paragraph",
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "Two engagement models:"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "bulletList",
+                            "content": [
+                              {
+                                "type": "listItem",
+                                "content": [
+                                  {
+                                    "type": "paragraph",
+                                    "content": [
+                                      {
+                                        "type": "text",
+                                        "text": "Employee Model"
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "listItem",
+                                "content": [
+                                  {
+                                    "type": "paragraph",
+                                    "content": [
+                                      {
+                                        "type": "text",
+                                        "text": "Service Model"
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "listItem",
+                        "content": [
+                          {
+                            "type": "paragraph",
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "Added Part-Time and Full-Time toggle with a 20 percent discount for the full-time option"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "listItem",
+                        "content": [
+                          {
+                            "type": "paragraph",
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "Clear “Get Started Now” CTA for both models"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "heading",
+                    "attrs": {
+                      "level": 3
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Why"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "bulletList",
+                    "content": [
+                      {
+                        "type": "listItem",
+                        "content": [
+                          {
+                            "type": "paragraph",
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "This removes ambiguity between hiring a dedicated resource versus outsourcing work"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "listItem",
+                        "content": [
+                          {
+                            "type": "paragraph",
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "Aligns expectations before conversion and reduces downstream friction"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "rule"
+                  },
+                  {
+                    "type": "heading",
+                    "attrs": {
+                      "level": 2
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "5. Case Studies Section (Refined)"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "heading",
+                    "attrs": {
+                      "level": 3
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "What changed"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "bulletList",
+                    "content": [
+                      {
+                        "type": "listItem",
+                        "content": [
+                          {
+                            "type": "paragraph",
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "Title updated to:"
+                              },
+                              {
+                                "type": "hardBreak"
+                              },
+                              {
+                                "type": "text",
+                                "text": "Case Studies That Show Growth at Every Business Size",
+                                "marks": [
+                                  {
+                                    "type": "strong"
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "listItem",
+                        "content": [
+                          {
+                            "type": "paragraph",
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "Added “See All Case Studies” CTA"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "heading",
+                    "attrs": {
+                      "level": 3
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Why"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "bulletList",
+                    "content": [
+                      {
+                        "type": "listItem",
+                        "content": [
+                          {
+                            "type": "paragraph",
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "Intentionally added the phrase “Case Studies” in the title to make it more System-1 friendly"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "listItem",
+                        "content": [
+                          {
+                            "type": "paragraph",
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "Since the new Case Studies page is now live, the CTA allows deeper exploration without cluttering the homepage"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "rule"
+                  },
+                  {
+                    "type": "heading",
+                    "attrs": {
+                      "level": 2
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "6. Testimonials Section (New)"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "heading",
+                    "attrs": {
+                      "level": 3
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "What changed"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "bulletList",
+                    "content": [
+                      {
+                        "type": "listItem",
+                        "content": [
+                          {
+                            "type": "paragraph",
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "Added three highly representative testimonials covering:"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "bulletList",
+                            "content": [
+                              {
+                                "type": "listItem",
+                                "content": [
+                                  {
+                                    "type": "paragraph",
+                                    "content": [
+                                      {
+                                        "type": "text",
+                                        "text": "Technical impact (CTO)"
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "listItem",
+                                "content": [
+                                  {
+                                    "type": "paragraph",
+                                    "content": [
+                                      {
+                                        "type": "text",
+                                        "text": "Operational control (CEO)"
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "listItem",
+                                "content": [
+                                  {
+                                    "type": "paragraph",
+                                    "content": [
+                                      {
+                                        "type": "text",
+                                        "text": "Business growth and ROI (Owner)"
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "listItem",
+                        "content": [
+                          {
+                            "type": "paragraph",
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "Added “See All 700+ Testimonials” CTA"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "listItem",
+                        "content": [
+                          {
+                            "type": "paragraph",
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "Carousel navigation updated to use previous and next arrows instead of dots, since dot navigation is already used in the second section"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "heading",
+                    "attrs": {
+                      "level": 3
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Why"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "bulletList",
+                    "content": [
+                      {
+                        "type": "listItem",
+                        "content": [
+                          {
+                            "type": "paragraph",
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "Demonstrates VE’s credibility across technology, operations, and growth"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "listItem",
+                        "content": [
+                          {
+                            "type": "paragraph",
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "Builds trust without overwhelming the user"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "listItem",
+                        "content": [
+                          {
+                            "type": "paragraph",
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "Keeps testimonial signals strong, balanced, and scannable"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "rule"
+                  },
+                  {
+                    "type": "heading",
+                    "attrs": {
+                      "level": 2
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "7. Closing CTA Section (Two Versions)"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "heading",
+                    "attrs": {
+                      "level": 3
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Version A – Soft CTA (Conversation-led)"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Content",
+                        "marks": [
+                          {
+                            "type": "strong"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "hardBreak"
+                      },
+                      {
+                        "type": "text",
+                        "text": "Not sure what you need yet?"
+                      },
+                      {
+                        "type": "hardBreak"
+                      },
+                      {
+                        "type": "text",
+                        "text": "We’ll help you figure it out."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "CTA: "
+                      },
+                      {
+                        "type": "text",
+                        "text": "Get Started Now",
+                        "marks": [
+                          {
+                            "type": "strong"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Purpose",
+                        "marks": [
+                          {
+                            "type": "strong"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "bulletList",
+                    "content": [
+                      {
+                        "type": "listItem",
+                        "content": [
+                          {
+                            "type": "paragraph",
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "Low-pressure ending"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "listItem",
+                        "content": [
+                          {
+                            "type": "paragraph",
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "Suitable for users who want clarity before committing"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "rule"
+                  },
+                  {
+                    "type": "heading",
+                    "attrs": {
+                      "level": 3
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Version B – Lead Form CTA (Conversion-led)"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "heading",
+                    "attrs": {
+                      "level": 3
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "What changed"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "bulletList",
+                    "content": [
+                      {
+                        "type": "listItem",
+                        "content": [
+                          {
+                            "type": "paragraph",
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "Replaced the soft CTA with a lead form"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "listItem",
+                        "content": [
+                          {
+                            "type": "paragraph",
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "Form fields remain unchanged and approved"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "listItem",
+                        "content": [
+                          {
+                            "type": "paragraph",
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "Added supporting content explaining why filling the form is worthwhile"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "heading",
+                    "attrs": {
+                      "level": 3
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Emphasis"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "bulletList",
+                    "content": [
+                      {
+                        "type": "listItem",
+                        "content": [
+                          {
+                            "type": "paragraph",
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "Free trial"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "listItem",
+                        "content": [
+                          {
+                            "type": "paragraph",
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "Fast onboarding"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "listItem",
+                        "content": [
+                          {
+                            "type": "paragraph",
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "No credit card required"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "listItem",
+                        "content": [
+                          {
+                            "type": "paragraph",
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "VE’s experience and trust"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "heading",
+                    "attrs": {
+                      "level": 3
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Purpose"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "bulletList",
+                    "content": [
+                      {
+                        "type": "listItem",
+                        "content": [
+                          {
+                            "type": "paragraph",
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "Designed for higher-intent traffic"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "listItem",
+                        "content": [
+                          {
+                            "type": "paragraph",
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "Moves users directly into the Go Live and CAM flow"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "listItem",
+                        "content": [
+                          {
+                            "type": "paragraph",
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "Maintains homepage tone, not a landing-page feel"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "rule"
+                  },
+                  {
+                    "type": "heading",
+                    "attrs": {
+                      "level": 2
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Summary"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "bulletList",
+                    "content": [
+                      {
+                        "type": "listItem",
+                        "content": [
+                          {
+                            "type": "paragraph",
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "Core structure and narrative remain consistent across both versions"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "listItem",
+                        "content": [
+                          {
+                            "type": "paragraph",
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "Hero, second section, services, business model, case studies, and testimonials are aligned"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "listItem",
+                        "content": [
+                          {
+                            "type": "paragraph",
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "The primary experiment is "
+                              },
+                              {
+                                "type": "text",
+                                "text": "how the page closes",
+                                "marks": [
+                                  {
+                                    "type": "strong"
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "text",
+                                "text": ":"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "bulletList",
+                            "content": [
+                              {
+                                "type": "listItem",
+                                "content": [
+                                  {
+                                    "type": "paragraph",
+                                    "content": [
+                                      {
+                                        "type": "text",
+                                        "text": "Version A optimizes for exploration and reassurance"
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "listItem",
+                                "content": [
+                                  {
+                                    "type": "paragraph",
+                                    "content": [
+                                      {
+                                        "type": "text",
+                                        "text": "Version B optimizes for direct lead capture"
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Both versions are aligned with VE’s positioning around continuity, trust, and long-term delivery."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "rule"
+                  },
+                  {
+                    "type": "heading",
+                    "attrs": {
+                      "level": 2
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Figma Links"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "bulletList",
+                    "content": [
+                      {
+                        "type": "listItem",
+                        "content": [
+                          {
+                            "type": "paragraph",
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "Version A (Soft CTA version):",
+                                "marks": [
+                                  {
+                                    "type": "strong"
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "hardBreak"
+                              },
+                              {
+                                "type": "inlineCard",
+                                "attrs": {
+                                  "url": "https://www.figma.com/proto/R48j0BiILG2Oc4LOCsP1nD/ve-homepage-2025?page-id=16837%3A17418&node-id=16842-42356&viewport=18737%2C3536%2C0.29&t=nmpnXM95UwU32e8z-8&scaling=scale-down-width&content-scaling=fixed&starting-point-node-id=16842%3A42356&hide-ui=1"
+                                }
+                              },
+                              {
+                                "type": "text",
+                                "text": " "
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "listItem",
+                        "content": [
+                          {
+                            "type": "paragraph",
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "Version B (Lead Form version):",
+                                "marks": [
+                                  {
+                                    "type": "strong"
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "hardBreak"
+                              },
+                              {
+                                "type": "inlineCard",
+                                "attrs": {
+                                  "url": "https://www.figma.com/proto/R48j0BiILG2Oc4LOCsP1nD/ve-homepage-2025?page-id=16837%3A17418&node-id=17339-5389&viewport=18737%2C3536%2C0.29&t=8RfeDWIXBBvvvV1F-8&scaling=scale-down-width&content-scaling=fixed&starting-point-node-id=17339%3A5389&hide-ui=1"
+                                }
+                              },
+                              {
+                                "type": "text",
+                                "text": " "
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Aff39c89b-57c0-4df5-8be6-6c2e223816ae",
+                "accountId": "712020:ff39c89b-57c0-4df5-8be6-6c2e223816ae",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/759649ecbfe73dc2e6b97b1402eb800e?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSJ-4.png",
+                  "24x24": "https://secure.gravatar.com/avatar/759649ecbfe73dc2e6b97b1402eb800e?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSJ-4.png",
+                  "16x16": "https://secure.gravatar.com/avatar/759649ecbfe73dc2e6b97b1402eb800e?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSJ-4.png",
+                  "32x32": "https://secure.gravatar.com/avatar/759649ecbfe73dc2e6b97b1402eb800e?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSJ-4.png"
+                },
+                "displayName": "Sanjay Jaluthriya",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "created": "2025-12-18T13:42:37.806+0530",
+              "updated": "2025-12-18T13:42:37.806+0530",
+              "jsdPublic": true
+            }
+          ],
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14664/comment",
+          "maxResults": 1,
+          "total": 1,
+          "startAt": 0
+        },
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Aff39c89b-57c0-4df5-8be6-6c2e223816ae",
+          "accountId": "712020:ff39c89b-57c0-4df5-8be6-6c2e223816ae",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/759649ecbfe73dc2e6b97b1402eb800e?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSJ-4.png",
+            "24x24": "https://secure.gravatar.com/avatar/759649ecbfe73dc2e6b97b1402eb800e?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSJ-4.png",
+            "16x16": "https://secure.gravatar.com/avatar/759649ecbfe73dc2e6b97b1402eb800e?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSJ-4.png",
+            "32x32": "https://secure.gravatar.com/avatar/759649ecbfe73dc2e6b97b1402eb800e?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSJ-4.png"
+          },
+          "displayName": "Sanjay Jaluthriya",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "worklog": {
+          "startAt": 0,
+          "maxResults": 20,
+          "total": 1,
+          "worklogs": [
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14664/worklog/13654",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Aff39c89b-57c0-4df5-8be6-6c2e223816ae",
+                "accountId": "712020:ff39c89b-57c0-4df5-8be6-6c2e223816ae",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/759649ecbfe73dc2e6b97b1402eb800e?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSJ-4.png",
+                  "24x24": "https://secure.gravatar.com/avatar/759649ecbfe73dc2e6b97b1402eb800e?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSJ-4.png",
+                  "16x16": "https://secure.gravatar.com/avatar/759649ecbfe73dc2e6b97b1402eb800e?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSJ-4.png",
+                  "32x32": "https://secure.gravatar.com/avatar/759649ecbfe73dc2e6b97b1402eb800e?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSJ-4.png"
+                },
+                "displayName": "Sanjay Jaluthriya",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Aff39c89b-57c0-4df5-8be6-6c2e223816ae",
+                "accountId": "712020:ff39c89b-57c0-4df5-8be6-6c2e223816ae",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/759649ecbfe73dc2e6b97b1402eb800e?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSJ-4.png",
+                  "24x24": "https://secure.gravatar.com/avatar/759649ecbfe73dc2e6b97b1402eb800e?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSJ-4.png",
+                  "16x16": "https://secure.gravatar.com/avatar/759649ecbfe73dc2e6b97b1402eb800e?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSJ-4.png",
+                  "32x32": "https://secure.gravatar.com/avatar/759649ecbfe73dc2e6b97b1402eb800e?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSJ-4.png"
+                },
+                "displayName": "Sanjay Jaluthriya",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "comment": {
+                "type": "doc",
+                "version": 1,
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Brainstroming, Research, Design, Video, Content, Prototyping"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "created": "2025-12-18T13:46:25.987+0530",
+              "updated": "2025-12-18T13:46:25.987+0530",
+              "started": "2025-12-16T21:45:34.552+0530",
+              "timeSpent": "1w",
+              "timeSpentSeconds": 144000,
+              "id": "13654",
+              "issueId": "14664"
+            }
+          ]
+        },
+        "updated": "2025-12-18T13:46:26.005+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10101",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "Done",
+          "id": "10101",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "14662",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14662",
+      "key": "WP-171",
+      "fields": {
+        "statuscategorychangedate": "2025-12-17T18:33:15.419+0530",
+        "issuetype": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issuetype/10048",
+          "id": "10048",
+          "description": "A small, distinct piece of work.",
+          "iconUrl": "https://idealabprojects.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10318?size=medium",
+          "name": "Task",
+          "subtask": false,
+          "avatarId": 10318,
+          "entityId": "567121ae-9259-4ada-b1ba-e0790fae983b",
+          "hierarchyLevel": 0
+        },
+        "components": [],
+        "timespent": 14400,
+        "timeoriginalestimate": null,
+        "project": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/project/10023",
+          "id": "10023",
+          "key": "WP",
+          "name": "Website Pages",
+          "projectTypeKey": "business",
+          "simplified": true,
+          "avatarUrls": {
+            "48x48": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10400",
+            "24x24": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10400?size=small",
+            "16x16": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10400?size=xsmall",
+            "32x32": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10400?size=medium"
+          }
+        },
+        "description": null,
+        "fixVersions": [],
+        "customfield_10033": null,
+        "aggregatetimespent": 14400,
+        "statusCategory": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+          "id": 3,
+          "key": "done",
+          "colorName": "green",
+          "name": "Done"
+        },
+        "resolution": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/resolution/10000",
+          "id": "10000",
+          "description": "Work has been completed on this work item.",
+          "name": "Done"
+        },
+        "timetracking": {
+          "remainingEstimate": "0m",
+          "timeSpent": "4h",
+          "remainingEstimateSeconds": 0,
+          "timeSpentSeconds": 14400
+        },
+        "customfield_10015": "2025-12-17",
+        "security": null,
+        "attachment": [],
+        "aggregatetimeestimate": 0,
+        "resolutiondate": "2025-12-17T18:33:15.393+0530",
+        "workratio": -1,
+        "summary": "about us (Website : 17-dec-2025)",
+        "watches": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/WP-171/watchers",
+          "watchCount": 0,
+          "isWatching": false
+        },
+        "lastViewed": null,
+        "creator": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
+          "accountId": "712020:3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
+            "24x24": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
+            "16x16": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
+            "32x32": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png"
+          },
+          "displayName": "Vikas Bhardwaj",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "subtasks": [],
+        "created": "2025-12-17T18:31:04.669+0530",
+        "customfield_10021": null,
+        "reporter": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
+          "accountId": "712020:3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
+            "24x24": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
+            "16x16": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
+            "32x32": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png"
+          },
+          "displayName": "Vikas Bhardwaj",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "aggregateprogress": {
+          "progress": 14400,
+          "total": 14400,
+          "percent": 100
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "customfield_10001": null,
+        "labels": [],
+        "environment": null,
+        "customfield_10019": "0|i00dn3:",
+        "timeestimate": 0,
+        "aggregatetimeoriginalestimate": null,
+        "versions": [],
+        "duedate": "2025-12-17",
+        "progress": {
+          "progress": 14400,
+          "total": 14400,
+          "percent": 100
+        },
+        "issuelinks": [],
+        "votes": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/WP-171/votes",
+          "votes": 0,
+          "hasVoted": false
+        },
+        "comment": {
+          "comments": [],
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14662/comment",
+          "maxResults": 0,
+          "total": 0,
+          "startAt": 0
+        },
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
+          "accountId": "712020:3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
+            "24x24": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
+            "16x16": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
+            "32x32": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png"
+          },
+          "displayName": "Vikas Bhardwaj",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "worklog": {
+          "startAt": 0,
+          "maxResults": 20,
+          "total": 1,
+          "worklogs": [
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14662/worklog/13644",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
+                "accountId": "712020:3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
+                  "24x24": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
+                  "16x16": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
+                  "32x32": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png"
+                },
+                "displayName": "Vikas Bhardwaj",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
+                "accountId": "712020:3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
+                  "24x24": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
+                  "16x16": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
+                  "32x32": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png"
+                },
+                "displayName": "Vikas Bhardwaj",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "comment": {
+                "type": "doc",
+                "version": 1,
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Change Owl carosel to splide slider due to design issue, and image responsive issue fixed"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "created": "2025-12-17T18:32:16.338+0530",
+              "updated": "2025-12-17T18:32:16.338+0530",
+              "started": "2025-12-17T10:00:00.000+0530",
+              "timeSpent": "4h",
+              "timeSpentSeconds": 14400,
+              "id": "13644",
+              "issueId": "14662"
+            }
+          ]
+        },
+        "updated": "2025-12-17T18:33:15.418+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10101",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "Done",
+          "id": "10101",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
       "id": "14622",
       "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14622",
       "key": "WP-170",
@@ -213,7 +2392,7 @@
       "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14620",
       "key": "WP-169",
       "fields": {
-        "statuscategorychangedate": "2025-12-16T10:47:38.822+0530",
+        "statuscategorychangedate": "2025-12-17T18:30:37.183+0530",
         "issuetype": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issuetype/10048",
           "id": "10048",
@@ -226,7 +2405,7 @@
           "hierarchyLevel": 0
         },
         "components": [],
-        "timespent": null,
+        "timespent": 28800,
         "timeoriginalestimate": null,
         "project": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/project/10023",
@@ -245,21 +2424,31 @@
         "description": null,
         "fixVersions": [],
         "customfield_10033": null,
-        "aggregatetimespent": null,
+        "aggregatetimespent": 28800,
         "statusCategory": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/4",
-          "id": 4,
-          "key": "indeterminate",
-          "colorName": "yellow",
-          "name": "In Progress"
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+          "id": 3,
+          "key": "done",
+          "colorName": "green",
+          "name": "Done"
         },
-        "resolution": null,
-        "timetracking": {},
+        "resolution": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/resolution/10000",
+          "id": "10000",
+          "description": "Work has been completed on this work item.",
+          "name": "Done"
+        },
+        "timetracking": {
+          "remainingEstimate": "0m",
+          "timeSpent": "1d",
+          "remainingEstimateSeconds": 0,
+          "timeSpentSeconds": 28800
+        },
         "customfield_10015": "2025-12-16",
         "security": null,
         "attachment": [],
-        "aggregatetimeestimate": null,
-        "resolutiondate": null,
+        "aggregatetimeestimate": 0,
+        "resolutiondate": "2025-12-17T18:30:37.177+0530",
         "workratio": -1,
         "summary": "Bookkeeping FAQs (Website FAQs Sub page)",
         "watches": {
@@ -300,8 +2489,9 @@
           "accountType": "atlassian"
         },
         "aggregateprogress": {
-          "progress": 0,
-          "total": 0
+          "progress": 28800,
+          "total": 28800,
+          "percent": 100
         },
         "priority": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
@@ -312,14 +2502,15 @@
         "customfield_10001": null,
         "labels": [],
         "environment": null,
-        "customfield_10019": "0|i00dlj:",
-        "timeestimate": null,
+        "customfield_10019": "0|i00d6l:",
+        "timeestimate": 0,
         "aggregatetimeoriginalestimate": null,
         "versions": [],
         "duedate": "2025-12-18",
         "progress": {
-          "progress": 0,
-          "total": 0
+          "progress": 28800,
+          "total": 28800,
+          "percent": 100
         },
         "issuelinks": [],
         "votes": {
@@ -351,22 +2542,76 @@
         "worklog": {
           "startAt": 0,
           "maxResults": 20,
-          "total": 0,
-          "worklogs": []
+          "total": 1,
+          "worklogs": [
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14620/worklog/13597",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
+                "accountId": "712020:3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
+                  "24x24": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
+                  "16x16": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
+                  "32x32": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png"
+                },
+                "displayName": "Vikas Bhardwaj",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
+                "accountId": "712020:3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
+                  "24x24": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
+                  "16x16": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
+                  "32x32": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png"
+                },
+                "displayName": "Vikas Bhardwaj",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "comment": {
+                "type": "doc",
+                "version": 1,
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "HTML Development, Make responsive, Js functionality"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "created": "2025-12-16T18:58:22.916+0530",
+              "updated": "2025-12-16T18:58:22.916+0530",
+              "started": "2025-12-16T10:00:00.000+0530",
+              "timeSpent": "1d",
+              "timeSpentSeconds": 28800,
+              "id": "13597",
+              "issueId": "14620"
+            }
+          ]
         },
-        "updated": "2025-12-16T10:47:51.164+0530",
+        "updated": "2025-12-17T18:30:37.182+0530",
         "status": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10100",
-          "description": "This work item is being actively worked on at the moment by the assignee.",
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10101",
+          "description": "",
           "iconUrl": "https://idealabprojects.atlassian.net/",
-          "name": "In Progress",
-          "id": "10100",
+          "name": "Done",
+          "id": "10101",
           "statusCategory": {
-            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/4",
-            "id": 4,
-            "key": "indeterminate",
-            "colorName": "yellow",
-            "name": "In Progress"
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
           }
         }
       }
@@ -390,7 +2635,7 @@
           "hierarchyLevel": 0
         },
         "components": [],
-        "timespent": 57600,
+        "timespent": 115200,
         "timeoriginalestimate": null,
         "project": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/project/10023",
@@ -409,7 +2654,7 @@
         "description": null,
         "fixVersions": [],
         "customfield_10033": null,
-        "aggregatetimespent": 57600,
+        "aggregatetimespent": 115200,
         "statusCategory": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
           "id": 2,
@@ -420,9 +2665,9 @@
         "resolution": null,
         "timetracking": {
           "remainingEstimate": "0m",
-          "timeSpent": "2d",
+          "timeSpent": "4d",
           "remainingEstimateSeconds": 0,
-          "timeSpentSeconds": 57600
+          "timeSpentSeconds": 115200
         },
         "customfield_10015": null,
         "security": null,
@@ -509,8 +2754,8 @@
           "accountType": "atlassian"
         },
         "aggregateprogress": {
-          "progress": 57600,
-          "total": 57600,
+          "progress": 115200,
+          "total": 115200,
           "percent": 100
         },
         "priority": {
@@ -528,8 +2773,8 @@
         "versions": [],
         "duedate": null,
         "progress": {
-          "progress": 57600,
-          "total": 57600,
+          "progress": 115200,
+          "total": 115200,
           "percent": 100
         },
         "issuelinks": [],
@@ -562,7 +2807,7 @@
         "worklog": {
           "startAt": 0,
           "maxResults": 20,
-          "total": 2,
+          "total": 4,
           "worklogs": [
             {
               "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14583/worklog/13534",
@@ -669,10 +2914,116 @@
               "timeSpentSeconds": 28800,
               "id": "13589",
               "issueId": "14583"
+            },
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14583/worklog/13601",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A7480f087-7269-4957-9e6d-ee85e73b09e2",
+                "accountId": "712020:7480f087-7269-4957-9e6d-ee85e73b09e2",
+                "avatarUrls": {
+                  "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:7480f087-7269-4957-9e6d-ee85e73b09e2/bdf08eba-fdbb-4737-a97b-e9aceda31b31/48",
+                  "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:7480f087-7269-4957-9e6d-ee85e73b09e2/bdf08eba-fdbb-4737-a97b-e9aceda31b31/24",
+                  "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:7480f087-7269-4957-9e6d-ee85e73b09e2/bdf08eba-fdbb-4737-a97b-e9aceda31b31/16",
+                  "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:7480f087-7269-4957-9e6d-ee85e73b09e2/bdf08eba-fdbb-4737-a97b-e9aceda31b31/32"
+                },
+                "displayName": "Mohit Kumar",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A7480f087-7269-4957-9e6d-ee85e73b09e2",
+                "accountId": "712020:7480f087-7269-4957-9e6d-ee85e73b09e2",
+                "avatarUrls": {
+                  "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:7480f087-7269-4957-9e6d-ee85e73b09e2/bdf08eba-fdbb-4737-a97b-e9aceda31b31/48",
+                  "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:7480f087-7269-4957-9e6d-ee85e73b09e2/bdf08eba-fdbb-4737-a97b-e9aceda31b31/24",
+                  "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:7480f087-7269-4957-9e6d-ee85e73b09e2/bdf08eba-fdbb-4737-a97b-e9aceda31b31/16",
+                  "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:7480f087-7269-4957-9e6d-ee85e73b09e2/bdf08eba-fdbb-4737-a97b-e9aceda31b31/32"
+                },
+                "displayName": "Mohit Kumar",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "comment": {
+                "type": "doc",
+                "version": 1,
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Working on redesigning this page as per Shaun's feedback on about us pages"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "created": "2025-12-16T21:00:25.115+0530",
+              "updated": "2025-12-16T21:00:25.115+0530",
+              "started": "2025-12-16T12:58:57.795+0530",
+              "timeSpent": "1d",
+              "timeSpentSeconds": 28800,
+              "id": "13601",
+              "issueId": "14583"
+            },
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14583/worklog/13653",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A7480f087-7269-4957-9e6d-ee85e73b09e2",
+                "accountId": "712020:7480f087-7269-4957-9e6d-ee85e73b09e2",
+                "avatarUrls": {
+                  "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:7480f087-7269-4957-9e6d-ee85e73b09e2/bdf08eba-fdbb-4737-a97b-e9aceda31b31/48",
+                  "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:7480f087-7269-4957-9e6d-ee85e73b09e2/bdf08eba-fdbb-4737-a97b-e9aceda31b31/24",
+                  "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:7480f087-7269-4957-9e6d-ee85e73b09e2/bdf08eba-fdbb-4737-a97b-e9aceda31b31/16",
+                  "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:7480f087-7269-4957-9e6d-ee85e73b09e2/bdf08eba-fdbb-4737-a97b-e9aceda31b31/32"
+                },
+                "displayName": "Mohit Kumar",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A7480f087-7269-4957-9e6d-ee85e73b09e2",
+                "accountId": "712020:7480f087-7269-4957-9e6d-ee85e73b09e2",
+                "avatarUrls": {
+                  "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:7480f087-7269-4957-9e6d-ee85e73b09e2/bdf08eba-fdbb-4737-a97b-e9aceda31b31/48",
+                  "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:7480f087-7269-4957-9e6d-ee85e73b09e2/bdf08eba-fdbb-4737-a97b-e9aceda31b31/24",
+                  "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:7480f087-7269-4957-9e6d-ee85e73b09e2/bdf08eba-fdbb-4737-a97b-e9aceda31b31/16",
+                  "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:7480f087-7269-4957-9e6d-ee85e73b09e2/bdf08eba-fdbb-4737-a97b-e9aceda31b31/32"
+                },
+                "displayName": "Mohit Kumar",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "comment": {
+                "type": "doc",
+                "version": 1,
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Working on redesigning this page as per Shaun's feedback on about us pages"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "created": "2025-12-17T20:54:13.249+0530",
+              "updated": "2025-12-17T20:54:13.249+0530",
+              "started": "2025-12-17T12:52:45.165+0530",
+              "timeSpent": "1d",
+              "timeSpentSeconds": 28800,
+              "id": "13653",
+              "issueId": "14583"
             }
           ]
         },
-        "updated": "2025-12-15T20:52:17.603+0530",
+        "updated": "2025-12-17T20:54:13.271+0530",
         "status": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10099",
           "description": "",
@@ -34864,553 +37215,6 @@
           "worklogs": []
         },
         "updated": "2025-06-30T20:05:21.218+0530",
-        "status": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10101",
-          "description": "",
-          "iconUrl": "https://idealabprojects.atlassian.net/",
-          "name": "Done",
-          "id": "10101",
-          "statusCategory": {
-            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
-            "id": 3,
-            "key": "done",
-            "colorName": "green",
-            "name": "Done"
-          }
-        }
-      }
-    },
-    {
-      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
-      "id": "11194",
-      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11194",
-      "key": "WP-66",
-      "fields": {
-        "statuscategorychangedate": "2025-07-04T18:05:18.146+0530",
-        "issuetype": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/issuetype/10048",
-          "id": "10048",
-          "description": "A small, distinct piece of work.",
-          "iconUrl": "https://idealabprojects.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10318?size=medium",
-          "name": "Task",
-          "subtask": false,
-          "avatarId": 10318,
-          "entityId": "567121ae-9259-4ada-b1ba-e0790fae983b",
-          "hierarchyLevel": 0
-        },
-        "components": [],
-        "timespent": null,
-        "timeoriginalestimate": null,
-        "project": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/project/10023",
-          "id": "10023",
-          "key": "WP",
-          "name": "Website Pages",
-          "projectTypeKey": "business",
-          "simplified": true,
-          "avatarUrls": {
-            "48x48": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10400",
-            "24x24": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10400?size=small",
-            "16x16": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10400?size=xsmall",
-            "32x32": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10400?size=medium"
-          }
-        },
-        "description": null,
-        "fixVersions": [],
-        "customfield_10033": null,
-        "aggregatetimespent": null,
-        "statusCategory": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
-          "id": 3,
-          "key": "done",
-          "colorName": "green",
-          "name": "Done"
-        },
-        "resolution": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/resolution/10000",
-          "id": "10000",
-          "description": "Work has been completed on this work item.",
-          "name": "Done"
-        },
-        "timetracking": {},
-        "customfield_10015": "2025-07-01",
-        "security": null,
-        "attachment": [
-          {
-            "self": "https://idealabprojects.atlassian.net/rest/api/3/attachment/11085",
-            "id": "11085",
-            "filename": "get-started-new.zip",
-            "author": {
-              "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=628b7d1aab91fe0070973fa6",
-              "accountId": "628b7d1aab91fe0070973fa6",
-              "avatarUrls": {
-                "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/48",
-                "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/24",
-                "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/16",
-                "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/32"
-              },
-              "displayName": "Sudhir Yadav1",
-              "active": true,
-              "timeZone": "Asia/Kolkata",
-              "accountType": "atlassian"
-            },
-            "created": "2025-06-30T19:40:07.014+0530",
-            "size": 73507774,
-            "mimeType": "application/zip",
-            "content": "https://idealabprojects.atlassian.net/rest/api/3/attachment/content/11085"
-          }
-        ],
-        "aggregatetimeestimate": null,
-        "resolutiondate": "2025-07-04T18:05:18.118+0530",
-        "workratio": -1,
-        "summary": "Deploy on Staging Website: Get Started page",
-        "watches": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/WP-66/watchers",
-          "watchCount": 2,
-          "isWatching": false
-        },
-        "lastViewed": null,
-        "creator": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=628b7d1aab91fe0070973fa6",
-          "accountId": "628b7d1aab91fe0070973fa6",
-          "avatarUrls": {
-            "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/48",
-            "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/24",
-            "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/16",
-            "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/32"
-          },
-          "displayName": "Sudhir Yadav1",
-          "active": true,
-          "timeZone": "Asia/Kolkata",
-          "accountType": "atlassian"
-        },
-        "subtasks": [],
-        "created": "2025-06-30T19:23:24.822+0530",
-        "customfield_10021": null,
-        "reporter": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=628b7d1aab91fe0070973fa6",
-          "accountId": "628b7d1aab91fe0070973fa6",
-          "avatarUrls": {
-            "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/48",
-            "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/24",
-            "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/16",
-            "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/32"
-          },
-          "displayName": "Sudhir Yadav1",
-          "active": true,
-          "timeZone": "Asia/Kolkata",
-          "accountType": "atlassian"
-        },
-        "aggregateprogress": {
-          "progress": 0,
-          "total": 0
-        },
-        "priority": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
-          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
-          "name": "Medium",
-          "id": "3"
-        },
-        "customfield_10001": null,
-        "labels": [],
-        "environment": null,
-        "customfield_10019": "0|i005yf:",
-        "timeestimate": null,
-        "aggregatetimeoriginalestimate": null,
-        "versions": [],
-        "duedate": "2025-07-02",
-        "progress": {
-          "progress": 0,
-          "total": 0
-        },
-        "issuelinks": [],
-        "votes": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/WP-66/votes",
-          "votes": 0,
-          "hasVoted": false
-        },
-        "comment": {
-          "comments": [
-            {
-              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11194/comment/13776",
-              "id": "13776",
-              "author": {
-                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=628b7d1aab91fe0070973fa6",
-                "accountId": "628b7d1aab91fe0070973fa6",
-                "avatarUrls": {
-                  "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/48",
-                  "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/24",
-                  "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/16",
-                  "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/32"
-                },
-                "displayName": "Sudhir Yadav1",
-                "active": true,
-                "timeZone": "Asia/Kolkata",
-                "accountType": "atlassian"
-              },
-              "body": {
-                "type": "doc",
-                "version": 1,
-                "content": [
-                  {
-                    "type": "paragraph",
-                    "content": [
-                      {
-                        "type": "text",
-                        "text": "Hi "
-                      },
-                      {
-                        "type": "mention",
-                        "attrs": {
-                          "id": "712020:b3fb05f7-bcf9-4f26-a159-e1c927917fdf",
-                          "text": "@Mrityunjay Kumar",
-                          "accessLevel": "",
-                          "localId": "92127c66-d0ec-4016-ac2d-732a6a67bab3"
-                        }
-                      },
-                      {
-                        "type": "text",
-                        "text": " , please deploy the page on staging server, New "
-                      },
-                      {
-                        "type": "mediaInline",
-                        "attrs": {
-                          "id": "0e31b245-9fa4-44a6-bbdf-46917fc4091e",
-                          "collection": "",
-                          "type": "file"
-                        }
-                      },
-                      {
-                        "type": "text",
-                        "text": " Get Started page "
-                      }
-                    ]
-                  }
-                ]
-              },
-              "updateAuthor": {
-                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=628b7d1aab91fe0070973fa6",
-                "accountId": "628b7d1aab91fe0070973fa6",
-                "avatarUrls": {
-                  "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/48",
-                  "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/24",
-                  "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/16",
-                  "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/32"
-                },
-                "displayName": "Sudhir Yadav1",
-                "active": true,
-                "timeZone": "Asia/Kolkata",
-                "accountType": "atlassian"
-              },
-              "created": "2025-06-30T19:40:07.978+0530",
-              "updated": "2025-06-30T19:40:07.978+0530",
-              "jsdPublic": true
-            },
-            {
-              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11194/comment/13777",
-              "id": "13777",
-              "author": {
-                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ab3fb05f7-bcf9-4f26-a159-e1c927917fdf",
-                "accountId": "712020:b3fb05f7-bcf9-4f26-a159-e1c927917fdf",
-                "avatarUrls": {
-                  "48x48": "https://secure.gravatar.com/avatar/e6422afc8fd8e2a6c1063742fc6e941b?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMK-4.png",
-                  "24x24": "https://secure.gravatar.com/avatar/e6422afc8fd8e2a6c1063742fc6e941b?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMK-4.png",
-                  "16x16": "https://secure.gravatar.com/avatar/e6422afc8fd8e2a6c1063742fc6e941b?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMK-4.png",
-                  "32x32": "https://secure.gravatar.com/avatar/e6422afc8fd8e2a6c1063742fc6e941b?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMK-4.png"
-                },
-                "displayName": "Mrityunjay Kumar",
-                "active": true,
-                "timeZone": "Asia/Calcutta",
-                "accountType": "atlassian"
-              },
-              "body": {
-                "type": "doc",
-                "version": 1,
-                "content": [
-                  {
-                    "type": "paragraph",
-                    "content": [
-                      {
-                        "type": "text",
-                        "text": "OK"
-                      }
-                    ]
-                  }
-                ]
-              },
-              "updateAuthor": {
-                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ab3fb05f7-bcf9-4f26-a159-e1c927917fdf",
-                "accountId": "712020:b3fb05f7-bcf9-4f26-a159-e1c927917fdf",
-                "avatarUrls": {
-                  "48x48": "https://secure.gravatar.com/avatar/e6422afc8fd8e2a6c1063742fc6e941b?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMK-4.png",
-                  "24x24": "https://secure.gravatar.com/avatar/e6422afc8fd8e2a6c1063742fc6e941b?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMK-4.png",
-                  "16x16": "https://secure.gravatar.com/avatar/e6422afc8fd8e2a6c1063742fc6e941b?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMK-4.png",
-                  "32x32": "https://secure.gravatar.com/avatar/e6422afc8fd8e2a6c1063742fc6e941b?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMK-4.png"
-                },
-                "displayName": "Mrityunjay Kumar",
-                "active": true,
-                "timeZone": "Asia/Calcutta",
-                "accountType": "atlassian"
-              },
-              "created": "2025-06-30T19:47:55.408+0530",
-              "updated": "2025-06-30T19:47:55.408+0530",
-              "jsdPublic": true
-            }
-          ],
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11194/comment",
-          "maxResults": 2,
-          "total": 2,
-          "startAt": 0
-        },
-        "assignee": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ab3fb05f7-bcf9-4f26-a159-e1c927917fdf",
-          "accountId": "712020:b3fb05f7-bcf9-4f26-a159-e1c927917fdf",
-          "avatarUrls": {
-            "48x48": "https://secure.gravatar.com/avatar/e6422afc8fd8e2a6c1063742fc6e941b?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMK-4.png",
-            "24x24": "https://secure.gravatar.com/avatar/e6422afc8fd8e2a6c1063742fc6e941b?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMK-4.png",
-            "16x16": "https://secure.gravatar.com/avatar/e6422afc8fd8e2a6c1063742fc6e941b?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMK-4.png",
-            "32x32": "https://secure.gravatar.com/avatar/e6422afc8fd8e2a6c1063742fc6e941b?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMK-4.png"
-          },
-          "displayName": "Mrityunjay Kumar",
-          "active": true,
-          "timeZone": "Asia/Calcutta",
-          "accountType": "atlassian"
-        },
-        "worklog": {
-          "startAt": 0,
-          "maxResults": 20,
-          "total": 0,
-          "worklogs": []
-        },
-        "updated": "2025-07-04T18:05:18.146+0530",
-        "status": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10101",
-          "description": "",
-          "iconUrl": "https://idealabprojects.atlassian.net/",
-          "name": "Done",
-          "id": "10101",
-          "statusCategory": {
-            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
-            "id": 3,
-            "key": "done",
-            "colorName": "green",
-            "name": "Done"
-          }
-        }
-      }
-    },
-    {
-      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
-      "id": "11179",
-      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11179",
-      "key": "WP-65",
-      "fields": {
-        "statuscategorychangedate": "2025-06-27T20:51:55.730+0530",
-        "issuetype": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/issuetype/10048",
-          "id": "10048",
-          "description": "A small, distinct piece of work.",
-          "iconUrl": "https://idealabprojects.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10318?size=medium",
-          "name": "Task",
-          "subtask": false,
-          "avatarId": 10318,
-          "entityId": "567121ae-9259-4ada-b1ba-e0790fae983b",
-          "hierarchyLevel": 0
-        },
-        "components": [],
-        "timespent": null,
-        "timeoriginalestimate": null,
-        "project": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/project/10023",
-          "id": "10023",
-          "key": "WP",
-          "name": "Website Pages",
-          "projectTypeKey": "business",
-          "simplified": true,
-          "avatarUrls": {
-            "48x48": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10400",
-            "24x24": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10400?size=small",
-            "16x16": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10400?size=xsmall",
-            "32x32": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10400?size=medium"
-          }
-        },
-        "description": null,
-        "fixVersions": [],
-        "customfield_10033": null,
-        "aggregatetimespent": null,
-        "statusCategory": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
-          "id": 3,
-          "key": "done",
-          "colorName": "green",
-          "name": "Done"
-        },
-        "resolution": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/resolution/10000",
-          "id": "10000",
-          "description": "Work has been completed on this work item.",
-          "name": "Done"
-        },
-        "timetracking": {},
-        "customfield_10015": null,
-        "security": null,
-        "attachment": [],
-        "aggregatetimeestimate": null,
-        "resolutiondate": "2025-06-27T20:51:55.703+0530",
-        "workratio": -1,
-        "summary": "Service Category SEO Page (AI version)",
-        "watches": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/WP-65/watchers",
-          "watchCount": 1,
-          "isWatching": false
-        },
-        "lastViewed": null,
-        "creator": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Aff39c89b-57c0-4df5-8be6-6c2e223816ae",
-          "accountId": "712020:ff39c89b-57c0-4df5-8be6-6c2e223816ae",
-          "avatarUrls": {
-            "48x48": "https://secure.gravatar.com/avatar/759649ecbfe73dc2e6b97b1402eb800e?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSJ-4.png",
-            "24x24": "https://secure.gravatar.com/avatar/759649ecbfe73dc2e6b97b1402eb800e?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSJ-4.png",
-            "16x16": "https://secure.gravatar.com/avatar/759649ecbfe73dc2e6b97b1402eb800e?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSJ-4.png",
-            "32x32": "https://secure.gravatar.com/avatar/759649ecbfe73dc2e6b97b1402eb800e?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSJ-4.png"
-          },
-          "displayName": "Sanjay Jaluthriya",
-          "active": true,
-          "timeZone": "Asia/Calcutta",
-          "accountType": "atlassian"
-        },
-        "subtasks": [],
-        "created": "2025-06-27T20:51:37.273+0530",
-        "customfield_10021": null,
-        "reporter": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Aff39c89b-57c0-4df5-8be6-6c2e223816ae",
-          "accountId": "712020:ff39c89b-57c0-4df5-8be6-6c2e223816ae",
-          "avatarUrls": {
-            "48x48": "https://secure.gravatar.com/avatar/759649ecbfe73dc2e6b97b1402eb800e?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSJ-4.png",
-            "24x24": "https://secure.gravatar.com/avatar/759649ecbfe73dc2e6b97b1402eb800e?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSJ-4.png",
-            "16x16": "https://secure.gravatar.com/avatar/759649ecbfe73dc2e6b97b1402eb800e?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSJ-4.png",
-            "32x32": "https://secure.gravatar.com/avatar/759649ecbfe73dc2e6b97b1402eb800e?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSJ-4.png"
-          },
-          "displayName": "Sanjay Jaluthriya",
-          "active": true,
-          "timeZone": "Asia/Calcutta",
-          "accountType": "atlassian"
-        },
-        "aggregateprogress": {
-          "progress": 0,
-          "total": 0
-        },
-        "priority": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/2",
-          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/high_new.svg",
-          "name": "High",
-          "id": "2"
-        },
-        "customfield_10001": null,
-        "labels": [],
-        "environment": null,
-        "customfield_10019": "0|i005w7:",
-        "timeestimate": null,
-        "aggregatetimeoriginalestimate": null,
-        "versions": [],
-        "duedate": "2025-06-27",
-        "progress": {
-          "progress": 0,
-          "total": 0
-        },
-        "issuelinks": [],
-        "votes": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/WP-65/votes",
-          "votes": 0,
-          "hasVoted": false
-        },
-        "comment": {
-          "comments": [
-            {
-              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11179/comment/13715",
-              "id": "13715",
-              "author": {
-                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Aff39c89b-57c0-4df5-8be6-6c2e223816ae",
-                "accountId": "712020:ff39c89b-57c0-4df5-8be6-6c2e223816ae",
-                "avatarUrls": {
-                  "48x48": "https://secure.gravatar.com/avatar/759649ecbfe73dc2e6b97b1402eb800e?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSJ-4.png",
-                  "24x24": "https://secure.gravatar.com/avatar/759649ecbfe73dc2e6b97b1402eb800e?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSJ-4.png",
-                  "16x16": "https://secure.gravatar.com/avatar/759649ecbfe73dc2e6b97b1402eb800e?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSJ-4.png",
-                  "32x32": "https://secure.gravatar.com/avatar/759649ecbfe73dc2e6b97b1402eb800e?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSJ-4.png"
-                },
-                "displayName": "Sanjay Jaluthriya",
-                "active": true,
-                "timeZone": "Asia/Calcutta",
-                "accountType": "atlassian"
-              },
-              "body": {
-                "type": "doc",
-                "version": 1,
-                "content": [
-                  {
-                    "type": "paragraph",
-                    "content": [
-                      {
-                        "type": "text",
-                        "text": "https://www.figma.com/proto/L5GhsBoAPW7HZoReXXB8Ng/Services-Category-Page-2025?page-id=0%3A1&node-id=1-7691&p=f&viewport=494%2C427%2C0.27&t=aTKMyhl5v6MIxYjK-8&scaling=scale-down-width&content-scaling=fixed&starting-point-node-id=1%3A7691&hide-ui=1",
-                        "marks": [
-                          {
-                            "type": "link",
-                            "attrs": {
-                              "href": "https://www.figma.com/proto/L5GhsBoAPW7HZoReXXB8Ng/Services-Category-Page-2025?page-id=0%3A1&node-id=1-7691&p=f&viewport=494%2C427%2C0.27&t=aTKMyhl5v6MIxYjK-8&scaling=scale-down-width&content-scaling=fixed&starting-point-node-id=1%3A7691&hide-ui=1"
-                            }
-                          }
-                        ]
-                      }
-                    ]
-                  }
-                ]
-              },
-              "updateAuthor": {
-                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Aff39c89b-57c0-4df5-8be6-6c2e223816ae",
-                "accountId": "712020:ff39c89b-57c0-4df5-8be6-6c2e223816ae",
-                "avatarUrls": {
-                  "48x48": "https://secure.gravatar.com/avatar/759649ecbfe73dc2e6b97b1402eb800e?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSJ-4.png",
-                  "24x24": "https://secure.gravatar.com/avatar/759649ecbfe73dc2e6b97b1402eb800e?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSJ-4.png",
-                  "16x16": "https://secure.gravatar.com/avatar/759649ecbfe73dc2e6b97b1402eb800e?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSJ-4.png",
-                  "32x32": "https://secure.gravatar.com/avatar/759649ecbfe73dc2e6b97b1402eb800e?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSJ-4.png"
-                },
-                "displayName": "Sanjay Jaluthriya",
-                "active": true,
-                "timeZone": "Asia/Calcutta",
-                "accountType": "atlassian"
-              },
-              "created": "2025-06-27T20:52:17.357+0530",
-              "updated": "2025-06-27T20:52:17.357+0530",
-              "jsdPublic": true
-            }
-          ],
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11179/comment",
-          "maxResults": 1,
-          "total": 1,
-          "startAt": 0
-        },
-        "assignee": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Aff39c89b-57c0-4df5-8be6-6c2e223816ae",
-          "accountId": "712020:ff39c89b-57c0-4df5-8be6-6c2e223816ae",
-          "avatarUrls": {
-            "48x48": "https://secure.gravatar.com/avatar/759649ecbfe73dc2e6b97b1402eb800e?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSJ-4.png",
-            "24x24": "https://secure.gravatar.com/avatar/759649ecbfe73dc2e6b97b1402eb800e?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSJ-4.png",
-            "16x16": "https://secure.gravatar.com/avatar/759649ecbfe73dc2e6b97b1402eb800e?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSJ-4.png",
-            "32x32": "https://secure.gravatar.com/avatar/759649ecbfe73dc2e6b97b1402eb800e?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSJ-4.png"
-          },
-          "displayName": "Sanjay Jaluthriya",
-          "active": true,
-          "timeZone": "Asia/Calcutta",
-          "accountType": "atlassian"
-        },
-        "worklog": {
-          "startAt": 0,
-          "maxResults": 20,
-          "total": 0,
-          "worklogs": []
-        },
-        "updated": "2025-06-27T20:52:17.357+0530",
         "status": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10101",
           "description": "",

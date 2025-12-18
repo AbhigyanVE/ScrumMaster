@@ -113,7 +113,7 @@
         "timeestimate": null,
         "aggregatetimeoriginalestimate": null,
         "versions": [],
-        "duedate": "2025-12-16",
+        "duedate": "2025-12-19",
         "progress": {
           "progress": 0,
           "total": 0
@@ -151,7 +151,7 @@
           "total": 0,
           "worklogs": []
         },
-        "updated": "2025-12-15T14:21:09.013+0530",
+        "updated": "2025-12-16T15:07:55.454+0530",
         "status": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10048",
           "description": "This work item is being actively worked on at the moment by the assignee.",
@@ -187,7 +187,7 @@
           "hierarchyLevel": 0
         },
         "components": [],
-        "timespent": 9600,
+        "timespent": 18600,
         "timeoriginalestimate": null,
         "project": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/project/10012",
@@ -303,7 +303,7 @@
         },
         "fixVersions": [],
         "customfield_10033": null,
-        "aggregatetimespent": 9600,
+        "aggregatetimespent": 18600,
         "statusCategory": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/4",
           "id": 4,
@@ -314,9 +314,9 @@
         "resolution": null,
         "timetracking": {
           "remainingEstimate": "0m",
-          "timeSpent": "2h 40m",
+          "timeSpent": "5h 10m",
           "remainingEstimateSeconds": 0,
-          "timeSpentSeconds": 9600
+          "timeSpentSeconds": 18600
         },
         "customfield_10015": null,
         "security": null,
@@ -363,15 +363,15 @@
           "accountType": "atlassian"
         },
         "aggregateprogress": {
-          "progress": 9600,
-          "total": 9600,
+          "progress": 18600,
+          "total": 18600,
           "percent": 100
         },
         "priority": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
-          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
-          "name": "Medium",
-          "id": "3"
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/1",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/highest_new.svg",
+          "name": "Highest",
+          "id": "1"
         },
         "customfield_10001": null,
         "labels": [],
@@ -382,8 +382,8 @@
         "versions": [],
         "duedate": null,
         "progress": {
-          "progress": 9600,
-          "total": 9600,
+          "progress": 18600,
+          "total": 18600,
           "percent": 100
         },
         "issuelinks": [],
@@ -467,7 +467,7 @@
         "worklog": {
           "startAt": 0,
           "maxResults": 20,
-          "total": 2,
+          "total": 3,
           "worklogs": [
             {
               "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14494/worklog/13408",
@@ -544,10 +544,48 @@
               "timeSpentSeconds": 2400,
               "id": "13493",
               "issueId": "14494"
+            },
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14494/worklog/13646",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ab3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
+                "accountId": "712020:b3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+                  "24x24": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+                  "16x16": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+                  "32x32": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png"
+                },
+                "displayName": "smariti",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ab3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
+                "accountId": "712020:b3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+                  "24x24": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+                  "16x16": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+                  "32x32": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png"
+                },
+                "displayName": "smariti",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "created": "2025-12-17T18:47:10.302+0530",
+              "updated": "2025-12-17T18:47:10.302+0530",
+              "started": "2025-12-17T16:17:00.051+0530",
+              "timeSpent": "2h 30m",
+              "timeSpentSeconds": 9000,
+              "id": "13646",
+              "issueId": "14494"
             }
           ]
         },
-        "updated": "2025-12-09T19:07:25.986+0530",
+        "updated": "2025-12-17T18:47:10.316+0530",
         "status": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10048",
           "description": "This work item is being actively worked on at the moment by the assignee.",
