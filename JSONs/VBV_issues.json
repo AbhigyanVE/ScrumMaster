@@ -2,15 +2,783 @@
   "name": "VE's Videos",
   "id": "10017",
   "key": "VBV",
-  "issue_count": 18,
+  "issue_count": 20,
   "issues": [
     {
       "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
-      "id": "14499",
-      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14499",
-      "key": "VBV-19",
+      "id": "14923",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14923",
+      "key": "VBV-21",
       "fields": {
-        "statuscategorychangedate": "2025-12-04T20:03:18.371+0530",
+        "statuscategorychangedate": "2026-01-05T20:40:37.491+0530",
+        "issuetype": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issuetype/10036",
+          "id": "10036",
+          "description": "A small, distinct piece of work.",
+          "iconUrl": "https://idealabprojects.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10318?size=medium",
+          "name": "Task",
+          "subtask": false,
+          "avatarId": 10318,
+          "entityId": "219c5849-5b1c-4870-a0bb-c5df05971f06",
+          "hierarchyLevel": 0
+        },
+        "components": [],
+        "timespent": 57600,
+        "timeoriginalestimate": null,
+        "project": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/project/10017",
+          "id": "10017",
+          "key": "VBV",
+          "name": "VE's Videos",
+          "projectTypeKey": "business",
+          "simplified": true,
+          "avatarUrls": {
+            "48x48": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10410",
+            "24x24": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10410?size=small",
+            "16x16": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10410?size=xsmall",
+            "32x32": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10410?size=medium"
+          }
+        },
+        "description": {
+          "type": "doc",
+          "version": 1,
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Concept Title:",
+                  "marks": [
+                    {
+                      "type": "strong"
+                    }
+                  ]
+                },
+                {
+                  "type": "hardBreak"
+                },
+                {
+                  "type": "text",
+                  "text": "Already Done (VA Pain Point Ad)",
+                  "marks": [
+                    {
+                      "type": "strong"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Core Idea:",
+                  "marks": [
+                    {
+                      "type": "strong"
+                    }
+                  ]
+                },
+                {
+                  "type": "hardBreak"
+                },
+                {
+                  "type": "text",
+                  "text": "The real luxury is not working faster."
+                },
+                {
+                  "type": "hardBreak"
+                },
+                {
+                  "type": "text",
+                  "text": "It’s knowing work is already handled."
+                }
+              ]
+            },
+            {
+              "type": "rule"
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 3
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Story Flow (30s)",
+                  "marks": [
+                    {
+                      "type": "strong"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Scene 1: Deep Sleep",
+                  "marks": [
+                    {
+                      "type": "strong"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "bulletList",
+              "content": [
+                {
+                  "type": "listItem",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Early morning light."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "listItem",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "CEO sleeping peacefully."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "listItem",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "On-screen time: "
+                        },
+                        {
+                          "type": "text",
+                          "text": "9:00 AM",
+                          "marks": [
+                            {
+                              "type": "strong"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Scene 2: Alarm",
+                  "marks": [
+                    {
+                      "type": "strong"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "bulletList",
+              "content": [
+                {
+                  "type": "listItem",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Alarm rings."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "listItem",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "He wakes up abruptly and grabs his phone."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Scene 3: The Reveal",
+                  "marks": [
+                    {
+                      "type": "strong"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "bulletList",
+              "content": [
+                {
+                  "type": "listItem",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Phone notifications appear (quick, clean cuts):"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "bulletList",
+                      "content": [
+                        {
+                          "type": "listItem",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Meetings scheduled"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "listItem",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Emails replied"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "listItem",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Calendar updated"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "listItem",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Daily summary ready"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "listItem",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "His expression shifts from panic to calm."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Scene 4: Punchline",
+                  "marks": [
+                    {
+                      "type": "strong"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "bulletList",
+              "content": [
+                {
+                  "type": "listItem",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "He puts the phone down."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "listItem",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Turns over."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "listItem",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Goes back to sleep."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "End Frame (Direct Brand Moment):",
+                  "marks": [
+                    {
+                      "type": "strong"
+                    }
+                  ]
+                },
+                {
+                  "type": "hardBreak"
+                },
+                {
+                  "type": "text",
+                  "text": "Get More Done with VE",
+                  "marks": [
+                    {
+                      "type": "strong"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "No laptop."
+                },
+                {
+                  "type": "hardBreak"
+                },
+                {
+                  "type": "text",
+                  "text": "No search."
+                },
+                {
+                  "type": "hardBreak"
+                },
+                {
+                  "type": "text",
+                  "text": "Because the work is already done."
+                }
+              ]
+            },
+            {
+              "type": "rule"
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 3
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Tone & Direction",
+                  "marks": [
+                    {
+                      "type": "strong"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "bulletList",
+              "content": [
+                {
+                  "type": "listItem",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Calm, premium, confident"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "listItem",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Subtle humor, not loud"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "listItem",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Outcome-led, not process-led"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "listItem",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "VA is never shown, only results"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        "fixVersions": [],
+        "customfield_10033": null,
+        "aggregatetimespent": 57600,
+        "statusCategory": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/4",
+          "id": 4,
+          "key": "indeterminate",
+          "colorName": "yellow",
+          "name": "In Progress"
+        },
+        "resolution": null,
+        "timetracking": {
+          "remainingEstimate": "0m",
+          "timeSpent": "2d",
+          "remainingEstimateSeconds": 0,
+          "timeSpentSeconds": 57600
+        },
+        "customfield_10015": "2026-01-01",
+        "security": null,
+        "attachment": [],
+        "aggregatetimeestimate": 0,
+        "resolutiondate": null,
+        "workratio": -1,
+        "summary": "Already Done (VA Pain Point Ad)",
+        "watches": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/VBV-21/watchers",
+          "watchCount": 2,
+          "isWatching": false
+        },
+        "lastViewed": null,
+        "creator": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Aff39c89b-57c0-4df5-8be6-6c2e223816ae",
+          "accountId": "712020:ff39c89b-57c0-4df5-8be6-6c2e223816ae",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/759649ecbfe73dc2e6b97b1402eb800e?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSJ-4.png",
+            "24x24": "https://secure.gravatar.com/avatar/759649ecbfe73dc2e6b97b1402eb800e?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSJ-4.png",
+            "16x16": "https://secure.gravatar.com/avatar/759649ecbfe73dc2e6b97b1402eb800e?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSJ-4.png",
+            "32x32": "https://secure.gravatar.com/avatar/759649ecbfe73dc2e6b97b1402eb800e?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSJ-4.png"
+          },
+          "displayName": "Sanjay Jaluthriya",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "subtasks": [],
+        "created": "2026-01-05T13:47:45.070+0530",
+        "customfield_10021": null,
+        "reporter": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Aff39c89b-57c0-4df5-8be6-6c2e223816ae",
+          "accountId": "712020:ff39c89b-57c0-4df5-8be6-6c2e223816ae",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/759649ecbfe73dc2e6b97b1402eb800e?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSJ-4.png",
+            "24x24": "https://secure.gravatar.com/avatar/759649ecbfe73dc2e6b97b1402eb800e?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSJ-4.png",
+            "16x16": "https://secure.gravatar.com/avatar/759649ecbfe73dc2e6b97b1402eb800e?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSJ-4.png",
+            "32x32": "https://secure.gravatar.com/avatar/759649ecbfe73dc2e6b97b1402eb800e?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSJ-4.png"
+          },
+          "displayName": "Sanjay Jaluthriya",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "aggregateprogress": {
+          "progress": 57600,
+          "total": 57600,
+          "percent": 100
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/2",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/high_new.svg",
+          "name": "High",
+          "id": "2"
+        },
+        "customfield_10001": null,
+        "labels": [],
+        "environment": null,
+        "customfield_10019": "0|i00e4v:",
+        "timeestimate": 0,
+        "aggregatetimeoriginalestimate": null,
+        "versions": [],
+        "duedate": null,
+        "progress": {
+          "progress": 57600,
+          "total": 57600,
+          "percent": 100
+        },
+        "issuelinks": [],
+        "votes": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/VBV-21/votes",
+          "votes": 0,
+          "hasVoted": false
+        },
+        "comment": {
+          "comments": [
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14923/comment/19645",
+              "id": "19645",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ac44ad097-e9a1-497e-b0ea-7b115363695d",
+                "accountId": "712020:c44ad097-e9a1-497e-b0ea-7b115363695d",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+                  "24x24": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+                  "16x16": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+                  "32x32": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png"
+                },
+                "displayName": "Harvesh Anand",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "body": {
+                "type": "doc",
+                "version": 1,
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "First draft shared for review : "
+                      },
+                      {
+                        "type": "text",
+                        "text": "Already Done First Draft 1.mp4",
+                        "marks": [
+                          {
+                            "type": "link",
+                            "attrs": {
+                              "href": "https://vemp-my.sharepoint.com/:v:/g/personal/harvesh_virtualemployee_com/IQCQ1Qyv778RQZCQjci2PooKAZEDoTf75US36Y2IQ79XMzY?e=nUFUVj"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ac44ad097-e9a1-497e-b0ea-7b115363695d",
+                "accountId": "712020:c44ad097-e9a1-497e-b0ea-7b115363695d",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+                  "24x24": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+                  "16x16": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+                  "32x32": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png"
+                },
+                "displayName": "Harvesh Anand",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "created": "2026-01-06T17:39:03.797+0530",
+              "updated": "2026-01-06T17:39:03.797+0530",
+              "jsdPublic": true
+            }
+          ],
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14923/comment",
+          "maxResults": 1,
+          "total": 1,
+          "startAt": 0
+        },
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ac44ad097-e9a1-497e-b0ea-7b115363695d",
+          "accountId": "712020:c44ad097-e9a1-497e-b0ea-7b115363695d",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+            "24x24": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+            "16x16": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+            "32x32": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png"
+          },
+          "displayName": "Harvesh Anand",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "worklog": {
+          "startAt": 0,
+          "maxResults": 20,
+          "total": 1,
+          "worklogs": [
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14923/worklog/13945",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ac44ad097-e9a1-497e-b0ea-7b115363695d",
+                "accountId": "712020:c44ad097-e9a1-497e-b0ea-7b115363695d",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+                  "24x24": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+                  "16x16": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+                  "32x32": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png"
+                },
+                "displayName": "Harvesh Anand",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ac44ad097-e9a1-497e-b0ea-7b115363695d",
+                "accountId": "712020:c44ad097-e9a1-497e-b0ea-7b115363695d",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+                  "24x24": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+                  "16x16": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+                  "32x32": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png"
+                },
+                "displayName": "Harvesh Anand",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "created": "2026-01-06T17:39:01.207+0530",
+              "updated": "2026-01-06T17:39:01.207+0530",
+              "started": "2026-01-02T01:38:00.000+0530",
+              "timeSpent": "2d",
+              "timeSpentSeconds": 57600,
+              "id": "13945",
+              "issueId": "14923"
+            }
+          ]
+        },
+        "updated": "2026-01-06T17:39:03.937+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10063",
+          "description": "This work item is being actively worked on at the moment by the assignee.",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "In Progress",
+          "id": "10063",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/4",
+            "id": 4,
+            "key": "indeterminate",
+            "colorName": "yellow",
+            "name": "In Progress"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "14687",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14687",
+      "key": "VBV-20",
+      "fields": {
+        "statuscategorychangedate": "2025-12-22T16:39:30.285+0530",
         "issuetype": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issuetype/10036",
           "id": "10036",
@@ -39,7 +807,609 @@
             "32x32": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10410?size=medium"
           }
         },
-        "description": null,
+        "description": {
+          "type": "doc",
+          "version": 1,
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 3
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Ad Title:",
+                  "marks": [
+                    {
+                      "type": "strong"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " "
+                },
+                {
+                  "type": "text",
+                  "text": "No Orders Tonight",
+                  "marks": [
+                    {
+                      "type": "em"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Campaign:",
+                  "marks": [
+                    {
+                      "type": "strong"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " Get More Done with VE"
+                }
+              ]
+            },
+            {
+              "type": "rule"
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 3
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Scene 1 – Exterior / Café / Night",
+                  "marks": [
+                    {
+                      "type": "strong"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Warm café lights."
+                },
+                {
+                  "type": "hardBreak"
+                },
+                {
+                  "type": "text",
+                  "text": "The boy pulls the chair out for the girl. They sit."
+                },
+                {
+                  "type": "hardBreak"
+                },
+                {
+                  "type": "text",
+                  "text": "Quiet. Intentional."
+                }
+              ]
+            },
+            {
+              "type": "rule"
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 3
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Scene 2 – Interior / Café Table",
+                  "marks": [
+                    {
+                      "type": "strong"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "The girl is talking. Fully present."
+                },
+                {
+                  "type": "hardBreak"
+                },
+                {
+                  "type": "text",
+                  "text": "This matters."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Cutaway:"
+                },
+                {
+                  "type": "hardBreak"
+                },
+                {
+                  "type": "text",
+                  "text": "His phone lies face-down on the table. Silent."
+                },
+                {
+                  "type": "hardBreak"
+                },
+                {
+                  "type": "text",
+                  "text": "He flips it over "
+                },
+                {
+                  "type": "text",
+                  "text": "on his own",
+                  "marks": [
+                    {
+                      "type": "strong"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "A performance dashboard."
+                },
+                {
+                  "type": "hardBreak"
+                },
+                {
+                  "type": "text",
+                  "text": "Zero new orders.",
+                  "marks": [
+                    {
+                      "type": "strong"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "rule"
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 3
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Scene 3 – The Loop",
+                  "marks": [
+                    {
+                      "type": "strong"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "She keeps talking."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "He listens."
+                },
+                {
+                  "type": "hardBreak"
+                },
+                {
+                  "type": "text",
+                  "text": "Then checks again."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Refresh."
+                },
+                {
+                  "type": "hardBreak"
+                },
+                {
+                  "type": "text",
+                  "text": "Nothing."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Locks the phone."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Beat."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Unlocks."
+                },
+                {
+                  "type": "hardBreak"
+                },
+                {
+                  "type": "text",
+                  "text": "Refresh."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Still nothing."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "She notices. Says nothing."
+                }
+              ]
+            },
+            {
+              "type": "rule"
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 3
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Scene 4 – Emotional Shift",
+                  "marks": [
+                    {
+                      "type": "strong"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "She continues, but slower now."
+                },
+                {
+                  "type": "hardBreak"
+                },
+                {
+                  "type": "text",
+                  "text": "Her energy drops."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Not anger."
+                },
+                {
+                  "type": "hardBreak"
+                },
+                {
+                  "type": "text",
+                  "text": "Disappointment."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "She realizes he’s here, but not really here."
+                }
+              ]
+            },
+            {
+              "type": "rule"
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 3
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Scene 5 – Decision",
+                  "marks": [
+                    {
+                      "type": "strong"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "He looks at her."
+                },
+                {
+                  "type": "hardBreak"
+                },
+                {
+                  "type": "text",
+                  "text": "Looks at the phone."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Softly: "
+                },
+                {
+                  "type": "text",
+                  "text": "“One minute.”",
+                  "marks": [
+                    {
+                      "type": "em"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "He stands up."
+                }
+              ]
+            },
+            {
+              "type": "rule"
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 3
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Scene 6 – Washroom / Night",
+                  "marks": [
+                    {
+                      "type": "strong"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Harsh light. Silence."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Phone glow."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Google search:"
+                },
+                {
+                  "type": "hardBreak"
+                },
+                {
+                  "type": "text",
+                  "text": "“hire digital marketing support”"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Tap."
+                },
+                {
+                  "type": "hardBreak"
+                },
+                {
+                  "type": "text",
+                  "text": "Virtual Employee."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Hard cut."
+                }
+              ]
+            },
+            {
+              "type": "rule"
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 3
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Scene 7 – Exterior / Walking / Night",
+                  "marks": [
+                    {
+                      "type": "strong"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "They’re walking together now."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Phone stays in his pocket."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "She holds a red rose."
+                },
+                {
+                  "type": "hardBreak"
+                },
+                {
+                  "type": "text",
+                  "text": "City lights turn into soft bokeh."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "He’s fully present."
+                }
+              ]
+            },
+            {
+              "type": "rule"
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 3
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "End Frame",
+                  "marks": [
+                    {
+                      "type": "strong"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Get More Done with VE",
+                  "marks": [
+                    {
+                      "type": "strong"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
         "fixVersions": [],
         "customfield_10033": null,
         "aggregatetimespent": null,
@@ -52,16 +1422,190 @@
         },
         "resolution": null,
         "timetracking": {},
-        "customfield_10015": "2025-12-04",
+        "customfield_10015": "2026-01-06",
         "security": null,
         "attachment": [],
         "aggregatetimeestimate": null,
         "resolutiondate": null,
         "workratio": -1,
-        "summary": "Get Your Evenings Back (Hire Bookkeepers Ad)",
+        "summary": "No Orders Tonight (DM Pain Point Ad)",
+        "watches": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/VBV-20/watchers",
+          "watchCount": 1,
+          "isWatching": false
+        },
+        "lastViewed": null,
+        "creator": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Aff39c89b-57c0-4df5-8be6-6c2e223816ae",
+          "accountId": "712020:ff39c89b-57c0-4df5-8be6-6c2e223816ae",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/759649ecbfe73dc2e6b97b1402eb800e?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSJ-4.png",
+            "24x24": "https://secure.gravatar.com/avatar/759649ecbfe73dc2e6b97b1402eb800e?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSJ-4.png",
+            "16x16": "https://secure.gravatar.com/avatar/759649ecbfe73dc2e6b97b1402eb800e?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSJ-4.png",
+            "32x32": "https://secure.gravatar.com/avatar/759649ecbfe73dc2e6b97b1402eb800e?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSJ-4.png"
+          },
+          "displayName": "Sanjay Jaluthriya",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "subtasks": [],
+        "created": "2025-12-22T16:39:29.971+0530",
+        "customfield_10021": null,
+        "reporter": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Aff39c89b-57c0-4df5-8be6-6c2e223816ae",
+          "accountId": "712020:ff39c89b-57c0-4df5-8be6-6c2e223816ae",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/759649ecbfe73dc2e6b97b1402eb800e?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSJ-4.png",
+            "24x24": "https://secure.gravatar.com/avatar/759649ecbfe73dc2e6b97b1402eb800e?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSJ-4.png",
+            "16x16": "https://secure.gravatar.com/avatar/759649ecbfe73dc2e6b97b1402eb800e?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSJ-4.png",
+            "32x32": "https://secure.gravatar.com/avatar/759649ecbfe73dc2e6b97b1402eb800e?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSJ-4.png"
+          },
+          "displayName": "Sanjay Jaluthriya",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "aggregateprogress": {
+          "progress": 0,
+          "total": 0
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/2",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/high_new.svg",
+          "name": "High",
+          "id": "2"
+        },
+        "customfield_10001": null,
+        "labels": [],
+        "environment": null,
+        "customfield_10019": "0|i00d8z:",
+        "timeestimate": null,
+        "aggregatetimeoriginalestimate": null,
+        "versions": [],
+        "duedate": "2026-01-08",
+        "progress": {
+          "progress": 0,
+          "total": 0
+        },
+        "issuelinks": [],
+        "votes": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/VBV-20/votes",
+          "votes": 0,
+          "hasVoted": false
+        },
+        "comment": {
+          "comments": [],
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14687/comment",
+          "maxResults": 0,
+          "total": 0,
+          "startAt": 0
+        },
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ad4a93380-6ba3-424d-a0a4-1552d9edbf12",
+          "accountId": "712020:d4a93380-6ba3-424d-a0a4-1552d9edbf12",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/f5e7529fe785f0fba32f9b9241b2ce6b?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FNS-4.png",
+            "24x24": "https://secure.gravatar.com/avatar/f5e7529fe785f0fba32f9b9241b2ce6b?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FNS-4.png",
+            "16x16": "https://secure.gravatar.com/avatar/f5e7529fe785f0fba32f9b9241b2ce6b?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FNS-4.png",
+            "32x32": "https://secure.gravatar.com/avatar/f5e7529fe785f0fba32f9b9241b2ce6b?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FNS-4.png"
+          },
+          "displayName": "Nandini Saini",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "worklog": {
+          "startAt": 0,
+          "maxResults": 20,
+          "total": 0,
+          "worklogs": []
+        },
+        "updated": "2026-01-05T20:43:18.680+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10062",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "To Do",
+          "id": "10062",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
+            "id": 2,
+            "key": "new",
+            "colorName": "blue-gray",
+            "name": "To Do"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "14499",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14499",
+      "key": "VBV-19",
+      "fields": {
+        "statuscategorychangedate": "2025-12-19T17:39:44.229+0530",
+        "issuetype": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issuetype/10036",
+          "id": "10036",
+          "description": "A small, distinct piece of work.",
+          "iconUrl": "https://idealabprojects.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10318?size=medium",
+          "name": "Task",
+          "subtask": false,
+          "avatarId": 10318,
+          "entityId": "219c5849-5b1c-4870-a0bb-c5df05971f06",
+          "hierarchyLevel": 0
+        },
+        "components": [],
+        "timespent": 104400,
+        "timeoriginalestimate": null,
+        "project": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/project/10017",
+          "id": "10017",
+          "key": "VBV",
+          "name": "VE's Videos",
+          "projectTypeKey": "business",
+          "simplified": true,
+          "avatarUrls": {
+            "48x48": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10410",
+            "24x24": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10410?size=small",
+            "16x16": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10410?size=xsmall",
+            "32x32": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10410?size=medium"
+          }
+        },
+        "description": null,
+        "fixVersions": [],
+        "customfield_10033": null,
+        "aggregatetimespent": 104400,
+        "statusCategory": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+          "id": 3,
+          "key": "done",
+          "colorName": "green",
+          "name": "Done"
+        },
+        "resolution": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/resolution/10000",
+          "id": "10000",
+          "description": "Work has been completed on this work item.",
+          "name": "Done"
+        },
+        "timetracking": {
+          "remainingEstimate": "0m",
+          "timeSpent": "3d 5h",
+          "remainingEstimateSeconds": 0,
+          "timeSpentSeconds": 104400
+        },
+        "customfield_10015": "2025-12-04",
+        "security": null,
+        "attachment": [],
+        "aggregatetimeestimate": 0,
+        "resolutiondate": "2025-12-19T17:39:44.206+0530",
+        "workratio": -1,
+        "summary": "Get Your Evenings Back (Bookkeepers Pain Point Ad)",
         "watches": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/VBV-19/watchers",
-          "watchCount": 1,
+          "watchCount": 2,
           "isWatching": false
         },
         "lastViewed": null,
@@ -97,8 +1641,9 @@
           "accountType": "atlassian"
         },
         "aggregateprogress": {
-          "progress": 0,
-          "total": 0
+          "progress": 104400,
+          "total": 104400,
+          "percent": 100
         },
         "priority": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/2",
@@ -110,13 +1655,14 @@
         "labels": [],
         "environment": null,
         "customfield_10019": "0|i00d9r:",
-        "timeestimate": null,
+        "timeestimate": 0,
         "aggregatetimeoriginalestimate": null,
         "versions": [],
         "duedate": null,
         "progress": {
-          "progress": 0,
-          "total": 0
+          "progress": 104400,
+          "total": 104400,
+          "percent": 100
         },
         "issuelinks": [],
         "votes": {
@@ -701,11 +2247,212 @@
               "created": "2025-12-04T20:04:06.031+0530",
               "updated": "2025-12-04T20:04:06.031+0530",
               "jsdPublic": true
+            },
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14499/comment/19254",
+              "id": "19254",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ac44ad097-e9a1-497e-b0ea-7b115363695d",
+                "accountId": "712020:c44ad097-e9a1-497e-b0ea-7b115363695d",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+                  "24x24": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+                  "16x16": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+                  "32x32": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png"
+                },
+                "displayName": "Harvesh Anand",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "body": {
+                "type": "doc",
+                "version": 1,
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "First draft shared for review: "
+                      },
+                      {
+                        "type": "text",
+                        "text": "Get your evenings back Draft.mp4",
+                        "marks": [
+                          {
+                            "type": "link",
+                            "attrs": {
+                              "href": "https://vemp-my.sharepoint.com/:v:/g/personal/harvesh_virtualemployee_com/IQDSmdFvGzdiQruf8WJdeQ02Abdt_MQvql4H3MulT5iGzGU?e=jam6lM"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ac44ad097-e9a1-497e-b0ea-7b115363695d",
+                "accountId": "712020:c44ad097-e9a1-497e-b0ea-7b115363695d",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+                  "24x24": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+                  "16x16": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+                  "32x32": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png"
+                },
+                "displayName": "Harvesh Anand",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "created": "2025-12-18T20:59:18.235+0530",
+              "updated": "2025-12-18T20:59:18.235+0530",
+              "jsdPublic": true
+            },
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14499/comment/19274",
+              "id": "19274",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ac44ad097-e9a1-497e-b0ea-7b115363695d",
+                "accountId": "712020:c44ad097-e9a1-497e-b0ea-7b115363695d",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+                  "24x24": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+                  "16x16": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+                  "32x32": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png"
+                },
+                "displayName": "Harvesh Anand",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "body": {
+                "type": "doc",
+                "version": 1,
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "2 more versions shared for review: "
+                      },
+                      {
+                        "type": "text",
+                        "text": "Get your evenings back short.mp4",
+                        "marks": [
+                          {
+                            "type": "link",
+                            "attrs": {
+                              "href": "https://vemp-my.sharepoint.com/:v:/g/personal/harvesh_virtualemployee_com/IQAQPlKz8ba1QrjMOxO18KbsAaRlc5OMJT4y6WdRdxVw0b4?e=FoS2gi"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "type": "hardBreak"
+                      },
+                      {
+                        "type": "text",
+                        "text": "Get your evenings back full video.mp4",
+                        "marks": [
+                          {
+                            "type": "link",
+                            "attrs": {
+                              "href": "https://vemp-my.sharepoint.com/:v:/g/personal/harvesh_virtualemployee_com/IQDhtP8hdVHIQqvtH99lg9keAXB2Dr7gckyXxwesAdb-JNM?e=WQkOC6"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ac44ad097-e9a1-497e-b0ea-7b115363695d",
+                "accountId": "712020:c44ad097-e9a1-497e-b0ea-7b115363695d",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+                  "24x24": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+                  "16x16": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+                  "32x32": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png"
+                },
+                "displayName": "Harvesh Anand",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "created": "2025-12-19T17:39:02.019+0530",
+              "updated": "2025-12-19T17:39:02.019+0530",
+              "jsdPublic": true
+            },
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14499/comment/19275",
+              "id": "19275",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ac44ad097-e9a1-497e-b0ea-7b115363695d",
+                "accountId": "712020:c44ad097-e9a1-497e-b0ea-7b115363695d",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+                  "24x24": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+                  "16x16": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+                  "32x32": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png"
+                },
+                "displayName": "Harvesh Anand",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "body": {
+                "type": "doc",
+                "version": 1,
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Final Version shared : "
+                      },
+                      {
+                        "type": "text",
+                        "text": "Get your evenings back.mp4",
+                        "marks": [
+                          {
+                            "type": "link",
+                            "attrs": {
+                              "href": "https://vemp-my.sharepoint.com/:v:/g/personal/harvesh_virtualemployee_com/IQAVJ5gEq0mpQ4b0lA8PD2FfARWdd7w7qugl9eUOqUAFJ9Y?e=UBLuce"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ac44ad097-e9a1-497e-b0ea-7b115363695d",
+                "accountId": "712020:c44ad097-e9a1-497e-b0ea-7b115363695d",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+                  "24x24": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+                  "16x16": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+                  "32x32": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png"
+                },
+                "displayName": "Harvesh Anand",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "created": "2025-12-19T17:39:33.764+0530",
+              "updated": "2025-12-19T17:39:33.764+0530",
+              "jsdPublic": true
             }
           ],
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14499/comment",
-          "maxResults": 1,
-          "total": 1,
+          "maxResults": 4,
+          "total": 4,
           "startAt": 0
         },
         "assignee": {
@@ -725,22 +2472,137 @@
         "worklog": {
           "startAt": 0,
           "maxResults": 20,
-          "total": 0,
-          "worklogs": []
+          "total": 3,
+          "worklogs": [
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14499/worklog/13668",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ac44ad097-e9a1-497e-b0ea-7b115363695d",
+                "accountId": "712020:c44ad097-e9a1-497e-b0ea-7b115363695d",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+                  "24x24": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+                  "16x16": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+                  "32x32": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png"
+                },
+                "displayName": "Harvesh Anand",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ac44ad097-e9a1-497e-b0ea-7b115363695d",
+                "accountId": "712020:c44ad097-e9a1-497e-b0ea-7b115363695d",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+                  "24x24": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+                  "16x16": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+                  "32x32": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png"
+                },
+                "displayName": "Harvesh Anand",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "created": "2025-12-18T20:59:33.217+0530",
+              "updated": "2025-12-18T20:59:33.217+0530",
+              "started": "2025-12-15T20:59:00.000+0530",
+              "timeSpent": "3d",
+              "timeSpentSeconds": 86400,
+              "id": "13668",
+              "issueId": "14499"
+            },
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14499/worklog/13676",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ac44ad097-e9a1-497e-b0ea-7b115363695d",
+                "accountId": "712020:c44ad097-e9a1-497e-b0ea-7b115363695d",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+                  "24x24": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+                  "16x16": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+                  "32x32": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png"
+                },
+                "displayName": "Harvesh Anand",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ac44ad097-e9a1-497e-b0ea-7b115363695d",
+                "accountId": "712020:c44ad097-e9a1-497e-b0ea-7b115363695d",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+                  "24x24": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+                  "16x16": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+                  "32x32": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png"
+                },
+                "displayName": "Harvesh Anand",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "created": "2025-12-19T17:39:14.973+0530",
+              "updated": "2025-12-19T17:39:14.973+0530",
+              "started": "2025-12-19T12:30:00.000+0530",
+              "timeSpent": "3h",
+              "timeSpentSeconds": 10800,
+              "id": "13676",
+              "issueId": "14499"
+            },
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14499/worklog/13677",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ac44ad097-e9a1-497e-b0ea-7b115363695d",
+                "accountId": "712020:c44ad097-e9a1-497e-b0ea-7b115363695d",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+                  "24x24": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+                  "16x16": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+                  "32x32": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png"
+                },
+                "displayName": "Harvesh Anand",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ac44ad097-e9a1-497e-b0ea-7b115363695d",
+                "accountId": "712020:c44ad097-e9a1-497e-b0ea-7b115363695d",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+                  "24x24": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+                  "16x16": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+                  "32x32": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png"
+                },
+                "displayName": "Harvesh Anand",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "created": "2025-12-19T17:39:38.388+0530",
+              "updated": "2025-12-19T17:39:38.388+0530",
+              "started": "2025-12-19T15:39:34.355+0530",
+              "timeSpent": "2h",
+              "timeSpentSeconds": 7200,
+              "id": "13677",
+              "issueId": "14499"
+            }
+          ]
         },
-        "updated": "2025-12-04T20:06:02.569+0530",
+        "updated": "2026-01-05T13:34:32.243+0530",
         "status": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10062",
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10064",
           "description": "",
           "iconUrl": "https://idealabprojects.atlassian.net/",
-          "name": "To Do",
-          "id": "10062",
+          "name": "Done",
+          "id": "10064",
           "statusCategory": {
-            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
-            "id": 2,
-            "key": "new",
-            "colorName": "blue-gray",
-            "name": "To Do"
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
           }
         }
       }
@@ -1255,7 +3117,7 @@
         "aggregatetimeestimate": 0,
         "resolutiondate": "2025-12-15T14:19:02.608+0530",
         "workratio": -1,
-        "summary": "When AI Designs… Nobody Cares (Graphic Designer Ad)",
+        "summary": "When AI Designs… Nobody Cares (Graphic Designer Pain Point Ad)",
         "watches": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/VBV-17/watchers",
           "watchCount": 2,
@@ -3067,7 +4929,7 @@
             }
           ]
         },
-        "updated": "2025-12-15T14:19:02.627+0530",
+        "updated": "2026-01-05T13:33:55.819+0530",
         "status": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10064",
           "description": "",
@@ -3541,7 +5403,7 @@
         "aggregatetimeestimate": 0,
         "resolutiondate": "2025-12-04T19:43:51.132+0530",
         "workratio": -1,
-        "summary": "When Your Store Runs You (Retailer Pain point ad)",
+        "summary": "When Your Store Runs You (Retailer Pain Point Ad)",
         "watches": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/VBV-15/watchers",
           "watchCount": 1,
@@ -3738,7 +5600,7 @@
             }
           ]
         },
-        "updated": "2025-12-04T19:59:21.977+0530",
+        "updated": "2026-01-05T13:34:14.248+0530",
         "status": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10064",
           "description": "",

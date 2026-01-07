@@ -2,8 +2,952 @@
   "name": "External Reviewers",
   "id": "10422",
   "key": "ER",
-  "issue_count": 9,
+  "issue_count": 13,
   "issues": [
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "14997",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14997",
+      "key": "ER-13",
+      "fields": {
+        "statuscategorychangedate": "2026-01-07T11:35:07.029+0530",
+        "issuetype": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issuetype/10451",
+          "id": "10451",
+          "description": "A small piece of work that's part of a larger task.",
+          "iconUrl": "https://idealabprojects.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10316?size=medium",
+          "name": "Sub-task",
+          "subtask": true,
+          "avatarId": 10316,
+          "entityId": "7a2454be-e1d9-41e2-bbc4-dd098e0c2c61",
+          "hierarchyLevel": -1
+        },
+        "parent": {
+          "id": "14995",
+          "key": "ER-12",
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14995",
+          "fields": {
+            "summary": "Is Bookkeeping Worth It for Small Businesses? (ROI Explained)",
+            "status": {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10606",
+              "description": "",
+              "iconUrl": "https://idealabprojects.atlassian.net/",
+              "name": "In Review",
+              "id": "10606",
+              "statusCategory": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
+                "id": 2,
+                "key": "new",
+                "colorName": "blue-gray",
+                "name": "To Do"
+              }
+            },
+            "priority": {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+              "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+              "name": "Medium",
+              "id": "3"
+            },
+            "issuetype": {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issuetype/10450",
+              "id": "10450",
+              "description": "A small, distinct piece of work.",
+              "iconUrl": "https://idealabprojects.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10318?size=medium",
+              "name": "Task",
+              "subtask": false,
+              "avatarId": 10318,
+              "entityId": "6ea671ca-932d-4d3b-9ce1-fba0c74f299f",
+              "hierarchyLevel": 0
+            }
+          }
+        },
+        "components": [],
+        "timespent": null,
+        "timeoriginalestimate": null,
+        "project": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/project/10422",
+          "id": "10422",
+          "key": "ER",
+          "name": "External Reviewers",
+          "projectTypeKey": "business",
+          "simplified": true,
+          "avatarUrls": {
+            "48x48": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10403",
+            "24x24": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10403?size=small",
+            "16x16": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10403?size=xsmall",
+            "32x32": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10403?size=medium"
+          }
+        },
+        "description": null,
+        "fixVersions": [],
+        "customfield_10033": null,
+        "aggregatetimespent": null,
+        "statusCategory": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
+          "id": 2,
+          "key": "new",
+          "colorName": "blue-gray",
+          "name": "To Do"
+        },
+        "resolution": null,
+        "timetracking": {},
+        "customfield_10015": null,
+        "security": null,
+        "attachment": [],
+        "aggregatetimeestimate": null,
+        "resolutiondate": null,
+        "workratio": -1,
+        "summary": "REVIEW: Is Bookkeeping Worth It for Small Businesses? (ROI Explained)",
+        "watches": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/ER-13/watchers",
+          "watchCount": 1,
+          "isWatching": false
+        },
+        "lastViewed": null,
+        "creator": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ab3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
+          "accountId": "712020:b3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+            "24x24": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+            "16x16": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+            "32x32": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png"
+          },
+          "displayName": "smariti",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "subtasks": [],
+        "created": "2026-01-07T11:35:06.745+0530",
+        "reporter": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ab3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
+          "accountId": "712020:b3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+            "24x24": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+            "16x16": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+            "32x32": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png"
+          },
+          "displayName": "smariti",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "aggregateprogress": {
+          "progress": 0,
+          "total": 0
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/1",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/highest_new.svg",
+          "name": "Highest",
+          "id": "1"
+        },
+        "customfield_10001": null,
+        "labels": [],
+        "environment": null,
+        "customfield_10019": "0|i00ebz:",
+        "timeestimate": null,
+        "aggregatetimeoriginalestimate": null,
+        "versions": [],
+        "duedate": null,
+        "progress": {
+          "progress": 0,
+          "total": 0
+        },
+        "issuelinks": [],
+        "votes": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/ER-13/votes",
+          "votes": 0,
+          "hasVoted": false
+        },
+        "comment": {
+          "comments": [
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14997/comment/19663",
+              "id": "19663",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ab3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
+                "accountId": "712020:b3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+                  "24x24": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+                  "16x16": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+                  "32x32": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png"
+                },
+                "displayName": "smariti",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "body": {
+                "type": "doc",
+                "version": 1,
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "mention",
+                        "attrs": {
+                          "id": "712020:74ae95c3-5c9a-4ef0-b632-b97f4d713f48",
+                          "text": "@Irfan Ahmad",
+                          "accessLevel": "",
+                          "localId": "3f7db59f-b234-4249-a6fb-0f3f6a310685"
+                        }
+                      },
+                      {
+                        "type": "text",
+                        "text": " Hello Sir,"
+                      },
+                      {
+                        "type": "hardBreak"
+                      },
+                      {
+                        "type": "text",
+                        "text": "Please review this article, which has been written by the freelancer."
+                      },
+                      {
+                        "type": "hardBreak"
+                      },
+                      {
+                        "type": "inlineCard",
+                        "attrs": {
+                          "url": "https://docs.google.com/document/d/1qmB9jeQKEgcMSh3YbIJWMfrNWWC2IyiloJKsPzouxXw/edit?tab=t.0"
+                        }
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  }
+                ]
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ab3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
+                "accountId": "712020:b3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+                  "24x24": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+                  "16x16": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+                  "32x32": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png"
+                },
+                "displayName": "smariti",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "created": "2026-01-07T11:37:16.053+0530",
+              "updated": "2026-01-07T11:37:16.053+0530",
+              "jsdPublic": true
+            }
+          ],
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14997/comment",
+          "maxResults": 1,
+          "total": 1,
+          "startAt": 0
+        },
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A74ae95c3-5c9a-4ef0-b632-b97f4d713f48",
+          "accountId": "712020:74ae95c3-5c9a-4ef0-b632-b97f4d713f48",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/ac1d8468a158754150c22a7ebb6f2183?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FIA-3.png",
+            "24x24": "https://secure.gravatar.com/avatar/ac1d8468a158754150c22a7ebb6f2183?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FIA-3.png",
+            "16x16": "https://secure.gravatar.com/avatar/ac1d8468a158754150c22a7ebb6f2183?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FIA-3.png",
+            "32x32": "https://secure.gravatar.com/avatar/ac1d8468a158754150c22a7ebb6f2183?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FIA-3.png"
+          },
+          "displayName": "Irfan Ahmad",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "worklog": {
+          "startAt": 0,
+          "maxResults": 20,
+          "total": 0,
+          "worklogs": []
+        },
+        "updated": "2026-01-07T11:37:16.053+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10606",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "In Review",
+          "id": "10606",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
+            "id": 2,
+            "key": "new",
+            "colorName": "blue-gray",
+            "name": "To Do"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "14995",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14995",
+      "key": "ER-12",
+      "fields": {
+        "statuscategorychangedate": "2026-01-07T11:34:52.866+0530",
+        "issuetype": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issuetype/10450",
+          "id": "10450",
+          "description": "A small, distinct piece of work.",
+          "iconUrl": "https://idealabprojects.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10318?size=medium",
+          "name": "Task",
+          "subtask": false,
+          "avatarId": 10318,
+          "entityId": "6ea671ca-932d-4d3b-9ce1-fba0c74f299f",
+          "hierarchyLevel": 0
+        },
+        "components": [],
+        "timespent": null,
+        "timeoriginalestimate": null,
+        "project": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/project/10422",
+          "id": "10422",
+          "key": "ER",
+          "name": "External Reviewers",
+          "projectTypeKey": "business",
+          "simplified": true,
+          "avatarUrls": {
+            "48x48": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10403",
+            "24x24": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10403?size=small",
+            "16x16": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10403?size=xsmall",
+            "32x32": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10403?size=medium"
+          }
+        },
+        "description": null,
+        "fixVersions": [],
+        "customfield_10033": null,
+        "aggregatetimespent": null,
+        "statusCategory": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
+          "id": 2,
+          "key": "new",
+          "colorName": "blue-gray",
+          "name": "To Do"
+        },
+        "resolution": null,
+        "timetracking": {},
+        "customfield_10015": null,
+        "security": null,
+        "attachment": [],
+        "aggregatetimeestimate": null,
+        "resolutiondate": null,
+        "workratio": -1,
+        "summary": "Is Bookkeeping Worth It for Small Businesses? (ROI Explained)",
+        "watches": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/ER-12/watchers",
+          "watchCount": 1,
+          "isWatching": false
+        },
+        "lastViewed": null,
+        "creator": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ab3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
+          "accountId": "712020:b3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+            "24x24": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+            "16x16": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+            "32x32": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png"
+          },
+          "displayName": "smariti",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "subtasks": [
+          {
+            "id": "14997",
+            "key": "ER-13",
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14997",
+            "fields": {
+              "summary": "REVIEW: Is Bookkeeping Worth It for Small Businesses? (ROI Explained)",
+              "status": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10606",
+                "description": "",
+                "iconUrl": "https://idealabprojects.atlassian.net/",
+                "name": "In Review",
+                "id": "10606",
+                "statusCategory": {
+                  "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
+                  "id": 2,
+                  "key": "new",
+                  "colorName": "blue-gray",
+                  "name": "To Do"
+                }
+              },
+              "priority": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/1",
+                "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/highest_new.svg",
+                "name": "Highest",
+                "id": "1"
+              },
+              "issuetype": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/issuetype/10451",
+                "id": "10451",
+                "description": "A small piece of work that's part of a larger task.",
+                "iconUrl": "https://idealabprojects.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10316?size=medium",
+                "name": "Sub-task",
+                "subtask": true,
+                "avatarId": 10316,
+                "entityId": "7a2454be-e1d9-41e2-bbc4-dd098e0c2c61",
+                "hierarchyLevel": -1
+              }
+            }
+          }
+        ],
+        "created": "2026-01-07T11:34:52.573+0530",
+        "reporter": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ab3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
+          "accountId": "712020:b3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+            "24x24": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+            "16x16": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+            "32x32": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png"
+          },
+          "displayName": "smariti",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "aggregateprogress": {
+          "progress": 0,
+          "total": 0
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "customfield_10001": null,
+        "labels": [],
+        "environment": null,
+        "customfield_10019": "0|i00ebr:",
+        "timeestimate": null,
+        "aggregatetimeoriginalestimate": null,
+        "versions": [],
+        "duedate": null,
+        "progress": {
+          "progress": 0,
+          "total": 0
+        },
+        "issuelinks": [],
+        "votes": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/ER-12/votes",
+          "votes": 0,
+          "hasVoted": false
+        },
+        "comment": {
+          "comments": [],
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14995/comment",
+          "maxResults": 0,
+          "total": 0,
+          "startAt": 0
+        },
+        "assignee": null,
+        "worklog": {
+          "startAt": 0,
+          "maxResults": 20,
+          "total": 0,
+          "worklogs": []
+        },
+        "updated": "2026-01-07T11:34:53.017+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10606",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "In Review",
+          "id": "10606",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
+            "id": 2,
+            "key": "new",
+            "colorName": "blue-gray",
+            "name": "To Do"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "14992",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14992",
+      "key": "ER-11",
+      "fields": {
+        "statuscategorychangedate": "2026-01-07T11:04:27.698+0530",
+        "issuetype": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issuetype/10451",
+          "id": "10451",
+          "description": "A small piece of work that's part of a larger task.",
+          "iconUrl": "https://idealabprojects.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10316?size=medium",
+          "name": "Sub-task",
+          "subtask": true,
+          "avatarId": 10316,
+          "entityId": "7a2454be-e1d9-41e2-bbc4-dd098e0c2c61",
+          "hierarchyLevel": -1
+        },
+        "parent": {
+          "id": "14990",
+          "key": "ER-10",
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14990",
+          "fields": {
+            "summary": "Bookkeeper vs Accountant: The Line Businesses Keep Mixing Up",
+            "status": {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10606",
+              "description": "",
+              "iconUrl": "https://idealabprojects.atlassian.net/",
+              "name": "In Review",
+              "id": "10606",
+              "statusCategory": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
+                "id": 2,
+                "key": "new",
+                "colorName": "blue-gray",
+                "name": "To Do"
+              }
+            },
+            "priority": {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+              "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+              "name": "Medium",
+              "id": "3"
+            },
+            "issuetype": {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issuetype/10450",
+              "id": "10450",
+              "description": "A small, distinct piece of work.",
+              "iconUrl": "https://idealabprojects.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10318?size=medium",
+              "name": "Task",
+              "subtask": false,
+              "avatarId": 10318,
+              "entityId": "6ea671ca-932d-4d3b-9ce1-fba0c74f299f",
+              "hierarchyLevel": 0
+            }
+          }
+        },
+        "components": [],
+        "timespent": null,
+        "timeoriginalestimate": null,
+        "project": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/project/10422",
+          "id": "10422",
+          "key": "ER",
+          "name": "External Reviewers",
+          "projectTypeKey": "business",
+          "simplified": true,
+          "avatarUrls": {
+            "48x48": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10403",
+            "24x24": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10403?size=small",
+            "16x16": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10403?size=xsmall",
+            "32x32": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10403?size=medium"
+          }
+        },
+        "description": null,
+        "fixVersions": [],
+        "customfield_10033": null,
+        "aggregatetimespent": null,
+        "statusCategory": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
+          "id": 2,
+          "key": "new",
+          "colorName": "blue-gray",
+          "name": "To Do"
+        },
+        "resolution": null,
+        "timetracking": {},
+        "customfield_10015": null,
+        "security": null,
+        "attachment": [],
+        "aggregatetimeestimate": null,
+        "resolutiondate": null,
+        "workratio": -1,
+        "summary": "REVIEW: Bookkeeper vs Accountant: The Line Businesses Keep Mixing Up",
+        "watches": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/ER-11/watchers",
+          "watchCount": 1,
+          "isWatching": false
+        },
+        "lastViewed": null,
+        "creator": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ab3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
+          "accountId": "712020:b3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+            "24x24": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+            "16x16": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+            "32x32": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png"
+          },
+          "displayName": "smariti",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "subtasks": [],
+        "created": "2026-01-07T11:04:27.261+0530",
+        "reporter": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ab3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
+          "accountId": "712020:b3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+            "24x24": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+            "16x16": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+            "32x32": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png"
+          },
+          "displayName": "smariti",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "aggregateprogress": {
+          "progress": 0,
+          "total": 0
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/1",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/highest_new.svg",
+          "name": "Highest",
+          "id": "1"
+        },
+        "customfield_10001": null,
+        "labels": [],
+        "environment": null,
+        "customfield_10019": "0|i00ebb:",
+        "timeestimate": null,
+        "aggregatetimeoriginalestimate": null,
+        "versions": [],
+        "duedate": null,
+        "progress": {
+          "progress": 0,
+          "total": 0
+        },
+        "issuelinks": [],
+        "votes": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/ER-11/votes",
+          "votes": 0,
+          "hasVoted": false
+        },
+        "comment": {
+          "comments": [
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14992/comment/19660",
+              "id": "19660",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ab3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
+                "accountId": "712020:b3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+                  "24x24": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+                  "16x16": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+                  "32x32": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png"
+                },
+                "displayName": "smariti",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "body": {
+                "type": "doc",
+                "version": 1,
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "mention",
+                        "attrs": {
+                          "id": "712020:74ae95c3-5c9a-4ef0-b632-b97f4d713f48",
+                          "text": "@Irfan Ahmad",
+                          "accessLevel": "",
+                          "localId": "f35680f1-b847-4fd6-b368-4a1e7152b469"
+                        }
+                      },
+                      {
+                        "type": "text",
+                        "text": " Hello Sir,"
+                      },
+                      {
+                        "type": "hardBreak"
+                      },
+                      {
+                        "type": "text",
+                        "text": "Please review this article, which has been written by the freelancer."
+                      },
+                      {
+                        "type": "hardBreak"
+                      },
+                      {
+                        "type": "inlineCard",
+                        "attrs": {
+                          "url": "https://docs.google.com/document/d/10EzeXxdz9pYsuGmzAfF--A4WZSP-mtyFueztK12Q_jY/edit?usp=sharing"
+                        }
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  }
+                ]
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ab3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
+                "accountId": "712020:b3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+                  "24x24": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+                  "16x16": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+                  "32x32": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png"
+                },
+                "displayName": "smariti",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "created": "2026-01-07T11:11:37.357+0530",
+              "updated": "2026-01-07T11:11:37.357+0530",
+              "jsdPublic": true
+            }
+          ],
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14992/comment",
+          "maxResults": 1,
+          "total": 1,
+          "startAt": 0
+        },
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A74ae95c3-5c9a-4ef0-b632-b97f4d713f48",
+          "accountId": "712020:74ae95c3-5c9a-4ef0-b632-b97f4d713f48",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/ac1d8468a158754150c22a7ebb6f2183?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FIA-3.png",
+            "24x24": "https://secure.gravatar.com/avatar/ac1d8468a158754150c22a7ebb6f2183?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FIA-3.png",
+            "16x16": "https://secure.gravatar.com/avatar/ac1d8468a158754150c22a7ebb6f2183?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FIA-3.png",
+            "32x32": "https://secure.gravatar.com/avatar/ac1d8468a158754150c22a7ebb6f2183?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FIA-3.png"
+          },
+          "displayName": "Irfan Ahmad",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "worklog": {
+          "startAt": 0,
+          "maxResults": 20,
+          "total": 0,
+          "worklogs": []
+        },
+        "updated": "2026-01-07T11:11:37.357+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10606",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "In Review",
+          "id": "10606",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
+            "id": 2,
+            "key": "new",
+            "colorName": "blue-gray",
+            "name": "To Do"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "14990",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14990",
+      "key": "ER-10",
+      "fields": {
+        "statuscategorychangedate": "2026-01-07T11:03:32.778+0530",
+        "issuetype": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issuetype/10450",
+          "id": "10450",
+          "description": "A small, distinct piece of work.",
+          "iconUrl": "https://idealabprojects.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10318?size=medium",
+          "name": "Task",
+          "subtask": false,
+          "avatarId": 10318,
+          "entityId": "6ea671ca-932d-4d3b-9ce1-fba0c74f299f",
+          "hierarchyLevel": 0
+        },
+        "components": [],
+        "timespent": null,
+        "timeoriginalestimate": null,
+        "project": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/project/10422",
+          "id": "10422",
+          "key": "ER",
+          "name": "External Reviewers",
+          "projectTypeKey": "business",
+          "simplified": true,
+          "avatarUrls": {
+            "48x48": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10403",
+            "24x24": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10403?size=small",
+            "16x16": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10403?size=xsmall",
+            "32x32": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10403?size=medium"
+          }
+        },
+        "description": null,
+        "fixVersions": [],
+        "customfield_10033": null,
+        "aggregatetimespent": null,
+        "statusCategory": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
+          "id": 2,
+          "key": "new",
+          "colorName": "blue-gray",
+          "name": "To Do"
+        },
+        "resolution": null,
+        "timetracking": {},
+        "customfield_10015": null,
+        "security": null,
+        "attachment": [],
+        "aggregatetimeestimate": null,
+        "resolutiondate": null,
+        "workratio": -1,
+        "summary": "Bookkeeper vs Accountant: The Line Businesses Keep Mixing Up",
+        "watches": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/ER-10/watchers",
+          "watchCount": 1,
+          "isWatching": false
+        },
+        "lastViewed": null,
+        "creator": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ab3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
+          "accountId": "712020:b3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+            "24x24": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+            "16x16": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+            "32x32": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png"
+          },
+          "displayName": "smariti",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "subtasks": [
+          {
+            "id": "14992",
+            "key": "ER-11",
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14992",
+            "fields": {
+              "summary": "REVIEW: Bookkeeper vs Accountant: The Line Businesses Keep Mixing Up",
+              "status": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10606",
+                "description": "",
+                "iconUrl": "https://idealabprojects.atlassian.net/",
+                "name": "In Review",
+                "id": "10606",
+                "statusCategory": {
+                  "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
+                  "id": 2,
+                  "key": "new",
+                  "colorName": "blue-gray",
+                  "name": "To Do"
+                }
+              },
+              "priority": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/1",
+                "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/highest_new.svg",
+                "name": "Highest",
+                "id": "1"
+              },
+              "issuetype": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/issuetype/10451",
+                "id": "10451",
+                "description": "A small piece of work that's part of a larger task.",
+                "iconUrl": "https://idealabprojects.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10316?size=medium",
+                "name": "Sub-task",
+                "subtask": true,
+                "avatarId": 10316,
+                "entityId": "7a2454be-e1d9-41e2-bbc4-dd098e0c2c61",
+                "hierarchyLevel": -1
+              }
+            }
+          }
+        ],
+        "created": "2026-01-07T11:03:32.553+0530",
+        "reporter": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ab3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
+          "accountId": "712020:b3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+            "24x24": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+            "16x16": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+            "32x32": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png"
+          },
+          "displayName": "smariti",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "aggregateprogress": {
+          "progress": 0,
+          "total": 0
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "customfield_10001": null,
+        "labels": [],
+        "environment": null,
+        "customfield_10019": "0|i00eb3:",
+        "timeestimate": null,
+        "aggregatetimeoriginalestimate": null,
+        "versions": [],
+        "duedate": null,
+        "progress": {
+          "progress": 0,
+          "total": 0
+        },
+        "issuelinks": [],
+        "votes": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/ER-10/votes",
+          "votes": 0,
+          "hasVoted": false
+        },
+        "comment": {
+          "comments": [],
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14990/comment",
+          "maxResults": 0,
+          "total": 0,
+          "startAt": 0
+        },
+        "assignee": null,
+        "worklog": {
+          "startAt": 0,
+          "maxResults": 20,
+          "total": 0,
+          "worklogs": []
+        },
+        "updated": "2026-01-07T11:03:32.879+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10606",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "In Review",
+          "id": "10606",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
+            "id": 2,
+            "key": "new",
+            "colorName": "blue-gray",
+            "name": "To Do"
+          }
+        }
+      }
+    },
     {
       "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
       "id": "14493",

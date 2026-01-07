@@ -217,6 +217,29 @@
         "security": null,
         "attachment": [
           {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/attachment/13844",
+            "id": "13844",
+            "filename": "AI-ready SEO.pdf",
+            "author": {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A023a0dbc-d7f7-4d53-9905-9641e6759d36",
+              "accountId": "712020:023a0dbc-d7f7-4d53-9905-9641e6759d36",
+              "avatarUrls": {
+                "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:023a0dbc-d7f7-4d53-9905-9641e6759d36/7be68c71-0b1c-4b05-885b-7a373913a23a/48",
+                "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:023a0dbc-d7f7-4d53-9905-9641e6759d36/7be68c71-0b1c-4b05-885b-7a373913a23a/24",
+                "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:023a0dbc-d7f7-4d53-9905-9641e6759d36/7be68c71-0b1c-4b05-885b-7a373913a23a/16",
+                "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:023a0dbc-d7f7-4d53-9905-9641e6759d36/7be68c71-0b1c-4b05-885b-7a373913a23a/32"
+              },
+              "displayName": "Rahul",
+              "active": true,
+              "timeZone": "Asia/Calcutta",
+              "accountType": "atlassian"
+            },
+            "created": "2025-12-19T11:06:19.490+0530",
+            "size": 2467190,
+            "mimeType": "application/pdf",
+            "content": "https://idealabprojects.atlassian.net/rest/api/3/attachment/content/13844"
+          },
+          {
             "self": "https://idealabprojects.atlassian.net/rest/api/3/attachment/13741",
             "id": "13741",
             "filename": "AI SEO (651ef56f-c070-4544-a7ec-1dba08d91fc9).pdf",
@@ -238,6 +261,29 @@
             "size": 2460064,
             "mimeType": "application/pdf",
             "content": "https://idealabprojects.atlassian.net/rest/api/3/attachment/content/13741"
+          },
+          {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/attachment/13843",
+            "id": "13843",
+            "filename": "E-E-A-T in 2025.pdf",
+            "author": {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A023a0dbc-d7f7-4d53-9905-9641e6759d36",
+              "accountId": "712020:023a0dbc-d7f7-4d53-9905-9641e6759d36",
+              "avatarUrls": {
+                "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:023a0dbc-d7f7-4d53-9905-9641e6759d36/7be68c71-0b1c-4b05-885b-7a373913a23a/48",
+                "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:023a0dbc-d7f7-4d53-9905-9641e6759d36/7be68c71-0b1c-4b05-885b-7a373913a23a/24",
+                "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:023a0dbc-d7f7-4d53-9905-9641e6759d36/7be68c71-0b1c-4b05-885b-7a373913a23a/16",
+                "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:023a0dbc-d7f7-4d53-9905-9641e6759d36/7be68c71-0b1c-4b05-885b-7a373913a23a/32"
+              },
+              "displayName": "Rahul",
+              "active": true,
+              "timeZone": "Asia/Calcutta",
+              "accountType": "atlassian"
+            },
+            "created": "2025-12-19T11:06:18.802+0530",
+            "size": 891955,
+            "mimeType": "application/pdf",
+            "content": "https://idealabprojects.atlassian.net/rest/api/3/attachment/content/13843"
           },
           {
             "self": "https://idealabprojects.atlassian.net/rest/api/3/attachment/13739",
@@ -284,6 +330,29 @@
             "size": 546154,
             "mimeType": "application/pdf",
             "content": "https://idealabprojects.atlassian.net/rest/api/3/attachment/content/13740"
+          },
+          {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/attachment/13842",
+            "id": "13842",
+            "filename": "Voice Search Ready.pdf",
+            "author": {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A023a0dbc-d7f7-4d53-9905-9641e6759d36",
+              "accountId": "712020:023a0dbc-d7f7-4d53-9905-9641e6759d36",
+              "avatarUrls": {
+                "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:023a0dbc-d7f7-4d53-9905-9641e6759d36/7be68c71-0b1c-4b05-885b-7a373913a23a/48",
+                "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:023a0dbc-d7f7-4d53-9905-9641e6759d36/7be68c71-0b1c-4b05-885b-7a373913a23a/24",
+                "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:023a0dbc-d7f7-4d53-9905-9641e6759d36/7be68c71-0b1c-4b05-885b-7a373913a23a/16",
+                "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:023a0dbc-d7f7-4d53-9905-9641e6759d36/7be68c71-0b1c-4b05-885b-7a373913a23a/32"
+              },
+              "displayName": "Rahul",
+              "active": true,
+              "timeZone": "Asia/Calcutta",
+              "accountType": "atlassian"
+            },
+            "created": "2025-12-19T11:06:17.724+0530",
+            "size": 532566,
+            "mimeType": "application/pdf",
+            "content": "https://idealabprojects.atlassian.net/rest/api/3/attachment/content/13842"
           }
         ],
         "aggregatetimeestimate": 0,
@@ -478,11 +547,93 @@
               "created": "2025-12-10T16:43:40.698+0530",
               "updated": "2025-12-12T13:07:25.990+0530",
               "jsdPublic": true
+            },
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14551/comment/19255",
+              "id": "19255",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A023a0dbc-d7f7-4d53-9905-9641e6759d36",
+                "accountId": "712020:023a0dbc-d7f7-4d53-9905-9641e6759d36",
+                "avatarUrls": {
+                  "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:023a0dbc-d7f7-4d53-9905-9641e6759d36/7be68c71-0b1c-4b05-885b-7a373913a23a/48",
+                  "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:023a0dbc-d7f7-4d53-9905-9641e6759d36/7be68c71-0b1c-4b05-885b-7a373913a23a/24",
+                  "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:023a0dbc-d7f7-4d53-9905-9641e6759d36/7be68c71-0b1c-4b05-885b-7a373913a23a/16",
+                  "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:023a0dbc-d7f7-4d53-9905-9641e6759d36/7be68c71-0b1c-4b05-885b-7a373913a23a/32"
+                },
+                "displayName": "Rahul",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "body": {
+                "type": "doc",
+                "version": 1,
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Updated pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "mediaGroup",
+                    "content": [
+                      {
+                        "type": "media",
+                        "attrs": {
+                          "type": "file",
+                          "id": "81a3d689-4c0d-496b-aa3b-564d97192f38",
+                          "collection": ""
+                        }
+                      },
+                      {
+                        "type": "media",
+                        "attrs": {
+                          "type": "file",
+                          "id": "bd9fa0a6-ffd1-4a62-ba65-8e3aa5d9d10d",
+                          "collection": ""
+                        }
+                      },
+                      {
+                        "type": "media",
+                        "attrs": {
+                          "type": "file",
+                          "id": "051b5b02-e615-473c-bbb7-8ec40b68def1",
+                          "collection": ""
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph"
+                  }
+                ]
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A023a0dbc-d7f7-4d53-9905-9641e6759d36",
+                "accountId": "712020:023a0dbc-d7f7-4d53-9905-9641e6759d36",
+                "avatarUrls": {
+                  "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:023a0dbc-d7f7-4d53-9905-9641e6759d36/7be68c71-0b1c-4b05-885b-7a373913a23a/48",
+                  "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:023a0dbc-d7f7-4d53-9905-9641e6759d36/7be68c71-0b1c-4b05-885b-7a373913a23a/24",
+                  "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:023a0dbc-d7f7-4d53-9905-9641e6759d36/7be68c71-0b1c-4b05-885b-7a373913a23a/16",
+                  "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:023a0dbc-d7f7-4d53-9905-9641e6759d36/7be68c71-0b1c-4b05-885b-7a373913a23a/32"
+                },
+                "displayName": "Rahul",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "created": "2025-12-19T11:06:20.252+0530",
+              "updated": "2025-12-19T11:06:20.252+0530",
+              "jsdPublic": true
             }
           ],
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14551/comment",
-          "maxResults": 1,
-          "total": 1,
+          "maxResults": 2,
+          "total": 2,
           "startAt": 0
         },
         "assignee": {
@@ -549,7 +700,7 @@
             }
           ]
         },
-        "updated": "2025-12-12T13:07:26.009+0530",
+        "updated": "2025-12-19T11:06:20.252+0530",
         "status": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10075",
           "description": "",
@@ -1894,17 +2045,17 @@
           "fields": {
             "summary": "Content for SEO Email 2",
             "status": {
-              "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10066",
-              "description": "This work item is being actively worked on at the moment by the assignee.",
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10067",
+              "description": "",
               "iconUrl": "https://idealabprojects.atlassian.net/",
-              "name": "In Progress",
-              "id": "10066",
+              "name": "Done",
+              "id": "10067",
               "statusCategory": {
-                "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/4",
-                "id": 4,
-                "key": "indeterminate",
-                "colorName": "yellow",
-                "name": "In Progress"
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+                "id": 3,
+                "key": "done",
+                "colorName": "green",
+                "name": "Done"
               }
             },
             "priority": {
@@ -2719,7 +2870,7 @@
       "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/10058",
       "key": "EMFL-2",
       "fields": {
-        "statuscategorychangedate": "2025-09-25T12:43:32.901+0530",
+        "statuscategorychangedate": "2025-12-29T13:00:24.256+0530",
         "issuetype": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issuetype/10038",
           "id": "10038",
@@ -2753,19 +2904,24 @@
         "customfield_10033": null,
         "aggregatetimespent": null,
         "statusCategory": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/4",
-          "id": 4,
-          "key": "indeterminate",
-          "colorName": "yellow",
-          "name": "In Progress"
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+          "id": 3,
+          "key": "done",
+          "colorName": "green",
+          "name": "Done"
         },
-        "resolution": null,
+        "resolution": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/resolution/10000",
+          "id": "10000",
+          "description": "Work has been completed on this work item.",
+          "name": "Done"
+        },
         "timetracking": {},
         "customfield_10015": null,
         "security": null,
         "attachment": [],
         "aggregatetimeestimate": null,
-        "resolutiondate": null,
+        "resolutiondate": "2025-12-29T13:00:24.229+0530",
         "workratio": -1,
         "summary": "Content for SEO Email 2",
         "watches": {
@@ -2951,19 +3107,19 @@
           "total": 0,
           "worklogs": []
         },
-        "updated": "2025-09-25T12:43:32.900+0530",
+        "updated": "2025-12-29T13:00:24.255+0530",
         "status": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10066",
-          "description": "This work item is being actively worked on at the moment by the assignee.",
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10067",
+          "description": "",
           "iconUrl": "https://idealabprojects.atlassian.net/",
-          "name": "In Progress",
-          "id": "10066",
+          "name": "Done",
+          "id": "10067",
           "statusCategory": {
-            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/4",
-            "id": 4,
-            "key": "indeterminate",
-            "colorName": "yellow",
-            "name": "In Progress"
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
           }
         }
       }

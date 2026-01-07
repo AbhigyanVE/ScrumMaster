@@ -2,8 +2,1018 @@
   "name": "Technical SEO",
   "id": "10718",
   "key": "TS",
-  "issue_count": 3,
+  "issue_count": 5,
   "issues": [
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "14888",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14888",
+      "key": "TS-5",
+      "fields": {
+        "statuscategorychangedate": "2026-01-02T18:24:07.851+0530",
+        "issuetype": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issuetype/10745",
+          "id": "10745",
+          "description": "A small, distinct piece of work.",
+          "iconUrl": "https://idealabprojects.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10318?size=medium",
+          "name": "Task",
+          "subtask": false,
+          "avatarId": 10318,
+          "entityId": "d46bc09c-a21f-4926-a78a-9ebd5639d821",
+          "hierarchyLevel": 0
+        },
+        "components": [],
+        "timespent": 27000,
+        "timeoriginalestimate": null,
+        "project": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/project/10718",
+          "id": "10718",
+          "key": "TS",
+          "name": "Technical SEO",
+          "projectTypeKey": "business",
+          "simplified": true,
+          "avatarUrls": {
+            "48x48": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10403",
+            "24x24": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10403?size=small",
+            "16x16": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10403?size=xsmall",
+            "32x32": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10403?size=medium"
+          }
+        },
+        "description": null,
+        "fixVersions": [],
+        "customfield_10033": null,
+        "aggregatetimespent": 27000,
+        "statusCategory": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+          "id": 3,
+          "key": "done",
+          "colorName": "green",
+          "name": "Done"
+        },
+        "resolution": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/resolution/10000",
+          "id": "10000",
+          "description": "Work has been completed on this work item.",
+          "name": "Done"
+        },
+        "timetracking": {
+          "remainingEstimate": "0m",
+          "timeSpent": "7h 30m",
+          "remainingEstimateSeconds": 0,
+          "timeSpentSeconds": 27000
+        },
+        "customfield_10015": "2026-01-02",
+        "security": null,
+        "attachment": [],
+        "aggregatetimeestimate": 0,
+        "resolutiondate": "2026-01-02T18:24:07.828+0530",
+        "workratio": -1,
+        "summary": "LLM. Txt file Prepared for 222 URls",
+        "watches": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/TS-5/watchers",
+          "watchCount": 1,
+          "isWatching": false
+        },
+        "lastViewed": null,
+        "creator": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Afe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
+          "accountId": "712020:fe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+            "24x24": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+            "16x16": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+            "32x32": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png"
+          },
+          "displayName": "abha jha",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "subtasks": [],
+        "created": "2026-01-02T18:03:42.956+0530",
+        "reporter": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Afe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
+          "accountId": "712020:fe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+            "24x24": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+            "16x16": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+            "32x32": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png"
+          },
+          "displayName": "abha jha",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "aggregateprogress": {
+          "progress": 27000,
+          "total": 27000,
+          "percent": 100
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/1",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/highest_new.svg",
+          "name": "Highest",
+          "id": "1"
+        },
+        "customfield_10001": null,
+        "labels": [],
+        "environment": null,
+        "customfield_10019": "0|i00e47:",
+        "timeestimate": 0,
+        "aggregatetimeoriginalestimate": null,
+        "versions": [],
+        "duedate": "2026-01-02",
+        "progress": {
+          "progress": 27000,
+          "total": 27000,
+          "percent": 100
+        },
+        "issuelinks": [],
+        "votes": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/TS-5/votes",
+          "votes": 0,
+          "hasVoted": false
+        },
+        "comment": {
+          "comments": [
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14888/comment/19530",
+              "id": "19530",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Afe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
+                "accountId": "712020:fe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "24x24": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "16x16": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "32x32": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png"
+                },
+                "displayName": "abha jha",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "body": {
+                "type": "doc",
+                "version": 1,
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "The llm.txt file is updated for 222 URLs.  Meta descriptions are missing for 16 URls. "
+                      }
+                    ]
+                  }
+                ]
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Afe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
+                "accountId": "712020:fe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "24x24": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "16x16": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "32x32": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png"
+                },
+                "displayName": "abha jha",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "created": "2026-01-02T18:04:38.126+0530",
+              "updated": "2026-01-02T18:04:38.126+0530",
+              "jsdPublic": true
+            },
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14888/comment/19531",
+              "id": "19531",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Afe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
+                "accountId": "712020:fe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "24x24": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "16x16": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "32x32": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png"
+                },
+                "displayName": "abha jha",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "body": {
+                "type": "doc",
+                "version": 1,
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "https://www.virtualemployee.com/page-sitemap.xml",
+                        "marks": [
+                          {
+                            "type": "link",
+                            "attrs": {
+                              "href": "https://www.virtualemployee.com/page-sitemap.xml"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Afe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
+                "accountId": "712020:fe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "24x24": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "16x16": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "32x32": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png"
+                },
+                "displayName": "abha jha",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "created": "2026-01-02T18:05:00.036+0530",
+              "updated": "2026-01-02T18:05:00.036+0530",
+              "jsdPublic": true
+            },
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14888/comment/19532",
+              "id": "19532",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Afe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
+                "accountId": "712020:fe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "24x24": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "16x16": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "32x32": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png"
+                },
+                "displayName": "abha jha",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "body": {
+                "type": "doc",
+                "version": 1,
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "All the title & meta descriptions have been updated."
+                      }
+                    ]
+                  }
+                ]
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Afe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
+                "accountId": "712020:fe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "24x24": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "16x16": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "32x32": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png"
+                },
+                "displayName": "abha jha",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "created": "2026-01-02T18:23:52.066+0530",
+              "updated": "2026-01-02T18:23:52.066+0530",
+              "jsdPublic": true
+            }
+          ],
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14888/comment",
+          "maxResults": 3,
+          "total": 3,
+          "startAt": 0
+        },
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Afe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
+          "accountId": "712020:fe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+            "24x24": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+            "16x16": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+            "32x32": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png"
+          },
+          "displayName": "abha jha",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "worklog": {
+          "startAt": 0,
+          "maxResults": 20,
+          "total": 1,
+          "worklogs": [
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14888/worklog/13876",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Afe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
+                "accountId": "712020:fe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "24x24": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "16x16": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "32x32": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png"
+                },
+                "displayName": "abha jha",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Afe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
+                "accountId": "712020:fe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "24x24": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "16x16": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "32x32": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png"
+                },
+                "displayName": "abha jha",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "created": "2026-01-02T18:23:16.497+0530",
+              "updated": "2026-01-02T18:23:16.497+0530",
+              "started": "2026-01-02T10:51:47.678+0530",
+              "timeSpent": "7h 30m",
+              "timeSpentSeconds": 27000,
+              "id": "13876",
+              "issueId": "14888"
+            }
+          ]
+        },
+        "updated": "2026-01-02T18:24:07.851+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10965",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "Done",
+          "id": "10965",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "14840",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14840",
+      "key": "TS-4",
+      "fields": {
+        "statuscategorychangedate": "2026-01-06T12:39:36.393+0530",
+        "issuetype": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issuetype/10745",
+          "id": "10745",
+          "description": "A small, distinct piece of work.",
+          "iconUrl": "https://idealabprojects.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10318?size=medium",
+          "name": "Task",
+          "subtask": false,
+          "avatarId": 10318,
+          "entityId": "d46bc09c-a21f-4926-a78a-9ebd5639d821",
+          "hierarchyLevel": 0
+        },
+        "components": [],
+        "timespent": 37740,
+        "timeoriginalestimate": null,
+        "project": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/project/10718",
+          "id": "10718",
+          "key": "TS",
+          "name": "Technical SEO",
+          "projectTypeKey": "business",
+          "simplified": true,
+          "avatarUrls": {
+            "48x48": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10403",
+            "24x24": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10403?size=small",
+            "16x16": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10403?size=xsmall",
+            "32x32": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10403?size=medium"
+          }
+        },
+        "description": null,
+        "fixVersions": [],
+        "customfield_10033": null,
+        "aggregatetimespent": 37740,
+        "statusCategory": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+          "id": 3,
+          "key": "done",
+          "colorName": "green",
+          "name": "Done"
+        },
+        "resolution": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/resolution/10000",
+          "id": "10000",
+          "description": "Work has been completed on this work item.",
+          "name": "Done"
+        },
+        "timetracking": {
+          "remainingEstimate": "0m",
+          "timeSpent": "1d 2h 29m",
+          "remainingEstimateSeconds": 0,
+          "timeSpentSeconds": 37740
+        },
+        "customfield_10015": "2025-12-30",
+        "security": null,
+        "attachment": [],
+        "aggregatetimeestimate": 0,
+        "resolutiondate": "2026-01-06T12:39:36.371+0530",
+        "workratio": -1,
+        "summary": "Faq Schema generated(Articles & Blogs)",
+        "watches": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/TS-4/watchers",
+          "watchCount": 1,
+          "isWatching": false
+        },
+        "lastViewed": null,
+        "creator": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Afe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
+          "accountId": "712020:fe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+            "24x24": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+            "16x16": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+            "32x32": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png"
+          },
+          "displayName": "abha jha",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "subtasks": [],
+        "created": "2025-12-30T11:53:30.983+0530",
+        "reporter": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Afe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
+          "accountId": "712020:fe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+            "24x24": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+            "16x16": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+            "32x32": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png"
+          },
+          "displayName": "abha jha",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "aggregateprogress": {
+          "progress": 37740,
+          "total": 37740,
+          "percent": 100
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "customfield_10001": null,
+        "labels": [],
+        "environment": null,
+        "customfield_10019": "0|i00e13:",
+        "timeestimate": 0,
+        "aggregatetimeoriginalestimate": null,
+        "versions": [],
+        "duedate": null,
+        "progress": {
+          "progress": 37740,
+          "total": 37740,
+          "percent": 100
+        },
+        "issuelinks": [],
+        "votes": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/TS-4/votes",
+          "votes": 0,
+          "hasVoted": false
+        },
+        "comment": {
+          "comments": [
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14840/comment/19430",
+              "id": "19430",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Afe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
+                "accountId": "712020:fe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "24x24": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "16x16": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "32x32": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png"
+                },
+                "displayName": "abha jha",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "body": {
+                "type": "doc",
+                "version": 1,
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "FAQ schema generated, updated, tested for 8 articles (6 real estate, 1 VA and 1 content writing)"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Afe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
+                "accountId": "712020:fe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "24x24": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "16x16": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "32x32": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png"
+                },
+                "displayName": "abha jha",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "created": "2025-12-30T11:54:54.870+0530",
+              "updated": "2025-12-30T11:54:54.870+0530",
+              "jsdPublic": true
+            },
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14840/comment/19432",
+              "id": "19432",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Afe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
+                "accountId": "712020:fe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "24x24": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "16x16": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "32x32": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png"
+                },
+                "displayName": "abha jha",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "body": {
+                "type": "doc",
+                "version": 1,
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "inlineCard",
+                        "attrs": {
+                          "url": "https://www.virtualemployee.com/blog/why-americas-hinterland-is-looking-towards-indias-metros"
+                        }
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "inlineCard",
+                        "attrs": {
+                          "url": "https://www.virtualemployee.com/blog/is-outsourcing-overseas-a-disadvantage-for-developing-countries"
+                        }
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "inlineCard",
+                        "attrs": {
+                          "url": "https://www.virtualemployee.com/blog/is-outsourcing-just-a-reverse-of-the-h1b-visa-for-small-companies"
+                        }
+                      },
+                      {
+                        "type": "text",
+                        "text": " For these 3 blogs FAQ schema generated, updated and tested."
+                      }
+                    ]
+                  }
+                ]
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Afe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
+                "accountId": "712020:fe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "24x24": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "16x16": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "32x32": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png"
+                },
+                "displayName": "abha jha",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "created": "2025-12-30T13:18:29.234+0530",
+              "updated": "2025-12-30T13:18:56.690+0530",
+              "jsdPublic": true
+            },
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14840/comment/19465",
+              "id": "19465",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Afe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
+                "accountId": "712020:fe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "24x24": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "16x16": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "32x32": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png"
+                },
+                "displayName": "abha jha",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "body": {
+                "type": "doc",
+                "version": 1,
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "inlineCard",
+                        "attrs": {
+                          "url": "https://www.virtualemployee.com/faqs"
+                        }
+                      },
+                      {
+                        "type": "text",
+                        "text": " , "
+                      },
+                      {
+                        "type": "inlineCard",
+                        "attrs": {
+                          "url": "https://www.virtualemployee.com/virtual-assistant-faqs/real-estate-va"
+                        }
+                      },
+                      {
+                        "type": "text",
+                        "text": "  Faqs schemas are generated, updated & tested for these 2 pages"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Afe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
+                "accountId": "712020:fe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "24x24": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "16x16": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "32x32": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png"
+                },
+                "displayName": "abha jha",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "created": "2025-12-31T13:42:26.272+0530",
+              "updated": "2025-12-31T13:42:26.272+0530",
+              "jsdPublic": true
+            },
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14840/comment/19471",
+              "id": "19471",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Afe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
+                "accountId": "712020:fe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "24x24": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "16x16": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "32x32": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png"
+                },
+                "displayName": "abha jha",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "body": {
+                "type": "doc",
+                "version": 1,
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "inlineCard",
+                        "attrs": {
+                          "url": "https://www.virtualemployee.com/financial-and-account-faqs/bookkeeping"
+                        }
+                      },
+                      {
+                        "type": "text",
+                        "text": " Faqs schemas are generated, updated & tested for this  page"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Afe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
+                "accountId": "712020:fe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "24x24": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "16x16": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "32x32": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png"
+                },
+                "displayName": "abha jha",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "created": "2025-12-31T15:21:18.233+0530",
+              "updated": "2025-12-31T15:21:18.233+0530",
+              "jsdPublic": true
+            },
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14840/comment/19624",
+              "id": "19624",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Afe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
+                "accountId": "712020:fe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "24x24": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "16x16": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "32x32": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png"
+                },
+                "displayName": "abha jha",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "body": {
+                "type": "doc",
+                "version": 1,
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Faqs schemas are generated, updated & tested for each page (29 blogs)"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Afe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
+                "accountId": "712020:fe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "24x24": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "16x16": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "32x32": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png"
+                },
+                "displayName": "abha jha",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "created": "2026-01-06T12:39:09.567+0530",
+              "updated": "2026-01-06T12:39:09.567+0530",
+              "jsdPublic": true
+            }
+          ],
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14840/comment",
+          "maxResults": 5,
+          "total": 5,
+          "startAt": 0
+        },
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Afe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
+          "accountId": "712020:fe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+            "24x24": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+            "16x16": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+            "32x32": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png"
+          },
+          "displayName": "abha jha",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "worklog": {
+          "startAt": 0,
+          "maxResults": 20,
+          "total": 4,
+          "worklogs": [
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14840/worklog/13806",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Afe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
+                "accountId": "712020:fe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "24x24": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "16x16": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "32x32": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png"
+                },
+                "displayName": "abha jha",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Afe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
+                "accountId": "712020:fe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "24x24": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "16x16": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "32x32": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png"
+                },
+                "displayName": "abha jha",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "created": "2025-12-30T11:55:07.278+0530",
+              "updated": "2025-12-30T11:55:07.278+0530",
+              "started": "2025-12-30T09:55:01.241+0530",
+              "timeSpent": "2h",
+              "timeSpentSeconds": 7200,
+              "id": "13806",
+              "issueId": "14840"
+            },
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14840/worklog/13808",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Afe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
+                "accountId": "712020:fe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "24x24": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "16x16": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "32x32": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png"
+                },
+                "displayName": "abha jha",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Afe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
+                "accountId": "712020:fe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "24x24": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "16x16": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "32x32": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png"
+                },
+                "displayName": "abha jha",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "created": "2025-12-30T13:19:16.305+0530",
+              "updated": "2025-12-30T13:19:16.305+0530",
+              "started": "2025-12-30T11:58:59.385+0530",
+              "timeSpent": "1h 20m",
+              "timeSpentSeconds": 4800,
+              "id": "13808",
+              "issueId": "14840"
+            },
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14840/worklog/13826",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Afe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
+                "accountId": "712020:fe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "24x24": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "16x16": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "32x32": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png"
+                },
+                "displayName": "abha jha",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Afe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
+                "accountId": "712020:fe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "24x24": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "16x16": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "32x32": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png"
+                },
+                "displayName": "abha jha",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "created": "2025-12-31T15:20:38.679+0530",
+              "updated": "2025-12-31T15:20:38.679+0530",
+              "started": "2025-12-31T10:00:00.000+0530",
+              "timeSpent": "4h 30m",
+              "timeSpentSeconds": 16200,
+              "id": "13826",
+              "issueId": "14840"
+            },
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14840/worklog/13931",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Afe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
+                "accountId": "712020:fe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "24x24": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "16x16": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "32x32": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png"
+                },
+                "displayName": "abha jha",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Afe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
+                "accountId": "712020:fe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "24x24": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "16x16": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "32x32": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png"
+                },
+                "displayName": "abha jha",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "created": "2026-01-06T12:39:32.306+0530",
+              "updated": "2026-01-06T12:39:32.306+0530",
+              "started": "2026-01-06T10:00:11.427+0530",
+              "timeSpent": "2h 39m",
+              "timeSpentSeconds": 9540,
+              "id": "13931",
+              "issueId": "14840"
+            }
+          ]
+        },
+        "updated": "2026-01-06T12:39:36.392+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10965",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "Done",
+          "id": "10965",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
+          }
+        }
+      }
+    },
     {
       "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
       "id": "13597",

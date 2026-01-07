@@ -2397,7 +2397,7 @@
           "hierarchyLevel": 0
         },
         "components": [],
-        "timespent": 80760,
+        "timespent": 98280,
         "timeoriginalestimate": null,
         "project": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/project/10587",
@@ -2416,7 +2416,7 @@
         "description": null,
         "fixVersions": [],
         "customfield_10033": null,
-        "aggregatetimespent": 80760,
+        "aggregatetimespent": 98280,
         "statusCategory": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/4",
           "id": 4,
@@ -2427,9 +2427,9 @@
         "resolution": null,
         "timetracking": {
           "remainingEstimate": "0m",
-          "timeSpent": "2d 6h 26m",
+          "timeSpent": "3d 3h 18m",
           "remainingEstimateSeconds": 0,
-          "timeSpentSeconds": 80760
+          "timeSpentSeconds": 98280
         },
         "customfield_10015": "2025-07-30",
         "security": null,
@@ -2475,8 +2475,8 @@
           "accountType": "atlassian"
         },
         "aggregateprogress": {
-          "progress": 80760,
-          "total": 80760,
+          "progress": 98280,
+          "total": 98280,
           "percent": 100
         },
         "priority": {
@@ -2494,8 +2494,8 @@
         "versions": [],
         "duedate": "2025-09-30",
         "progress": {
-          "progress": 80760,
-          "total": 80760,
+          "progress": 98280,
+          "total": 98280,
           "percent": 100
         },
         "issuelinks": [],
@@ -2506,206 +2506,6 @@
         },
         "comment": {
           "comments": [
-            {
-              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11649/comment/15851",
-              "id": "15851",
-              "author": {
-                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=5f5b452d0b6be2006e056f42",
-                "accountId": "5f5b452d0b6be2006e056f42",
-                "avatarUrls": {
-                  "48x48": "https://secure.gravatar.com/avatar/ac349e4c40001706bb2da2a486357fc0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-5.png",
-                  "24x24": "https://secure.gravatar.com/avatar/ac349e4c40001706bb2da2a486357fc0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-5.png",
-                  "16x16": "https://secure.gravatar.com/avatar/ac349e4c40001706bb2da2a486357fc0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-5.png",
-                  "32x32": "https://secure.gravatar.com/avatar/ac349e4c40001706bb2da2a486357fc0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-5.png"
-                },
-                "displayName": "sonia",
-                "active": true,
-                "timeZone": "Asia/Calcutta",
-                "accountType": "atlassian"
-              },
-              "body": {
-                "type": "doc",
-                "version": 1,
-                "content": [
-                  {
-                    "type": "paragraph",
-                    "content": [
-                      {
-                        "type": "text",
-                        "text": "26-min call on testimonials"
-                      }
-                    ]
-                  }
-                ]
-              },
-              "updateAuthor": {
-                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=5f5b452d0b6be2006e056f42",
-                "accountId": "5f5b452d0b6be2006e056f42",
-                "avatarUrls": {
-                  "48x48": "https://secure.gravatar.com/avatar/ac349e4c40001706bb2da2a486357fc0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-5.png",
-                  "24x24": "https://secure.gravatar.com/avatar/ac349e4c40001706bb2da2a486357fc0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-5.png",
-                  "16x16": "https://secure.gravatar.com/avatar/ac349e4c40001706bb2da2a486357fc0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-5.png",
-                  "32x32": "https://secure.gravatar.com/avatar/ac349e4c40001706bb2da2a486357fc0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-5.png"
-                },
-                "displayName": "sonia",
-                "active": true,
-                "timeZone": "Asia/Calcutta",
-                "accountType": "atlassian"
-              },
-              "created": "2025-08-26T15:35:26.305+0530",
-              "updated": "2025-08-26T15:35:26.305+0530",
-              "jsdPublic": true
-            },
-            {
-              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11649/comment/15932",
-              "id": "15932",
-              "author": {
-                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=5f5b452d0b6be2006e056f42",
-                "accountId": "5f5b452d0b6be2006e056f42",
-                "avatarUrls": {
-                  "48x48": "https://secure.gravatar.com/avatar/ac349e4c40001706bb2da2a486357fc0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-5.png",
-                  "24x24": "https://secure.gravatar.com/avatar/ac349e4c40001706bb2da2a486357fc0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-5.png",
-                  "16x16": "https://secure.gravatar.com/avatar/ac349e4c40001706bb2da2a486357fc0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-5.png",
-                  "32x32": "https://secure.gravatar.com/avatar/ac349e4c40001706bb2da2a486357fc0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-5.png"
-                },
-                "displayName": "sonia",
-                "active": true,
-                "timeZone": "Asia/Calcutta",
-                "accountType": "atlassian"
-              },
-              "body": {
-                "type": "doc",
-                "version": 1,
-                "content": [
-                  {
-                    "type": "paragraph",
-                    "content": [
-                      {
-                        "type": "text",
-                        "text": "24-min call on long-form blogs--Aug 27"
-                      }
-                    ]
-                  }
-                ]
-              },
-              "updateAuthor": {
-                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=5f5b452d0b6be2006e056f42",
-                "accountId": "5f5b452d0b6be2006e056f42",
-                "avatarUrls": {
-                  "48x48": "https://secure.gravatar.com/avatar/ac349e4c40001706bb2da2a486357fc0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-5.png",
-                  "24x24": "https://secure.gravatar.com/avatar/ac349e4c40001706bb2da2a486357fc0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-5.png",
-                  "16x16": "https://secure.gravatar.com/avatar/ac349e4c40001706bb2da2a486357fc0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-5.png",
-                  "32x32": "https://secure.gravatar.com/avatar/ac349e4c40001706bb2da2a486357fc0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-5.png"
-                },
-                "displayName": "sonia",
-                "active": true,
-                "timeZone": "Asia/Calcutta",
-                "accountType": "atlassian"
-              },
-              "created": "2025-08-27T18:03:38.322+0530",
-              "updated": "2025-08-27T18:03:38.322+0530",
-              "jsdPublic": true
-            },
-            {
-              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11649/comment/16118",
-              "id": "16118",
-              "author": {
-                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=5f5b452d0b6be2006e056f42",
-                "accountId": "5f5b452d0b6be2006e056f42",
-                "avatarUrls": {
-                  "48x48": "https://secure.gravatar.com/avatar/ac349e4c40001706bb2da2a486357fc0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-5.png",
-                  "24x24": "https://secure.gravatar.com/avatar/ac349e4c40001706bb2da2a486357fc0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-5.png",
-                  "16x16": "https://secure.gravatar.com/avatar/ac349e4c40001706bb2da2a486357fc0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-5.png",
-                  "32x32": "https://secure.gravatar.com/avatar/ac349e4c40001706bb2da2a486357fc0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-5.png"
-                },
-                "displayName": "sonia",
-                "active": true,
-                "timeZone": "Asia/Calcutta",
-                "accountType": "atlassian"
-              },
-              "body": {
-                "type": "doc",
-                "version": 1,
-                "content": [
-                  {
-                    "type": "paragraph",
-                    "content": [
-                      {
-                        "type": "text",
-                        "text": "23-min call on testimonials feedback video shared by Sean."
-                      }
-                    ]
-                  }
-                ]
-              },
-              "updateAuthor": {
-                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=5f5b452d0b6be2006e056f42",
-                "accountId": "5f5b452d0b6be2006e056f42",
-                "avatarUrls": {
-                  "48x48": "https://secure.gravatar.com/avatar/ac349e4c40001706bb2da2a486357fc0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-5.png",
-                  "24x24": "https://secure.gravatar.com/avatar/ac349e4c40001706bb2da2a486357fc0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-5.png",
-                  "16x16": "https://secure.gravatar.com/avatar/ac349e4c40001706bb2da2a486357fc0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-5.png",
-                  "32x32": "https://secure.gravatar.com/avatar/ac349e4c40001706bb2da2a486357fc0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-5.png"
-                },
-                "displayName": "sonia",
-                "active": true,
-                "timeZone": "Asia/Calcutta",
-                "accountType": "atlassian"
-              },
-              "created": "2025-09-02T14:14:29.305+0530",
-              "updated": "2025-09-02T14:14:29.305+0530",
-              "jsdPublic": true
-            },
-            {
-              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11649/comment/16375",
-              "id": "16375",
-              "author": {
-                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=5f5b452d0b6be2006e056f42",
-                "accountId": "5f5b452d0b6be2006e056f42",
-                "avatarUrls": {
-                  "48x48": "https://secure.gravatar.com/avatar/ac349e4c40001706bb2da2a486357fc0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-5.png",
-                  "24x24": "https://secure.gravatar.com/avatar/ac349e4c40001706bb2da2a486357fc0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-5.png",
-                  "16x16": "https://secure.gravatar.com/avatar/ac349e4c40001706bb2da2a486357fc0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-5.png",
-                  "32x32": "https://secure.gravatar.com/avatar/ac349e4c40001706bb2da2a486357fc0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-5.png"
-                },
-                "displayName": "sonia",
-                "active": true,
-                "timeZone": "Asia/Calcutta",
-                "accountType": "atlassian"
-              },
-              "body": {
-                "type": "doc",
-                "version": 1,
-                "content": [
-                  {
-                    "type": "paragraph",
-                    "content": [
-                      {
-                        "type": "text",
-                        "text": "30 min (weekly work status call) + 1 hour (Moonshot call) – Sept 9"
-                      }
-                    ]
-                  }
-                ]
-              },
-              "updateAuthor": {
-                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=5f5b452d0b6be2006e056f42",
-                "accountId": "5f5b452d0b6be2006e056f42",
-                "avatarUrls": {
-                  "48x48": "https://secure.gravatar.com/avatar/ac349e4c40001706bb2da2a486357fc0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-5.png",
-                  "24x24": "https://secure.gravatar.com/avatar/ac349e4c40001706bb2da2a486357fc0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-5.png",
-                  "16x16": "https://secure.gravatar.com/avatar/ac349e4c40001706bb2da2a486357fc0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-5.png",
-                  "32x32": "https://secure.gravatar.com/avatar/ac349e4c40001706bb2da2a486357fc0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-5.png"
-                },
-                "displayName": "sonia",
-                "active": true,
-                "timeZone": "Asia/Calcutta",
-                "accountType": "atlassian"
-              },
-              "created": "2025-09-09T18:40:45.613+0530",
-              "updated": "2025-09-09T18:40:45.613+0530",
-              "jsdPublic": true
-            },
             {
               "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11649/comment/16428",
               "id": "16428",
@@ -3539,12 +3339,225 @@
               "created": "2025-12-10T19:33:21.809+0530",
               "updated": "2025-12-10T19:33:21.809+0530",
               "jsdPublic": true
+            },
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11649/comment/19243",
+              "id": "19243",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=5f5b452d0b6be2006e056f42",
+                "accountId": "5f5b452d0b6be2006e056f42",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/ac349e4c40001706bb2da2a486357fc0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-5.png",
+                  "24x24": "https://secure.gravatar.com/avatar/ac349e4c40001706bb2da2a486357fc0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-5.png",
+                  "16x16": "https://secure.gravatar.com/avatar/ac349e4c40001706bb2da2a486357fc0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-5.png",
+                  "32x32": "https://secure.gravatar.com/avatar/ac349e4c40001706bb2da2a486357fc0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-5.png"
+                },
+                "displayName": "sonia",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "body": {
+                "type": "doc",
+                "version": 1,
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Remarketing call – Dec 16 – 1h"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=5f5b452d0b6be2006e056f42",
+                "accountId": "5f5b452d0b6be2006e056f42",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/ac349e4c40001706bb2da2a486357fc0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-5.png",
+                  "24x24": "https://secure.gravatar.com/avatar/ac349e4c40001706bb2da2a486357fc0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-5.png",
+                  "16x16": "https://secure.gravatar.com/avatar/ac349e4c40001706bb2da2a486357fc0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-5.png",
+                  "32x32": "https://secure.gravatar.com/avatar/ac349e4c40001706bb2da2a486357fc0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-5.png"
+                },
+                "displayName": "sonia",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "created": "2025-12-18T18:14:41.765+0530",
+              "updated": "2025-12-18T18:14:41.765+0530",
+              "jsdPublic": true
+            },
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11649/comment/19475",
+              "id": "19475",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=5f5b452d0b6be2006e056f42",
+                "accountId": "5f5b452d0b6be2006e056f42",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/ac349e4c40001706bb2da2a486357fc0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-5.png",
+                  "24x24": "https://secure.gravatar.com/avatar/ac349e4c40001706bb2da2a486357fc0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-5.png",
+                  "16x16": "https://secure.gravatar.com/avatar/ac349e4c40001706bb2da2a486357fc0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-5.png",
+                  "32x32": "https://secure.gravatar.com/avatar/ac349e4c40001706bb2da2a486357fc0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-5.png"
+                },
+                "displayName": "sonia",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "body": {
+                "type": "doc",
+                "version": 1,
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Moonshot call – Dec 31 – 1h 13m"
+                      },
+                      {
+                        "type": "hardBreak"
+                      },
+                      {
+                        "type": "text",
+                        "text": "Writers' Training call – Dec 31 – 39m"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=5f5b452d0b6be2006e056f42",
+                "accountId": "5f5b452d0b6be2006e056f42",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/ac349e4c40001706bb2da2a486357fc0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-5.png",
+                  "24x24": "https://secure.gravatar.com/avatar/ac349e4c40001706bb2da2a486357fc0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-5.png",
+                  "16x16": "https://secure.gravatar.com/avatar/ac349e4c40001706bb2da2a486357fc0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-5.png",
+                  "32x32": "https://secure.gravatar.com/avatar/ac349e4c40001706bb2da2a486357fc0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-5.png"
+                },
+                "displayName": "sonia",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "created": "2025-12-31T16:38:42.060+0530",
+              "updated": "2025-12-31T16:39:04.040+0530",
+              "jsdPublic": true
+            },
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11649/comment/19568",
+              "id": "19568",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=5f5b452d0b6be2006e056f42",
+                "accountId": "5f5b452d0b6be2006e056f42",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/ac349e4c40001706bb2da2a486357fc0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-5.png",
+                  "24x24": "https://secure.gravatar.com/avatar/ac349e4c40001706bb2da2a486357fc0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-5.png",
+                  "16x16": "https://secure.gravatar.com/avatar/ac349e4c40001706bb2da2a486357fc0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-5.png",
+                  "32x32": "https://secure.gravatar.com/avatar/ac349e4c40001706bb2da2a486357fc0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-5.png"
+                },
+                "displayName": "sonia",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "body": {
+                "type": "doc",
+                "version": 1,
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Daily stand up call and remarketing call – Jan 05 – 30 mins"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=5f5b452d0b6be2006e056f42",
+                "accountId": "5f5b452d0b6be2006e056f42",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/ac349e4c40001706bb2da2a486357fc0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-5.png",
+                  "24x24": "https://secure.gravatar.com/avatar/ac349e4c40001706bb2da2a486357fc0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-5.png",
+                  "16x16": "https://secure.gravatar.com/avatar/ac349e4c40001706bb2da2a486357fc0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-5.png",
+                  "32x32": "https://secure.gravatar.com/avatar/ac349e4c40001706bb2da2a486357fc0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-5.png"
+                },
+                "displayName": "sonia",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "created": "2026-01-05T13:12:05.773+0530",
+              "updated": "2026-01-05T13:12:05.773+0530",
+              "jsdPublic": true
+            },
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11649/comment/19634",
+              "id": "19634",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=5f5b452d0b6be2006e056f42",
+                "accountId": "5f5b452d0b6be2006e056f42",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/ac349e4c40001706bb2da2a486357fc0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-5.png",
+                  "24x24": "https://secure.gravatar.com/avatar/ac349e4c40001706bb2da2a486357fc0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-5.png",
+                  "16x16": "https://secure.gravatar.com/avatar/ac349e4c40001706bb2da2a486357fc0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-5.png",
+                  "32x32": "https://secure.gravatar.com/avatar/ac349e4c40001706bb2da2a486357fc0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-5.png"
+                },
+                "displayName": "sonia",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "body": {
+                "type": "doc",
+                "version": 1,
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Training session – PPC pages – 1.5 – "
+                      },
+                      {
+                        "type": "date",
+                        "attrs": {
+                          "timestamp": "1767657600000"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=5f5b452d0b6be2006e056f42",
+                "accountId": "5f5b452d0b6be2006e056f42",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/ac349e4c40001706bb2da2a486357fc0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-5.png",
+                  "24x24": "https://secure.gravatar.com/avatar/ac349e4c40001706bb2da2a486357fc0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-5.png",
+                  "16x16": "https://secure.gravatar.com/avatar/ac349e4c40001706bb2da2a486357fc0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-5.png",
+                  "32x32": "https://secure.gravatar.com/avatar/ac349e4c40001706bb2da2a486357fc0?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-5.png"
+                },
+                "displayName": "sonia",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "created": "2026-01-06T15:56:37.424+0530",
+              "updated": "2026-01-06T15:56:37.424+0530",
+              "jsdPublic": true
             }
           ],
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11649/comment",
           "maxResults": 20,
-          "total": 26,
-          "startAt": 6
+          "total": 30,
+          "startAt": 10
         },
         "assignee": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=5f5b452d0b6be2006e056f42",
@@ -3563,7 +3576,7 @@
         "worklog": {
           "startAt": 0,
           "maxResults": 20,
-          "total": 29,
+          "total": 34,
           "worklogs": [
             {
               "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/11649/worklog/10070",
@@ -4327,7 +4340,7 @@
             }
           ]
         },
-        "updated": "2025-12-10T19:33:31.604+0530",
+        "updated": "2026-01-06T15:56:44.435+0530",
         "status": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10808",
           "description": "",

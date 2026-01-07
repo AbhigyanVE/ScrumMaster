@@ -2,8 +2,445 @@
   "name": "HR & Admin Team Projects",
   "id": "10011",
   "key": "CFHAT",
-  "issue_count": 6,
+  "issue_count": 7,
   "issues": [
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "14688",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14688",
+      "key": "CFHAT-7",
+      "fields": {
+        "statuscategorychangedate": "2025-12-29T20:05:09.211+0530",
+        "issuetype": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issuetype/10024",
+          "id": "10024",
+          "description": "A small, distinct piece of work.",
+          "iconUrl": "https://idealabprojects.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10318?size=medium",
+          "name": "Task",
+          "subtask": false,
+          "avatarId": 10318,
+          "entityId": "30bedacf-97ac-4863-8448-0ffbe94a1a90",
+          "hierarchyLevel": 0
+        },
+        "components": [],
+        "timespent": 115200,
+        "timeoriginalestimate": null,
+        "project": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/project/10011",
+          "id": "10011",
+          "key": "CFHAT",
+          "name": "HR & Admin Team Projects",
+          "projectTypeKey": "business",
+          "simplified": true,
+          "avatarUrls": {
+            "48x48": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10403",
+            "24x24": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10403?size=small",
+            "16x16": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10403?size=xsmall",
+            "32x32": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10403?size=medium"
+          }
+        },
+        "description": null,
+        "fixVersions": [],
+        "customfield_10033": null,
+        "aggregatetimespent": 115200,
+        "statusCategory": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/4",
+          "id": 4,
+          "key": "indeterminate",
+          "colorName": "yellow",
+          "name": "In Progress"
+        },
+        "resolution": null,
+        "timetracking": {
+          "remainingEstimate": "0m",
+          "timeSpent": "4d",
+          "remainingEstimateSeconds": 0,
+          "timeSpentSeconds": 115200
+        },
+        "customfield_10015": null,
+        "security": null,
+        "attachment": [],
+        "aggregatetimeestimate": 0,
+        "resolutiondate": null,
+        "workratio": -1,
+        "summary": "Design: Desk Calendar 2026",
+        "watches": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/CFHAT-7/watchers",
+          "watchCount": 1,
+          "isWatching": false
+        },
+        "lastViewed": null,
+        "creator": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A7480f087-7269-4957-9e6d-ee85e73b09e2",
+          "accountId": "712020:7480f087-7269-4957-9e6d-ee85e73b09e2",
+          "avatarUrls": {
+            "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:7480f087-7269-4957-9e6d-ee85e73b09e2/bdf08eba-fdbb-4737-a97b-e9aceda31b31/48",
+            "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:7480f087-7269-4957-9e6d-ee85e73b09e2/bdf08eba-fdbb-4737-a97b-e9aceda31b31/24",
+            "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:7480f087-7269-4957-9e6d-ee85e73b09e2/bdf08eba-fdbb-4737-a97b-e9aceda31b31/16",
+            "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:7480f087-7269-4957-9e6d-ee85e73b09e2/bdf08eba-fdbb-4737-a97b-e9aceda31b31/32"
+          },
+          "displayName": "Mohit Kumar",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "subtasks": [],
+        "created": "2025-12-22T20:04:02.945+0530",
+        "customfield_10021": null,
+        "reporter": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A7480f087-7269-4957-9e6d-ee85e73b09e2",
+          "accountId": "712020:7480f087-7269-4957-9e6d-ee85e73b09e2",
+          "avatarUrls": {
+            "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:7480f087-7269-4957-9e6d-ee85e73b09e2/bdf08eba-fdbb-4737-a97b-e9aceda31b31/48",
+            "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:7480f087-7269-4957-9e6d-ee85e73b09e2/bdf08eba-fdbb-4737-a97b-e9aceda31b31/24",
+            "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:7480f087-7269-4957-9e6d-ee85e73b09e2/bdf08eba-fdbb-4737-a97b-e9aceda31b31/16",
+            "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:7480f087-7269-4957-9e6d-ee85e73b09e2/bdf08eba-fdbb-4737-a97b-e9aceda31b31/32"
+          },
+          "displayName": "Mohit Kumar",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "aggregateprogress": {
+          "progress": 115200,
+          "total": 115200,
+          "percent": 100
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "customfield_10001": null,
+        "labels": [],
+        "environment": null,
+        "customfield_10019": "0|i00drj:",
+        "timeestimate": 0,
+        "aggregatetimeoriginalestimate": null,
+        "versions": [],
+        "duedate": null,
+        "progress": {
+          "progress": 115200,
+          "total": 115200,
+          "percent": 100
+        },
+        "issuelinks": [],
+        "votes": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/CFHAT-7/votes",
+          "votes": 0,
+          "hasVoted": false
+        },
+        "comment": {
+          "comments": [],
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14688/comment",
+          "maxResults": 0,
+          "total": 0,
+          "startAt": 0
+        },
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A7480f087-7269-4957-9e6d-ee85e73b09e2",
+          "accountId": "712020:7480f087-7269-4957-9e6d-ee85e73b09e2",
+          "avatarUrls": {
+            "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:7480f087-7269-4957-9e6d-ee85e73b09e2/bdf08eba-fdbb-4737-a97b-e9aceda31b31/48",
+            "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:7480f087-7269-4957-9e6d-ee85e73b09e2/bdf08eba-fdbb-4737-a97b-e9aceda31b31/24",
+            "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:7480f087-7269-4957-9e6d-ee85e73b09e2/bdf08eba-fdbb-4737-a97b-e9aceda31b31/16",
+            "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:7480f087-7269-4957-9e6d-ee85e73b09e2/bdf08eba-fdbb-4737-a97b-e9aceda31b31/32"
+          },
+          "displayName": "Mohit Kumar",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "worklog": {
+          "startAt": 0,
+          "maxResults": 20,
+          "total": 5,
+          "worklogs": [
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14688/worklog/13695",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A7480f087-7269-4957-9e6d-ee85e73b09e2",
+                "accountId": "712020:7480f087-7269-4957-9e6d-ee85e73b09e2",
+                "avatarUrls": {
+                  "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:7480f087-7269-4957-9e6d-ee85e73b09e2/bdf08eba-fdbb-4737-a97b-e9aceda31b31/48",
+                  "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:7480f087-7269-4957-9e6d-ee85e73b09e2/bdf08eba-fdbb-4737-a97b-e9aceda31b31/24",
+                  "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:7480f087-7269-4957-9e6d-ee85e73b09e2/bdf08eba-fdbb-4737-a97b-e9aceda31b31/16",
+                  "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:7480f087-7269-4957-9e6d-ee85e73b09e2/bdf08eba-fdbb-4737-a97b-e9aceda31b31/32"
+                },
+                "displayName": "Mohit Kumar",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A7480f087-7269-4957-9e6d-ee85e73b09e2",
+                "accountId": "712020:7480f087-7269-4957-9e6d-ee85e73b09e2",
+                "avatarUrls": {
+                  "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:7480f087-7269-4957-9e6d-ee85e73b09e2/bdf08eba-fdbb-4737-a97b-e9aceda31b31/48",
+                  "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:7480f087-7269-4957-9e6d-ee85e73b09e2/bdf08eba-fdbb-4737-a97b-e9aceda31b31/24",
+                  "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:7480f087-7269-4957-9e6d-ee85e73b09e2/bdf08eba-fdbb-4737-a97b-e9aceda31b31/16",
+                  "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:7480f087-7269-4957-9e6d-ee85e73b09e2/bdf08eba-fdbb-4737-a97b-e9aceda31b31/32"
+                },
+                "displayName": "Mohit Kumar",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "comment": {
+                "type": "doc",
+                "version": 1,
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Design this Calendar"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "created": "2025-12-22T20:04:32.620+0530",
+              "updated": "2025-12-22T20:04:32.620+0530",
+              "started": "2025-12-22T12:02:48.358+0530",
+              "timeSpent": "1d",
+              "timeSpentSeconds": 28800,
+              "id": "13695",
+              "issueId": "14688"
+            },
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14688/worklog/13705",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A7480f087-7269-4957-9e6d-ee85e73b09e2",
+                "accountId": "712020:7480f087-7269-4957-9e6d-ee85e73b09e2",
+                "avatarUrls": {
+                  "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:7480f087-7269-4957-9e6d-ee85e73b09e2/bdf08eba-fdbb-4737-a97b-e9aceda31b31/48",
+                  "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:7480f087-7269-4957-9e6d-ee85e73b09e2/bdf08eba-fdbb-4737-a97b-e9aceda31b31/24",
+                  "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:7480f087-7269-4957-9e6d-ee85e73b09e2/bdf08eba-fdbb-4737-a97b-e9aceda31b31/16",
+                  "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:7480f087-7269-4957-9e6d-ee85e73b09e2/bdf08eba-fdbb-4737-a97b-e9aceda31b31/32"
+                },
+                "displayName": "Mohit Kumar",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A7480f087-7269-4957-9e6d-ee85e73b09e2",
+                "accountId": "712020:7480f087-7269-4957-9e6d-ee85e73b09e2",
+                "avatarUrls": {
+                  "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:7480f087-7269-4957-9e6d-ee85e73b09e2/bdf08eba-fdbb-4737-a97b-e9aceda31b31/48",
+                  "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:7480f087-7269-4957-9e6d-ee85e73b09e2/bdf08eba-fdbb-4737-a97b-e9aceda31b31/24",
+                  "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:7480f087-7269-4957-9e6d-ee85e73b09e2/bdf08eba-fdbb-4737-a97b-e9aceda31b31/16",
+                  "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:7480f087-7269-4957-9e6d-ee85e73b09e2/bdf08eba-fdbb-4737-a97b-e9aceda31b31/32"
+                },
+                "displayName": "Mohit Kumar",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "comment": {
+                "type": "doc",
+                "version": 1,
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Design this Calendar"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "created": "2025-12-23T20:05:51.422+0530",
+              "updated": "2025-12-23T20:05:51.422+0530",
+              "started": "2025-12-23T16:04:21.780+0530",
+              "timeSpent": "4h",
+              "timeSpentSeconds": 14400,
+              "id": "13705",
+              "issueId": "14688"
+            },
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14688/worklog/13802",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A7480f087-7269-4957-9e6d-ee85e73b09e2",
+                "accountId": "712020:7480f087-7269-4957-9e6d-ee85e73b09e2",
+                "avatarUrls": {
+                  "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:7480f087-7269-4957-9e6d-ee85e73b09e2/bdf08eba-fdbb-4737-a97b-e9aceda31b31/48",
+                  "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:7480f087-7269-4957-9e6d-ee85e73b09e2/bdf08eba-fdbb-4737-a97b-e9aceda31b31/24",
+                  "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:7480f087-7269-4957-9e6d-ee85e73b09e2/bdf08eba-fdbb-4737-a97b-e9aceda31b31/16",
+                  "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:7480f087-7269-4957-9e6d-ee85e73b09e2/bdf08eba-fdbb-4737-a97b-e9aceda31b31/32"
+                },
+                "displayName": "Mohit Kumar",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A7480f087-7269-4957-9e6d-ee85e73b09e2",
+                "accountId": "712020:7480f087-7269-4957-9e6d-ee85e73b09e2",
+                "avatarUrls": {
+                  "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:7480f087-7269-4957-9e6d-ee85e73b09e2/bdf08eba-fdbb-4737-a97b-e9aceda31b31/48",
+                  "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:7480f087-7269-4957-9e6d-ee85e73b09e2/bdf08eba-fdbb-4737-a97b-e9aceda31b31/24",
+                  "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:7480f087-7269-4957-9e6d-ee85e73b09e2/bdf08eba-fdbb-4737-a97b-e9aceda31b31/16",
+                  "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:7480f087-7269-4957-9e6d-ee85e73b09e2/bdf08eba-fdbb-4737-a97b-e9aceda31b31/32"
+                },
+                "displayName": "Mohit Kumar",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "comment": {
+                "type": "doc",
+                "version": 1,
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Design Desk Calendar"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "created": "2025-12-29T20:05:34.581+0530",
+              "updated": "2025-12-29T20:05:34.581+0530",
+              "started": "2025-12-29T12:03:49.880+0530",
+              "timeSpent": "1d",
+              "timeSpentSeconds": 28800,
+              "id": "13802",
+              "issueId": "14688"
+            },
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14688/worklog/13821",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A7480f087-7269-4957-9e6d-ee85e73b09e2",
+                "accountId": "712020:7480f087-7269-4957-9e6d-ee85e73b09e2",
+                "avatarUrls": {
+                  "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:7480f087-7269-4957-9e6d-ee85e73b09e2/bdf08eba-fdbb-4737-a97b-e9aceda31b31/48",
+                  "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:7480f087-7269-4957-9e6d-ee85e73b09e2/bdf08eba-fdbb-4737-a97b-e9aceda31b31/24",
+                  "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:7480f087-7269-4957-9e6d-ee85e73b09e2/bdf08eba-fdbb-4737-a97b-e9aceda31b31/16",
+                  "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:7480f087-7269-4957-9e6d-ee85e73b09e2/bdf08eba-fdbb-4737-a97b-e9aceda31b31/32"
+                },
+                "displayName": "Mohit Kumar",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A7480f087-7269-4957-9e6d-ee85e73b09e2",
+                "accountId": "712020:7480f087-7269-4957-9e6d-ee85e73b09e2",
+                "avatarUrls": {
+                  "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:7480f087-7269-4957-9e6d-ee85e73b09e2/bdf08eba-fdbb-4737-a97b-e9aceda31b31/48",
+                  "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:7480f087-7269-4957-9e6d-ee85e73b09e2/bdf08eba-fdbb-4737-a97b-e9aceda31b31/24",
+                  "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:7480f087-7269-4957-9e6d-ee85e73b09e2/bdf08eba-fdbb-4737-a97b-e9aceda31b31/16",
+                  "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:7480f087-7269-4957-9e6d-ee85e73b09e2/bdf08eba-fdbb-4737-a97b-e9aceda31b31/32"
+                },
+                "displayName": "Mohit Kumar",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "comment": {
+                "type": "doc",
+                "version": 1,
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Design Desk Calendar 2026"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "created": "2025-12-30T20:39:39.446+0530",
+              "updated": "2025-12-30T20:40:06.129+0530",
+              "started": "2025-12-30T12:38:03.315+0530",
+              "timeSpent": "1d",
+              "timeSpentSeconds": 28800,
+              "id": "13821",
+              "issueId": "14688"
+            },
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14688/worklog/13838",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A7480f087-7269-4957-9e6d-ee85e73b09e2",
+                "accountId": "712020:7480f087-7269-4957-9e6d-ee85e73b09e2",
+                "avatarUrls": {
+                  "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:7480f087-7269-4957-9e6d-ee85e73b09e2/bdf08eba-fdbb-4737-a97b-e9aceda31b31/48",
+                  "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:7480f087-7269-4957-9e6d-ee85e73b09e2/bdf08eba-fdbb-4737-a97b-e9aceda31b31/24",
+                  "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:7480f087-7269-4957-9e6d-ee85e73b09e2/bdf08eba-fdbb-4737-a97b-e9aceda31b31/16",
+                  "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:7480f087-7269-4957-9e6d-ee85e73b09e2/bdf08eba-fdbb-4737-a97b-e9aceda31b31/32"
+                },
+                "displayName": "Mohit Kumar",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A7480f087-7269-4957-9e6d-ee85e73b09e2",
+                "accountId": "712020:7480f087-7269-4957-9e6d-ee85e73b09e2",
+                "avatarUrls": {
+                  "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:7480f087-7269-4957-9e6d-ee85e73b09e2/bdf08eba-fdbb-4737-a97b-e9aceda31b31/48",
+                  "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:7480f087-7269-4957-9e6d-ee85e73b09e2/bdf08eba-fdbb-4737-a97b-e9aceda31b31/24",
+                  "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:7480f087-7269-4957-9e6d-ee85e73b09e2/bdf08eba-fdbb-4737-a97b-e9aceda31b31/16",
+                  "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:7480f087-7269-4957-9e6d-ee85e73b09e2/bdf08eba-fdbb-4737-a97b-e9aceda31b31/32"
+                },
+                "displayName": "Mohit Kumar",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "comment": {
+                "type": "doc",
+                "version": 1,
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Design Desk Calendar 2026"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "created": "2025-12-31T19:41:45.193+0530",
+              "updated": "2025-12-31T19:41:45.193+0530",
+              "started": "2025-12-31T15:40:01.957+0530",
+              "timeSpent": "4h",
+              "timeSpentSeconds": 14400,
+              "id": "13838",
+              "issueId": "14688"
+            }
+          ]
+        },
+        "updated": "2025-12-31T19:41:45.213+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10045",
+          "description": "This work item is being actively worked on at the moment by the assignee.",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "In Progress",
+          "id": "10045",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/4",
+            "id": 4,
+            "key": "indeterminate",
+            "colorName": "yellow",
+            "name": "In Progress"
+          }
+        }
+      }
+    },
     {
       "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
       "id": "13062",

@@ -2,8 +2,1668 @@
   "name": "Web Articles",
   "id": "10355",
   "key": "AR",
-  "issue_count": 67,
+  "issue_count": 73,
   "issues": [
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "14989",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14989",
+      "key": "AR-74",
+      "fields": {
+        "statuscategorychangedate": "2026-01-06T18:23:35.253+0530",
+        "issuetype": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issuetype/10382",
+          "id": "10382",
+          "description": "A small, distinct piece of work.",
+          "iconUrl": "https://idealabprojects.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10318?size=medium",
+          "name": "Task",
+          "subtask": false,
+          "avatarId": 10318,
+          "entityId": "385f3442-6e63-4a90-a6cf-6cdbe6f3c54c",
+          "hierarchyLevel": 0
+        },
+        "components": [],
+        "timespent": null,
+        "timeoriginalestimate": null,
+        "project": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/project/10355",
+          "id": "10355",
+          "key": "AR",
+          "name": "Web Articles",
+          "projectTypeKey": "business",
+          "simplified": true,
+          "avatarUrls": {
+            "48x48": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10401",
+            "24x24": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10401?size=small",
+            "16x16": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10401?size=xsmall",
+            "32x32": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10401?size=medium"
+          }
+        },
+        "description": null,
+        "fixVersions": [],
+        "customfield_10033": null,
+        "aggregatetimespent": null,
+        "statusCategory": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
+          "id": 2,
+          "key": "new",
+          "colorName": "blue-gray",
+          "name": "To Do"
+        },
+        "resolution": null,
+        "timetracking": {},
+        "customfield_10015": null,
+        "security": null,
+        "attachment": [],
+        "aggregatetimeestimate": null,
+        "resolutiondate": null,
+        "workratio": -1,
+        "summary": "Paralegal AIO - 5 (The Invisible Infrastructure of Legal Work: How Remote Paralegals and AI Keep Case Files Moving )",
+        "watches": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/AR-74/watchers",
+          "watchCount": 1,
+          "isWatching": false
+        },
+        "lastViewed": null,
+        "creator": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A41435bf1-7a46-4918-82dc-ba80eec20553",
+          "accountId": "712020:41435bf1-7a46-4918-82dc-ba80eec20553",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
+            "24x24": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
+            "16x16": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
+            "32x32": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png"
+          },
+          "displayName": "Praveen Soni",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "subtasks": [],
+        "created": "2026-01-06T18:23:35.057+0530",
+        "reporter": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A41435bf1-7a46-4918-82dc-ba80eec20553",
+          "accountId": "712020:41435bf1-7a46-4918-82dc-ba80eec20553",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
+            "24x24": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
+            "16x16": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
+            "32x32": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png"
+          },
+          "displayName": "Praveen Soni",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "aggregateprogress": {
+          "progress": 0,
+          "total": 0
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "customfield_10001": null,
+        "labels": [],
+        "environment": null,
+        "customfield_10019": "0|i00eav:",
+        "timeestimate": null,
+        "aggregatetimeoriginalestimate": null,
+        "versions": [],
+        "duedate": null,
+        "progress": {
+          "progress": 0,
+          "total": 0
+        },
+        "issuelinks": [],
+        "votes": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/AR-74/votes",
+          "votes": 0,
+          "hasVoted": false
+        },
+        "comment": {
+          "comments": [
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14989/comment/19651",
+              "id": "19651",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A41435bf1-7a46-4918-82dc-ba80eec20553",
+                "accountId": "712020:41435bf1-7a46-4918-82dc-ba80eec20553",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
+                  "24x24": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
+                  "16x16": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
+                  "32x32": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png"
+                },
+                "displayName": "Praveen Soni",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "body": {
+                "type": "doc",
+                "version": 1,
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "mention",
+                        "attrs": {
+                          "id": "712020:74ae95c3-5c9a-4ef0-b632-b97f4d713f48",
+                          "text": "@Irfan Ahmad",
+                          "accessLevel": "",
+                          "localId": "1c186c7b-29ec-4d39-ac11-85207edfd0be"
+                        }
+                      },
+                      {
+                        "type": "text",
+                        "text": "Sir, this is good to go."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Paralegal - AIO 5 (Guest Blog)"
+                      },
+                      {
+                        "type": "hardBreak"
+                      },
+                      {
+                        "type": "inlineCard",
+                        "attrs": {
+                          "url": "https://vemp-my.sharepoint.com/:w:/g/personal/irfanahmad_virtualemployee_com/IQCg9h4xOZNzQpOFp2n07iOdAVc2Ewo5YFCsoH_0AkTH1AQ?e=zaQ9th"
+                        }
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      },
+                      {
+                        "type": "hardBreak"
+                      },
+                      {
+                        "type": "text",
+                        "text": "https://app.originality.ai/share/a08nv1o492murdhw",
+                        "marks": [
+                          {
+                            "type": "link",
+                            "attrs": {
+                              "href": "https://app.originality.ai/share/a08nv1o492murdhw"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A41435bf1-7a46-4918-82dc-ba80eec20553",
+                "accountId": "712020:41435bf1-7a46-4918-82dc-ba80eec20553",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
+                  "24x24": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
+                  "16x16": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
+                  "32x32": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png"
+                },
+                "displayName": "Praveen Soni",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "created": "2026-01-06T18:27:36.154+0530",
+              "updated": "2026-01-06T18:27:36.154+0530",
+              "jsdPublic": true
+            }
+          ],
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14989/comment",
+          "maxResults": 1,
+          "total": 1,
+          "startAt": 0
+        },
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A41435bf1-7a46-4918-82dc-ba80eec20553",
+          "accountId": "712020:41435bf1-7a46-4918-82dc-ba80eec20553",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
+            "24x24": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
+            "16x16": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
+            "32x32": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png"
+          },
+          "displayName": "Praveen Soni",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "worklog": {
+          "startAt": 0,
+          "maxResults": 20,
+          "total": 0,
+          "worklogs": []
+        },
+        "updated": "2026-01-06T18:29:39.066+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10570",
+          "description": "This work item is being actively worked on at the moment by the assignee.",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "In Progress",
+          "id": "10570",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
+            "id": 2,
+            "key": "new",
+            "colorName": "blue-gray",
+            "name": "To Do"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "14988",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14988",
+      "key": "AR-73",
+      "fields": {
+        "statuscategorychangedate": "2026-01-06T18:23:28.588+0530",
+        "issuetype": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issuetype/10382",
+          "id": "10382",
+          "description": "A small, distinct piece of work.",
+          "iconUrl": "https://idealabprojects.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10318?size=medium",
+          "name": "Task",
+          "subtask": false,
+          "avatarId": 10318,
+          "entityId": "385f3442-6e63-4a90-a6cf-6cdbe6f3c54c",
+          "hierarchyLevel": 0
+        },
+        "components": [],
+        "timespent": null,
+        "timeoriginalestimate": null,
+        "project": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/project/10355",
+          "id": "10355",
+          "key": "AR",
+          "name": "Web Articles",
+          "projectTypeKey": "business",
+          "simplified": true,
+          "avatarUrls": {
+            "48x48": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10401",
+            "24x24": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10401?size=small",
+            "16x16": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10401?size=xsmall",
+            "32x32": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10401?size=medium"
+          }
+        },
+        "description": null,
+        "fixVersions": [],
+        "customfield_10033": null,
+        "aggregatetimespent": null,
+        "statusCategory": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
+          "id": 2,
+          "key": "new",
+          "colorName": "blue-gray",
+          "name": "To Do"
+        },
+        "resolution": null,
+        "timetracking": {},
+        "customfield_10015": null,
+        "security": null,
+        "attachment": [],
+        "aggregatetimeestimate": null,
+        "resolutiondate": null,
+        "workratio": -1,
+        "summary": "Paralegal AIO - 4 (What Law Firms Get Wrong About Outsourcing Paralegal Work )",
+        "watches": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/AR-73/watchers",
+          "watchCount": 1,
+          "isWatching": false
+        },
+        "lastViewed": null,
+        "creator": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A41435bf1-7a46-4918-82dc-ba80eec20553",
+          "accountId": "712020:41435bf1-7a46-4918-82dc-ba80eec20553",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
+            "24x24": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
+            "16x16": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
+            "32x32": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png"
+          },
+          "displayName": "Praveen Soni",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "subtasks": [],
+        "created": "2026-01-06T18:23:28.404+0530",
+        "reporter": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A41435bf1-7a46-4918-82dc-ba80eec20553",
+          "accountId": "712020:41435bf1-7a46-4918-82dc-ba80eec20553",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
+            "24x24": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
+            "16x16": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
+            "32x32": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png"
+          },
+          "displayName": "Praveen Soni",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "aggregateprogress": {
+          "progress": 0,
+          "total": 0
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "customfield_10001": null,
+        "labels": [],
+        "environment": null,
+        "customfield_10019": "0|i00ean:",
+        "timeestimate": null,
+        "aggregatetimeoriginalestimate": null,
+        "versions": [],
+        "duedate": null,
+        "progress": {
+          "progress": 0,
+          "total": 0
+        },
+        "issuelinks": [],
+        "votes": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/AR-73/votes",
+          "votes": 0,
+          "hasVoted": false
+        },
+        "comment": {
+          "comments": [
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14988/comment/19650",
+              "id": "19650",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A41435bf1-7a46-4918-82dc-ba80eec20553",
+                "accountId": "712020:41435bf1-7a46-4918-82dc-ba80eec20553",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
+                  "24x24": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
+                  "16x16": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
+                  "32x32": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png"
+                },
+                "displayName": "Praveen Soni",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "body": {
+                "type": "doc",
+                "version": 1,
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Hi "
+                      },
+                      {
+                        "type": "mention",
+                        "attrs": {
+                          "id": "712020:74ae95c3-5c9a-4ef0-b632-b97f4d713f48",
+                          "text": "@Irfan Ahmad",
+                          "accessLevel": "",
+                          "localId": "f345e0a9-8891-408d-8fd8-3dfbfae54b83"
+                        }
+                      },
+                      {
+                        "type": "text",
+                        "text": " Sir, I have reviewed the content requesting you to implement the minor feedback."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Paralegal - AIO 4"
+                      },
+                      {
+                        "type": "hardBreak"
+                      },
+                      {
+                        "type": "inlineCard",
+                        "attrs": {
+                          "url": "https://vemp-my.sharepoint.com/:w:/g/personal/irfanahmad_virtualemployee_com/IQA5T2rH8bhVTZEb3MBxvVwQASevT47CD3xw7pQzbIG-bMg?e=9cmSAF"
+                        }
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      },
+                      {
+                        "type": "hardBreak"
+                      },
+                      {
+                        "type": "text",
+                        "text": "https://app.originality.ai/share/n7p8vfcd0s1wi49r",
+                        "marks": [
+                          {
+                            "type": "link",
+                            "attrs": {
+                              "href": "https://app.originality.ai/share/n7p8vfcd0s1wi49r"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A41435bf1-7a46-4918-82dc-ba80eec20553",
+                "accountId": "712020:41435bf1-7a46-4918-82dc-ba80eec20553",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
+                  "24x24": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
+                  "16x16": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
+                  "32x32": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png"
+                },
+                "displayName": "Praveen Soni",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "created": "2026-01-06T18:27:02.772+0530",
+              "updated": "2026-01-06T18:27:02.772+0530",
+              "jsdPublic": true
+            }
+          ],
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14988/comment",
+          "maxResults": 1,
+          "total": 1,
+          "startAt": 0
+        },
+        "assignee": null,
+        "worklog": {
+          "startAt": 0,
+          "maxResults": 20,
+          "total": 0,
+          "worklogs": []
+        },
+        "updated": "2026-01-06T18:29:20.571+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10567",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "To Do",
+          "id": "10567",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
+            "id": 2,
+            "key": "new",
+            "colorName": "blue-gray",
+            "name": "To Do"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "14987",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14987",
+      "key": "AR-72",
+      "fields": {
+        "statuscategorychangedate": "2026-01-06T18:23:23.309+0530",
+        "issuetype": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issuetype/10382",
+          "id": "10382",
+          "description": "A small, distinct piece of work.",
+          "iconUrl": "https://idealabprojects.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10318?size=medium",
+          "name": "Task",
+          "subtask": false,
+          "avatarId": 10318,
+          "entityId": "385f3442-6e63-4a90-a6cf-6cdbe6f3c54c",
+          "hierarchyLevel": 0
+        },
+        "components": [],
+        "timespent": null,
+        "timeoriginalestimate": null,
+        "project": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/project/10355",
+          "id": "10355",
+          "key": "AR",
+          "name": "Web Articles",
+          "projectTypeKey": "business",
+          "simplified": true,
+          "avatarUrls": {
+            "48x48": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10401",
+            "24x24": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10401?size=small",
+            "16x16": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10401?size=xsmall",
+            "32x32": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10401?size=medium"
+          }
+        },
+        "description": null,
+        "fixVersions": [],
+        "customfield_10033": null,
+        "aggregatetimespent": null,
+        "statusCategory": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
+          "id": 2,
+          "key": "new",
+          "colorName": "blue-gray",
+          "name": "To Do"
+        },
+        "resolution": null,
+        "timetracking": {},
+        "customfield_10015": null,
+        "security": null,
+        "attachment": [],
+        "aggregatetimeestimate": null,
+        "resolutiondate": null,
+        "workratio": -1,
+        "summary": "Paralegal AIO - 3 (Paralegal FAQs )",
+        "watches": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/AR-72/watchers",
+          "watchCount": 1,
+          "isWatching": false
+        },
+        "lastViewed": null,
+        "creator": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A41435bf1-7a46-4918-82dc-ba80eec20553",
+          "accountId": "712020:41435bf1-7a46-4918-82dc-ba80eec20553",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
+            "24x24": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
+            "16x16": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
+            "32x32": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png"
+          },
+          "displayName": "Praveen Soni",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "subtasks": [],
+        "created": "2026-01-06T18:23:23.098+0530",
+        "reporter": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A41435bf1-7a46-4918-82dc-ba80eec20553",
+          "accountId": "712020:41435bf1-7a46-4918-82dc-ba80eec20553",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
+            "24x24": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
+            "16x16": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
+            "32x32": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png"
+          },
+          "displayName": "Praveen Soni",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "aggregateprogress": {
+          "progress": 0,
+          "total": 0
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "customfield_10001": null,
+        "labels": [],
+        "environment": null,
+        "customfield_10019": "0|i00eaf:",
+        "timeestimate": null,
+        "aggregatetimeoriginalestimate": null,
+        "versions": [],
+        "duedate": null,
+        "progress": {
+          "progress": 0,
+          "total": 0
+        },
+        "issuelinks": [],
+        "votes": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/AR-72/votes",
+          "votes": 0,
+          "hasVoted": false
+        },
+        "comment": {
+          "comments": [
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14987/comment/19649",
+              "id": "19649",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A41435bf1-7a46-4918-82dc-ba80eec20553",
+                "accountId": "712020:41435bf1-7a46-4918-82dc-ba80eec20553",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
+                  "24x24": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
+                  "16x16": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
+                  "32x32": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png"
+                },
+                "displayName": "Praveen Soni",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "body": {
+                "type": "doc",
+                "version": 1,
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Hi "
+                      },
+                      {
+                        "type": "mention",
+                        "attrs": {
+                          "id": "712020:74ae95c3-5c9a-4ef0-b632-b97f4d713f48",
+                          "text": "@Irfan Ahmad",
+                          "accessLevel": "",
+                          "localId": "61d15d83-9ab0-42c5-b731-779294a7dd12"
+                        }
+                      },
+                      {
+                        "type": "text",
+                        "text": " Sir, I have reviewed the content requesting you to implement the minor feedback."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Paralegal - AIO 3 (FAQ)"
+                      },
+                      {
+                        "type": "hardBreak"
+                      },
+                      {
+                        "type": "inlineCard",
+                        "attrs": {
+                          "url": "https://vemp-my.sharepoint.com/:w:/g/personal/irfanahmad_virtualemployee_com/IQCuIk63Hn8JTJ141UJnHCalAQoQGszZ1yQj1M-PzoUO4EA?e=QTyTHy"
+                        }
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      },
+                      {
+                        "type": "hardBreak"
+                      },
+                      {
+                        "type": "text",
+                        "text": "https://app.originality.ai/share/apbs50k7owxfhgqm",
+                        "marks": [
+                          {
+                            "type": "link",
+                            "attrs": {
+                              "href": "https://app.originality.ai/share/apbs50k7owxfhgqm"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A41435bf1-7a46-4918-82dc-ba80eec20553",
+                "accountId": "712020:41435bf1-7a46-4918-82dc-ba80eec20553",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
+                  "24x24": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
+                  "16x16": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
+                  "32x32": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png"
+                },
+                "displayName": "Praveen Soni",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "created": "2026-01-06T18:26:36.560+0530",
+              "updated": "2026-01-06T18:26:36.560+0530",
+              "jsdPublic": true
+            }
+          ],
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14987/comment",
+          "maxResults": 1,
+          "total": 1,
+          "startAt": 0
+        },
+        "assignee": null,
+        "worklog": {
+          "startAt": 0,
+          "maxResults": 20,
+          "total": 0,
+          "worklogs": []
+        },
+        "updated": "2026-01-06T18:28:57.804+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10567",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "To Do",
+          "id": "10567",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
+            "id": 2,
+            "key": "new",
+            "colorName": "blue-gray",
+            "name": "To Do"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "14986",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14986",
+      "key": "AR-71",
+      "fields": {
+        "statuscategorychangedate": "2026-01-06T18:23:16.703+0530",
+        "issuetype": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issuetype/10382",
+          "id": "10382",
+          "description": "A small, distinct piece of work.",
+          "iconUrl": "https://idealabprojects.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10318?size=medium",
+          "name": "Task",
+          "subtask": false,
+          "avatarId": 10318,
+          "entityId": "385f3442-6e63-4a90-a6cf-6cdbe6f3c54c",
+          "hierarchyLevel": 0
+        },
+        "components": [],
+        "timespent": null,
+        "timeoriginalestimate": null,
+        "project": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/project/10355",
+          "id": "10355",
+          "key": "AR",
+          "name": "Web Articles",
+          "projectTypeKey": "business",
+          "simplified": true,
+          "avatarUrls": {
+            "48x48": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10401",
+            "24x24": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10401?size=small",
+            "16x16": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10401?size=xsmall",
+            "32x32": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10401?size=medium"
+          }
+        },
+        "description": null,
+        "fixVersions": [],
+        "customfield_10033": null,
+        "aggregatetimespent": null,
+        "statusCategory": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
+          "id": 2,
+          "key": "new",
+          "colorName": "blue-gray",
+          "name": "To Do"
+        },
+        "resolution": null,
+        "timetracking": {},
+        "customfield_10015": null,
+        "security": null,
+        "attachment": [],
+        "aggregatetimeestimate": null,
+        "resolutiondate": null,
+        "workratio": -1,
+        "summary": "Paralegal AIO - 2 (The Real Economics of Offshore Paralegals: Why US Firms Are Filling the Capacity Gap with Remote Support )",
+        "watches": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/AR-71/watchers",
+          "watchCount": 1,
+          "isWatching": false
+        },
+        "lastViewed": null,
+        "creator": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A41435bf1-7a46-4918-82dc-ba80eec20553",
+          "accountId": "712020:41435bf1-7a46-4918-82dc-ba80eec20553",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
+            "24x24": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
+            "16x16": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
+            "32x32": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png"
+          },
+          "displayName": "Praveen Soni",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "subtasks": [],
+        "created": "2026-01-06T18:23:16.481+0530",
+        "reporter": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A41435bf1-7a46-4918-82dc-ba80eec20553",
+          "accountId": "712020:41435bf1-7a46-4918-82dc-ba80eec20553",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
+            "24x24": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
+            "16x16": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
+            "32x32": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png"
+          },
+          "displayName": "Praveen Soni",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "aggregateprogress": {
+          "progress": 0,
+          "total": 0
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "customfield_10001": null,
+        "labels": [],
+        "environment": null,
+        "customfield_10019": "0|i00ea7:",
+        "timeestimate": null,
+        "aggregatetimeoriginalestimate": null,
+        "versions": [],
+        "duedate": null,
+        "progress": {
+          "progress": 0,
+          "total": 0
+        },
+        "issuelinks": [],
+        "votes": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/AR-71/votes",
+          "votes": 0,
+          "hasVoted": false
+        },
+        "comment": {
+          "comments": [
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14986/comment/19648",
+              "id": "19648",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A41435bf1-7a46-4918-82dc-ba80eec20553",
+                "accountId": "712020:41435bf1-7a46-4918-82dc-ba80eec20553",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
+                  "24x24": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
+                  "16x16": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
+                  "32x32": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png"
+                },
+                "displayName": "Praveen Soni",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "body": {
+                "type": "doc",
+                "version": 1,
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Hi "
+                      },
+                      {
+                        "type": "mention",
+                        "attrs": {
+                          "id": "712020:74ae95c3-5c9a-4ef0-b632-b97f4d713f48",
+                          "text": "@Irfan Ahmad",
+                          "accessLevel": "",
+                          "localId": "8805aa74-a1d9-46b3-9816-1cdb81040305"
+                        }
+                      },
+                      {
+                        "type": "text",
+                        "text": " Sir, I have reviewed the content requesting you to implement the minor feedback."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Paralegal - AIO 2"
+                      },
+                      {
+                        "type": "hardBreak"
+                      },
+                      {
+                        "type": "inlineCard",
+                        "attrs": {
+                          "url": "https://vemp-my.sharepoint.com/:w:/g/personal/irfanahmad_virtualemployee_com/IQAHoYF7r-CRQbiK5s7RSdWLASJkIR0GTIcMgXf8tWUN0pA?e=Uv0FGY"
+                        }
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      },
+                      {
+                        "type": "hardBreak"
+                      },
+                      {
+                        "type": "text",
+                        "text": "https://app.originality.ai/share/eil4p31xhcjz62mk",
+                        "marks": [
+                          {
+                            "type": "link",
+                            "attrs": {
+                              "href": "https://app.originality.ai/share/eil4p31xhcjz62mk"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A41435bf1-7a46-4918-82dc-ba80eec20553",
+                "accountId": "712020:41435bf1-7a46-4918-82dc-ba80eec20553",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
+                  "24x24": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
+                  "16x16": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
+                  "32x32": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png"
+                },
+                "displayName": "Praveen Soni",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "created": "2026-01-06T18:26:02.701+0530",
+              "updated": "2026-01-06T18:26:02.701+0530",
+              "jsdPublic": true
+            }
+          ],
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14986/comment",
+          "maxResults": 1,
+          "total": 1,
+          "startAt": 0
+        },
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A74ae95c3-5c9a-4ef0-b632-b97f4d713f48",
+          "accountId": "712020:74ae95c3-5c9a-4ef0-b632-b97f4d713f48",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/ac1d8468a158754150c22a7ebb6f2183?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FIA-3.png",
+            "24x24": "https://secure.gravatar.com/avatar/ac1d8468a158754150c22a7ebb6f2183?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FIA-3.png",
+            "16x16": "https://secure.gravatar.com/avatar/ac1d8468a158754150c22a7ebb6f2183?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FIA-3.png",
+            "32x32": "https://secure.gravatar.com/avatar/ac1d8468a158754150c22a7ebb6f2183?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FIA-3.png"
+          },
+          "displayName": "Irfan Ahmad",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "worklog": {
+          "startAt": 0,
+          "maxResults": 20,
+          "total": 0,
+          "worklogs": []
+        },
+        "updated": "2026-01-06T18:28:34.254+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10567",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "To Do",
+          "id": "10567",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
+            "id": 2,
+            "key": "new",
+            "colorName": "blue-gray",
+            "name": "To Do"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "14985",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14985",
+      "key": "AR-70",
+      "fields": {
+        "statuscategorychangedate": "2026-01-06T18:23:06.463+0530",
+        "issuetype": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issuetype/10382",
+          "id": "10382",
+          "description": "A small, distinct piece of work.",
+          "iconUrl": "https://idealabprojects.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10318?size=medium",
+          "name": "Task",
+          "subtask": false,
+          "avatarId": 10318,
+          "entityId": "385f3442-6e63-4a90-a6cf-6cdbe6f3c54c",
+          "hierarchyLevel": 0
+        },
+        "components": [],
+        "timespent": null,
+        "timeoriginalestimate": null,
+        "project": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/project/10355",
+          "id": "10355",
+          "key": "AR",
+          "name": "Web Articles",
+          "projectTypeKey": "business",
+          "simplified": true,
+          "avatarUrls": {
+            "48x48": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10401",
+            "24x24": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10401?size=small",
+            "16x16": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10401?size=xsmall",
+            "32x32": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10401?size=medium"
+          }
+        },
+        "description": null,
+        "fixVersions": [],
+        "customfield_10033": null,
+        "aggregatetimespent": null,
+        "statusCategory": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
+          "id": 2,
+          "key": "new",
+          "colorName": "blue-gray",
+          "name": "To Do"
+        },
+        "resolution": null,
+        "timetracking": {},
+        "customfield_10015": null,
+        "security": null,
+        "attachment": [],
+        "aggregatetimeestimate": null,
+        "resolutiondate": null,
+        "workratio": -1,
+        "summary": "Paralegal AIO - 1 (The Complete Guide to Virtual Paralegals: Costs, Ethics, Workflows, and How Modern Law Firms Use Remote Legal Talent )",
+        "watches": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/AR-70/watchers",
+          "watchCount": 1,
+          "isWatching": false
+        },
+        "lastViewed": null,
+        "creator": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A41435bf1-7a46-4918-82dc-ba80eec20553",
+          "accountId": "712020:41435bf1-7a46-4918-82dc-ba80eec20553",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
+            "24x24": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
+            "16x16": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
+            "32x32": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png"
+          },
+          "displayName": "Praveen Soni",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "subtasks": [],
+        "created": "2026-01-06T18:23:06.188+0530",
+        "reporter": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A41435bf1-7a46-4918-82dc-ba80eec20553",
+          "accountId": "712020:41435bf1-7a46-4918-82dc-ba80eec20553",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
+            "24x24": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
+            "16x16": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
+            "32x32": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png"
+          },
+          "displayName": "Praveen Soni",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "aggregateprogress": {
+          "progress": 0,
+          "total": 0
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "customfield_10001": null,
+        "labels": [],
+        "environment": null,
+        "customfield_10019": "0|i00e9z:",
+        "timeestimate": null,
+        "aggregatetimeoriginalestimate": null,
+        "versions": [],
+        "duedate": null,
+        "progress": {
+          "progress": 0,
+          "total": 0
+        },
+        "issuelinks": [],
+        "votes": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/AR-70/votes",
+          "votes": 0,
+          "hasVoted": false
+        },
+        "comment": {
+          "comments": [
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14985/comment/19647",
+              "id": "19647",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A41435bf1-7a46-4918-82dc-ba80eec20553",
+                "accountId": "712020:41435bf1-7a46-4918-82dc-ba80eec20553",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
+                  "24x24": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
+                  "16x16": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
+                  "32x32": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png"
+                },
+                "displayName": "Praveen Soni",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "body": {
+                "type": "doc",
+                "version": 1,
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Hi "
+                      },
+                      {
+                        "type": "mention",
+                        "attrs": {
+                          "id": "712020:74ae95c3-5c9a-4ef0-b632-b97f4d713f48",
+                          "text": "@Irfan Ahmad",
+                          "accessLevel": "",
+                          "localId": "751410b0-c657-4850-be56-82ed2c068fa5"
+                        }
+                      },
+                      {
+                        "type": "text",
+                        "text": " Sir, I have reviewed the content requesting you to implement the minor feedback."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Paralegal - AIO 1"
+                      },
+                      {
+                        "type": "hardBreak"
+                      },
+                      {
+                        "type": "inlineCard",
+                        "attrs": {
+                          "url": "https://vemp-my.sharepoint.com/:w:/g/personal/irfanahmad_virtualemployee_com/IQDuU6ZFBZhCT4rC0P49i8fGAZ2XMRSqKzUkaryqhz2NwO8?e=QG5k6H"
+                        }
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      },
+                      {
+                        "type": "hardBreak"
+                      },
+                      {
+                        "type": "text",
+                        "text": "https://app.originality.ai/share/3z0pem98yl625itb",
+                        "marks": [
+                          {
+                            "type": "link",
+                            "attrs": {
+                              "href": "https://app.originality.ai/share/3z0pem98yl625itb"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A41435bf1-7a46-4918-82dc-ba80eec20553",
+                "accountId": "712020:41435bf1-7a46-4918-82dc-ba80eec20553",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
+                  "24x24": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
+                  "16x16": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
+                  "32x32": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png"
+                },
+                "displayName": "Praveen Soni",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "created": "2026-01-06T18:25:29.594+0530",
+              "updated": "2026-01-06T18:25:29.594+0530",
+              "jsdPublic": true
+            }
+          ],
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14985/comment",
+          "maxResults": 1,
+          "total": 1,
+          "startAt": 0
+        },
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A74ae95c3-5c9a-4ef0-b632-b97f4d713f48",
+          "accountId": "712020:74ae95c3-5c9a-4ef0-b632-b97f4d713f48",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/ac1d8468a158754150c22a7ebb6f2183?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FIA-3.png",
+            "24x24": "https://secure.gravatar.com/avatar/ac1d8468a158754150c22a7ebb6f2183?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FIA-3.png",
+            "16x16": "https://secure.gravatar.com/avatar/ac1d8468a158754150c22a7ebb6f2183?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FIA-3.png",
+            "32x32": "https://secure.gravatar.com/avatar/ac1d8468a158754150c22a7ebb6f2183?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FIA-3.png"
+          },
+          "displayName": "Irfan Ahmad",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "worklog": {
+          "startAt": 0,
+          "maxResults": 20,
+          "total": 0,
+          "worklogs": []
+        },
+        "updated": "2026-01-06T18:28:15.475+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10567",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "To Do",
+          "id": "10567",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
+            "id": 2,
+            "key": "new",
+            "colorName": "blue-gray",
+            "name": "To Do"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "14826",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14826",
+      "key": "AR-69",
+      "fields": {
+        "statuscategorychangedate": "2026-01-06T18:20:04.698+0530",
+        "issuetype": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issuetype/10383",
+          "id": "10383",
+          "description": "A small piece of work that's part of a larger task.",
+          "iconUrl": "https://idealabprojects.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10316?size=medium",
+          "name": "Sub-task",
+          "subtask": true,
+          "avatarId": 10316,
+          "entityId": "0b770c26-3dc2-498e-b663-b9ee756a1d83",
+          "hierarchyLevel": -1
+        },
+        "parent": {
+          "id": "10470",
+          "key": "AR-17",
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/10470",
+          "fields": {
+            "summary": "Web Article: How AI & Machine Learning Are Reshaping Digital Marketing-800 words",
+            "status": {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10571",
+              "description": "",
+              "iconUrl": "https://idealabprojects.atlassian.net/",
+              "name": "In Review",
+              "id": "10571",
+              "statusCategory": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
+                "id": 2,
+                "key": "new",
+                "colorName": "blue-gray",
+                "name": "To Do"
+              }
+            },
+            "priority": {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+              "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+              "name": "Medium",
+              "id": "3"
+            },
+            "issuetype": {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issuetype/10382",
+              "id": "10382",
+              "description": "A small, distinct piece of work.",
+              "iconUrl": "https://idealabprojects.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10318?size=medium",
+              "name": "Task",
+              "subtask": false,
+              "avatarId": 10318,
+              "entityId": "385f3442-6e63-4a90-a6cf-6cdbe6f3c54c",
+              "hierarchyLevel": 0
+            }
+          }
+        },
+        "components": [],
+        "timespent": null,
+        "timeoriginalestimate": null,
+        "project": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/project/10355",
+          "id": "10355",
+          "key": "AR",
+          "name": "Web Articles",
+          "projectTypeKey": "business",
+          "simplified": true,
+          "avatarUrls": {
+            "48x48": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10401",
+            "24x24": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10401?size=small",
+            "16x16": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10401?size=xsmall",
+            "32x32": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10401?size=medium"
+          }
+        },
+        "description": null,
+        "fixVersions": [],
+        "customfield_10033": null,
+        "aggregatetimespent": null,
+        "statusCategory": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+          "id": 3,
+          "key": "done",
+          "colorName": "green",
+          "name": "Done"
+        },
+        "resolution": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/resolution/10000",
+          "id": "10000",
+          "description": "Work has been completed on this work item.",
+          "name": "Done"
+        },
+        "timetracking": {},
+        "customfield_10015": "2025-12-30",
+        "security": null,
+        "attachment": [],
+        "aggregatetimeestimate": null,
+        "resolutiondate": "2026-01-06T18:20:04.679+0530",
+        "workratio": -1,
+        "summary": "Review: Web Article: How AI & Machine Learning Are Reshaping Digital Marketing-800 words",
+        "watches": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/AR-69/watchers",
+          "watchCount": 2,
+          "isWatching": false
+        },
+        "lastViewed": null,
+        "creator": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=628b7d1aab91fe0070973fa6",
+          "accountId": "628b7d1aab91fe0070973fa6",
+          "avatarUrls": {
+            "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/48",
+            "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/24",
+            "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/16",
+            "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/32"
+          },
+          "displayName": "Sudhir Yadav1",
+          "active": true,
+          "timeZone": "Asia/Kolkata",
+          "accountType": "atlassian"
+        },
+        "subtasks": [],
+        "created": "2025-12-29T13:59:22.854+0530",
+        "reporter": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Aa8b16dd6-d07f-4169-8312-8193e9ca3955",
+          "accountId": "712020:a8b16dd6-d07f-4169-8312-8193e9ca3955",
+          "avatarUrls": {
+            "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:a8b16dd6-d07f-4169-8312-8193e9ca3955/c3dd1409-d70a-4203-990f-665827f381a0/48",
+            "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:a8b16dd6-d07f-4169-8312-8193e9ca3955/c3dd1409-d70a-4203-990f-665827f381a0/24",
+            "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:a8b16dd6-d07f-4169-8312-8193e9ca3955/c3dd1409-d70a-4203-990f-665827f381a0/16",
+            "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:a8b16dd6-d07f-4169-8312-8193e9ca3955/c3dd1409-d70a-4203-990f-665827f381a0/32"
+          },
+          "displayName": "ABHISHEK SHARMA",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "aggregateprogress": {
+          "progress": 0,
+          "total": 0
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "customfield_10001": null,
+        "labels": [],
+        "environment": null,
+        "customfield_10019": "0|i00dxz:",
+        "timeestimate": null,
+        "aggregatetimeoriginalestimate": null,
+        "versions": [],
+        "duedate": "2025-12-31",
+        "progress": {
+          "progress": 0,
+          "total": 0
+        },
+        "issuelinks": [],
+        "votes": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/AR-69/votes",
+          "votes": 0,
+          "hasVoted": false
+        },
+        "comment": {
+          "comments": [
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14826/comment/19398",
+              "id": "19398",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=628b7d1aab91fe0070973fa6",
+                "accountId": "628b7d1aab91fe0070973fa6",
+                "avatarUrls": {
+                  "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/48",
+                  "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/24",
+                  "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/16",
+                  "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/32"
+                },
+                "displayName": "Sudhir Yadav1",
+                "active": true,
+                "timeZone": "Asia/Kolkata",
+                "accountType": "atlassian"
+              },
+              "body": {
+                "type": "doc",
+                "version": 1,
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Hi "
+                      },
+                      {
+                        "type": "mention",
+                        "attrs": {
+                          "id": "712020:74ae95c3-5c9a-4ef0-b632-b97f4d713f48",
+                          "text": "@Irfan Ahmad",
+                          "accessLevel": "",
+                          "localId": "84dc3c64-07b3-4851-acae-b95e63796e34"
+                        }
+                      },
+                      {
+                        "type": "text",
+                        "text": ", Please review this web article:"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Web Article - How AI & Machine Learning Are Reshaping Digital Marketing.docx",
+                        "marks": [
+                          {
+                            "type": "link",
+                            "attrs": {
+                              "href": "https://vemp.sharepoint.com/:w:/r/sites/Trackers-IdeaLabTeam/Shared%20Documents/Writers%20Folders/Abhishek%20Sharma/Web%20Article%20-%20How%20AI%20%26%20Machine%20Learning%20Are%20Reshaping%20Digital%20Marketing.docx?d=w810cc15f406143c692dd3291164a5723&csf=1&web=1&e=SnkUB8"
+                            }
+                          },
+                          {
+                            "type": "underline"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  }
+                ]
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=628b7d1aab91fe0070973fa6",
+                "accountId": "628b7d1aab91fe0070973fa6",
+                "avatarUrls": {
+                  "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/48",
+                  "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/24",
+                  "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/16",
+                  "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/32"
+                },
+                "displayName": "Sudhir Yadav1",
+                "active": true,
+                "timeZone": "Asia/Kolkata",
+                "accountType": "atlassian"
+              },
+              "created": "2025-12-29T14:00:27.421+0530",
+              "updated": "2025-12-29T14:00:27.421+0530",
+              "jsdPublic": true
+            },
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14826/comment/19646",
+              "id": "19646",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A74ae95c3-5c9a-4ef0-b632-b97f4d713f48",
+                "accountId": "712020:74ae95c3-5c9a-4ef0-b632-b97f4d713f48",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/ac1d8468a158754150c22a7ebb6f2183?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FIA-3.png",
+                  "24x24": "https://secure.gravatar.com/avatar/ac1d8468a158754150c22a7ebb6f2183?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FIA-3.png",
+                  "16x16": "https://secure.gravatar.com/avatar/ac1d8468a158754150c22a7ebb6f2183?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FIA-3.png",
+                  "32x32": "https://secure.gravatar.com/avatar/ac1d8468a158754150c22a7ebb6f2183?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FIA-3.png"
+                },
+                "displayName": "Irfan Ahmad",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "body": {
+                "type": "doc",
+                "version": 1,
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Hi "
+                      },
+                      {
+                        "type": "mention",
+                        "attrs": {
+                          "id": "712020:a8b16dd6-d07f-4169-8312-8193e9ca3955",
+                          "text": "@ABHISHEK SHARMA",
+                          "accessLevel": "",
+                          "localId": "c1419d53-857e-4d9b-aa3f-b66e1a7653f4"
+                        }
+                      },
+                      {
+                        "type": "text",
+                        "text": "  review is done… "
+                      },
+                      {
+                        "type": "text",
+                        "text": "Web Article - How AI & Machine Learning Are Reshaping Digital Marketing.docx",
+                        "marks": [
+                          {
+                            "type": "link",
+                            "attrs": {
+                              "href": "https://vemp.sharepoint.com/:w:/s/Trackers-IdeaLabTeam/IQBfwQyBYUDGQ5LdMpEWSlcjAXJ7s-Kxy-Oc-vMHNuOaxN4?e=ck9AQg"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A74ae95c3-5c9a-4ef0-b632-b97f4d713f48",
+                "accountId": "712020:74ae95c3-5c9a-4ef0-b632-b97f4d713f48",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/ac1d8468a158754150c22a7ebb6f2183?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FIA-3.png",
+                  "24x24": "https://secure.gravatar.com/avatar/ac1d8468a158754150c22a7ebb6f2183?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FIA-3.png",
+                  "16x16": "https://secure.gravatar.com/avatar/ac1d8468a158754150c22a7ebb6f2183?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FIA-3.png",
+                  "32x32": "https://secure.gravatar.com/avatar/ac1d8468a158754150c22a7ebb6f2183?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FIA-3.png"
+                },
+                "displayName": "Irfan Ahmad",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "created": "2026-01-06T18:20:15.203+0530",
+              "updated": "2026-01-06T18:20:15.203+0530",
+              "jsdPublic": true
+            }
+          ],
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14826/comment",
+          "maxResults": 2,
+          "total": 2,
+          "startAt": 0
+        },
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A74ae95c3-5c9a-4ef0-b632-b97f4d713f48",
+          "accountId": "712020:74ae95c3-5c9a-4ef0-b632-b97f4d713f48",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/ac1d8468a158754150c22a7ebb6f2183?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FIA-3.png",
+            "24x24": "https://secure.gravatar.com/avatar/ac1d8468a158754150c22a7ebb6f2183?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FIA-3.png",
+            "16x16": "https://secure.gravatar.com/avatar/ac1d8468a158754150c22a7ebb6f2183?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FIA-3.png",
+            "32x32": "https://secure.gravatar.com/avatar/ac1d8468a158754150c22a7ebb6f2183?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FIA-3.png"
+          },
+          "displayName": "Irfan Ahmad",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "worklog": {
+          "startAt": 0,
+          "maxResults": 20,
+          "total": 0,
+          "worklogs": []
+        },
+        "updated": "2026-01-06T18:20:15.377+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10568",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "Done",
+          "id": "10568",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
+          }
+        }
+      }
+    },
     {
       "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
       "id": "14414",
@@ -1786,7 +3446,7 @@
           "hierarchyLevel": 0
         },
         "components": [],
-        "timespent": 12600,
+        "timespent": 18000,
         "timeoriginalestimate": null,
         "project": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/project/10355",
@@ -1819,7 +3479,7 @@
         },
         "fixVersions": [],
         "customfield_10033": null,
-        "aggregatetimespent": 12600,
+        "aggregatetimespent": 18000,
         "statusCategory": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
           "id": 2,
@@ -1830,9 +3490,9 @@
         "resolution": null,
         "timetracking": {
           "remainingEstimate": "0m",
-          "timeSpent": "3h 30m",
+          "timeSpent": "5h",
           "remainingEstimateSeconds": 0,
-          "timeSpentSeconds": 12600
+          "timeSpentSeconds": 18000
         },
         "customfield_10015": null,
         "security": null,
@@ -1843,7 +3503,7 @@
         "summary": "Data as Distribution: Why Feeding LLMs Matters More Than Publishing for Humans",
         "watches": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/AR-63/watchers",
-          "watchCount": 2,
+          "watchCount": 3,
           "isWatching": false
         },
         "lastViewed": null,
@@ -1878,8 +3538,8 @@
           "accountType": "atlassian"
         },
         "aggregateprogress": {
-          "progress": 12600,
-          "total": 12600,
+          "progress": 18000,
+          "total": 18000,
           "percent": 100
         },
         "priority": {
@@ -1897,8 +3557,8 @@
         "versions": [],
         "duedate": "2025-11-28",
         "progress": {
-          "progress": 12600,
-          "total": 12600,
+          "progress": 18000,
+          "total": 18000,
           "percent": 100
         },
         "issuelinks": [],
@@ -2568,23 +4228,73 @@
               "created": "2025-10-29T13:25:28.809+0530",
               "updated": "2025-10-29T13:25:28.809+0530",
               "jsdPublic": true
+            },
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/12712/comment/19576",
+              "id": "19576",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Afe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
+                "accountId": "712020:fe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "24x24": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "16x16": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "32x32": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png"
+                },
+                "displayName": "abha jha",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "body": {
+                "type": "doc",
+                "version": 1,
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Drafted article and created & added FAQ schema"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Afe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
+                "accountId": "712020:fe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "24x24": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "16x16": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "32x32": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png"
+                },
+                "displayName": "abha jha",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "created": "2026-01-05T16:04:00.026+0530",
+              "updated": "2026-01-05T16:04:00.026+0530",
+              "jsdPublic": true
             }
           ],
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/12712/comment",
-          "maxResults": 8,
-          "total": 8,
+          "maxResults": 9,
+          "total": 9,
           "startAt": 0
         },
         "assignee": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A41435bf1-7a46-4918-82dc-ba80eec20553",
-          "accountId": "712020:41435bf1-7a46-4918-82dc-ba80eec20553",
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Afe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
+          "accountId": "712020:fe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
           "avatarUrls": {
-            "48x48": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
-            "24x24": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
-            "16x16": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
-            "32x32": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png"
+            "48x48": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+            "24x24": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+            "16x16": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+            "32x32": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png"
           },
-          "displayName": "Praveen Soni",
+          "displayName": "abha jha",
           "active": true,
           "timeZone": "Asia/Calcutta",
           "accountType": "atlassian"
@@ -2592,7 +4302,7 @@
         "worklog": {
           "startAt": 0,
           "maxResults": 20,
-          "total": 2,
+          "total": 3,
           "worklogs": [
             {
               "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/12712/worklog/12229",
@@ -2669,10 +4379,48 @@
               "timeSpentSeconds": 7200,
               "id": "12247",
               "issueId": "12712"
+            },
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/12712/worklog/13917",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Afe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
+                "accountId": "712020:fe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "24x24": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "16x16": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "32x32": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png"
+                },
+                "displayName": "abha jha",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Afe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
+                "accountId": "712020:fe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "24x24": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "16x16": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "32x32": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png"
+                },
+                "displayName": "abha jha",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "created": "2026-01-05T16:04:16.192+0530",
+              "updated": "2026-01-05T16:04:16.192+0530",
+              "started": "2026-01-05T11:30:00.000+0530",
+              "timeSpent": "1h 30m",
+              "timeSpentSeconds": 5400,
+              "id": "13917",
+              "issueId": "12712"
             }
           ]
         },
-        "updated": "2025-11-14T18:08:41.637+0530",
+        "updated": "2026-01-05T16:04:16.206+0530",
         "status": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10572",
           "description": "",
@@ -4465,7 +6213,7 @@
       "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/12594",
       "key": "AR-57",
       "fields": {
-        "statuscategorychangedate": "2025-09-16T14:49:09.905+0530",
+        "statuscategorychangedate": "2026-01-02T16:00:18.238+0530",
         "issuetype": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issuetype/10382",
           "id": "10382",
@@ -4478,7 +6226,7 @@
           "hierarchyLevel": 0
         },
         "components": [],
-        "timespent": null,
+        "timespent": 5400,
         "timeoriginalestimate": null,
         "project": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/project/10355",
@@ -4511,26 +6259,36 @@
         },
         "fixVersions": [],
         "customfield_10033": null,
-        "aggregatetimespent": null,
+        "aggregatetimespent": 5400,
         "statusCategory": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
-          "id": 2,
-          "key": "new",
-          "colorName": "blue-gray",
-          "name": "To Do"
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+          "id": 3,
+          "key": "done",
+          "colorName": "green",
+          "name": "Done"
         },
-        "resolution": null,
-        "timetracking": {},
+        "resolution": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/resolution/10000",
+          "id": "10000",
+          "description": "Work has been completed on this work item.",
+          "name": "Done"
+        },
+        "timetracking": {
+          "remainingEstimate": "0m",
+          "timeSpent": "1h 30m",
+          "remainingEstimateSeconds": 0,
+          "timeSpentSeconds": 5400
+        },
         "customfield_10015": null,
         "security": null,
         "attachment": [],
-        "aggregatetimeestimate": null,
-        "resolutiondate": null,
+        "aggregatetimeestimate": 0,
+        "resolutiondate": "2026-01-02T16:00:18.213+0530",
         "workratio": -1,
         "summary": "Citation Gravity vs. Recommendation Gravity:",
         "watches": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/AR-57/watchers",
-          "watchCount": 2,
+          "watchCount": 4,
           "isWatching": false
         },
         "lastViewed": null,
@@ -4565,8 +6323,9 @@
           "accountType": "atlassian"
         },
         "aggregateprogress": {
-          "progress": 0,
-          "total": 0
+          "progress": 5400,
+          "total": 5400,
+          "percent": 100
         },
         "priority": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/1",
@@ -4578,13 +6337,14 @@
         "labels": [],
         "environment": null,
         "customfield_10019": "0|i00arj:",
-        "timeestimate": null,
+        "timeestimate": 0,
         "aggregatetimeoriginalestimate": null,
         "versions": [],
         "duedate": "2025-12-15",
         "progress": {
-          "progress": 0,
-          "total": 0
+          "progress": 5400,
+          "total": 5400,
+          "percent": 100
         },
         "issuelinks": [],
         "votes": {
@@ -4730,23 +6490,123 @@
               "created": "2025-09-17T13:32:31.038+0530",
               "updated": "2025-09-17T13:32:31.038+0530",
               "jsdPublic": true
+            },
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/12594/comment/19526",
+              "id": "19526",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A74ae95c3-5c9a-4ef0-b632-b97f4d713f48",
+                "accountId": "712020:74ae95c3-5c9a-4ef0-b632-b97f4d713f48",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/ac1d8468a158754150c22a7ebb6f2183?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FIA-3.png",
+                  "24x24": "https://secure.gravatar.com/avatar/ac1d8468a158754150c22a7ebb6f2183?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FIA-3.png",
+                  "16x16": "https://secure.gravatar.com/avatar/ac1d8468a158754150c22a7ebb6f2183?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FIA-3.png",
+                  "32x32": "https://secure.gravatar.com/avatar/ac1d8468a158754150c22a7ebb6f2183?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FIA-3.png"
+                },
+                "displayName": "Irfan Ahmad",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "body": {
+                "type": "doc",
+                "version": 1,
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Changes implemented. Good to go."
+                      }
+                    ]
+                  }
+                ]
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A74ae95c3-5c9a-4ef0-b632-b97f4d713f48",
+                "accountId": "712020:74ae95c3-5c9a-4ef0-b632-b97f4d713f48",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/ac1d8468a158754150c22a7ebb6f2183?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FIA-3.png",
+                  "24x24": "https://secure.gravatar.com/avatar/ac1d8468a158754150c22a7ebb6f2183?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FIA-3.png",
+                  "16x16": "https://secure.gravatar.com/avatar/ac1d8468a158754150c22a7ebb6f2183?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FIA-3.png",
+                  "32x32": "https://secure.gravatar.com/avatar/ac1d8468a158754150c22a7ebb6f2183?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FIA-3.png"
+                },
+                "displayName": "Irfan Ahmad",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "created": "2026-01-02T16:00:20.835+0530",
+              "updated": "2026-01-02T16:00:20.835+0530",
+              "jsdPublic": true
+            },
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/12594/comment/19575",
+              "id": "19575",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Afe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
+                "accountId": "712020:fe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "24x24": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "16x16": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "32x32": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png"
+                },
+                "displayName": "abha jha",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "body": {
+                "type": "doc",
+                "version": 1,
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Drafted in WordPress, added FAQ schema. Ready to publish"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Afe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
+                "accountId": "712020:fe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "24x24": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "16x16": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "32x32": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png"
+                },
+                "displayName": "abha jha",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "created": "2026-01-05T16:02:29.680+0530",
+              "updated": "2026-01-05T16:02:29.680+0530",
+              "jsdPublic": true
             }
           ],
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/12594/comment",
-          "maxResults": 2,
-          "total": 2,
+          "maxResults": 4,
+          "total": 4,
           "startAt": 0
         },
         "assignee": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A41435bf1-7a46-4918-82dc-ba80eec20553",
-          "accountId": "712020:41435bf1-7a46-4918-82dc-ba80eec20553",
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Afe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
+          "accountId": "712020:fe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
           "avatarUrls": {
-            "48x48": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
-            "24x24": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
-            "16x16": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png",
-            "32x32": "https://secure.gravatar.com/avatar/e3fbf693a83622362c36767eb66186f1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FPS-0.png"
+            "48x48": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+            "24x24": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+            "16x16": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+            "32x32": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png"
           },
-          "displayName": "Praveen Soni",
+          "displayName": "abha jha",
           "active": true,
           "timeZone": "Asia/Calcutta",
           "accountType": "atlassian"
@@ -4754,22 +6614,61 @@
         "worklog": {
           "startAt": 0,
           "maxResults": 20,
-          "total": 0,
-          "worklogs": []
+          "total": 1,
+          "worklogs": [
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/12594/worklog/13916",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Afe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
+                "accountId": "712020:fe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "24x24": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "16x16": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "32x32": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png"
+                },
+                "displayName": "abha jha",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Afe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
+                "accountId": "712020:fe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "24x24": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "16x16": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "32x32": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png"
+                },
+                "displayName": "abha jha",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "created": "2026-01-05T16:02:50.066+0530",
+              "updated": "2026-01-05T16:02:50.066+0530",
+              "started": "2026-01-05T10:00:00.000+0530",
+              "timeSpent": "1h 30m",
+              "timeSpentSeconds": 5400,
+              "id": "13916",
+              "issueId": "12594"
+            }
+          ]
         },
-        "updated": "2025-11-21T17:35:59.571+0530",
+        "updated": "2026-01-05T16:02:50.083+0530",
         "status": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10572",
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10568",
           "description": "",
           "iconUrl": "https://idealabprojects.atlassian.net/",
-          "name": "Implement Feedback",
-          "id": "10572",
+          "name": "Done",
+          "id": "10568",
           "statusCategory": {
-            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
-            "id": 2,
-            "key": "new",
-            "colorName": "blue-gray",
-            "name": "To Do"
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
           }
         }
       }
@@ -34941,20 +36840,60 @@
           "timeZone": "Asia/Kolkata",
           "accountType": "atlassian"
         },
-        "subtasks": [],
+        "subtasks": [
+          {
+            "id": "14826",
+            "key": "AR-69",
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14826",
+            "fields": {
+              "summary": "Review: Web Article: How AI & Machine Learning Are Reshaping Digital Marketing-800 words",
+              "status": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10568",
+                "description": "",
+                "iconUrl": "https://idealabprojects.atlassian.net/",
+                "name": "Done",
+                "id": "10568",
+                "statusCategory": {
+                  "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+                  "id": 3,
+                  "key": "done",
+                  "colorName": "green",
+                  "name": "Done"
+                }
+              },
+              "priority": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+                "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+                "name": "Medium",
+                "id": "3"
+              },
+              "issuetype": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/issuetype/10383",
+                "id": "10383",
+                "description": "A small piece of work that's part of a larger task.",
+                "iconUrl": "https://idealabprojects.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10316?size=medium",
+                "name": "Sub-task",
+                "subtask": true,
+                "avatarId": 10316,
+                "entityId": "0b770c26-3dc2-498e-b663-b9ee756a1d83",
+                "hierarchyLevel": -1
+              }
+            }
+          }
+        ],
         "created": "2025-04-11T12:37:04.662+0530",
         "reporter": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=628b7d1aab91fe0070973fa6",
-          "accountId": "628b7d1aab91fe0070973fa6",
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Aa8b16dd6-d07f-4169-8312-8193e9ca3955",
+          "accountId": "712020:a8b16dd6-d07f-4169-8312-8193e9ca3955",
           "avatarUrls": {
-            "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/48",
-            "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/24",
-            "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/16",
-            "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/32"
+            "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:a8b16dd6-d07f-4169-8312-8193e9ca3955/c3dd1409-d70a-4203-990f-665827f381a0/48",
+            "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:a8b16dd6-d07f-4169-8312-8193e9ca3955/c3dd1409-d70a-4203-990f-665827f381a0/24",
+            "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:a8b16dd6-d07f-4169-8312-8193e9ca3955/c3dd1409-d70a-4203-990f-665827f381a0/16",
+            "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:a8b16dd6-d07f-4169-8312-8193e9ca3955/c3dd1409-d70a-4203-990f-665827f381a0/32"
           },
-          "displayName": "Sudhir Yadav1",
+          "displayName": "ABHISHEK SHARMA",
           "active": true,
-          "timeZone": "Asia/Kolkata",
+          "timeZone": "Asia/Calcutta",
           "accountType": "atlassian"
         },
         "aggregateprogress": {
@@ -34974,7 +36913,7 @@
         "timeestimate": null,
         "aggregatetimeoriginalestimate": null,
         "versions": [],
-        "duedate": "2025-06-26",
+        "duedate": "2025-12-31",
         "progress": {
           "progress": 0,
           "total": 0
@@ -35813,15 +37752,15 @@
           "startAt": 0
         },
         "assignee": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=605aad190a9b6900719e7c99",
-          "accountId": "605aad190a9b6900719e7c99",
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Aa8b16dd6-d07f-4169-8312-8193e9ca3955",
+          "accountId": "712020:a8b16dd6-d07f-4169-8312-8193e9ca3955",
           "avatarUrls": {
-            "48x48": "https://secure.gravatar.com/avatar/4f0d47d7277fe8d2b9942e49df3be561?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDM-5.png",
-            "24x24": "https://secure.gravatar.com/avatar/4f0d47d7277fe8d2b9942e49df3be561?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDM-5.png",
-            "16x16": "https://secure.gravatar.com/avatar/4f0d47d7277fe8d2b9942e49df3be561?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDM-5.png",
-            "32x32": "https://secure.gravatar.com/avatar/4f0d47d7277fe8d2b9942e49df3be561?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDM-5.png"
+            "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:a8b16dd6-d07f-4169-8312-8193e9ca3955/c3dd1409-d70a-4203-990f-665827f381a0/48",
+            "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:a8b16dd6-d07f-4169-8312-8193e9ca3955/c3dd1409-d70a-4203-990f-665827f381a0/24",
+            "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:a8b16dd6-d07f-4169-8312-8193e9ca3955/c3dd1409-d70a-4203-990f-665827f381a0/16",
+            "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:a8b16dd6-d07f-4169-8312-8193e9ca3955/c3dd1409-d70a-4203-990f-665827f381a0/32"
           },
-          "displayName": "Daya Mukherjee",
+          "displayName": "ABHISHEK SHARMA",
           "active": true,
           "timeZone": "Asia/Calcutta",
           "accountType": "atlassian"
@@ -35832,13 +37771,13 @@
           "total": 0,
           "worklogs": []
         },
-        "updated": "2025-06-24T18:02:10.750+0530",
+        "updated": "2025-12-29T14:01:54.032+0530",
         "status": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10573",
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10571",
           "description": "",
           "iconUrl": "https://idealabprojects.atlassian.net/",
-          "name": "For Publishing",
-          "id": "10573",
+          "name": "In Review",
+          "id": "10571",
           "statusCategory": {
             "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
             "id": 2,

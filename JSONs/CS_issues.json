@@ -6,11 +6,1313 @@
   "issues": [
     {
       "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "14682",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14682",
+      "key": "CS-112",
+      "fields": {
+        "statuscategorychangedate": "2025-12-19T18:55:13.469+0530",
+        "issuetype": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issuetype/10778",
+          "id": "10778",
+          "description": "Tasks track small, distinct pieces of work.",
+          "iconUrl": "https://idealabprojects.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10318?size=medium",
+          "name": "Task",
+          "subtask": false,
+          "avatarId": 10318,
+          "entityId": "069e06fa-182a-4702-b5dd-44643584d94e",
+          "hierarchyLevel": 0
+        },
+        "components": [],
+        "timespent": 28800,
+        "timeoriginalestimate": null,
+        "project": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/project/10091",
+          "id": "10091",
+          "key": "CS",
+          "name": "Case Study",
+          "projectTypeKey": "business",
+          "simplified": true,
+          "avatarUrls": {
+            "48x48": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10410",
+            "24x24": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10410?size=small",
+            "16x16": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10410?size=xsmall",
+            "32x32": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10410?size=medium"
+          }
+        },
+        "description": null,
+        "fixVersions": [],
+        "customfield_10033": null,
+        "aggregatetimespent": 28800,
+        "statusCategory": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+          "id": 3,
+          "key": "done",
+          "colorName": "green",
+          "name": "Done"
+        },
+        "resolution": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/resolution/10000",
+          "id": "10000",
+          "description": "Work has been completed on this work item.",
+          "name": "Done"
+        },
+        "timetracking": {
+          "remainingEstimate": "0m",
+          "timeSpent": "1d",
+          "remainingEstimateSeconds": 0,
+          "timeSpentSeconds": 28800
+        },
+        "customfield_10015": "2025-12-19",
+        "security": null,
+        "attachment": [],
+        "aggregatetimeestimate": 0,
+        "resolutiondate": "2025-12-19T18:55:13.447+0530",
+        "workratio": -1,
+        "summary": "Re-design: case study - circuit mind",
+        "watches": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/CS-112/watchers",
+          "watchCount": 1,
+          "isWatching": false
+        },
+        "lastViewed": null,
+        "creator": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
+          "accountId": "712020:3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
+            "24x24": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
+            "16x16": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
+            "32x32": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png"
+          },
+          "displayName": "Vikas Bhardwaj",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "subtasks": [],
+        "created": "2025-12-19T09:58:09.778+0530",
+        "customfield_10021": null,
+        "reporter": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
+          "accountId": "712020:3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
+            "24x24": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
+            "16x16": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
+            "32x32": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png"
+          },
+          "displayName": "Vikas Bhardwaj",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "aggregateprogress": {
+          "progress": 28800,
+          "total": 28800,
+          "percent": 100
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "customfield_10001": null,
+        "labels": [],
+        "customfield_10038": null,
+        "environment": null,
+        "customfield_10019": "0|i00dqf:",
+        "timeestimate": 0,
+        "aggregatetimeoriginalestimate": null,
+        "versions": [],
+        "duedate": "2025-12-22",
+        "progress": {
+          "progress": 28800,
+          "total": 28800,
+          "percent": 100
+        },
+        "issuelinks": [],
+        "votes": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/CS-112/votes",
+          "votes": 0,
+          "hasVoted": false
+        },
+        "comment": {
+          "comments": [],
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14682/comment",
+          "maxResults": 0,
+          "total": 0,
+          "startAt": 0
+        },
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
+          "accountId": "712020:3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
+            "24x24": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
+            "16x16": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
+            "32x32": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png"
+          },
+          "displayName": "Vikas Bhardwaj",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "worklog": {
+          "startAt": 0,
+          "maxResults": 20,
+          "total": 1,
+          "worklogs": [
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14682/worklog/13683",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
+                "accountId": "712020:3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
+                  "24x24": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
+                  "16x16": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
+                  "32x32": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png"
+                },
+                "displayName": "Vikas Bhardwaj",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
+                "accountId": "712020:3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
+                  "24x24": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
+                  "16x16": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
+                  "32x32": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png"
+                },
+                "displayName": "Vikas Bhardwaj",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "comment": {
+                "type": "doc",
+                "version": 1,
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Re-design circuit mind case study - HTML Development, Make responsive, Js functionality added"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "created": "2025-12-19T18:55:07.639+0530",
+              "updated": "2025-12-19T18:55:07.639+0530",
+              "started": "2025-12-19T10:00:00.000+0530",
+              "timeSpent": "1d",
+              "timeSpentSeconds": 28800,
+              "id": "13683",
+              "issueId": "14682"
+            }
+          ]
+        },
+        "updated": "2025-12-19T18:55:13.468+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10273",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "Done",
+          "id": "10273",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "14673",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14673",
+      "key": "CS-111",
+      "fields": {
+        "statuscategorychangedate": "2025-12-29T19:08:58.696+0530",
+        "issuetype": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issuetype/10778",
+          "id": "10778",
+          "description": "Tasks track small, distinct pieces of work.",
+          "iconUrl": "https://idealabprojects.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10318?size=medium",
+          "name": "Task",
+          "subtask": false,
+          "avatarId": 10318,
+          "entityId": "069e06fa-182a-4702-b5dd-44643584d94e",
+          "hierarchyLevel": 0
+        },
+        "components": [],
+        "timespent": 28800,
+        "timeoriginalestimate": null,
+        "project": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/project/10091",
+          "id": "10091",
+          "key": "CS",
+          "name": "Case Study",
+          "projectTypeKey": "business",
+          "simplified": true,
+          "avatarUrls": {
+            "48x48": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10410",
+            "24x24": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10410?size=small",
+            "16x16": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10410?size=xsmall",
+            "32x32": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10410?size=medium"
+          }
+        },
+        "description": {
+          "type": "doc",
+          "version": 1,
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Hi "
+                },
+                {
+                  "type": "mention",
+                  "attrs": {
+                    "id": "712020:3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
+                    "text": "@Vikas Bhardwaj",
+                    "accessLevel": "",
+                    "localId": "6eb113e8-9287-4c3e-b3da-3bf277b21a5d"
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " ,"
+                },
+                {
+                  "type": "hardBreak"
+                },
+                {
+                  "type": "text",
+                  "text": "Please develop the case study:"
+                },
+                {
+                  "type": "hardBreak"
+                },
+                {
+                  "type": "inlineCard",
+                  "attrs": {
+                    "url": "https://www.figma.com/design/MxCpz1RRH8sKGAhyxD0lB3/GPO-Plus---Case-Study?node-id=0-1&t=Foh238X8VfJ5MkVV-1"
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " "
+                },
+                {
+                  "type": "hardBreak"
+                }
+              ]
+            }
+          ]
+        },
+        "fixVersions": [],
+        "customfield_10033": null,
+        "aggregatetimespent": 28800,
+        "statusCategory": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+          "id": 3,
+          "key": "done",
+          "colorName": "green",
+          "name": "Done"
+        },
+        "resolution": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/resolution/10000",
+          "id": "10000",
+          "description": "Work has been completed on this work item.",
+          "name": "Done"
+        },
+        "timetracking": {
+          "remainingEstimate": "0m",
+          "timeSpent": "1d",
+          "remainingEstimateSeconds": 0,
+          "timeSpentSeconds": 28800
+        },
+        "customfield_10015": "2025-12-24",
+        "security": null,
+        "attachment": [],
+        "aggregatetimeestimate": 0,
+        "resolutiondate": "2025-12-29T19:08:58.687+0530",
+        "workratio": -1,
+        "summary": "HTML Develop : Case Study - GPOPlus+, Bryan Garabrandt",
+        "watches": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/CS-111/watchers",
+          "watchCount": 2,
+          "isWatching": false
+        },
+        "lastViewed": null,
+        "creator": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A023a0dbc-d7f7-4d53-9905-9641e6759d36",
+          "accountId": "712020:023a0dbc-d7f7-4d53-9905-9641e6759d36",
+          "avatarUrls": {
+            "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:023a0dbc-d7f7-4d53-9905-9641e6759d36/7be68c71-0b1c-4b05-885b-7a373913a23a/48",
+            "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:023a0dbc-d7f7-4d53-9905-9641e6759d36/7be68c71-0b1c-4b05-885b-7a373913a23a/24",
+            "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:023a0dbc-d7f7-4d53-9905-9641e6759d36/7be68c71-0b1c-4b05-885b-7a373913a23a/16",
+            "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:023a0dbc-d7f7-4d53-9905-9641e6759d36/7be68c71-0b1c-4b05-885b-7a373913a23a/32"
+          },
+          "displayName": "Rahul",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "subtasks": [],
+        "created": "2025-12-18T18:12:55.767+0530",
+        "customfield_10021": null,
+        "reporter": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A023a0dbc-d7f7-4d53-9905-9641e6759d36",
+          "accountId": "712020:023a0dbc-d7f7-4d53-9905-9641e6759d36",
+          "avatarUrls": {
+            "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:023a0dbc-d7f7-4d53-9905-9641e6759d36/7be68c71-0b1c-4b05-885b-7a373913a23a/48",
+            "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:023a0dbc-d7f7-4d53-9905-9641e6759d36/7be68c71-0b1c-4b05-885b-7a373913a23a/24",
+            "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:023a0dbc-d7f7-4d53-9905-9641e6759d36/7be68c71-0b1c-4b05-885b-7a373913a23a/16",
+            "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:023a0dbc-d7f7-4d53-9905-9641e6759d36/7be68c71-0b1c-4b05-885b-7a373913a23a/32"
+          },
+          "displayName": "Rahul",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "aggregateprogress": {
+          "progress": 28800,
+          "total": 28800,
+          "percent": 100
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "customfield_10001": {
+          "id": "a6836fac-9c92-40a9-8d08-96690925901f",
+          "name": "Development Team",
+          "avatarUrl": "",
+          "isVisible": true,
+          "isVerified": false,
+          "title": "Development Team",
+          "isShared": true
+        },
+        "labels": [],
+        "customfield_10038": null,
+        "environment": null,
+        "customfield_10019": "0|i00dm9:",
+        "timeestimate": 0,
+        "aggregatetimeoriginalestimate": null,
+        "versions": [],
+        "duedate": "2025-12-30",
+        "progress": {
+          "progress": 28800,
+          "total": 28800,
+          "percent": 100
+        },
+        "issuelinks": [],
+        "votes": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/CS-111/votes",
+          "votes": 0,
+          "hasVoted": false
+        },
+        "comment": {
+          "comments": [
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14673/comment/19427",
+              "id": "19427",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
+                "accountId": "712020:3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
+                  "24x24": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
+                  "16x16": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
+                  "32x32": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png"
+                },
+                "displayName": "Vikas Bhardwaj",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "body": {
+                "type": "doc",
+                "version": 1,
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "mention",
+                        "attrs": {
+                          "id": "628b7d1aab91fe0070973fa6",
+                          "text": "@Sudhir Yadav1",
+                          "accessLevel": "",
+                          "localId": "f7720383-20f3-490a-8832-1a0ad45de57c"
+                        }
+                      },
+                      {
+                        "type": "text",
+                        "text": " , "
+                      },
+                      {
+                        "type": "mention",
+                        "attrs": {
+                          "id": "712020:023a0dbc-d7f7-4d53-9905-9641e6759d36",
+                          "text": "@Rahul",
+                          "accessLevel": "",
+                          "localId": "0489fba2-9b3b-4e8a-ae6e-45829f4580ed"
+                        }
+                      },
+                      {
+                        "type": "text",
+                        "text": " , GPOPlus+ Case Study has been done, Please review"
+                      },
+                      {
+                        "type": "hardBreak"
+                      },
+                      {
+                        "type": "text",
+                        "text": "URL: "
+                      },
+                      {
+                        "type": "inlineCard",
+                        "attrs": {
+                          "url": "https://www.virtualemployee.com/case-study/gpoplus/"
+                        }
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  }
+                ]
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
+                "accountId": "712020:3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
+                  "24x24": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
+                  "16x16": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
+                  "32x32": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png"
+                },
+                "displayName": "Vikas Bhardwaj",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "created": "2025-12-29T19:06:20.209+0530",
+              "updated": "2025-12-29T19:06:20.209+0530",
+              "jsdPublic": true
+            }
+          ],
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14673/comment",
+          "maxResults": 1,
+          "total": 1,
+          "startAt": 0
+        },
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
+          "accountId": "712020:3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
+            "24x24": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
+            "16x16": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
+            "32x32": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png"
+          },
+          "displayName": "Vikas Bhardwaj",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "worklog": {
+          "startAt": 0,
+          "maxResults": 20,
+          "total": 1,
+          "worklogs": [
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14673/worklog/13716",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
+                "accountId": "712020:3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
+                  "24x24": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
+                  "16x16": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
+                  "32x32": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png"
+                },
+                "displayName": "Vikas Bhardwaj",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
+                "accountId": "712020:3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
+                  "24x24": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
+                  "16x16": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
+                  "32x32": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png"
+                },
+                "displayName": "Vikas Bhardwaj",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "comment": {
+                "type": "doc",
+                "version": 1,
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "HTML Development, add Splide js slider"
+                      },
+                      {
+                        "type": "hardBreak"
+                      },
+                      {
+                        "type": "hardBreak"
+                      },
+                      {
+                        "type": "text",
+                        "text": "Remaining: Responsive, js functionality for modal"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "created": "2025-12-24T19:14:35.857+0530",
+              "updated": "2025-12-24T19:14:35.857+0530",
+              "started": "2025-12-24T10:00:00.000+0530",
+              "timeSpent": "1d",
+              "timeSpentSeconds": 28800,
+              "id": "13716",
+              "issueId": "14673"
+            }
+          ]
+        },
+        "updated": "2025-12-29T19:08:58.696+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10273",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "Done",
+          "id": "10273",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "14672",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14672",
+      "key": "CS-110",
+      "fields": {
+        "statuscategorychangedate": "2025-12-24T09:56:53.323+0530",
+        "issuetype": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issuetype/10778",
+          "id": "10778",
+          "description": "Tasks track small, distinct pieces of work.",
+          "iconUrl": "https://idealabprojects.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10318?size=medium",
+          "name": "Task",
+          "subtask": false,
+          "avatarId": 10318,
+          "entityId": "069e06fa-182a-4702-b5dd-44643584d94e",
+          "hierarchyLevel": 0
+        },
+        "components": [],
+        "timespent": 39600,
+        "timeoriginalestimate": null,
+        "project": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/project/10091",
+          "id": "10091",
+          "key": "CS",
+          "name": "Case Study",
+          "projectTypeKey": "business",
+          "simplified": true,
+          "avatarUrls": {
+            "48x48": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10410",
+            "24x24": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10410?size=small",
+            "16x16": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10410?size=xsmall",
+            "32x32": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10410?size=medium"
+          }
+        },
+        "description": {
+          "type": "doc",
+          "version": 1,
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Hi "
+                },
+                {
+                  "type": "mention",
+                  "attrs": {
+                    "id": "712020:3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
+                    "text": "@Vikas Bhardwaj",
+                    "accessLevel": "",
+                    "localId": "36a164da-dab1-4914-bd03-9b1961a9a0cf"
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " ,"
+                },
+                {
+                  "type": "hardBreak"
+                },
+                {
+                  "type": "hardBreak"
+                },
+                {
+                  "type": "text",
+                  "text": "Please develop the case study:"
+                },
+                {
+                  "type": "hardBreak"
+                },
+                {
+                  "type": "inlineCard",
+                  "attrs": {
+                    "url": "https://www.figma.com/design/o8sXk74gEaZylWC6Nw0gyY/Brandcil---Case-Study?node-id=0-1&t=Al7Kr7tLY2rpPfzj-1"
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " "
+                },
+                {
+                  "type": "hardBreak"
+                }
+              ]
+            }
+          ]
+        },
+        "fixVersions": [],
+        "customfield_10033": null,
+        "aggregatetimespent": 39600,
+        "statusCategory": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+          "id": 3,
+          "key": "done",
+          "colorName": "green",
+          "name": "Done"
+        },
+        "resolution": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/resolution/10000",
+          "id": "10000",
+          "description": "Work has been completed on this work item.",
+          "name": "Done"
+        },
+        "timetracking": {
+          "remainingEstimate": "0m",
+          "timeSpent": "1d 3h",
+          "remainingEstimateSeconds": 0,
+          "timeSpentSeconds": 39600
+        },
+        "customfield_10015": "2025-12-22",
+        "security": null,
+        "attachment": [],
+        "aggregatetimeestimate": 0,
+        "resolutiondate": "2025-12-24T09:56:53.299+0530",
+        "workratio": -1,
+        "summary": "HTML Develop : Case Study - Brandcil, Jordan Broudy",
+        "watches": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/CS-110/watchers",
+          "watchCount": 2,
+          "isWatching": false
+        },
+        "lastViewed": null,
+        "creator": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A023a0dbc-d7f7-4d53-9905-9641e6759d36",
+          "accountId": "712020:023a0dbc-d7f7-4d53-9905-9641e6759d36",
+          "avatarUrls": {
+            "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:023a0dbc-d7f7-4d53-9905-9641e6759d36/7be68c71-0b1c-4b05-885b-7a373913a23a/48",
+            "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:023a0dbc-d7f7-4d53-9905-9641e6759d36/7be68c71-0b1c-4b05-885b-7a373913a23a/24",
+            "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:023a0dbc-d7f7-4d53-9905-9641e6759d36/7be68c71-0b1c-4b05-885b-7a373913a23a/16",
+            "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:023a0dbc-d7f7-4d53-9905-9641e6759d36/7be68c71-0b1c-4b05-885b-7a373913a23a/32"
+          },
+          "displayName": "Rahul",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "subtasks": [],
+        "created": "2025-12-18T18:11:42.255+0530",
+        "customfield_10021": null,
+        "reporter": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A023a0dbc-d7f7-4d53-9905-9641e6759d36",
+          "accountId": "712020:023a0dbc-d7f7-4d53-9905-9641e6759d36",
+          "avatarUrls": {
+            "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:023a0dbc-d7f7-4d53-9905-9641e6759d36/7be68c71-0b1c-4b05-885b-7a373913a23a/48",
+            "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:023a0dbc-d7f7-4d53-9905-9641e6759d36/7be68c71-0b1c-4b05-885b-7a373913a23a/24",
+            "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:023a0dbc-d7f7-4d53-9905-9641e6759d36/7be68c71-0b1c-4b05-885b-7a373913a23a/16",
+            "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:023a0dbc-d7f7-4d53-9905-9641e6759d36/7be68c71-0b1c-4b05-885b-7a373913a23a/32"
+          },
+          "displayName": "Rahul",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "aggregateprogress": {
+          "progress": 39600,
+          "total": 39600,
+          "percent": 100
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "customfield_10001": {
+          "id": "a6836fac-9c92-40a9-8d08-96690925901f",
+          "name": "Development Team",
+          "avatarUrl": "",
+          "isVisible": true,
+          "isVerified": false,
+          "title": "Development Team",
+          "isShared": true
+        },
+        "labels": [],
+        "customfield_10038": null,
+        "environment": null,
+        "customfield_10019": "0|i00dov:",
+        "timeestimate": 0,
+        "aggregatetimeoriginalestimate": null,
+        "versions": [],
+        "duedate": "2025-12-24",
+        "progress": {
+          "progress": 39600,
+          "total": 39600,
+          "percent": 100
+        },
+        "issuelinks": [],
+        "votes": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/CS-110/votes",
+          "votes": 0,
+          "hasVoted": false
+        },
+        "comment": {
+          "comments": [
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14672/comment/19389",
+              "id": "19389",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
+                "accountId": "712020:3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
+                  "24x24": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
+                  "16x16": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
+                  "32x32": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png"
+                },
+                "displayName": "Vikas Bhardwaj",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "body": {
+                "type": "doc",
+                "version": 1,
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "mention",
+                        "attrs": {
+                          "id": "628b7d1aab91fe0070973fa6",
+                          "text": "@Sudhir Yadav1",
+                          "accessLevel": "",
+                          "localId": "5df60afe-2bd8-4f67-a520-cde850f6290f"
+                        }
+                      },
+                      {
+                        "type": "text",
+                        "text": " , "
+                      },
+                      {
+                        "type": "mention",
+                        "attrs": {
+                          "id": "712020:023a0dbc-d7f7-4d53-9905-9641e6759d36",
+                          "text": "@Rahul",
+                          "accessLevel": "",
+                          "localId": "72797cc8-7cb5-4c46-a6d2-5a33f4798f66"
+                        }
+                      },
+                      {
+                        "type": "text",
+                        "text": " , Brandcil Case Study has been done please review"
+                      },
+                      {
+                        "type": "hardBreak"
+                      },
+                      {
+                        "type": "text",
+                        "text": "URL: "
+                      },
+                      {
+                        "type": "inlineCard",
+                        "attrs": {
+                          "url": "https://www.virtualemployee.com/case-study/brandcil/"
+                        }
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  }
+                ]
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
+                "accountId": "712020:3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
+                  "24x24": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
+                  "16x16": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
+                  "32x32": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png"
+                },
+                "displayName": "Vikas Bhardwaj",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "created": "2025-12-29T09:58:57.069+0530",
+              "updated": "2025-12-29T09:58:57.069+0530",
+              "jsdPublic": true
+            }
+          ],
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14672/comment",
+          "maxResults": 1,
+          "total": 1,
+          "startAt": 0
+        },
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
+          "accountId": "712020:3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
+            "24x24": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
+            "16x16": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
+            "32x32": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png"
+          },
+          "displayName": "Vikas Bhardwaj",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "worklog": {
+          "startAt": 0,
+          "maxResults": 20,
+          "total": 2,
+          "worklogs": [
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14672/worklog/13694",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
+                "accountId": "712020:3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
+                  "24x24": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
+                  "16x16": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
+                  "32x32": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png"
+                },
+                "displayName": "Vikas Bhardwaj",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
+                "accountId": "712020:3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
+                  "24x24": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
+                  "16x16": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
+                  "32x32": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png"
+                },
+                "displayName": "Vikas Bhardwaj",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "comment": {
+                "type": "doc",
+                "version": 1,
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "html development, Js slider"
+                      },
+                      {
+                        "type": "hardBreak"
+                      },
+                      {
+                        "type": "text",
+                        "text": "Remaining",
+                        "marks": [
+                          {
+                            "type": "strong"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": ": Responsive, And content change"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "created": "2025-12-22T19:18:04.969+0530",
+              "updated": "2025-12-22T19:18:04.969+0530",
+              "started": "2025-12-22T10:00:00.000+0530",
+              "timeSpent": "1d",
+              "timeSpentSeconds": 28800,
+              "id": "13694",
+              "issueId": "14672"
+            },
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14672/worklog/13701",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
+                "accountId": "712020:3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
+                  "24x24": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
+                  "16x16": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
+                  "32x32": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png"
+                },
+                "displayName": "Vikas Bhardwaj",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
+                "accountId": "712020:3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
+                  "24x24": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
+                  "16x16": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
+                  "32x32": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png"
+                },
+                "displayName": "Vikas Bhardwaj",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "comment": {
+                "type": "doc",
+                "version": 1,
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Make responsive for all devices"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "created": "2025-12-23T18:23:00.991+0530",
+              "updated": "2025-12-23T18:23:00.991+0530",
+              "started": "2025-12-23T10:00:00.000+0530",
+              "timeSpent": "3h",
+              "timeSpentSeconds": 10800,
+              "id": "13701",
+              "issueId": "14672"
+            }
+          ]
+        },
+        "updated": "2025-12-29T09:58:57.327+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10273",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "Done",
+          "id": "10273",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "14668",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14668",
+      "key": "CS-109",
+      "fields": {
+        "statuscategorychangedate": "2025-12-18T18:51:27.009+0530",
+        "issuetype": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issuetype/10778",
+          "id": "10778",
+          "description": "Tasks track small, distinct pieces of work.",
+          "iconUrl": "https://idealabprojects.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10318?size=medium",
+          "name": "Task",
+          "subtask": false,
+          "avatarId": 10318,
+          "entityId": "069e06fa-182a-4702-b5dd-44643584d94e",
+          "hierarchyLevel": 0
+        },
+        "components": [],
+        "timespent": 28800,
+        "timeoriginalestimate": null,
+        "project": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/project/10091",
+          "id": "10091",
+          "key": "CS",
+          "name": "Case Study",
+          "projectTypeKey": "business",
+          "simplified": true,
+          "avatarUrls": {
+            "48x48": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10410",
+            "24x24": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10410?size=small",
+            "16x16": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10410?size=xsmall",
+            "32x32": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10410?size=medium"
+          }
+        },
+        "description": null,
+        "fixVersions": [],
+        "customfield_10033": null,
+        "aggregatetimespent": 28800,
+        "statusCategory": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+          "id": 3,
+          "key": "done",
+          "colorName": "green",
+          "name": "Done"
+        },
+        "resolution": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/resolution/10000",
+          "id": "10000",
+          "description": "Work has been completed on this work item.",
+          "name": "Done"
+        },
+        "timetracking": {
+          "remainingEstimate": "0m",
+          "timeSpent": "1d",
+          "remainingEstimateSeconds": 0,
+          "timeSpentSeconds": 28800
+        },
+        "customfield_10015": "2025-12-18",
+        "security": null,
+        "attachment": [],
+        "aggregatetimeestimate": 0,
+        "resolutiondate": "2025-12-18T18:51:27.001+0530",
+        "workratio": -1,
+        "summary": "Saive (Case study: re-design)",
+        "watches": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/CS-109/watchers",
+          "watchCount": 1,
+          "isWatching": false
+        },
+        "lastViewed": null,
+        "creator": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
+          "accountId": "712020:3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
+            "24x24": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
+            "16x16": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
+            "32x32": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png"
+          },
+          "displayName": "Vikas Bhardwaj",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "subtasks": [],
+        "created": "2025-12-18T15:46:28.237+0530",
+        "customfield_10021": null,
+        "reporter": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
+          "accountId": "712020:3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
+            "24x24": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
+            "16x16": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
+            "32x32": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png"
+          },
+          "displayName": "Vikas Bhardwaj",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "aggregateprogress": {
+          "progress": 28800,
+          "total": 28800,
+          "percent": 100
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "customfield_10001": null,
+        "labels": [],
+        "customfield_10038": null,
+        "environment": null,
+        "customfield_10019": "0|i00dmb:",
+        "timeestimate": 0,
+        "aggregatetimeoriginalestimate": null,
+        "versions": [],
+        "duedate": "2025-12-19",
+        "progress": {
+          "progress": 28800,
+          "total": 28800,
+          "percent": 100
+        },
+        "issuelinks": [],
+        "votes": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/CS-109/votes",
+          "votes": 0,
+          "hasVoted": false
+        },
+        "comment": {
+          "comments": [],
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14668/comment",
+          "maxResults": 0,
+          "total": 0,
+          "startAt": 0
+        },
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
+          "accountId": "712020:3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
+            "24x24": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
+            "16x16": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
+            "32x32": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png"
+          },
+          "displayName": "Vikas Bhardwaj",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "worklog": {
+          "startAt": 0,
+          "maxResults": 20,
+          "total": 1,
+          "worklogs": [
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14668/worklog/13664",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
+                "accountId": "712020:3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
+                  "24x24": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
+                  "16x16": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
+                  "32x32": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png"
+                },
+                "displayName": "Vikas Bhardwaj",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
+                "accountId": "712020:3bb4b97a-6f0d-47dd-80f7-2ee50bdb6812",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
+                  "24x24": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
+                  "16x16": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png",
+                  "32x32": "https://secure.gravatar.com/avatar/80782c35a60c26615e3b8d225bb2e3e2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FVB-1.png"
+                },
+                "displayName": "Vikas Bhardwaj",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "comment": {
+                "type": "doc",
+                "version": 1,
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Re-design service section, content changes in all section , make responsive, js functionality"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "created": "2025-12-18T18:51:17.017+0530",
+              "updated": "2025-12-18T18:51:17.017+0530",
+              "started": "2025-12-18T10:00:00.000+0530",
+              "timeSpent": "1d",
+              "timeSpentSeconds": 28800,
+              "id": "13664",
+              "issueId": "14668"
+            }
+          ]
+        },
+        "updated": "2025-12-18T18:51:27.008+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10273",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "Done",
+          "id": "10273",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
       "id": "14656",
       "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14656",
       "key": "CS-108",
       "fields": {
-        "statuscategorychangedate": "2025-12-17T11:11:29.777+0530",
+        "statuscategorychangedate": "2025-12-18T15:46:06.182+0530",
         "issuetype": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issuetype/10778",
           "id": "10778",
@@ -44,13 +1346,18 @@
         "customfield_10033": null,
         "aggregatetimespent": 14400,
         "statusCategory": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
-          "id": 2,
-          "key": "new",
-          "colorName": "blue-gray",
-          "name": "To Do"
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+          "id": 3,
+          "key": "done",
+          "colorName": "green",
+          "name": "Done"
         },
-        "resolution": null,
+        "resolution": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/resolution/10000",
+          "id": "10000",
+          "description": "Work has been completed on this work item.",
+          "name": "Done"
+        },
         "timetracking": {
           "remainingEstimate": "0m",
           "timeSpent": "4h",
@@ -61,7 +1368,7 @@
         "security": null,
         "attachment": [],
         "aggregatetimeestimate": 0,
-        "resolutiondate": null,
+        "resolutiondate": "2025-12-18T15:46:06.164+0530",
         "workratio": -1,
         "summary": "Medistics (Case Study- Re-design)",
         "watches": {
@@ -213,19 +1520,19 @@
             }
           ]
         },
-        "updated": "2025-12-17T18:34:31.199+0530",
+        "updated": "2025-12-18T15:46:06.182+0530",
         "status": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10271",
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10273",
           "description": "",
           "iconUrl": "https://idealabprojects.atlassian.net/",
-          "name": "In Progress",
-          "id": "10271",
+          "name": "Done",
+          "id": "10273",
           "statusCategory": {
-            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
-            "id": 2,
-            "key": "new",
-            "colorName": "blue-gray",
-            "name": "To Do"
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
           }
         }
       }
@@ -43338,754 +44645,6 @@
           "iconUrl": "https://idealabprojects.atlassian.net/",
           "name": "Data Gathering",
           "id": "10275",
-          "statusCategory": {
-            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
-            "id": 2,
-            "key": "new",
-            "colorName": "blue-gray",
-            "name": "To Do"
-          }
-        }
-      }
-    },
-    {
-      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
-      "id": "10557",
-      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/10557",
-      "key": "CS-6",
-      "fields": {
-        "statuscategorychangedate": "2025-04-22T17:20:43.854+0530",
-        "issuetype": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/issuetype/10778",
-          "id": "10778",
-          "description": "Tasks track small, distinct pieces of work.",
-          "iconUrl": "https://idealabprojects.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10318?size=medium",
-          "name": "Task",
-          "subtask": false,
-          "avatarId": 10318,
-          "entityId": "069e06fa-182a-4702-b5dd-44643584d94e",
-          "hierarchyLevel": 0
-        },
-        "components": [],
-        "timespent": null,
-        "timeoriginalestimate": null,
-        "project": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/project/10091",
-          "id": "10091",
-          "key": "CS",
-          "name": "Case Study",
-          "projectTypeKey": "business",
-          "simplified": true,
-          "avatarUrls": {
-            "48x48": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10410",
-            "24x24": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10410?size=small",
-            "16x16": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10410?size=xsmall",
-            "32x32": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10410?size=medium"
-          }
-        },
-        "description": null,
-        "fixVersions": [],
-        "customfield_10033": null,
-        "aggregatetimespent": null,
-        "statusCategory": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
-          "id": 2,
-          "key": "new",
-          "colorName": "blue-gray",
-          "name": "To Do"
-        },
-        "resolution": null,
-        "timetracking": {},
-        "customfield_10015": "2025-04-21",
-        "security": null,
-        "attachment": [],
-        "aggregatetimeestimate": null,
-        "resolutiondate": null,
-        "workratio": -1,
-        "summary": "Content: Case Study - Imee Gusich\tSonalika Singh",
-        "watches": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/CS-6/watchers",
-          "watchCount": 1,
-          "isWatching": false
-        },
-        "lastViewed": null,
-        "creator": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=628b7d1aab91fe0070973fa6",
-          "accountId": "628b7d1aab91fe0070973fa6",
-          "avatarUrls": {
-            "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/48",
-            "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/24",
-            "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/16",
-            "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/32"
-          },
-          "displayName": "Sudhir Yadav1",
-          "active": true,
-          "timeZone": "Asia/Kolkata",
-          "accountType": "atlassian"
-        },
-        "subtasks": [],
-        "created": "2025-04-22T17:20:43.586+0530",
-        "customfield_10021": null,
-        "reporter": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=628b7d1aab91fe0070973fa6",
-          "accountId": "628b7d1aab91fe0070973fa6",
-          "avatarUrls": {
-            "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/48",
-            "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/24",
-            "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/16",
-            "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/32"
-          },
-          "displayName": "Sudhir Yadav1",
-          "active": true,
-          "timeZone": "Asia/Kolkata",
-          "accountType": "atlassian"
-        },
-        "aggregateprogress": {
-          "progress": 0,
-          "total": 0
-        },
-        "priority": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
-          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
-          "name": "Medium",
-          "id": "3"
-        },
-        "customfield_10001": null,
-        "labels": [],
-        "customfield_10038": null,
-        "environment": null,
-        "customfield_10019": "0|i002yz:",
-        "timeestimate": null,
-        "aggregatetimeoriginalestimate": null,
-        "versions": [],
-        "duedate": null,
-        "progress": {
-          "progress": 0,
-          "total": 0
-        },
-        "issuelinks": [],
-        "votes": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/CS-6/votes",
-          "votes": 0,
-          "hasVoted": false
-        },
-        "comment": {
-          "comments": [],
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/10557/comment",
-          "maxResults": 0,
-          "total": 0,
-          "startAt": 0
-        },
-        "assignee": null,
-        "worklog": {
-          "startAt": 0,
-          "maxResults": 20,
-          "total": 0,
-          "worklogs": []
-        },
-        "updated": "2025-08-27T13:43:45.869+0530",
-        "status": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10275",
-          "description": "",
-          "iconUrl": "https://idealabprojects.atlassian.net/",
-          "name": "Data Gathering",
-          "id": "10275",
-          "statusCategory": {
-            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
-            "id": 2,
-            "key": "new",
-            "colorName": "blue-gray",
-            "name": "To Do"
-          }
-        }
-      }
-    },
-    {
-      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
-      "id": "10556",
-      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/10556",
-      "key": "CS-5",
-      "fields": {
-        "statuscategorychangedate": "2025-04-22T17:20:16.096+0530",
-        "issuetype": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/issuetype/10778",
-          "id": "10778",
-          "description": "Tasks track small, distinct pieces of work.",
-          "iconUrl": "https://idealabprojects.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10318?size=medium",
-          "name": "Task",
-          "subtask": false,
-          "avatarId": 10318,
-          "entityId": "069e06fa-182a-4702-b5dd-44643584d94e",
-          "hierarchyLevel": 0
-        },
-        "components": [],
-        "timespent": null,
-        "timeoriginalestimate": null,
-        "project": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/project/10091",
-          "id": "10091",
-          "key": "CS",
-          "name": "Case Study",
-          "projectTypeKey": "business",
-          "simplified": true,
-          "avatarUrls": {
-            "48x48": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10410",
-            "24x24": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10410?size=small",
-            "16x16": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10410?size=xsmall",
-            "32x32": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10410?size=medium"
-          }
-        },
-        "description": null,
-        "fixVersions": [],
-        "customfield_10033": null,
-        "aggregatetimespent": null,
-        "statusCategory": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
-          "id": 2,
-          "key": "new",
-          "colorName": "blue-gray",
-          "name": "To Do"
-        },
-        "resolution": null,
-        "timetracking": {},
-        "customfield_10015": "2025-04-21",
-        "security": null,
-        "attachment": [],
-        "aggregatetimeestimate": null,
-        "resolutiondate": null,
-        "workratio": -1,
-        "summary": "Content: Case Study - David Fisher \tSanjay Kumar Jahangir",
-        "watches": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/CS-5/watchers",
-          "watchCount": 1,
-          "isWatching": false
-        },
-        "lastViewed": null,
-        "creator": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=628b7d1aab91fe0070973fa6",
-          "accountId": "628b7d1aab91fe0070973fa6",
-          "avatarUrls": {
-            "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/48",
-            "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/24",
-            "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/16",
-            "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/32"
-          },
-          "displayName": "Sudhir Yadav1",
-          "active": true,
-          "timeZone": "Asia/Kolkata",
-          "accountType": "atlassian"
-        },
-        "subtasks": [],
-        "created": "2025-04-22T17:20:15.847+0530",
-        "customfield_10021": null,
-        "reporter": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=628b7d1aab91fe0070973fa6",
-          "accountId": "628b7d1aab91fe0070973fa6",
-          "avatarUrls": {
-            "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/48",
-            "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/24",
-            "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/16",
-            "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/32"
-          },
-          "displayName": "Sudhir Yadav1",
-          "active": true,
-          "timeZone": "Asia/Kolkata",
-          "accountType": "atlassian"
-        },
-        "aggregateprogress": {
-          "progress": 0,
-          "total": 0
-        },
-        "priority": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
-          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
-          "name": "Medium",
-          "id": "3"
-        },
-        "customfield_10001": null,
-        "labels": [],
-        "customfield_10038": null,
-        "environment": null,
-        "customfield_10019": "0|i002yy:",
-        "timeestimate": null,
-        "aggregatetimeoriginalestimate": null,
-        "versions": [],
-        "duedate": null,
-        "progress": {
-          "progress": 0,
-          "total": 0
-        },
-        "issuelinks": [],
-        "votes": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/CS-5/votes",
-          "votes": 0,
-          "hasVoted": false
-        },
-        "comment": {
-          "comments": [],
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/10556/comment",
-          "maxResults": 0,
-          "total": 0,
-          "startAt": 0
-        },
-        "assignee": null,
-        "worklog": {
-          "startAt": 0,
-          "maxResults": 20,
-          "total": 0,
-          "worklogs": []
-        },
-        "updated": "2025-08-27T13:43:45.652+0530",
-        "status": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10275",
-          "description": "",
-          "iconUrl": "https://idealabprojects.atlassian.net/",
-          "name": "Data Gathering",
-          "id": "10275",
-          "statusCategory": {
-            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
-            "id": 2,
-            "key": "new",
-            "colorName": "blue-gray",
-            "name": "To Do"
-          }
-        }
-      }
-    },
-    {
-      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
-      "id": "10555",
-      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/10555",
-      "key": "CS-4",
-      "fields": {
-        "statuscategorychangedate": "2025-04-22T17:20:00.370+0530",
-        "issuetype": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/issuetype/10778",
-          "id": "10778",
-          "description": "Tasks track small, distinct pieces of work.",
-          "iconUrl": "https://idealabprojects.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10318?size=medium",
-          "name": "Task",
-          "subtask": false,
-          "avatarId": 10318,
-          "entityId": "069e06fa-182a-4702-b5dd-44643584d94e",
-          "hierarchyLevel": 0
-        },
-        "components": [],
-        "timespent": null,
-        "timeoriginalestimate": null,
-        "project": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/project/10091",
-          "id": "10091",
-          "key": "CS",
-          "name": "Case Study",
-          "projectTypeKey": "business",
-          "simplified": true,
-          "avatarUrls": {
-            "48x48": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10410",
-            "24x24": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10410?size=small",
-            "16x16": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10410?size=xsmall",
-            "32x32": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10410?size=medium"
-          }
-        },
-        "description": null,
-        "fixVersions": [],
-        "customfield_10033": null,
-        "aggregatetimespent": null,
-        "statusCategory": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
-          "id": 2,
-          "key": "new",
-          "colorName": "blue-gray",
-          "name": "To Do"
-        },
-        "resolution": null,
-        "timetracking": {},
-        "customfield_10015": "2025-04-21",
-        "security": null,
-        "attachment": [],
-        "aggregatetimeestimate": null,
-        "resolutiondate": null,
-        "workratio": -1,
-        "summary": " Content: Case Study - Sumit Lakhina\tRamkrishna Pal",
-        "watches": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/CS-4/watchers",
-          "watchCount": 1,
-          "isWatching": false
-        },
-        "lastViewed": null,
-        "creator": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=628b7d1aab91fe0070973fa6",
-          "accountId": "628b7d1aab91fe0070973fa6",
-          "avatarUrls": {
-            "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/48",
-            "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/24",
-            "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/16",
-            "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/32"
-          },
-          "displayName": "Sudhir Yadav1",
-          "active": true,
-          "timeZone": "Asia/Kolkata",
-          "accountType": "atlassian"
-        },
-        "subtasks": [],
-        "created": "2025-04-22T17:20:00.069+0530",
-        "customfield_10021": null,
-        "reporter": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=628b7d1aab91fe0070973fa6",
-          "accountId": "628b7d1aab91fe0070973fa6",
-          "avatarUrls": {
-            "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/48",
-            "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/24",
-            "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/16",
-            "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/32"
-          },
-          "displayName": "Sudhir Yadav1",
-          "active": true,
-          "timeZone": "Asia/Kolkata",
-          "accountType": "atlassian"
-        },
-        "aggregateprogress": {
-          "progress": 0,
-          "total": 0
-        },
-        "priority": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
-          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
-          "name": "Medium",
-          "id": "3"
-        },
-        "customfield_10001": null,
-        "labels": [],
-        "customfield_10038": null,
-        "environment": null,
-        "customfield_10019": "0|i002yx:",
-        "timeestimate": null,
-        "aggregatetimeoriginalestimate": null,
-        "versions": [],
-        "duedate": null,
-        "progress": {
-          "progress": 0,
-          "total": 0
-        },
-        "issuelinks": [],
-        "votes": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/CS-4/votes",
-          "votes": 0,
-          "hasVoted": false
-        },
-        "comment": {
-          "comments": [],
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/10555/comment",
-          "maxResults": 0,
-          "total": 0,
-          "startAt": 0
-        },
-        "assignee": null,
-        "worklog": {
-          "startAt": 0,
-          "maxResults": 20,
-          "total": 0,
-          "worklogs": []
-        },
-        "updated": "2025-08-27T13:43:44.328+0530",
-        "status": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10275",
-          "description": "",
-          "iconUrl": "https://idealabprojects.atlassian.net/",
-          "name": "Data Gathering",
-          "id": "10275",
-          "statusCategory": {
-            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
-            "id": 2,
-            "key": "new",
-            "colorName": "blue-gray",
-            "name": "To Do"
-          }
-        }
-      }
-    },
-    {
-      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
-      "id": "10554",
-      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/10554",
-      "key": "CS-3",
-      "fields": {
-        "statuscategorychangedate": "2025-04-22T17:17:52.620+0530",
-        "issuetype": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/issuetype/10778",
-          "id": "10778",
-          "description": "Tasks track small, distinct pieces of work.",
-          "iconUrl": "https://idealabprojects.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10318?size=medium",
-          "name": "Task",
-          "subtask": false,
-          "avatarId": 10318,
-          "entityId": "069e06fa-182a-4702-b5dd-44643584d94e",
-          "hierarchyLevel": 0
-        },
-        "components": [],
-        "timespent": null,
-        "timeoriginalestimate": null,
-        "project": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/project/10091",
-          "id": "10091",
-          "key": "CS",
-          "name": "Case Study",
-          "projectTypeKey": "business",
-          "simplified": true,
-          "avatarUrls": {
-            "48x48": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10410",
-            "24x24": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10410?size=small",
-            "16x16": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10410?size=xsmall",
-            "32x32": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10410?size=medium"
-          }
-        },
-        "description": null,
-        "fixVersions": [],
-        "customfield_10033": null,
-        "aggregatetimespent": null,
-        "statusCategory": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
-          "id": 2,
-          "key": "new",
-          "colorName": "blue-gray",
-          "name": "To Do"
-        },
-        "resolution": null,
-        "timetracking": {},
-        "customfield_10015": null,
-        "security": null,
-        "attachment": [],
-        "aggregatetimeestimate": null,
-        "resolutiondate": null,
-        "workratio": -1,
-        "summary": "Content Case Study: Felicia Sinatra\tNagendra Yadav",
-        "watches": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/CS-3/watchers",
-          "watchCount": 2,
-          "isWatching": false
-        },
-        "lastViewed": null,
-        "creator": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=628b7d1aab91fe0070973fa6",
-          "accountId": "628b7d1aab91fe0070973fa6",
-          "avatarUrls": {
-            "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/48",
-            "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/24",
-            "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/16",
-            "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/32"
-          },
-          "displayName": "Sudhir Yadav1",
-          "active": true,
-          "timeZone": "Asia/Kolkata",
-          "accountType": "atlassian"
-        },
-        "subtasks": [],
-        "created": "2025-04-22T17:17:52.306+0530",
-        "customfield_10021": null,
-        "reporter": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=628b7d1aab91fe0070973fa6",
-          "accountId": "628b7d1aab91fe0070973fa6",
-          "avatarUrls": {
-            "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/48",
-            "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/24",
-            "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/16",
-            "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/32"
-          },
-          "displayName": "Sudhir Yadav1",
-          "active": true,
-          "timeZone": "Asia/Kolkata",
-          "accountType": "atlassian"
-        },
-        "aggregateprogress": {
-          "progress": 0,
-          "total": 0
-        },
-        "priority": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
-          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
-          "name": "Medium",
-          "id": "3"
-        },
-        "customfield_10001": null,
-        "labels": [],
-        "customfield_10038": null,
-        "environment": null,
-        "customfield_10019": "0|i002zj:",
-        "timeestimate": null,
-        "aggregatetimeoriginalestimate": null,
-        "versions": [],
-        "duedate": null,
-        "progress": {
-          "progress": 0,
-          "total": 0
-        },
-        "issuelinks": [],
-        "votes": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/CS-3/votes",
-          "votes": 0,
-          "hasVoted": false
-        },
-        "comment": {
-          "comments": [
-            {
-              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/10554/comment/12816",
-              "id": "12816",
-              "author": {
-                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=628b7d1aab91fe0070973fa6",
-                "accountId": "628b7d1aab91fe0070973fa6",
-                "avatarUrls": {
-                  "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/48",
-                  "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/24",
-                  "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/16",
-                  "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/32"
-                },
-                "displayName": "Sudhir Yadav1",
-                "active": true,
-                "timeZone": "Asia/Kolkata",
-                "accountType": "atlassian"
-              },
-              "body": {
-                "type": "doc",
-                "version": 1,
-                "content": [
-                  {
-                    "type": "paragraph",
-                    "content": [
-                      {
-                        "type": "text",
-                        "text": "Hi "
-                      },
-                      {
-                        "type": "mention",
-                        "attrs": {
-                          "id": "712020:16506829-3e43-4324-812b-710f925f21f4",
-                          "text": "@tanumoy ghosh",
-                          "accessLevel": "",
-                          "localId": "689a1381-ab51-4831-8179-2b4082497e89"
-                        }
-                      },
-                      {
-                        "type": "text",
-                        "text": " please update the due date of the case study."
-                      }
-                    ]
-                  }
-                ]
-              },
-              "updateAuthor": {
-                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=628b7d1aab91fe0070973fa6",
-                "accountId": "628b7d1aab91fe0070973fa6",
-                "avatarUrls": {
-                  "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/48",
-                  "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/24",
-                  "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/16",
-                  "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/628b7d1aab91fe0070973fa6/379a0e7b-5168-44ce-b132-05c45548087b/32"
-                },
-                "displayName": "Sudhir Yadav1",
-                "active": true,
-                "timeZone": "Asia/Kolkata",
-                "accountType": "atlassian"
-              },
-              "created": "2025-06-03T16:37:04.108+0530",
-              "updated": "2025-06-03T16:37:04.108+0530",
-              "jsdPublic": true
-            },
-            {
-              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/10554/comment/12818",
-              "id": "12818",
-              "author": {
-                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A16506829-3e43-4324-812b-710f925f21f4",
-                "accountId": "712020:16506829-3e43-4324-812b-710f925f21f4",
-                "avatarUrls": {
-                  "48x48": "https://secure.gravatar.com/avatar/e49f43632a97524b80c338b9959e6780?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTG-2.png",
-                  "24x24": "https://secure.gravatar.com/avatar/e49f43632a97524b80c338b9959e6780?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTG-2.png",
-                  "16x16": "https://secure.gravatar.com/avatar/e49f43632a97524b80c338b9959e6780?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTG-2.png",
-                  "32x32": "https://secure.gravatar.com/avatar/e49f43632a97524b80c338b9959e6780?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTG-2.png"
-                },
-                "displayName": "tanumoy ghosh",
-                "active": true,
-                "timeZone": "Asia/Calcutta",
-                "accountType": "atlassian"
-              },
-              "body": {
-                "type": "doc",
-                "version": 1,
-                "content": [
-                  {
-                    "type": "paragraph",
-                    "content": [
-                      {
-                        "type": "text",
-                        "text": "Done "
-                      },
-                      {
-                        "type": "mention",
-                        "attrs": {
-                          "id": "628b7d1aab91fe0070973fa6",
-                          "text": "@Sudhir Yadav1",
-                          "accessLevel": "",
-                          "localId": "66955542-1154-427d-a362-14b7d0882b41"
-                        }
-                      },
-                      {
-                        "type": "text",
-                        "text": " "
-                      }
-                    ]
-                  }
-                ]
-              },
-              "updateAuthor": {
-                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A16506829-3e43-4324-812b-710f925f21f4",
-                "accountId": "712020:16506829-3e43-4324-812b-710f925f21f4",
-                "avatarUrls": {
-                  "48x48": "https://secure.gravatar.com/avatar/e49f43632a97524b80c338b9959e6780?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTG-2.png",
-                  "24x24": "https://secure.gravatar.com/avatar/e49f43632a97524b80c338b9959e6780?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTG-2.png",
-                  "16x16": "https://secure.gravatar.com/avatar/e49f43632a97524b80c338b9959e6780?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTG-2.png",
-                  "32x32": "https://secure.gravatar.com/avatar/e49f43632a97524b80c338b9959e6780?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTG-2.png"
-                },
-                "displayName": "tanumoy ghosh",
-                "active": true,
-                "timeZone": "Asia/Calcutta",
-                "accountType": "atlassian"
-              },
-              "created": "2025-06-03T16:38:12.114+0530",
-              "updated": "2025-06-03T16:38:12.114+0530",
-              "jsdPublic": true
-            }
-          ],
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/10554/comment",
-          "maxResults": 2,
-          "total": 2,
-          "startAt": 0
-        },
-        "assignee": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A16506829-3e43-4324-812b-710f925f21f4",
-          "accountId": "712020:16506829-3e43-4324-812b-710f925f21f4",
-          "avatarUrls": {
-            "48x48": "https://secure.gravatar.com/avatar/e49f43632a97524b80c338b9959e6780?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTG-2.png",
-            "24x24": "https://secure.gravatar.com/avatar/e49f43632a97524b80c338b9959e6780?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTG-2.png",
-            "16x16": "https://secure.gravatar.com/avatar/e49f43632a97524b80c338b9959e6780?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTG-2.png",
-            "32x32": "https://secure.gravatar.com/avatar/e49f43632a97524b80c338b9959e6780?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTG-2.png"
-          },
-          "displayName": "tanumoy ghosh",
-          "active": true,
-          "timeZone": "Asia/Calcutta",
-          "accountType": "atlassian"
-        },
-        "worklog": {
-          "startAt": 0,
-          "maxResults": 20,
-          "total": 0,
-          "worklogs": []
-        },
-        "updated": "2025-08-27T13:43:43.651+0530",
-        "status": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10407",
-          "description": "",
-          "iconUrl": "https://idealabprojects.atlassian.net/",
-          "name": "On Hold",
-          "id": "10407",
           "statusCategory": {
             "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
             "id": 2,

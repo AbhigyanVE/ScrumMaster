@@ -2,8 +2,406 @@
   "name": "Shaun's Videos",
   "id": "10016",
   "key": "VC",
-  "issue_count": 15,
+  "issue_count": 16,
   "issues": [
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "14849",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14849",
+      "key": "VC-17",
+      "fields": {
+        "statuscategorychangedate": "2025-12-30T20:39:42.184+0530",
+        "issuetype": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issuetype/10034",
+          "id": "10034",
+          "description": "A small, distinct piece of work.",
+          "iconUrl": "https://idealabprojects.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10318?size=medium",
+          "name": "Task",
+          "subtask": false,
+          "avatarId": 10318,
+          "entityId": "67eead04-058e-4a38-aab6-555405323b26",
+          "hierarchyLevel": 0
+        },
+        "components": [],
+        "timespent": 36000,
+        "timeoriginalestimate": null,
+        "project": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/project/10016",
+          "id": "10016",
+          "key": "VC",
+          "name": "Shaun's Videos",
+          "projectTypeKey": "business",
+          "simplified": true,
+          "avatarUrls": {
+            "48x48": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10424",
+            "24x24": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10424?size=small",
+            "16x16": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10424?size=xsmall",
+            "32x32": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10424?size=medium"
+          }
+        },
+        "description": null,
+        "fixVersions": [],
+        "customfield_10033": null,
+        "aggregatetimespent": 36000,
+        "statusCategory": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+          "id": 3,
+          "key": "done",
+          "colorName": "green",
+          "name": "Done"
+        },
+        "resolution": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/resolution/10000",
+          "id": "10000",
+          "description": "Work has been completed on this work item.",
+          "name": "Done"
+        },
+        "timetracking": {
+          "remainingEstimate": "0m",
+          "timeSpent": "1d 2h",
+          "remainingEstimateSeconds": 0,
+          "timeSpentSeconds": 36000
+        },
+        "customfield_10015": "2025-12-29",
+        "security": null,
+        "attachment": [],
+        "aggregatetimeestimate": 0,
+        "resolutiondate": "2025-12-30T20:39:42.159+0530",
+        "workratio": -1,
+        "summary": "Why Most Content Is Invisible to AI - YouTube short",
+        "watches": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/VC-17/watchers",
+          "watchCount": 1,
+          "isWatching": false
+        },
+        "lastViewed": null,
+        "creator": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ac44ad097-e9a1-497e-b0ea-7b115363695d",
+          "accountId": "712020:c44ad097-e9a1-497e-b0ea-7b115363695d",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+            "24x24": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+            "16x16": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+            "32x32": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png"
+          },
+          "displayName": "Harvesh Anand",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "subtasks": [],
+        "created": "2025-12-30T20:38:21.441+0530",
+        "customfield_10021": null,
+        "reporter": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ac44ad097-e9a1-497e-b0ea-7b115363695d",
+          "accountId": "712020:c44ad097-e9a1-497e-b0ea-7b115363695d",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+            "24x24": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+            "16x16": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+            "32x32": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png"
+          },
+          "displayName": "Harvesh Anand",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "aggregateprogress": {
+          "progress": 36000,
+          "total": 36000,
+          "percent": 100
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/2",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/high_new.svg",
+          "name": "High",
+          "id": "2"
+        },
+        "customfield_10001": null,
+        "labels": [],
+        "environment": null,
+        "customfield_10019": "0|i00e2n:",
+        "timeestimate": 0,
+        "aggregatetimeoriginalestimate": null,
+        "versions": [],
+        "duedate": null,
+        "progress": {
+          "progress": 36000,
+          "total": 36000,
+          "percent": 100
+        },
+        "issuelinks": [],
+        "votes": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/VC-17/votes",
+          "votes": 0,
+          "hasVoted": false
+        },
+        "comment": {
+          "comments": [
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14849/comment/19458",
+              "id": "19458",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ac44ad097-e9a1-497e-b0ea-7b115363695d",
+                "accountId": "712020:c44ad097-e9a1-497e-b0ea-7b115363695d",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+                  "24x24": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+                  "16x16": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+                  "32x32": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png"
+                },
+                "displayName": "Harvesh Anand",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "body": {
+                "type": "doc",
+                "version": 1,
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "First draft shared for review: "
+                      },
+                      {
+                        "type": "text",
+                        "text": "Why Most Content Is Invisible to AI",
+                        "marks": [
+                          {
+                            "type": "link",
+                            "attrs": {
+                              "href": "https://youtube.com/shorts/SuF33tjt7VE"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ac44ad097-e9a1-497e-b0ea-7b115363695d",
+                "accountId": "712020:c44ad097-e9a1-497e-b0ea-7b115363695d",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+                  "24x24": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+                  "16x16": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+                  "32x32": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png"
+                },
+                "displayName": "Harvesh Anand",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "created": "2025-12-30T20:38:58.084+0530",
+              "updated": "2025-12-30T20:38:58.084+0530",
+              "jsdPublic": true
+            },
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14849/comment/19459",
+              "id": "19459",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ac44ad097-e9a1-497e-b0ea-7b115363695d",
+                "accountId": "712020:c44ad097-e9a1-497e-b0ea-7b115363695d",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+                  "24x24": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+                  "16x16": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+                  "32x32": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png"
+                },
+                "displayName": "Harvesh Anand",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "body": {
+                "type": "doc",
+                "version": 1,
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Feedback implemented and shared 2 more versions with shaun: "
+                      },
+                      {
+                        "type": "hardBreak"
+                      },
+                      {
+                        "type": "text",
+                        "text": "Why Most Content Is Invisible to AI V1",
+                        "marks": [
+                          {
+                            "type": "link",
+                            "attrs": {
+                              "href": "https://youtube.com/shorts/FCFkedmvAOU?feature=share"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Why Most Content Is Invisible to AI V2",
+                        "marks": [
+                          {
+                            "type": "link",
+                            "attrs": {
+                              "href": "https://youtube.com/shorts/3mDYtrUUzTo"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ac44ad097-e9a1-497e-b0ea-7b115363695d",
+                "accountId": "712020:c44ad097-e9a1-497e-b0ea-7b115363695d",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+                  "24x24": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+                  "16x16": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+                  "32x32": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png"
+                },
+                "displayName": "Harvesh Anand",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "created": "2025-12-30T20:39:33.501+0530",
+              "updated": "2025-12-30T20:39:33.501+0530",
+              "jsdPublic": true
+            }
+          ],
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14849/comment",
+          "maxResults": 2,
+          "total": 2,
+          "startAt": 0
+        },
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ac44ad097-e9a1-497e-b0ea-7b115363695d",
+          "accountId": "712020:c44ad097-e9a1-497e-b0ea-7b115363695d",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+            "24x24": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+            "16x16": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+            "32x32": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png"
+          },
+          "displayName": "Harvesh Anand",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "worklog": {
+          "startAt": 0,
+          "maxResults": 20,
+          "total": 2,
+          "worklogs": [
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14849/worklog/13819",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ac44ad097-e9a1-497e-b0ea-7b115363695d",
+                "accountId": "712020:c44ad097-e9a1-497e-b0ea-7b115363695d",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+                  "24x24": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+                  "16x16": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+                  "32x32": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png"
+                },
+                "displayName": "Harvesh Anand",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ac44ad097-e9a1-497e-b0ea-7b115363695d",
+                "accountId": "712020:c44ad097-e9a1-497e-b0ea-7b115363695d",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+                  "24x24": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+                  "16x16": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+                  "32x32": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png"
+                },
+                "displayName": "Harvesh Anand",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "created": "2025-12-30T20:39:05.614+0530",
+              "updated": "2025-12-30T20:39:05.614+0530",
+              "started": "2025-12-29T17:38:00.000+0530",
+              "timeSpent": "3h",
+              "timeSpentSeconds": 10800,
+              "id": "13819",
+              "issueId": "14849"
+            },
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14849/worklog/13820",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ac44ad097-e9a1-497e-b0ea-7b115363695d",
+                "accountId": "712020:c44ad097-e9a1-497e-b0ea-7b115363695d",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+                  "24x24": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+                  "16x16": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+                  "32x32": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png"
+                },
+                "displayName": "Harvesh Anand",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ac44ad097-e9a1-497e-b0ea-7b115363695d",
+                "accountId": "712020:c44ad097-e9a1-497e-b0ea-7b115363695d",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+                  "24x24": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+                  "16x16": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png",
+                  "32x32": "https://secure.gravatar.com/avatar/a594c0152ac2381b691f76e416e2ee63?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FHA-1.png"
+                },
+                "displayName": "Harvesh Anand",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "created": "2025-12-30T20:39:38.901+0530",
+              "updated": "2025-12-30T20:39:38.901+0530",
+              "started": "2025-12-30T13:39:34.005+0530",
+              "timeSpent": "7h",
+              "timeSpentSeconds": 25200,
+              "id": "13820",
+              "issueId": "14849"
+            }
+          ]
+        },
+        "updated": "2025-12-30T20:39:42.184+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10061",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "Done",
+          "id": "10061",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
+          }
+        }
+      }
+    },
     {
       "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
       "id": "14500",

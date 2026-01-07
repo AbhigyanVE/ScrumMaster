@@ -9,6 +9,7 @@ from typing import List, Optional, Dict
 from datetime import datetime
 import json
 import uuid
+from query_patterns import *
 
 # Load environment variables from .env file
 load_dotenv()
@@ -571,20 +572,25 @@ def validate_evaluation_prerequisites(issue_key):
             return False, f"Issue {issue_key} not found in the database.", False, False
         
         description, duedate = result
-        has_desc = description is not None and description.strip() != ""
-        has_due = duedate is not None and duedate.strip() != ""
+        
+        # STRICT validation - check for None, empty string, or whitespace-only
+        has_desc = description is not None and len(description.strip()) > 0
+        has_due = duedate is not None and len(duedate.strip()) > 0
+        
+        print(f"DEBUG: Issue {issue_key} - Description: '{description}' (has_desc={has_desc}), Duedate: '{duedate}' (has_due={has_due})")
         
         # Check what's missing
         if not has_desc and not has_due:
-            return False, f"❌ Cannot evaluate deadline for {issue_key}:\n- Description not available\n- Deadline not set\n\nBoth are required for deadline evaluation.", False, False
+            return False, f"❌ **Cannot evaluate deadline for {issue_key}**\n\n**Missing:**\n- Description not available\n- Deadline not set\n\n**Required:** Both description and deadline are needed for evaluation.", False, False
         elif not has_desc:
-            return False, f"❌ Cannot evaluate deadline for {issue_key}:\n- Description not available\n\nDescription is needed to assess task complexity and deadline feasibility.", False, True
+            return False, f"❌ **Cannot evaluate deadline for {issue_key}**\n\n**Missing:**\n- Description not available\n\n**Why this matters:** I need to understand the task scope and complexity to assess if the deadline is realistic.\n\n**Suggestion:** Add a description in Jira, then ask me again.", False, True
         elif not has_due:
-            return False, f"❌ Cannot evaluate deadline for {issue_key}:\n- Deadline not set\n\nNo deadline has been set for this issue, so there's nothing to evaluate.", True, False
+            return False, f"❌ **Cannot evaluate deadline for {issue_key}**\n\n**Missing:**\n- Deadline not set\n\n**Why this matters:** There's no deadline to evaluate.\n\n**Suggestion:** Set a due date in Jira, then ask me to evaluate it.", True, False
         
         return True, "Valid", True, True
         
     except Exception as e:
+        print(f"ERROR in validation: {e}")
         return False, f"Error checking issue: {str(e)}", False, False
 
 def classify_query_type(question: str) -> str:
@@ -621,13 +627,23 @@ def classify_query_type(question: str) -> str:
 def generate_sql_from_question(question: str, query_type: str) -> str:
     """Use OpenAI GPT-4o to convert natural language question to SQL with agent context"""
     
+    # FIRST: Check if this matches a smart pattern
+    has_pattern, smart_sql, pattern_desc = check_smart_pattern(question)
+    
+    if has_pattern:
+        print(f"Smart pattern matched: {pattern_desc}")
+        # print(f"✓ Generated SQL: {smart_sql[:100]}...")
+        return smart_sql
+    
+    # FALLBACK: Use LLM for non-pattern queries
     schema = get_db_schema()
     assignees = get_available_assignees()
     projects = get_available_projects()
     persona = ScrumMasterAgent.get_persona_prompt()
-    context = ContextManager.get_context_for_sql_generation()       # Updated to use ContextManager
+    context = ContextManager.get_context_for_sql_generation()           # Updated to use ContextManager
     
     # Add current date context
+    from datetime import datetime
     current_date = datetime.now().strftime("%Y-%m-%d")
     print(f"Current date for SQL generation: {current_date}")
     
@@ -659,7 +675,7 @@ IMPORTANT RULES:
 12. PAY ATTENTION TO CONTEXT: If user says "these", "this", "that project", "these issues", refer to the context above to understand what they mean
 13. For duedate/deadline queries: ALWAYS SELECT duedate column. If result is NULL, tell user "No due date set"
 14. NEVER substitute updated date for duedate - they are different fields
-15. For EVALUATION queries:
+15. For EVALUATION queries: Always select description, duedate, status, time_estimate, created, assignee, issue_type
 - ALWAYS compute deadline_status using CURRENT DATE
 - Use julianday() for date comparison
 - Return a column named deadline_status with values:
@@ -693,7 +709,6 @@ CRITICAL:
 - NEVER say a task has "ample time" unless deadline_status = 'ON TRACK'
 - If deadline_status = 'OVERDUE', explicitly say the deadline has already passed
 - Do NOT infer timelines from status alone
-
 """
 
     try:
@@ -771,7 +786,7 @@ If this is an ANALYSIS query, include:
                 {"role": "user", "content": user_prompt}
             ],
             temperature=0.7,
-            max_tokens=1000  # Increased from 600 to handle longer lists
+            max_tokens=5000  # Increased from 1000 to handle longer lists
         )
         
         analysis = response.choices[0].message.content.strip()
@@ -816,7 +831,7 @@ def main():
         st.markdown("## 🤖 AI Scrum Master Agent")
     with col2:
         st.markdown(
-            "<p style='text-align: right; font-size: 20px; margin-top: 18px;'><b>Version 3.3.1</b></p>",
+            "<p style='text-align: right; font-size: 20px; margin-top: 18px;'><b>Version 3.4</b></p>",
             unsafe_allow_html=True
         )
     st.markdown("*Your intelligent Agile assistant with context-aware reasoning*")
@@ -1115,7 +1130,14 @@ def main():
                 
                 # Normal query processing (not evaluation)
                 else:
+                    # Check if query uses smart pattern
+                    has_pattern, _, pattern_desc = check_smart_pattern(prompt)
+                    
                     with st.spinner("🤔 Analyzing with AI Scrum Master agent..."):
+                        # Show smart pattern indicator
+                        if has_pattern:
+                            st.info(f"🎯 Using optimized query pattern: {pattern_desc}")
+                        
                         # Generate SQL
                         sql_query = generate_sql_from_question(prompt, query_type)
                         

@@ -2,8 +2,891 @@
   "name": "Blogs",
   "id": "10157",
   "key": "BLOG",
-  "issue_count": 97,
+  "issue_count": 100,
   "issues": [
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "14778",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14778",
+      "key": "BLOG-101",
+      "fields": {
+        "statuscategorychangedate": "2025-12-26T14:54:41.514+0530",
+        "issuetype": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issuetype/10185",
+          "id": "10185",
+          "description": "A small piece of work that's part of a larger task.",
+          "iconUrl": "https://idealabprojects.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10316?size=medium",
+          "name": "Sub-task",
+          "subtask": true,
+          "avatarId": 10316,
+          "entityId": "643d3783-3d3b-4706-a20b-5a56f1946c17",
+          "hierarchyLevel": -1
+        },
+        "parent": {
+          "id": "14776",
+          "key": "BLOG-100",
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14776",
+          "fields": {
+            "summary": "Article - Do You Need a CFO or Just a bookkeeper? (Freelancer)",
+            "status": {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10373",
+              "description": "",
+              "iconUrl": "https://idealabprojects.atlassian.net/",
+              "name": "In Review",
+              "id": "10373",
+              "statusCategory": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
+                "id": 2,
+                "key": "new",
+                "colorName": "blue-gray",
+                "name": "To Do"
+              }
+            },
+            "priority": {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/1",
+              "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/highest_new.svg",
+              "name": "Highest",
+              "id": "1"
+            },
+            "issuetype": {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issuetype/10184",
+              "id": "10184",
+              "description": "A small, distinct piece of work.",
+              "iconUrl": "https://idealabprojects.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10318?size=medium",
+              "name": "Task",
+              "subtask": false,
+              "avatarId": 10318,
+              "entityId": "bfa12612-d2dd-470c-8aa1-675e48827fd9",
+              "hierarchyLevel": 0
+            }
+          }
+        },
+        "components": [],
+        "timespent": null,
+        "timeoriginalestimate": null,
+        "project": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/project/10157",
+          "id": "10157",
+          "key": "BLOG",
+          "name": "Blogs",
+          "projectTypeKey": "business",
+          "simplified": true,
+          "avatarUrls": {
+            "48x48": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10403",
+            "24x24": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10403?size=small",
+            "16x16": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10403?size=xsmall",
+            "32x32": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10403?size=medium"
+          }
+        },
+        "description": null,
+        "fixVersions": [],
+        "customfield_10033": null,
+        "aggregatetimespent": null,
+        "statusCategory": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
+          "id": 2,
+          "key": "new",
+          "colorName": "blue-gray",
+          "name": "To Do"
+        },
+        "resolution": null,
+        "timetracking": {},
+        "customfield_10015": "2025-12-26",
+        "security": null,
+        "attachment": [],
+        "aggregatetimeestimate": null,
+        "resolutiondate": null,
+        "workratio": -1,
+        "summary": "Review: Article - Do You Need a CFO or Just a bookkeeper? (Freelancer)",
+        "watches": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/BLOG-101/watchers",
+          "watchCount": 1,
+          "isWatching": false
+        },
+        "lastViewed": null,
+        "creator": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ab3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
+          "accountId": "712020:b3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+            "24x24": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+            "16x16": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+            "32x32": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png"
+          },
+          "displayName": "smariti",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "subtasks": [],
+        "created": "2025-12-26T14:54:41.204+0530",
+        "reporter": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ab3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
+          "accountId": "712020:b3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+            "24x24": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+            "16x16": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+            "32x32": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png"
+          },
+          "displayName": "smariti",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "aggregateprogress": {
+          "progress": 0,
+          "total": 0
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/1",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/highest_new.svg",
+          "name": "Highest",
+          "id": "1"
+        },
+        "customfield_10001": null,
+        "labels": [
+          "content"
+        ],
+        "environment": null,
+        "customfield_10019": "0|i00dvz:",
+        "timeestimate": null,
+        "aggregatetimeoriginalestimate": null,
+        "versions": [],
+        "duedate": "2025-12-26",
+        "progress": {
+          "progress": 0,
+          "total": 0
+        },
+        "issuelinks": [],
+        "votes": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/BLOG-101/votes",
+          "votes": 0,
+          "hasVoted": false
+        },
+        "comment": {
+          "comments": [
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14778/comment/19349",
+              "id": "19349",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ab3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
+                "accountId": "712020:b3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+                  "24x24": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+                  "16x16": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+                  "32x32": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png"
+                },
+                "displayName": "smariti",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "body": {
+                "type": "doc",
+                "version": 1,
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Hi "
+                      },
+                      {
+                        "type": "mention",
+                        "attrs": {
+                          "id": "712020:16506829-3e43-4324-812b-710f925f21f4",
+                          "text": "@tanumoy ghosh",
+                          "accessLevel": "",
+                          "localId": "629f5043-df40-4da8-a5f4-14042d902cf2"
+                        }
+                      },
+                      {
+                        "type": "text",
+                        "text": " - Please review this article written by freelancer (Afifa Naaz)"
+                      },
+                      {
+                        "type": "hardBreak"
+                      },
+                      {
+                        "type": "text",
+                        "text": "Do you need a CFO or just a Bookkeeper",
+                        "marks": [
+                          {
+                            "type": "link",
+                            "attrs": {
+                              "href": "https://vemp.sharepoint.com/:w:/r/sites/Trackers-IdeaLabTeam/Shared%20Documents/Writers%20Folders/External%20Writer/Article%20freelancers/Do%20you%20need%20a%20CFO%20or%20just%20a%20Bookkeeper.docx?d=wdc0d5095c4cf4420a169a13309a38ed5&csf=1&web=1&e=SoAU45"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ab3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
+                "accountId": "712020:b3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+                  "24x24": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+                  "16x16": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+                  "32x32": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png"
+                },
+                "displayName": "smariti",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "created": "2025-12-26T15:00:13.334+0530",
+              "updated": "2025-12-26T15:00:13.334+0530",
+              "jsdPublic": true
+            }
+          ],
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14778/comment",
+          "maxResults": 1,
+          "total": 1,
+          "startAt": 0
+        },
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A16506829-3e43-4324-812b-710f925f21f4",
+          "accountId": "712020:16506829-3e43-4324-812b-710f925f21f4",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/e49f43632a97524b80c338b9959e6780?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTG-2.png",
+            "24x24": "https://secure.gravatar.com/avatar/e49f43632a97524b80c338b9959e6780?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTG-2.png",
+            "16x16": "https://secure.gravatar.com/avatar/e49f43632a97524b80c338b9959e6780?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTG-2.png",
+            "32x32": "https://secure.gravatar.com/avatar/e49f43632a97524b80c338b9959e6780?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTG-2.png"
+          },
+          "displayName": "tanumoy ghosh",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "worklog": {
+          "startAt": 0,
+          "maxResults": 20,
+          "total": 0,
+          "worklogs": []
+        },
+        "updated": "2025-12-26T15:00:13.334+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10373",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "In Review",
+          "id": "10373",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
+            "id": 2,
+            "key": "new",
+            "colorName": "blue-gray",
+            "name": "To Do"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "14776",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14776",
+      "key": "BLOG-100",
+      "fields": {
+        "statuscategorychangedate": "2025-12-26T14:40:22.875+0530",
+        "issuetype": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issuetype/10184",
+          "id": "10184",
+          "description": "A small, distinct piece of work.",
+          "iconUrl": "https://idealabprojects.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10318?size=medium",
+          "name": "Task",
+          "subtask": false,
+          "avatarId": 10318,
+          "entityId": "bfa12612-d2dd-470c-8aa1-675e48827fd9",
+          "hierarchyLevel": 0
+        },
+        "components": [],
+        "timespent": null,
+        "timeoriginalestimate": null,
+        "project": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/project/10157",
+          "id": "10157",
+          "key": "BLOG",
+          "name": "Blogs",
+          "projectTypeKey": "business",
+          "simplified": true,
+          "avatarUrls": {
+            "48x48": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10403",
+            "24x24": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10403?size=small",
+            "16x16": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10403?size=xsmall",
+            "32x32": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10403?size=medium"
+          }
+        },
+        "description": null,
+        "fixVersions": [],
+        "customfield_10033": null,
+        "aggregatetimespent": null,
+        "statusCategory": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
+          "id": 2,
+          "key": "new",
+          "colorName": "blue-gray",
+          "name": "To Do"
+        },
+        "resolution": null,
+        "timetracking": {},
+        "customfield_10015": "2025-12-24",
+        "security": null,
+        "attachment": [],
+        "aggregatetimeestimate": null,
+        "resolutiondate": null,
+        "workratio": -1,
+        "summary": "Article - Do You Need a CFO or Just a bookkeeper? (Freelancer)",
+        "watches": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/BLOG-100/watchers",
+          "watchCount": 1,
+          "isWatching": false
+        },
+        "lastViewed": null,
+        "creator": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ab3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
+          "accountId": "712020:b3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+            "24x24": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+            "16x16": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+            "32x32": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png"
+          },
+          "displayName": "smariti",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "subtasks": [
+          {
+            "id": "14778",
+            "key": "BLOG-101",
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14778",
+            "fields": {
+              "summary": "Review: Article - Do You Need a CFO or Just a bookkeeper? (Freelancer)",
+              "status": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10373",
+                "description": "",
+                "iconUrl": "https://idealabprojects.atlassian.net/",
+                "name": "In Review",
+                "id": "10373",
+                "statusCategory": {
+                  "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
+                  "id": 2,
+                  "key": "new",
+                  "colorName": "blue-gray",
+                  "name": "To Do"
+                }
+              },
+              "priority": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/1",
+                "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/highest_new.svg",
+                "name": "Highest",
+                "id": "1"
+              },
+              "issuetype": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/issuetype/10185",
+                "id": "10185",
+                "description": "A small piece of work that's part of a larger task.",
+                "iconUrl": "https://idealabprojects.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10316?size=medium",
+                "name": "Sub-task",
+                "subtask": true,
+                "avatarId": 10316,
+                "entityId": "643d3783-3d3b-4706-a20b-5a56f1946c17",
+                "hierarchyLevel": -1
+              }
+            }
+          }
+        ],
+        "created": "2025-12-26T14:40:22.489+0530",
+        "reporter": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ab3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
+          "accountId": "712020:b3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+            "24x24": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+            "16x16": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+            "32x32": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png"
+          },
+          "displayName": "smariti",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "aggregateprogress": {
+          "progress": 0,
+          "total": 0
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/1",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/highest_new.svg",
+          "name": "Highest",
+          "id": "1"
+        },
+        "customfield_10001": null,
+        "labels": [
+          "content"
+        ],
+        "environment": null,
+        "customfield_10019": "0|i00dvr:",
+        "timeestimate": null,
+        "aggregatetimeoriginalestimate": null,
+        "versions": [],
+        "duedate": "2025-12-26",
+        "progress": {
+          "progress": 0,
+          "total": 0
+        },
+        "issuelinks": [],
+        "votes": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/BLOG-100/votes",
+          "votes": 0,
+          "hasVoted": false
+        },
+        "comment": {
+          "comments": [
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14776/comment/19524",
+              "id": "19524",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ab3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
+                "accountId": "712020:b3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+                  "24x24": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+                  "16x16": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+                  "32x32": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png"
+                },
+                "displayName": "smariti",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "body": {
+                "type": "doc",
+                "version": 1,
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Hello "
+                      },
+                      {
+                        "type": "mention",
+                        "attrs": {
+                          "id": "712020:16506829-3e43-4324-812b-710f925f21f4",
+                          "text": "@tanumoy ghosh",
+                          "accessLevel": "",
+                          "localId": "77c41a6f-3cbb-41b5-80ef-9669bc8f48d1"
+                        }
+                      },
+                      {
+                        "type": "text",
+                        "text": " here is the updated article link "
+                      },
+                      {
+                        "type": "hardBreak"
+                      },
+                      {
+                        "type": "inlineCard",
+                        "attrs": {
+                          "url": "https://docs.google.com/document/d/15QHAdJUQKw39DVQvCi9qMu4qz89f-aFwikjEiCfZrDE/edit?usp=sharing"
+                        }
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  }
+                ]
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ab3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
+                "accountId": "712020:b3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+                  "24x24": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+                  "16x16": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+                  "32x32": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png"
+                },
+                "displayName": "smariti",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "created": "2026-01-02T15:29:57.784+0530",
+              "updated": "2026-01-02T15:29:57.784+0530",
+              "jsdPublic": true
+            }
+          ],
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14776/comment",
+          "maxResults": 1,
+          "total": 1,
+          "startAt": 0
+        },
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Ab3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
+          "accountId": "712020:b3e6b5f6-6f3e-468d-bec6-88f6d7339e58",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+            "24x24": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+            "16x16": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png",
+            "32x32": "https://secure.gravatar.com/avatar/87c8c7fcdc4c0cea8cb8ec591201b894?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-2.png"
+          },
+          "displayName": "smariti",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "worklog": {
+          "startAt": 0,
+          "maxResults": 20,
+          "total": 0,
+          "worklogs": []
+        },
+        "updated": "2026-01-02T15:29:57.784+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10373",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "In Review",
+          "id": "10373",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
+            "id": 2,
+            "key": "new",
+            "colorName": "blue-gray",
+            "name": "To Do"
+          }
+        }
+      }
+    },
+    {
+      "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+      "id": "14737",
+      "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14737",
+      "key": "BLOG-99",
+      "fields": {
+        "statuscategorychangedate": "2025-12-24T18:35:19.241+0530",
+        "issuetype": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issuetype/10184",
+          "id": "10184",
+          "description": "A small, distinct piece of work.",
+          "iconUrl": "https://idealabprojects.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10318?size=medium",
+          "name": "Task",
+          "subtask": false,
+          "avatarId": 10318,
+          "entityId": "bfa12612-d2dd-470c-8aa1-675e48827fd9",
+          "hierarchyLevel": 0
+        },
+        "components": [],
+        "timespent": 5400,
+        "timeoriginalestimate": null,
+        "project": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/project/10157",
+          "id": "10157",
+          "key": "BLOG",
+          "name": "Blogs",
+          "projectTypeKey": "business",
+          "simplified": true,
+          "avatarUrls": {
+            "48x48": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10403",
+            "24x24": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10403?size=small",
+            "16x16": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10403?size=xsmall",
+            "32x32": "https://idealabprojects.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10403?size=medium"
+          }
+        },
+        "description": null,
+        "fixVersions": [],
+        "customfield_10033": null,
+        "aggregatetimespent": 5400,
+        "statusCategory": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
+          "id": 2,
+          "key": "new",
+          "colorName": "blue-gray",
+          "name": "To Do"
+        },
+        "resolution": null,
+        "timetracking": {
+          "remainingEstimate": "0m",
+          "timeSpent": "1h 30m",
+          "remainingEstimateSeconds": 0,
+          "timeSpentSeconds": 5400
+        },
+        "customfield_10015": "2025-12-24",
+        "security": null,
+        "attachment": [],
+        "aggregatetimeestimate": 0,
+        "resolutiondate": null,
+        "workratio": -1,
+        "summary": "Answer Ownership - The NASA Effect Final",
+        "watches": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/BLOG-99/watchers",
+          "watchCount": 1,
+          "isWatching": false
+        },
+        "lastViewed": null,
+        "creator": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Afe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
+          "accountId": "712020:fe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+            "24x24": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+            "16x16": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+            "32x32": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png"
+          },
+          "displayName": "abha jha",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "subtasks": [],
+        "created": "2025-12-24T18:35:18.972+0530",
+        "reporter": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Afe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
+          "accountId": "712020:fe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+            "24x24": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+            "16x16": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+            "32x32": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png"
+          },
+          "displayName": "abha jha",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "aggregateprogress": {
+          "progress": 5400,
+          "total": 5400,
+          "percent": 100
+        },
+        "priority": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://idealabprojects.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "customfield_10001": null,
+        "labels": [],
+        "environment": null,
+        "customfield_10019": "0|i00duf:",
+        "timeestimate": 0,
+        "aggregatetimeoriginalestimate": null,
+        "versions": [],
+        "duedate": null,
+        "progress": {
+          "progress": 5400,
+          "total": 5400,
+          "percent": 100
+        },
+        "issuelinks": [],
+        "votes": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/BLOG-99/votes",
+          "votes": 0,
+          "hasVoted": false
+        },
+        "comment": {
+          "comments": [
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14737/comment/19307",
+              "id": "19307",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Afe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
+                "accountId": "712020:fe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "24x24": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "16x16": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "32x32": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png"
+                },
+                "displayName": "abha jha",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "body": {
+                "type": "doc",
+                "version": 1,
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Answer Ownership - The NASA Effect Final.docx",
+                        "marks": [
+                          {
+                            "type": "link",
+                            "attrs": {
+                              "href": "https://vemp-my.sharepoint.com/:w:/r/personal/irfanahmad_virtualemployee_com/_layouts/15/Doc.aspx?sourcedoc=%7B41AEBDDE-5EEF-4F7C-AB41-9226EE5F68C2%7D&file=Answer%20Ownership%20-%20The%20NASA%20Effect%20Final.docx&action=default&mobileredirect=true&isSPOFile=1&xsdata=MDV8MDJ8fDJkMmRmOGM2MmJjMDQxMzhmZTQxMDhkZTQyZTM0ZmE4fGEyOGU2ZjI3NzkxNDQwZWI4YjA1ZGM0YTk4ZDdiMjQxfDB8MHw2MzkwMjE3NDExOTQ2NzcyMDR8VW5rbm93bnxWR1ZoYlhOVFpXTjFjbWwwZVZObGNuWnBZMlY4ZXlKRFFTSTZJbFJsWVcxelgwRlVVRk5sY25acFkyVmZVMUJQVEU5R0lpd2lWaUk2SWpBdU1DNHdNREF3SWl3aVVDSTZJbGRwYmpNeUlpd2lRVTRpT2lKUGRHaGxjaUlzSWxkVUlqb3hNWDA9fDF8TDJOb1lYUnpMekU1T2pKbVlqTTNObU01TFRjellqa3ROREl4T1MwNU5qWTRMVFppTVdJeE1EbGpNbUZtTUY5bU9XSXpaRFF5TVMxak5UUTBMVFE0TkdRdFlXVmlPQzFtTm1VM05HTTJOalkxTXpkQWRXNXhMbWRpYkM1emNHRmpaWE12YldWemMyRm5aWE12TVRjMk5qVTNOek14TnpJeE5RPT18YzE1Yjc0ZDE3N2E1NDc1MDdkMjQwOGRlNDJlMzRmYTh8MjY3Y2I2NjdiODBkNDViYWFjNDA0OWM2NWViYjk1YmM%3D&sdata=MDN4R3VIV3BzSXRSbUg3SVEwWHNic1g4K1Q1dWx0UE9pdVVWbVhoUnd2az0%3D&ovuser=a28e6f27-7914-40eb-8b05-dc4a98d7b241%2Cabhajha%40virtualemployee.com"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Afe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
+                "accountId": "712020:fe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "24x24": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "16x16": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "32x32": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png"
+                },
+                "displayName": "abha jha",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "created": "2025-12-24T18:35:42.164+0530",
+              "updated": "2025-12-24T18:35:42.164+0530",
+              "jsdPublic": true
+            },
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14737/comment/19308",
+              "id": "19308",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Afe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
+                "accountId": "712020:fe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "24x24": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "16x16": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "32x32": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png"
+                },
+                "displayName": "abha jha",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "body": {
+                "type": "doc",
+                "version": 1,
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Drafted on wordpress"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Afe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
+                "accountId": "712020:fe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "24x24": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "16x16": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "32x32": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png"
+                },
+                "displayName": "abha jha",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "created": "2025-12-24T18:36:02.514+0530",
+              "updated": "2025-12-24T18:36:02.514+0530",
+              "jsdPublic": true
+            }
+          ],
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14737/comment",
+          "maxResults": 2,
+          "total": 2,
+          "startAt": 0
+        },
+        "assignee": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Afe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
+          "accountId": "712020:fe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+            "24x24": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+            "16x16": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+            "32x32": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png"
+          },
+          "displayName": "abha jha",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "worklog": {
+          "startAt": 0,
+          "maxResults": 20,
+          "total": 1,
+          "worklogs": [
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14737/worklog/13712",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Afe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
+                "accountId": "712020:fe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "24x24": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "16x16": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "32x32": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png"
+                },
+                "displayName": "abha jha",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3Afe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
+                "accountId": "712020:fe9b931d-fd7a-4bf8-8b27-8e5ec968ac06",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "24x24": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "16x16": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+                  "32x32": "https://secure.gravatar.com/avatar/ee09715dfe55c415d9159768582b0d01?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png"
+                },
+                "displayName": "abha jha",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "created": "2025-12-24T18:36:16.963+0530",
+              "updated": "2025-12-24T18:36:16.963+0530",
+              "started": "2025-12-24T17:06:09.007+0530",
+              "timeSpent": "1h 30m",
+              "timeSpentSeconds": 5400,
+              "id": "13712",
+              "issueId": "14737"
+            }
+          ]
+        },
+        "updated": "2025-12-24T18:36:16.979+0530",
+        "status": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10370",
+          "description": "",
+          "iconUrl": "https://idealabprojects.atlassian.net/",
+          "name": "To Do",
+          "id": "10370",
+          "statusCategory": {
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
+            "id": 2,
+            "key": "new",
+            "colorName": "blue-gray",
+            "name": "To Do"
+          }
+        }
+      }
+    },
     {
       "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
       "id": "14546",
@@ -295,7 +1178,7 @@
             }
           ]
         },
-        "updated": "2025-12-17T10:48:25.501+0530",
+        "updated": "2025-12-29T13:32:50.830+0530",
         "status": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10372",
           "description": "",
@@ -1099,7 +1982,7 @@
       "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14542",
       "key": "BLOG-94",
       "fields": {
-        "statuscategorychangedate": "2025-12-08T12:26:39.703+0530",
+        "statuscategorychangedate": "2025-12-22T11:42:52.108+0530",
         "issuetype": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issuetype/10184",
           "id": "10184",
@@ -1176,24 +2059,29 @@
         "customfield_10033": null,
         "aggregatetimespent": null,
         "statusCategory": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
-          "id": 2,
-          "key": "new",
-          "colorName": "blue-gray",
-          "name": "To Do"
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+          "id": 3,
+          "key": "done",
+          "colorName": "green",
+          "name": "Done"
         },
-        "resolution": null,
+        "resolution": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/resolution/10000",
+          "id": "10000",
+          "description": "Work has been completed on this work item.",
+          "name": "Done"
+        },
         "timetracking": {},
         "customfield_10015": null,
         "security": null,
         "attachment": [],
         "aggregatetimeestimate": null,
-        "resolutiondate": null,
+        "resolutiondate": "2025-12-22T11:42:52.090+0530",
         "workratio": -1,
         "summary": "Medium Spoke Content - VA as Data Curators: Turning Tasks into Strategy via Insights and Feedback Loops",
         "watches": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/BLOG-94/watchers",
-          "watchCount": 0,
+          "watchCount": 1,
           "isWatching": false
         },
         "lastViewed": null,
@@ -1256,22 +2144,73 @@
           "hasVoted": false
         },
         "comment": {
-          "comments": [],
+          "comments": [
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14542/comment/19283",
+              "id": "19283",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A16506829-3e43-4324-812b-710f925f21f4",
+                "accountId": "712020:16506829-3e43-4324-812b-710f925f21f4",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/e49f43632a97524b80c338b9959e6780?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTG-2.png",
+                  "24x24": "https://secure.gravatar.com/avatar/e49f43632a97524b80c338b9959e6780?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTG-2.png",
+                  "16x16": "https://secure.gravatar.com/avatar/e49f43632a97524b80c338b9959e6780?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTG-2.png",
+                  "32x32": "https://secure.gravatar.com/avatar/e49f43632a97524b80c338b9959e6780?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTG-2.png"
+                },
+                "displayName": "tanumoy ghosh",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "body": {
+                "type": "doc",
+                "version": 1,
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Good to go"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A16506829-3e43-4324-812b-710f925f21f4",
+                "accountId": "712020:16506829-3e43-4324-812b-710f925f21f4",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/e49f43632a97524b80c338b9959e6780?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTG-2.png",
+                  "24x24": "https://secure.gravatar.com/avatar/e49f43632a97524b80c338b9959e6780?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTG-2.png",
+                  "16x16": "https://secure.gravatar.com/avatar/e49f43632a97524b80c338b9959e6780?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTG-2.png",
+                  "32x32": "https://secure.gravatar.com/avatar/e49f43632a97524b80c338b9959e6780?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTG-2.png"
+                },
+                "displayName": "tanumoy ghosh",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "created": "2025-12-22T11:43:56.645+0530",
+              "updated": "2025-12-22T11:43:56.645+0530",
+              "jsdPublic": true
+            }
+          ],
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14542/comment",
-          "maxResults": 0,
-          "total": 0,
+          "maxResults": 1,
+          "total": 1,
           "startAt": 0
         },
         "assignee": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A16506829-3e43-4324-812b-710f925f21f4",
-          "accountId": "712020:16506829-3e43-4324-812b-710f925f21f4",
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3d0d1e55-ab61-4668-a46a-fc40721ae07a",
+          "accountId": "712020:3d0d1e55-ab61-4668-a46a-fc40721ae07a",
           "avatarUrls": {
-            "48x48": "https://secure.gravatar.com/avatar/e49f43632a97524b80c338b9959e6780?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTG-2.png",
-            "24x24": "https://secure.gravatar.com/avatar/e49f43632a97524b80c338b9959e6780?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTG-2.png",
-            "16x16": "https://secure.gravatar.com/avatar/e49f43632a97524b80c338b9959e6780?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTG-2.png",
-            "32x32": "https://secure.gravatar.com/avatar/e49f43632a97524b80c338b9959e6780?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTG-2.png"
+            "48x48": "https://secure.gravatar.com/avatar/4067b0ff6b0ef001cbbbe2fa0b4c144e?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSB-3.png",
+            "24x24": "https://secure.gravatar.com/avatar/4067b0ff6b0ef001cbbbe2fa0b4c144e?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSB-3.png",
+            "16x16": "https://secure.gravatar.com/avatar/4067b0ff6b0ef001cbbbe2fa0b4c144e?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSB-3.png",
+            "32x32": "https://secure.gravatar.com/avatar/4067b0ff6b0ef001cbbbe2fa0b4c144e?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSB-3.png"
           },
-          "displayName": "tanumoy ghosh",
+          "displayName": "Sandip Bhattacharya",
           "active": true,
           "timeZone": "Asia/Calcutta",
           "accountType": "atlassian"
@@ -1282,19 +2221,19 @@
           "total": 0,
           "worklogs": []
         },
-        "updated": "2025-12-08T12:27:39.868+0530",
+        "updated": "2025-12-22T11:43:56.813+0530",
         "status": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10373",
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10372",
           "description": "",
           "iconUrl": "https://idealabprojects.atlassian.net/",
-          "name": "In Review",
-          "id": "10373",
+          "name": "Done",
+          "id": "10372",
           "statusCategory": {
-            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
-            "id": 2,
-            "key": "new",
-            "colorName": "blue-gray",
-            "name": "To Do"
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
           }
         }
       }
@@ -1305,7 +2244,7 @@
       "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14541",
       "key": "BLOG-93",
       "fields": {
-        "statuscategorychangedate": "2025-12-08T12:24:07.441+0530",
+        "statuscategorychangedate": "2025-12-29T13:37:16.037+0530",
         "issuetype": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issuetype/10184",
           "id": "10184",
@@ -1318,7 +2257,7 @@
           "hierarchyLevel": 0
         },
         "components": [],
-        "timespent": null,
+        "timespent": 1200,
         "timeoriginalestimate": null,
         "project": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/project/10157",
@@ -1380,26 +2319,36 @@
         },
         "fixVersions": [],
         "customfield_10033": null,
-        "aggregatetimespent": null,
+        "aggregatetimespent": 1200,
         "statusCategory": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
-          "id": 2,
-          "key": "new",
-          "colorName": "blue-gray",
-          "name": "To Do"
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+          "id": 3,
+          "key": "done",
+          "colorName": "green",
+          "name": "Done"
         },
-        "resolution": null,
-        "timetracking": {},
+        "resolution": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/resolution/10000",
+          "id": "10000",
+          "description": "Work has been completed on this work item.",
+          "name": "Done"
+        },
+        "timetracking": {
+          "remainingEstimate": "0m",
+          "timeSpent": "20m",
+          "remainingEstimateSeconds": 0,
+          "timeSpentSeconds": 1200
+        },
         "customfield_10015": null,
         "security": null,
         "attachment": [],
-        "aggregatetimeestimate": null,
-        "resolutiondate": null,
+        "aggregatetimeestimate": 0,
+        "resolutiondate": "2025-12-29T13:37:16.014+0530",
         "workratio": -1,
         "summary": "Medium Spoke Content - Emergent Micro-Formats: Social Pods, Voice Threads and the Death of Traditional Posts",
         "watches": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/BLOG-93/watchers",
-          "watchCount": 0,
+          "watchCount": 1,
           "isWatching": false
         },
         "lastViewed": null,
@@ -1434,8 +2383,9 @@
           "accountType": "atlassian"
         },
         "aggregateprogress": {
-          "progress": 0,
-          "total": 0
+          "progress": 1200,
+          "total": 1200,
+          "percent": 100
         },
         "priority": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/2",
@@ -1447,13 +2397,14 @@
         "labels": [],
         "environment": null,
         "customfield_10019": "0|i00dbz:",
-        "timeestimate": null,
+        "timeestimate": 0,
         "aggregatetimeoriginalestimate": null,
         "versions": [],
         "duedate": "2025-12-09",
         "progress": {
-          "progress": 0,
-          "total": 0
+          "progress": 1200,
+          "total": 1200,
+          "percent": 100
         },
         "issuelinks": [],
         "votes": {
@@ -1462,22 +2413,73 @@
           "hasVoted": false
         },
         "comment": {
-          "comments": [],
+          "comments": [
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14541/comment/19391",
+              "id": "19391",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A16506829-3e43-4324-812b-710f925f21f4",
+                "accountId": "712020:16506829-3e43-4324-812b-710f925f21f4",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/e49f43632a97524b80c338b9959e6780?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTG-2.png",
+                  "24x24": "https://secure.gravatar.com/avatar/e49f43632a97524b80c338b9959e6780?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTG-2.png",
+                  "16x16": "https://secure.gravatar.com/avatar/e49f43632a97524b80c338b9959e6780?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTG-2.png",
+                  "32x32": "https://secure.gravatar.com/avatar/e49f43632a97524b80c338b9959e6780?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTG-2.png"
+                },
+                "displayName": "tanumoy ghosh",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "body": {
+                "type": "doc",
+                "version": 1,
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Good to go"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A16506829-3e43-4324-812b-710f925f21f4",
+                "accountId": "712020:16506829-3e43-4324-812b-710f925f21f4",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/e49f43632a97524b80c338b9959e6780?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTG-2.png",
+                  "24x24": "https://secure.gravatar.com/avatar/e49f43632a97524b80c338b9959e6780?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTG-2.png",
+                  "16x16": "https://secure.gravatar.com/avatar/e49f43632a97524b80c338b9959e6780?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTG-2.png",
+                  "32x32": "https://secure.gravatar.com/avatar/e49f43632a97524b80c338b9959e6780?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTG-2.png"
+                },
+                "displayName": "tanumoy ghosh",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "created": "2025-12-29T13:36:51.770+0530",
+              "updated": "2025-12-29T13:36:51.770+0530",
+              "jsdPublic": true
+            }
+          ],
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14541/comment",
-          "maxResults": 0,
-          "total": 0,
+          "maxResults": 1,
+          "total": 1,
           "startAt": 0
         },
         "assignee": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A16506829-3e43-4324-812b-710f925f21f4",
-          "accountId": "712020:16506829-3e43-4324-812b-710f925f21f4",
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3d0d1e55-ab61-4668-a46a-fc40721ae07a",
+          "accountId": "712020:3d0d1e55-ab61-4668-a46a-fc40721ae07a",
           "avatarUrls": {
-            "48x48": "https://secure.gravatar.com/avatar/e49f43632a97524b80c338b9959e6780?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTG-2.png",
-            "24x24": "https://secure.gravatar.com/avatar/e49f43632a97524b80c338b9959e6780?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTG-2.png",
-            "16x16": "https://secure.gravatar.com/avatar/e49f43632a97524b80c338b9959e6780?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTG-2.png",
-            "32x32": "https://secure.gravatar.com/avatar/e49f43632a97524b80c338b9959e6780?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTG-2.png"
+            "48x48": "https://secure.gravatar.com/avatar/4067b0ff6b0ef001cbbbe2fa0b4c144e?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSB-3.png",
+            "24x24": "https://secure.gravatar.com/avatar/4067b0ff6b0ef001cbbbe2fa0b4c144e?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSB-3.png",
+            "16x16": "https://secure.gravatar.com/avatar/4067b0ff6b0ef001cbbbe2fa0b4c144e?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSB-3.png",
+            "32x32": "https://secure.gravatar.com/avatar/4067b0ff6b0ef001cbbbe2fa0b4c144e?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSB-3.png"
           },
-          "displayName": "tanumoy ghosh",
+          "displayName": "Sandip Bhattacharya",
           "active": true,
           "timeZone": "Asia/Calcutta",
           "accountType": "atlassian"
@@ -1485,22 +2487,61 @@
         "worklog": {
           "startAt": 0,
           "maxResults": 20,
-          "total": 0,
-          "worklogs": []
+          "total": 1,
+          "worklogs": [
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14541/worklog/13792",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A16506829-3e43-4324-812b-710f925f21f4",
+                "accountId": "712020:16506829-3e43-4324-812b-710f925f21f4",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/e49f43632a97524b80c338b9959e6780?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTG-2.png",
+                  "24x24": "https://secure.gravatar.com/avatar/e49f43632a97524b80c338b9959e6780?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTG-2.png",
+                  "16x16": "https://secure.gravatar.com/avatar/e49f43632a97524b80c338b9959e6780?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTG-2.png",
+                  "32x32": "https://secure.gravatar.com/avatar/e49f43632a97524b80c338b9959e6780?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTG-2.png"
+                },
+                "displayName": "tanumoy ghosh",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A16506829-3e43-4324-812b-710f925f21f4",
+                "accountId": "712020:16506829-3e43-4324-812b-710f925f21f4",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/e49f43632a97524b80c338b9959e6780?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTG-2.png",
+                  "24x24": "https://secure.gravatar.com/avatar/e49f43632a97524b80c338b9959e6780?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTG-2.png",
+                  "16x16": "https://secure.gravatar.com/avatar/e49f43632a97524b80c338b9959e6780?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTG-2.png",
+                  "32x32": "https://secure.gravatar.com/avatar/e49f43632a97524b80c338b9959e6780?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTG-2.png"
+                },
+                "displayName": "tanumoy ghosh",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "created": "2025-12-29T13:37:42.806+0530",
+              "updated": "2025-12-29T13:37:42.806+0530",
+              "started": "2025-12-29T13:17:27.347+0530",
+              "timeSpent": "20m",
+              "timeSpentSeconds": 1200,
+              "id": "13792",
+              "issueId": "14541"
+            }
+          ]
         },
-        "updated": "2025-12-08T12:25:16.267+0530",
+        "updated": "2025-12-29T13:37:42.830+0530",
         "status": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10373",
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10372",
           "description": "",
           "iconUrl": "https://idealabprojects.atlassian.net/",
-          "name": "In Review",
-          "id": "10373",
+          "name": "Done",
+          "id": "10372",
           "statusCategory": {
-            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
-            "id": 2,
-            "key": "new",
-            "colorName": "blue-gray",
-            "name": "To Do"
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
           }
         }
       }
@@ -1511,7 +2552,7 @@
       "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14539",
       "key": "BLOG-92",
       "fields": {
-        "statuscategorychangedate": "2025-12-08T12:01:41.981+0530",
+        "statuscategorychangedate": "2025-12-30T10:58:59.850+0530",
         "issuetype": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issuetype/10184",
           "id": "10184",
@@ -1524,7 +2565,7 @@
           "hierarchyLevel": 0
         },
         "components": [],
-        "timespent": null,
+        "timespent": 3600,
         "timeoriginalestimate": null,
         "project": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/project/10157",
@@ -1586,26 +2627,36 @@
         },
         "fixVersions": [],
         "customfield_10033": null,
-        "aggregatetimespent": null,
+        "aggregatetimespent": 3600,
         "statusCategory": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
-          "id": 2,
-          "key": "new",
-          "colorName": "blue-gray",
-          "name": "To Do"
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+          "id": 3,
+          "key": "done",
+          "colorName": "green",
+          "name": "Done"
         },
-        "resolution": null,
-        "timetracking": {},
+        "resolution": {
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/resolution/10000",
+          "id": "10000",
+          "description": "Work has been completed on this work item.",
+          "name": "Done"
+        },
+        "timetracking": {
+          "remainingEstimate": "0m",
+          "timeSpent": "1h",
+          "remainingEstimateSeconds": 0,
+          "timeSpentSeconds": 3600
+        },
         "customfield_10015": null,
         "security": null,
         "attachment": [],
-        "aggregatetimeestimate": null,
-        "resolutiondate": null,
+        "aggregatetimeestimate": 0,
+        "resolutiondate": "2025-12-30T10:58:59.833+0530",
         "workratio": -1,
         "summary": "Medium Spoke Content - Schema First SEO: Designing Sites for LLMs Before Humans",
         "watches": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/BLOG-92/watchers",
-          "watchCount": 0,
+          "watchCount": 1,
           "isWatching": false
         },
         "lastViewed": null,
@@ -1640,8 +2691,9 @@
           "accountType": "atlassian"
         },
         "aggregateprogress": {
-          "progress": 0,
-          "total": 0
+          "progress": 3600,
+          "total": 3600,
+          "percent": 100
         },
         "priority": {
           "self": "https://idealabprojects.atlassian.net/rest/api/3/priority/2",
@@ -1653,13 +2705,14 @@
         "labels": [],
         "environment": null,
         "customfield_10019": "0|i00dbj:",
-        "timeestimate": null,
+        "timeestimate": 0,
         "aggregatetimeoriginalestimate": null,
         "versions": [],
         "duedate": "2025-12-09",
         "progress": {
-          "progress": 0,
-          "total": 0
+          "progress": 3600,
+          "total": 3600,
+          "percent": 100
         },
         "issuelinks": [],
         "votes": {
@@ -1668,22 +2721,73 @@
           "hasVoted": false
         },
         "comment": {
-          "comments": [],
+          "comments": [
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14539/comment/19429",
+              "id": "19429",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A16506829-3e43-4324-812b-710f925f21f4",
+                "accountId": "712020:16506829-3e43-4324-812b-710f925f21f4",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/e49f43632a97524b80c338b9959e6780?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTG-2.png",
+                  "24x24": "https://secure.gravatar.com/avatar/e49f43632a97524b80c338b9959e6780?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTG-2.png",
+                  "16x16": "https://secure.gravatar.com/avatar/e49f43632a97524b80c338b9959e6780?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTG-2.png",
+                  "32x32": "https://secure.gravatar.com/avatar/e49f43632a97524b80c338b9959e6780?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTG-2.png"
+                },
+                "displayName": "tanumoy ghosh",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "body": {
+                "type": "doc",
+                "version": 1,
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Good to go"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A16506829-3e43-4324-812b-710f925f21f4",
+                "accountId": "712020:16506829-3e43-4324-812b-710f925f21f4",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/e49f43632a97524b80c338b9959e6780?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTG-2.png",
+                  "24x24": "https://secure.gravatar.com/avatar/e49f43632a97524b80c338b9959e6780?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTG-2.png",
+                  "16x16": "https://secure.gravatar.com/avatar/e49f43632a97524b80c338b9959e6780?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTG-2.png",
+                  "32x32": "https://secure.gravatar.com/avatar/e49f43632a97524b80c338b9959e6780?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTG-2.png"
+                },
+                "displayName": "tanumoy ghosh",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "created": "2025-12-30T10:58:45.785+0530",
+              "updated": "2025-12-30T10:58:45.785+0530",
+              "jsdPublic": true
+            }
+          ],
           "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14539/comment",
-          "maxResults": 0,
-          "total": 0,
+          "maxResults": 1,
+          "total": 1,
           "startAt": 0
         },
         "assignee": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A16506829-3e43-4324-812b-710f925f21f4",
-          "accountId": "712020:16506829-3e43-4324-812b-710f925f21f4",
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A3d0d1e55-ab61-4668-a46a-fc40721ae07a",
+          "accountId": "712020:3d0d1e55-ab61-4668-a46a-fc40721ae07a",
           "avatarUrls": {
-            "48x48": "https://secure.gravatar.com/avatar/e49f43632a97524b80c338b9959e6780?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTG-2.png",
-            "24x24": "https://secure.gravatar.com/avatar/e49f43632a97524b80c338b9959e6780?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTG-2.png",
-            "16x16": "https://secure.gravatar.com/avatar/e49f43632a97524b80c338b9959e6780?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTG-2.png",
-            "32x32": "https://secure.gravatar.com/avatar/e49f43632a97524b80c338b9959e6780?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTG-2.png"
+            "48x48": "https://secure.gravatar.com/avatar/4067b0ff6b0ef001cbbbe2fa0b4c144e?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSB-3.png",
+            "24x24": "https://secure.gravatar.com/avatar/4067b0ff6b0ef001cbbbe2fa0b4c144e?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSB-3.png",
+            "16x16": "https://secure.gravatar.com/avatar/4067b0ff6b0ef001cbbbe2fa0b4c144e?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSB-3.png",
+            "32x32": "https://secure.gravatar.com/avatar/4067b0ff6b0ef001cbbbe2fa0b4c144e?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSB-3.png"
           },
-          "displayName": "tanumoy ghosh",
+          "displayName": "Sandip Bhattacharya",
           "active": true,
           "timeZone": "Asia/Calcutta",
           "accountType": "atlassian"
@@ -1691,22 +2795,61 @@
         "worklog": {
           "startAt": 0,
           "maxResults": 20,
-          "total": 0,
-          "worklogs": []
+          "total": 1,
+          "worklogs": [
+            {
+              "self": "https://idealabprojects.atlassian.net/rest/api/3/issue/14539/worklog/13805",
+              "author": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A16506829-3e43-4324-812b-710f925f21f4",
+                "accountId": "712020:16506829-3e43-4324-812b-710f925f21f4",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/e49f43632a97524b80c338b9959e6780?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTG-2.png",
+                  "24x24": "https://secure.gravatar.com/avatar/e49f43632a97524b80c338b9959e6780?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTG-2.png",
+                  "16x16": "https://secure.gravatar.com/avatar/e49f43632a97524b80c338b9959e6780?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTG-2.png",
+                  "32x32": "https://secure.gravatar.com/avatar/e49f43632a97524b80c338b9959e6780?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTG-2.png"
+                },
+                "displayName": "tanumoy ghosh",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "updateAuthor": {
+                "self": "https://idealabprojects.atlassian.net/rest/api/3/user?accountId=712020%3A16506829-3e43-4324-812b-710f925f21f4",
+                "accountId": "712020:16506829-3e43-4324-812b-710f925f21f4",
+                "avatarUrls": {
+                  "48x48": "https://secure.gravatar.com/avatar/e49f43632a97524b80c338b9959e6780?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTG-2.png",
+                  "24x24": "https://secure.gravatar.com/avatar/e49f43632a97524b80c338b9959e6780?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTG-2.png",
+                  "16x16": "https://secure.gravatar.com/avatar/e49f43632a97524b80c338b9959e6780?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTG-2.png",
+                  "32x32": "https://secure.gravatar.com/avatar/e49f43632a97524b80c338b9959e6780?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTG-2.png"
+                },
+                "displayName": "tanumoy ghosh",
+                "active": true,
+                "timeZone": "Asia/Calcutta",
+                "accountType": "atlassian"
+              },
+              "created": "2025-12-30T10:59:48.419+0530",
+              "updated": "2025-12-30T10:59:48.419+0530",
+              "started": "2025-12-30T09:59:24.313+0530",
+              "timeSpent": "1h",
+              "timeSpentSeconds": 3600,
+              "id": "13805",
+              "issueId": "14539"
+            }
+          ]
         },
-        "updated": "2025-12-08T12:22:13.073+0530",
+        "updated": "2025-12-30T10:59:48.431+0530",
         "status": {
-          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10373",
+          "self": "https://idealabprojects.atlassian.net/rest/api/3/status/10372",
           "description": "",
           "iconUrl": "https://idealabprojects.atlassian.net/",
-          "name": "In Review",
-          "id": "10373",
+          "name": "Done",
+          "id": "10372",
           "statusCategory": {
-            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/2",
-            "id": 2,
-            "key": "new",
-            "colorName": "blue-gray",
-            "name": "To Do"
+            "self": "https://idealabprojects.atlassian.net/rest/api/3/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
           }
         }
       }
