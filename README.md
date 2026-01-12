@@ -1,6 +1,6 @@
 # 🤖 AI Scrum Master Agent
 
-![Static Badge](https://img.shields.io/badge/Version_3.1.1-_Web_App_Interface-blue)
+![Static Badge](https://img.shields.io/badge/Version_3.4-_Web_App_Interface-blue)
 
 An intelligent, context-aware AI Scrum Master that analyzes Jira data and helps teams stay productive by providing sprint health insights, standup summaries, workload analysis, and smart task assignment recommendations.
 
@@ -46,7 +46,6 @@ The project is built around three main components:
 - Reads all JSON files from the `JSONs` folder.
 - Converts and inserts the data into a SQLite database `jira_data.db`
 
-
 ### 3. `app.py`
 - Streamlit-based web application.
 - Connects to the SQLite database.
@@ -54,6 +53,19 @@ The project is built around three main components:
 - Convert user questions to SQL
 - Analyze query results
 - Generate natural-language insights
+
+### 4. `query_patterns.py`
+- Made to identify and cater advanced queries like: *list me all the stuck tickets*.
+- Currently developed only to cater stuck tickets but more functionalities can be added in future.
+
+
+### 1'. `main.py`
+- The program made to run all the 3 files mentioned above using 'nohup'.
+- Fetching Data occurs at intervals of every 6hrs.
+
+### 2'. `main_for_server.py`
+- Built for the ssh server so that the functionality of 'main.py' can be achieved by initilisation using 'pm2'.
+
 
 
 ## 🧠 How It Works
