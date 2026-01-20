@@ -592,13 +592,13 @@ def format_advanced_standup_response(results_df, project_key: str) -> str:
     for df in [completed, working, blockers, inactive]:
         all_devs.update(df['label'].unique())
     
-    response = f"# 📋 Advanced Standup Summary for {project_key}\n\n"
+    response = f"### 📋 Advanced Standup Summary for {project_key}\n\n"
     
     # Per-developer standup
-    response += "## Team Member Updates\n\n"
+    response += "#### Team Member Updates\n\n"
     
     for dev in sorted(all_devs):
-        response += f"### 👤 Developer: {dev}\n\n"
+        response += f"👤 Developer: {dev}\n\n"
         
         # Yesterday
         dev_completed = completed[completed['label'] == dev]
@@ -631,13 +631,13 @@ def format_advanced_standup_response(results_df, project_key: str) -> str:
     
     # Inactive developers
     if len(inactive) > 0:
-        response += "## ⚠️ Inactive Developers\n\n"
+        response += "#### ⚠️ Inactive Developers\n\n"
         for _, row in inactive.iterrows():
             response += f"- **{row['label']}**: No updates for {int(row['count'])} days\n"
         response += "\n"
     
     # Summary
-    response += "## Summary\n\n"
+    response += "#### Summary\n\n"
     response += f"- **Active developers**: {len(all_devs) - len(inactive)}\n"
     response += f"- **Tasks completed yesterday**: {len(completed)}\n"
     response += f"- **Tasks in progress**: {len(working)}\n"

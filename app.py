@@ -838,7 +838,7 @@ def main():
         st.markdown("## 🤖 AI Scrum Master Agent")
     with col2:
         st.markdown(
-            "<p style='text-align: right; font-size: 20px; margin-top: 18px;'><b>Version 3.4.1</b></p>",
+            "<p style='text-align: right; font-size: 20px; margin-top: 18px;'><b>Version 3.4.2</b></p>",
             unsafe_allow_html=True
         )
     st.markdown("*Your intelligent Agile assistant with context-aware reasoning*")
@@ -1171,13 +1171,19 @@ def main():
                                     formatted_response = format_advanced_health_response(results_df, project_key)
                                 elif query_type == "advanced_standup":
                                     formatted_response = format_advanced_standup_response(results_df, project_key)
+
+                                # FIX: Convert DataFrame to string type BEFORE creating output
+                                # This prevents Arrow serialization errors with mixed types
+                                results_df_clean = results_df.copy()
+                                for col in results_df_clean.columns:
+                                    results_df_clean[col] = results_df_clean[col].astype(str)
                                 
                                 # Create output object
                                 output = ScrumMasterOutput(
                                     query_type=query_type,
                                     analysis=formatted_response,
                                     sql_query=sql_query,
-                                    structured_data=results_df.to_dict('records'),
+                                    structured_data=results_df_clean.to_dict('records'),
                                     recommendations=["Review the key risks and take immediate actions as suggested"]
                                 )
                                 
@@ -1202,8 +1208,14 @@ def main():
                             with st.expander("🔍 View SQL Query & Data"):
                                 st.code(output.sql_query, language="sql")
                                 if output.structured_data:
-                                    st.dataframe(pd.DataFrame(output.structured_data), width='content')
-                        
+                                    # Convert structured data to DataFrame and fix data types
+                                    display_df = pd.DataFrame(output.structured_data)
+                                    
+                                    # Convert all columns to string for consistent display (avoids Arrow serialization issues)
+                                    display_df = display_df.astype(str)
+                                    
+                                    st.dataframe(display_df, width='content')
+
                         # Save to history
                         st.session_state.messages.append({
                             "role": "assistant",

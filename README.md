@@ -1,6 +1,6 @@
 # 🤖 AI Scrum Master Agent
 
-![Static Badge](https://img.shields.io/badge/Version_3.4.1-_Web_App_Interface-blue)
+![Static Badge](https://img.shields.io/badge/Version_3.4.2-_Web_App_Interface-blue)
 
 An intelligent, context-aware AI Scrum Master that analyzes Jira data and helps teams stay productive by providing sprint health insights, standup summaries, workload analysis, and smart task assignment recommendations.
 
