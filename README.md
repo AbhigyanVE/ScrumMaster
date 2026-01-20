@@ -1,6 +1,6 @@
 # 🤖 AI Scrum Master Agent
 
-![Static Badge](https://img.shields.io/badge/Version_3.4.2-_Web_App_Interface-blue)
+![Static Badge](https://img.shields.io/badge/Version_3.4.2-_Advanced_Trigger-blue)
 
 An intelligent, context-aware AI Scrum Master that analyzes Jira data and helps teams stay productive by providing sprint health insights, standup summaries, workload analysis, and smart task assignment recommendations.
 
@@ -126,6 +126,19 @@ Then open the local URL shown in your browser (usually http://localhost:8501).
 ---
 
 <br>
+
+## 📘 Documentation
+
+📄 Detailed release history is available here:  
+[AI Scrum Master – Document Release Notes](docs/AI_Scrum_Master_Release_Notes.odt)
+
+[CHANGELOG - for Developers](docs\CHANGELOG.md)
+
+
+Please Refer to this [URL](
+https://github.com/AbhigyanVE/ScrumMaster/tree/e974d173eea65547b12ddedcb0381600be8ecc6a/Generate%20Release%20Notes) to generate the `README` Notes from the Git Commits `git commit -m "Version X" -m "Improvements or Notes related to the Version X". 
+> *Please Note that it will Clone the Repository as well so use carefully*
+
 
 ## Notes
 ### CURRENTLY IN DEVELOPMENT PHASE
