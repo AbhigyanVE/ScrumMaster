@@ -1,6 +1,6 @@
 # 🤖 AI Scrum Master Agent
 
-![Static Badge](https://img.shields.io/badge/Version_3.4-_Web_App_Interface-blue)
+![Static Badge](https://img.shields.io/badge/Version_3.4.1-_Web_App_Interface-blue)
 
 An intelligent, context-aware AI Scrum Master that analyzes Jira data and helps teams stay productive by providing sprint health insights, standup summaries, workload analysis, and smart task assignment recommendations.
 
@@ -56,7 +56,7 @@ The project is built around three main components:
 
 ### 4. `query_patterns.py`
 - Made to identify and cater advanced queries like: *list me all the stuck tickets*.
-- Currently developed only to cater stuck tickets but more functionalities can be added in future.
+- Currently developed only to cater stuck tickets and advanced project health reports but more functionalities can be added in future.
 
 
 ### 1'. `main.py`
@@ -72,17 +72,17 @@ The project is built around three main components:
 
 1. User asks a question in natural language.
 2. The system classifies the query type:
- - Health
- - Standup
- - Assignment
- - List
- - General
+    - Health
+    - Standup
+    - Assignment
+    - List
+    - General
 3. OpenAI converts the question into a **SQLite SQL query**.
 4. The query is executed on `jira_data.db`.
 5. Results are passed back to the AI for:
- - Analysis
- - Recommendations
- - Structured formatting
+    - Analysis
+    - Recommendations
+    - Structured formatting
 6. Conversation context is stored per session and reused when needed.
 
 <br>

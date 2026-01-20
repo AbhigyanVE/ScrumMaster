@@ -228,6 +228,134 @@ class SmartQueryPatterns:
             """,
             requires_date=False
         ))
+        
+        # ============================================================
+        # ADVANCED HEALTH ANALYSIS PATTERN
+        # ============================================================
+        
+        # Pattern 10: Advanced health report
+        self.patterns.append(QueryPattern(
+            pattern=re.compile(r"advanced.*health|health.*advanced", re.IGNORECASE),
+            description="Comprehensive health analysis with at-risk tickets, workload, and assignments",
+            sql_template="""
+                -- Status distribution
+                SELECT 'status' as section, status as label, COUNT(*) as count, NULL as detail1, NULL as detail2, NULL as detail3
+                FROM issues 
+                WHERE project_key = '{project_key}'
+                GROUP BY status
+                
+                UNION ALL
+                
+                -- At-risk tickets (stale in progress)
+                SELECT 'at_risk_stale' as section, issue_key as label, 
+                       CAST(julianday('now') - julianday(updated) as INTEGER) as count,
+                       status as detail1, assignee as detail2, summary as detail3
+                FROM issues
+                WHERE project_key = '{project_key}'
+                AND status IN ('In Progress', 'In Review')
+                AND julianday('now') - julianday(updated) > 7
+                
+                UNION ALL
+                
+                -- At-risk tickets (unassigned high priority)
+                SELECT 'at_risk_unassigned' as section, issue_key as label, 
+                       0 as count, priority as detail1, status as detail2, summary as detail3
+                FROM issues
+                WHERE project_key = '{project_key}'
+                AND assignee = 'Unassigned'
+                AND priority IN ('High', 'Critical')
+                AND status NOT IN ('Done', 'Closed')
+                
+                UNION ALL
+                
+                -- Blocked tickets
+                SELECT 'at_risk_blocked' as section, issue_key as label,
+                       0 as count, status as detail1, assignee as detail2, summary as detail3
+                FROM issues
+                WHERE project_key = '{project_key}'
+                AND status = 'Blocked'
+                
+                UNION ALL
+                
+                -- Workload distribution
+                SELECT 'workload' as section, assignee as label, COUNT(*) as count,
+                       NULL as detail1, NULL as detail2, NULL as detail3
+                FROM issues
+                WHERE project_key = '{project_key}'
+                AND status NOT IN ('Done', 'Closed', 'Cancelled')
+                AND assignee != 'Unassigned'
+                GROUP BY assignee
+                
+                UNION ALL
+                
+                -- Recent activity per developer
+                SELECT 'recent_activity' as section, assignee as label,
+                       COUNT(*) as count, NULL as detail1, NULL as detail2, NULL as detail3
+                FROM issues
+                WHERE project_key = '{project_key}'
+                AND julianday('now') - julianday(updated) <= 1
+                AND assignee != 'Unassigned'
+                GROUP BY assignee
+                
+                ORDER BY section, count DESC;
+            """,
+            requires_date=False
+        ))
+        
+        # ============================================================
+        # ADVANCED STANDUP SUMMARY PATTERN
+        # ============================================================
+        
+        # Pattern 11: Advanced standup summary
+        self.patterns.append(QueryPattern(
+            pattern=re.compile(r"advanced.*standup|standup.*advanced", re.IGNORECASE),
+            description="Detailed standup with per-developer status and blockers",
+            sql_template="""
+                -- Completed yesterday (updated in last 24h and Done)
+                SELECT 'completed_yesterday' as section, assignee as label, issue_key as count,
+                       summary as detail1, updated as detail2, NULL as detail3
+                FROM issues
+                WHERE project_key = '{project_key}'
+                AND status = 'Done'
+                AND julianday('now') - julianday(updated) <= 1
+                AND assignee != 'Unassigned'
+                
+                UNION ALL
+                
+                -- Working today (In Progress)
+                SELECT 'working_today' as section, assignee as label, issue_key as count,
+                       summary as detail1, status as detail2, NULL as detail3
+                FROM issues
+                WHERE project_key = '{project_key}'
+                AND status IN ('In Progress', 'In Review')
+                AND assignee != 'Unassigned'
+                
+                UNION ALL
+                
+                -- Blockers per developer
+                SELECT 'blockers' as section, assignee as label, issue_key as count,
+                       summary as detail1, 'Blocked' as detail2, description as detail3
+                FROM issues
+                WHERE project_key = '{project_key}'
+                AND status = 'Blocked'
+                AND assignee != 'Unassigned'
+                
+                UNION ALL
+                
+                -- Inactive developers (no updates in 7+ days)
+                SELECT 'inactive' as section, assignee as label, 
+                       CAST(julianday('now') - julianday(MAX(updated)) as INTEGER) as count,
+                       NULL as detail1, NULL as detail2, NULL as detail3
+                FROM issues
+                WHERE project_key = '{project_key}'
+                AND assignee != 'Unassigned'
+                GROUP BY assignee
+                HAVING julianday('now') - julianday(MAX(updated)) > 7
+                
+                ORDER BY section, label;
+            """,
+            requires_date=False
+        ))
     
     def find_matching_pattern(self, query: str) -> tuple:
         """
@@ -308,6 +436,217 @@ def get_pattern_suggestions(query: str) -> list:
         suggestions.append("Try: 'show me blocked issues'")
     
     return suggestions
+
+
+def format_advanced_health_response(results_df, project_key: str) -> str:
+    """
+    Format advanced health analysis into structured report
+    """
+    # Organize data by section
+    status_data = results_df[results_df['section'] == 'status']
+    at_risk_stale = results_df[results_df['section'] == 'at_risk_stale']
+    at_risk_unassigned = results_df[results_df['section'] == 'at_risk_unassigned']
+    at_risk_blocked = results_df[results_df['section'] == 'at_risk_blocked']
+    workload_data = results_df[results_df['section'] == 'workload']
+    
+    # Calculate health score
+    total_at_risk = len(at_risk_stale) + len(at_risk_unassigned) + len(at_risk_blocked)
+    if total_at_risk == 0:
+        health_score = "✅ GOOD"
+    elif total_at_risk <= 3:
+        health_score = "⚠️ WARNING"
+    else:
+        health_score = "🚨 CRITICAL"
+    
+    # Build response
+    response = f"### 📊 Advanced Health Analysis for {project_key}\n\n"
+    
+    # Sprint Health Report
+    response += "#### Sprint Health Report\n\n"
+    response += "**Ticket Counts:**\n"
+    for _, row in status_data.iterrows():
+        response += f"- **{row['label']}**: {int(row['count'])}\n"
+    
+    # At-Risk Tickets
+    response += "\n**At-Risk Tickets:**\n"
+    if total_at_risk == 0:
+        response += "- ✅ No at-risk tickets identified\n"
+    else:
+        # Stale tickets
+        for _, row in at_risk_stale.iterrows():
+            response += f"- **{row['label']}**: {row['detail3'][:50]}... – Stuck in {row['detail1']} for {int(row['count'])} days (Assignee: {row['detail2']})\n"
+        
+        # Unassigned high priority
+        for _, row in at_risk_unassigned.iterrows():
+            response += f"- **{row['label']}**: {row['detail3'][:50]}... – Unassigned {row['detail1']} priority\n"
+        
+        # Blocked
+        for _, row in at_risk_blocked.iterrows():
+            response += f"- **{row['label']}**: {row['detail3'][:50]}... – Blocked (Assignee: {row['detail2']})\n"
+    
+    response += f"\n**Health Score**: {health_score}\n\n"
+    
+    # Workload Distribution
+    response += "#### Workload Distribution\n\n"
+    if len(workload_data) > 0:
+        for _, row in workload_data.iterrows():
+            workload = int(row['count'])
+            if workload > 10:
+                emoji = "🔴"
+            elif workload > 5:
+                emoji = "🟡"
+            else:
+                emoji = "🟢"
+            response += f"{emoji} **{row['label']}**: {workload} active tasks\n"
+    else:
+        response += "No active workload data available.\n"
+    
+    # Assignment Suggestions
+    response += "\n#### Assignment Suggestions\n\n"
+    if len(workload_data) >= 2:
+        # Find overloaded and underloaded
+        workload_sorted = workload_data.sort_values('count', ascending=False)
+        overloaded = workload_sorted.iloc[0] if len(workload_sorted) > 0 else None
+        underloaded = workload_sorted.iloc[-1] if len(workload_sorted) > 0 else None
+        
+        if overloaded is not None and underloaded is not None and overloaded['count'] - underloaded['count'] > 3:
+            response += f"1. **Rebalance workload**\n"
+            response += f"   - From: {overloaded['label']} ({int(overloaded['count'])} tasks)\n"
+            response += f"   - To: {underloaded['label']} ({int(underloaded['count'])} tasks)\n"
+            response += f"   - Reason: Significant workload imbalance\n"
+            response += f"   - Expected Impact: Improved team velocity\n\n"
+    
+    # Handle unassigned
+    if len(at_risk_unassigned) > 0:
+        response += f"2. **Assign high-priority unassigned tickets**\n"
+        for idx, row in at_risk_unassigned.iterrows():
+            response += f"   - Issue: {row['label']}\n"
+            response += f"   - Priority: {row['detail1']}\n"
+            response += f"   - Expected Impact: Risk reduction\n\n"
+    
+    if len(workload_data) < 2 and len(at_risk_unassigned) == 0:
+        response += "No immediate reassignment needed.\n"
+    
+    # Executive Summary
+    response += "\n#### Executive Summary\n\n"
+    
+    # Overall status
+    overload_count = len(workload_data[workload_data['count'] > 10])
+    unassigned_count = len(at_risk_unassigned)
+    
+    if overload_count == 0 and unassigned_count == 0 and total_at_risk == 0:
+        overall_status = "✅ GOOD"
+    elif overload_count > 0 or unassigned_count > 0 or total_at_risk <= 3:
+        overall_status = "⚠️ WARNING"
+    else:
+        overall_status = "🚨 CRITICAL"
+    
+    response += f"**Overall Sprint Status**: {overall_status}\n\n"
+    
+    # Key Risks
+    response += "**Key Risks:**\n"
+    if total_at_risk > 0:
+        if len(at_risk_stale) > 0:
+            response += f"- {len(at_risk_stale)} ticket(s) stalled beyond acceptable thresholds\n"
+        if len(at_risk_unassigned) > 0:
+            response += f"- {len(at_risk_unassigned)} high-priority unassigned issue(s)\n"
+        if len(at_risk_blocked) > 0:
+            response += f"- {len(at_risk_blocked)} blocked ticket(s)\n"
+        if overload_count > 0:
+            response += f"- {overload_count} team member(s) overloaded\n"
+    else:
+        response += "- ✅ No significant risks identified\n"
+    
+    # Immediate Actions
+    response += "\n**Immediate Actions:**\n"
+    if total_at_risk > 0 or overload_count > 0:
+        if overload_count > 0:
+            response += "- Rebalance workload to prevent burnout\n"
+        if len(at_risk_unassigned) > 0:
+            response += "- Assign owners to high-priority unassigned tickets immediately\n"
+        if len(at_risk_blocked) > 0:
+            response += "- Resolve dependencies blocking progress\n"
+        if len(at_risk_stale) > 0:
+            response += "- Review and unstick stalled tickets\n"
+    else:
+        response += "- ✅ Maintain current momentum\n"
+        response += "- Continue monitoring for emerging risks\n"
+    
+    return response
+
+
+def format_advanced_standup_response(results_df, project_key: str) -> str:
+    """
+    Format advanced standup analysis into structured report
+    """
+    import pandas as pd
+    
+    # Organize data by section
+    completed = results_df[results_df['section'] == 'completed_yesterday']
+    working = results_df[results_df['section'] == 'working_today']
+    blockers = results_df[results_df['section'] == 'blockers']
+    inactive = results_df[results_df['section'] == 'inactive']
+    
+    # Get unique developers
+    all_devs = set()
+    for df in [completed, working, blockers, inactive]:
+        all_devs.update(df['label'].unique())
+    
+    response = f"# 📋 Advanced Standup Summary for {project_key}\n\n"
+    
+    # Per-developer standup
+    response += "## Team Member Updates\n\n"
+    
+    for dev in sorted(all_devs):
+        response += f"### 👤 Developer: {dev}\n\n"
+        
+        # Yesterday
+        dev_completed = completed[completed['label'] == dev]
+        response += "**Yesterday:**\n"
+        if len(dev_completed) > 0:
+            for _, row in dev_completed.iterrows():
+                response += f"- ✅ Completed **{row['count']}**: {row['detail1'][:60]}...\n"
+        else:
+            response += "- No completed tasks recorded\n"
+        
+        # Today
+        dev_working = working[working['label'] == dev]
+        response += "\n**Today:**\n"
+        if len(dev_working) > 0:
+            for _, row in dev_working.iterrows():
+                response += f"- 🔨 Working on **{row['count']}**: {row['detail1'][:60]}...\n"
+        else:
+            response += "- No active In Progress tickets\n"
+        
+        # Blockers
+        dev_blockers = blockers[blockers['label'] == dev]
+        response += "\n**Blockers:**\n"
+        if len(dev_blockers) > 0:
+            for _, row in dev_blockers.iterrows():
+                response += f"- ⚠️ **{row['count']}** is blocked: {row['detail1'][:60]}...\n"
+        else:
+            response += "- None\n"
+        
+        response += "\n---\n\n"
+    
+    # Inactive developers
+    if len(inactive) > 0:
+        response += "## ⚠️ Inactive Developers\n\n"
+        for _, row in inactive.iterrows():
+            response += f"- **{row['label']}**: No updates for {int(row['count'])} days\n"
+        response += "\n"
+    
+    # Summary
+    response += "## Summary\n\n"
+    response += f"- **Active developers**: {len(all_devs) - len(inactive)}\n"
+    response += f"- **Tasks completed yesterday**: {len(completed)}\n"
+    response += f"- **Tasks in progress**: {len(working)}\n"
+    response += f"- **Blocked tasks**: {len(blockers)}\n"
+    
+    if len(blockers) > 0:
+        response += f"\n⚠️ **Action Required**: {len(blockers)} blocker(s) need immediate attention\n"
+    
+    return response
 
 
 # ============================================================

@@ -609,6 +609,13 @@ def classify_query_type(question: str) -> str:
     if any(greeting == question_lower.strip() or question_lower.strip().startswith(greeting + " ") for greeting in greetings):
         return "greeting"
     
+    # Check for ADVANCED queries (special handling)
+    if "advanced" in question_lower:
+        if "health" in question_lower:
+            return "advanced_health"
+        elif "standup" in question_lower:
+            return "advanced_standup"
+        
     # Check for evaluation queries (needs special handling)
     if any(word in question_lower for word in ["is this correct", "is this a correct", "feasible", "realistic", "assess", "reasonable deadline", "evaluate deadline", "deadline correct"]):
         return "evaluation"
@@ -831,7 +838,7 @@ def main():
         st.markdown("## 🤖 AI Scrum Master Agent")
     with col2:
         st.markdown(
-            "<p style='text-align: right; font-size: 20px; margin-top: 18px;'><b>Version 3.4</b></p>",
+            "<p style='text-align: right; font-size: 20px; margin-top: 18px;'><b>Version 3.4.1</b></p>",
             unsafe_allow_html=True
         )
     st.markdown("*Your intelligent Agile assistant with context-aware reasoning*")
@@ -1130,6 +1137,9 @@ def main():
                 
                 # Normal query processing (not evaluation)
                 else:
+                    # Check if this is an advanced query
+                    is_advanced = query_type in ["advanced_health", "advanced_standup"]
+                    
                     # Check if query uses smart pattern
                     has_pattern, _, pattern_desc = check_smart_pattern(prompt)
                     
@@ -1137,6 +1147,8 @@ def main():
                         # Show smart pattern indicator
                         if has_pattern:
                             st.info(f"🎯 Using optimized query pattern: {pattern_desc}")
+                        elif is_advanced:
+                            st.info(f"🚀 Generating comprehensive advanced analysis...")
                         
                         # Generate SQL
                         sql_query = generate_sql_from_question(prompt, query_type)
@@ -1149,8 +1161,32 @@ def main():
                             st.error(f"Query Error: {error}")
                             st.code(sql_query, language="sql")
                         else:
-                            # Generate structured response
-                            output = generate_structured_response(prompt, query_type, sql_query, results_df)
+                            # Handle advanced queries with custom formatting
+                            if is_advanced and results_df is not None and not results_df.empty:
+                                # Extract project key from query
+                                project_match = re.search(r'\b([A-Z]{2,10})\b', prompt)
+                                project_key = project_match.group(1) if project_match else "Unknown"
+                                
+                                if query_type == "advanced_health":
+                                    formatted_response = format_advanced_health_response(results_df, project_key)
+                                elif query_type == "advanced_standup":
+                                    formatted_response = format_advanced_standup_response(results_df, project_key)
+                                
+                                # Create output object
+                                output = ScrumMasterOutput(
+                                    query_type=query_type,
+                                    analysis=formatted_response,
+                                    sql_query=sql_query,
+                                    structured_data=results_df.to_dict('records'),
+                                    recommendations=["Review the key risks and take immediate actions as suggested"]
+                                )
+                                
+                                # Add to context
+                                ContextManager.add_to_context(prompt, formatted_response, sql_query)
+                            else:
+                                # Regular response generation
+                                # Generate structured response
+                                output = generate_structured_response(prompt, query_type, sql_query, results_df)
                         
                         # Display analysis
                         st.markdown(output.analysis)
